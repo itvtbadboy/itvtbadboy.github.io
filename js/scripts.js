@@ -371,13 +371,6 @@ function initTowhub() {
     setInterval(function () {
         heroAnim();
     }, 2000);
-    $(".lang-action li a").on('click', function (e) {
-        e.preventDefault();
-        var thdatlantext = $(this).data("lantext");
-        $(".lang-action li a").removeClass("current-lan");
-        $(this).addClass("current-lan");
-        $(".show-lang span strong").text(thdatlantext);
-    });
     $(".category-carousel-item").on("click", function (e) {
         e.preventDefault();
         $(this).toggleClass("checket-cat");
