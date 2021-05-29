@@ -456,7 +456,7 @@
                                     </div>                                                                             
                                 </div>
                             </div>
-                            <a class="btn dec_btn color2-bg" title="tìm hiệu ứng seo web">Hiệu ứng<i class="fal fa-arrow-alt-right"></i></a>
+                            <a class="btn dec_btn color2-bg" title="tìm hiệu ứng seo web">Seo web<i class="fal fa-arrow-alt-right"></i></a>
                         </div>
                     </section>
 
@@ -520,6 +520,11 @@
 							$('#video-giaiphapbootstrapamthuc').responsivegallery()
 							$('#video-giaiphapbootstrapdulich').responsivegallery()
 							$('#video-giaiphapbootstrapbanle').responsivegallery()
+							$('#video-giaiphapbootstrapungdung').responsivegallery()
+							$('#video-giaitrinhachoa').responsivegallery()
+							$('#video-giaitrinhachoatau').responsivegallery()
+							$('#video-giaitrinhactre').responsivegallery()
+							$('#video-giaitrinhacquocte').responsivegallery()
 						})
 					</script>
                     <section id="giaiphapthuongmai">
@@ -535,7 +540,7 @@
                                 <a href="#" class="gallery-filter" data-filter=".bootstrap">Bootstrap</a>
                                 <a href="#" class="gallery-filter" data-filter=".seoweb">Seo web</a>
                                 <a href="#" class="gallery-filter" data-filter=".parrot">Bảo mật</a>
-                                <a href="#" class="gallery-filter" data-filter=".nhacmp3">Giải trí</a>
+                                <a href="#" class="gallery-filter" data-filter=".giaitri">Giải trí</a>
                             </div>
                             <div class="grid-item-holder gallery-items fl-wrap">
                                 <div class="gallery-item bootstrap" id="giaiphapbootstrapamthuc" itemscope itemtype="https://schema.org/Movie">
@@ -595,7 +600,7 @@
                                                             <li><a class="show_gcc"><i class="fal fa-envelope"></i><span class="geodir-opt-tooltip">Liên hệ</span></a></li>
                                                             <li>
 																<a href="https://thuongmaitructuyenbrvt.business.site/posts/5834481277234438543" target="_blank" class="single-map-item" data-newlatitude="10.5108216" data-newlongitude="107.1894638">
-																	<i class="fal fa-map-marker-alt"></i><span class="geodir-opt-tooltip"><strong>Ẩm thực</strong> business</span>
+																	<i class="fal fa-map-marker-alt"></i><span class="geodir-opt-tooltip"><strong>Ẩm thực</strong></span>
 																</a>
 															</li>
                                                             <li>
@@ -687,7 +692,7 @@
                                                             <li><a class="show_gcc"><i class="fal fa-envelope"></i><span class="geodir-opt-tooltip">Liên hệ</span></a></li>
                                                             <li>
 																<a href="https://thuongmaitructuyenbrvt.business.site/posts/1299046790002037733" target="_blank" class="single-map-item" data-newlatitude="10.5108216" data-newlongitude="107.1894638">
-																	<i class="fal fa-map-marker-alt"></i><span class="geodir-opt-tooltip"><strong>Du lịch</strong> business</span>
+																	<i class="fal fa-map-marker-alt"></i><span class="geodir-opt-tooltip"><strong>Du lịch</strong></span>
 																</a>
 															</li>
                                                             <li>
@@ -721,8 +726,8 @@
                                     </div>
                                     <!-- listing-item end -->  
                                 </div>
-                                <!-- gallery-item  end-->         
-                                <!-- gallery-item  -->
+                                <!-- gallery-item end-->        
+                                <!-- gallery-item -->
                                 <div class="gallery-item bootstrap" id="giaiphapbootstrapbanle" itemscope itemtype="https://schema.org/Movie">
                                     <!-- listing-item  -->
                                     <div class="listing-item">
@@ -732,7 +737,7 @@
 													<i class="fa fa-youtube"></i><a href="https://www.youtube.com/watch?v=RMdUgLC2W5o" target="_blank" title="giải pháp bootstrap bán lẻ"><span itemprop="dateCreated">Oct 13, 2020</span></a>
 												</div>
                                                 <a class="geodir-category-img-wrap fl-wrap">
-													<img itemprop="image" src="https://www.mediafire.com/convkey/c6bd/w8gbapoqbjj52i96g.jpg" alt="giai phap bootstrap am thuc">
+													<img itemprop="image" src="https://www.mediafire.com/convkey/c6bd/w8gbapoqbjj52i96g.jpg" alt="giai phap bootstrap ban le">
                                                 </a>
                                                 <div class="listing-avatar">
 													<a href="https://www.google.com/search?q=itvtbadboy" target="_blank" title="khương itvtbadboy">
@@ -781,7 +786,7 @@
                                                             <li><a class="show_gcc"><i class="fal fa-envelope"></i><span class="geodir-opt-tooltip">Liên hệ</span></a></li>
                                                             <li>
 																<a href="https://thuongmaitructuyenbrvt.business.site/posts/8849819556831323298" target="_blank" class="single-map-item" data-newlatitude="10.5108216" data-newlongitude="107.1894638">
-																	<i class="fal fa-map-marker-alt"></i><span class="geodir-opt-tooltip"><strong>Bán lẻ</strong> business</span>
+																	<i class="fal fa-map-marker-alt"></i><span class="geodir-opt-tooltip"><strong>Bán lẻ</strong></span>
 																</a>
 															</li>
                                                             <li>
@@ -814,72 +819,90 @@
                                     </div>
                                     <!-- listing-item end -->                                   
                                 </div>
-                                <!-- gallery-item  end-->  
-                                <!-- gallery-item  -->
-                                <div class="gallery-item hotels">
+                                <!-- gallery-item end--> 
+                                <!-- gallery-item -->
+                                <div class="gallery-item bootstrap" id="giaiphapbootstrapungdung" itemscope itemtype="https://schema.org/Movie">
                                     <!-- listing-item  -->
-                                    <div id="monteplazahotel" class="listing-item">
+                                    <div class="listing-item">
                                         <article class="geodir-category-listing fl-wrap">
                                             <div class="geodir-category-img">
-                                                <div class="geodir-js-favorite_btn"><i class="fal fa-heart"></i><span>Save</span></div>
-                                                <a href="listing-single.html" class="geodir-category-img-wrap fl-wrap">
-                                                <img src="images/all/16.jpg" alt=""> 
+                                                <div class="geodir-js-favorite_btn">
+													<i class="fa fa-youtube"></i><a href="https://www.youtube.com/watch?v=jLE48Whhrg0" target="_blank" title="giải pháp bootstrap ứng dụng"><span itemprop="dateCreated">Oct 13, 2020</span></a>
+												</div>
+                                                <a class="geodir-category-img-wrap fl-wrap">
+													<img itemprop="image" src="https://www.mediafire.com/convkey/f5d8/a84kbltd9aqikzw6g.jpg" alt="giai phap bootstrap ung dung"> 
                                                 </a>
-                                                <div class="listing-avatar"><a href="author-single.html"><img src="images/avatar/3.jpg" alt=""></a>
-                                                    <span class="avatar-tooltip">Added By  <strong>Kliff Antony</strong></span>
+                                                <div class="listing-avatar">
+													<a href="https://www.google.com/search?q=itvtbadboy" target="_blank" title="khương itvtbadboy">
+														<img src="https://www.mediafire.com/convkey/5ab8/u5f4886rjjtony56g.jpg" alt="khuong itvtbadoy">
+													</a>
+                                                    <span class="avatar-tooltip" itemprop="director" itemscope itemtype="https://schema.org/Person"><strong itemprop="name">khương itvtbadboy</strong></span>
                                                 </div>
-                                                <div class="geodir_status_date gsd_open"><i class="fal fa-lock-open"></i>Open Now</div>
+                                                <div class="geodir_status_date gsd_open">
+													<i class="fal fa-lock-open"></i><a style="color: white;" href="https://themeforest.net/item/sapp-app-landing-page/25639706" target="_blank" title="mã nguồn bootstrap ứng dụng">Nguồn</a>
+												</div>
                                                 <div class="geodir-category-opt">
-                                                    <div class="listing-rating-count-wrap">
-                                                        <div class="review-score">5.0</div>
-                                                        <div class="listing-rating card-popup-rainingvis" data-starrating2="5"></div>
-                                                        <br>                                                
-                                                        <div class="reviews-count">4 reviews</div>
+                                                    <div class="listing-rating-count-wrap" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+														<div class="review-score" itemprop="ratingValue">5</div>
+														<div class="listing-rating card-popup-rainingvis" data-starrating2="5"></div>
+														<br><div class="reviews-count" itemprop="ratingCount" content="5">đánh giá 5</div>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="geodir-category-content fl-wrap title-sin_item">
                                                 <div class="geodir-category-content-title fl-wrap">
                                                     <div class="geodir-category-content-title-item">
-                                                        <h3 class="title-sin_map"><a href="listing-single.html">MontePlaza Hotel</a><span class="verified-badge"><i class="fal fa-check"></i></span></h3>
-                                                        <div class="geodir-category-location fl-wrap"><a href="#"><i class="fas fa-map-marker-alt"></i>  70 Bright St New York, USA</a></div>
+                                                        <h3 class="title-sin_map" itemprop="name"><a id="video-giaiphapbootstrapungdung" href="https://www.youtube.com/embed/jLE48Whhrg0" title="Web ứng dụng một mã nguồn chuẩn seo mạnh mẽ nhưng dễ sử dụng với khả năng tùy biến giải pháp cao">Bootstrap ứng dụng</a><span class="verified-badge"><i class="fal fa-check"></i></span></h3>
+                                                        <div class="geodir-category-location fl-wrap"><a title="tài nguyên bootstrap ứng dụng"><i class="fas fa-shopping-cart"></i>  Điện máy - Tài chính</a></div>
                                                     </div>
                                                 </div>
                                                 <div class="geodir-category-text fl-wrap">
-                                                    <p style="font-size:15px;">Sed interdum metus at nisi tempor laoreet. Integer gravida orci a justo sodales.</p>
+                                                    <p style="font-size:15px;">Web ứng dụng một mã nguồn chuẩn seo mạnh mẽ nhưng dễ sử dụng với khả năng tùy biến giải pháp cao</p>
                                                     <div class="facilities-list fl-wrap">
-                                                        <div class="facilities-list-title">Facilities : </div>
+                                                        <div class="facilities-list-title">Tính năng: </div>
                                                         <ul class="no-list-style">
-                                                            <li class="tolt"  data-microtip-position="top" data-tooltip="Free WiFi"><i class="fal fa-wifi"></i></li>
-                                                            <li class="tolt"  data-microtip-position="top" data-tooltip="Parking"><i class="fal fa-parking"></i></li>
-                                                            <li class="tolt"  data-microtip-position="top" data-tooltip="Non-smoking Rooms"><i class="fal fa-smoking-ban"></i></li>
-                                                            <li class="tolt"  data-microtip-position="top" data-tooltip="Pets Friendly"><i class="fal fa-dog-leashed"></i></li>
+                                                            <li class="tolt" data-microtip-position="top" data-tooltip="Di động mobile"><i class="fal fa-tablet"></i></li>
+                                                            <li class="tolt" data-microtip-position="top" data-tooltip="Thiết bị khác"><i class="fal fa-desktop"></i></li>
+                                                            <li class="tolt" data-microtip-position="top" data-tooltip="Web cơ bản"><i class="fal fa-eye"></i></li>
+                                                            <li class="tolt" data-microtip-position="top" data-tooltip="Tải trang nhanh"><i class="fal fa-tachometer"></i></li>
+                                                            <li class="tolt" data-microtip-position="top" data-tooltip="Bảo mật cao"><i class="fal fa-bug"></i></li>
                                                         </ul>
                                                     </div>
                                                 </div>
                                                 <div class="geodir-category-footer fl-wrap">
                                                     <a class="listing-item-category-wrap">
-                                                        <div class="listing-item-category  yellow-bg"><i class="fal fa-bed"></i></div>
-                                                        <span>Hotels</span>
+                                                        <div class="listing-item-category yellow-bg"><i class="fal fa-desktop"></i></div>
+                                                        <span>Điện máy</span>
                                                     </a>
                                                     <div class="geodir-opt-list">
                                                         <ul class="no-list-style">
-                                                            <li><a href="#" class="show_gcc"><i class="fal fa-envelope"></i><span class="geodir-opt-tooltip">Contact Info</span></a></li>
-                                                            <li><a href="#" class="single-map-item" data-newlatitude="40.72228267" data-newlongitude="-73.99246214"><i class="fal fa-map-marker-alt"></i><span class="geodir-opt-tooltip">On the map <strong>4</strong></span></a></li>
+                                                            <li><a class="show_gcc"><i class="fal fa-envelope"></i><span class="geodir-opt-tooltip">Liên hệ</span></a></li>
                                                             <li>
-                                                                <div class="dynamic-gal gdop-list-link" data-dynamicPath="[{'src': 'images/all/16.jpg'},{'src': 'images/all/27.jpg'}, {'src': 'images/all/20.jpg'}]"><i class="fal fa-search-plus"></i><span class="geodir-opt-tooltip">Gallery</span></div>
+																<a href="https://thuongmaitructuyenbrvt.business.site/posts/7862958615626328554" target="_blank" class="single-map-item" data-newlatitude="10.5108216" data-newlongitude="107.1894638">
+																	<i class="fal fa-map-marker-alt"></i><span class="geodir-opt-tooltip"><strong>Ứng dụng</strong></span>
+																</a>
+															</li>
+                                                            <li>
+                                                                <div class="dynamic-gal gdop-list-link" data-dynamicPath="[
+																	{'src': 'https://www.mediafire.com/convkey/f5d8/a84kbltd9aqikzw6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/4243/pc4vmhym45y6lo35g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/1e03/ofuo1uxuaf0j6hn5g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/054e/5xc2mpyrbnp9m2a5g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/7f55/hw6p4gl6pda5r2n5g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/e66f/vx0gwijm3bq9via5g.jpg'}
+																]"><i class="fal fa-search-plus"></i><span class="geodir-opt-tooltip">Ảnh ứng dụng</span></div>
                                                             </li>
                                                         </ul>
                                                     </div>
                                                     <div class="price-level geodir-category_price">
-                                                        <span class="price-level-item" data-pricerating="4"></span>
-                                                        <span class="price-name-tooltip">Ultra High</span>
+                                                        <span class="price-level-item" data-pricerating="2"></span>
+                                                        <span class="price-name-tooltip">3000000</span>
                                                     </div>
                                                     <div class="geodir-category_contacts">
                                                         <div class="close_gcc"><i class="fal fa-times-circle"></i></div>
                                                         <ul class="no-list-style">
-                                                            <li><span><i class="fal fa-phone"></i> Call : </span><a href="#">+38099231212</a></li>
-                                                            <li><span><i class="fal fa-envelope"></i> Write : </span><a href="#">yourmail@domain.com</a></li>
+                                                            <li><span><i class="fal fa-phone"></i> SMS: </span><a href="tel:+84869202254">086-920-2254</a></li>
+                                                            <li><span><i class="fal fa-envelope"></i> Email: </span><a href="mailto:thuongmaibrvt@gmail.com">thuongmaibrvt</a></li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -888,72 +911,103 @@
                                     </div>
                                     <!-- listing-item end -->                                                            
                                 </div>
-                                <!-- gallery-item  end-->                                  
-                                <!-- gallery-item  -->
-                                <div class="gallery-item hotels">
+                                <!-- gallery-item end-->                                 
+                                <!-- gallery-item -->
+                                <div class="gallery-item giaitri" id="giaitrinhachoa" itemscope itemtype="https://schema.org/Movie">
                                     <!-- listing-item  -->
-                                    <div id="handmadeshop" class="listing-item">
+                                    <div class="listing-item">
                                         <article class="geodir-category-listing fl-wrap">
                                             <div class="geodir-category-img">
-                                                <div class="geodir-js-favorite_btn"><i class="fal fa-heart"></i><span>Save</span></div>
-                                                <a href="listing-single.html" class="geodir-category-img-wrap fl-wrap">
-                                                <img src="images/all/28.jpg" alt=""> 
+                                                <div class="geodir-js-favorite_btn">
+													<i class="fa fa-youtube"></i><a href="https://www.youtube.com/watch?v=0R5BSdV3aO0" target="_blank" title="giải trí nhạc hoa"><span itemprop="dateCreated">Mar 05, 2020</span></a>
+												</div>
+                                                <a class="geodir-category-img-wrap fl-wrap">
+													<img itemprop="image" src="https://www.mediafire.com/convkey/10a3/r3uad54hymerff16g.jpg" alt="giai tri nhac hoa">
                                                 </a>
-                                                <div class="listing-avatar"><a href="author-single.html"><img src="images/avatar/5.jpg" alt=""></a>
-                                                    <span class="avatar-tooltip">Added By  <strong>Nasty Wood</strong></span>
+                                                <div class="listing-avatar">
+													<a href="https://www.google.com/search?q=itvtbadboy" target="_blank" title="khương itvtbadboy">
+														<img src="https://www.mediafire.com/convkey/5ab8/u5f4886rjjtony56g.jpg" alt="khuong itvtbadoy">
+													</a>
+                                                    <span class="avatar-tooltip" itemprop="director" itemscope itemtype="https://schema.org/Person"><strong itemprop="name">khương itvtbadboy</strong></span>
                                                 </div>
-                                                <div class="geodir_status_date gsd_open"><i class="fal fa-lock-open"></i>Open Now</div>
+                                                <div class="geodir_status_date gsd_open">
+													<i class="fal fa-lock-open"></i><a style="color: white;" href="https://drive.google.com/drive/folders/0BxTvT8zcUBb4RUt2RGRiOUFMZUU?usp=sharing" target="_blank" title="tải nhạc hoa">Tải nhạc</a>
+												</div>
                                                 <div class="geodir-category-opt">
-                                                    <div class="listing-rating-count-wrap">
-                                                        <div class="review-score">4.7</div>
-                                                        <div class="listing-rating card-popup-rainingvis" data-starrating2="5"></div>
-                                                        <br>
-                                                        <div class="reviews-count">9 reviews</div>
+                                                    <div class="listing-rating-count-wrap" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+														<div class="review-score" itemprop="ratingValue">5</div>
+														<div class="listing-rating card-popup-rainingvis" data-starrating2="5"></div>
+														<br><div class="reviews-count" itemprop="ratingCount" content="5">đánh giá 5</div>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="geodir-category-content fl-wrap title-sin_item">
                                                 <div class="geodir-category-content-title fl-wrap">
                                                     <div class="geodir-category-content-title-item">
-                                                        <h3 class="title-sin_map"><a href="listing-single.html">Handmade Shop</a></h3>
-                                                        <div class="geodir-category-location fl-wrap"><a href="#"><i class="fas fa-map-marker-alt"></i>  34-42 Montgomery St , NY, USA</a></div>
+                                                        <h3 class="title-sin_map" itemprop="name"><a id="video-giaitrinhachoa" href="https://www.youtube.com/embed/0R5BSdV3aO0" title="Nhạc hoa tuyển chọn khương itvtbadboy sưu tầm (7 viên kim cương, sai lầm vẫn là anh, cuộc chơi vô nghĩa, đao kiếm như mộng, ngàn năm tương phùng, tiếu ngạo giang hồ, mịt mù nỗi nhớ ...)">Nhạc hoa</a><span class="verified-badge"><i class="fal fa-check"></i></span></h3>
+                                                        <div class="geodir-category-location fl-wrap"><a title="tài nguyên nhạc hoa"><i class="fas fa-headphones"></i>  Laptop - Tablet - Mobile</a></div>
                                                     </div>
                                                 </div>
                                                 <div class="geodir-category-text fl-wrap">
-                                                    <p style="font-size:15px;">Sed interdum metus at nisi tempor laoreet. Integer gravida orci a justo sodales.</p>
+                                                    <p style="font-size:15px;">Nhạc hoa tuyển chọn khương itvtbadboy sưu tầm (7 viên kim cương, sai lầm vẫn là anh, cuộc chơi vô ...)</p>
                                                     <div class="facilities-list fl-wrap">
-                                                        <div class="facilities-list-title">Facilities : </div>
+                                                        <div class="facilities-list-title">Tính năng: </div>
                                                         <ul class="no-list-style">
-                                                            <li class="tolt"  data-microtip-position="top" data-tooltip="Free WiFi"><i class="fal fa-wifi"></i></li>
-                                                            <li class="tolt"  data-microtip-position="top" data-tooltip="Parking"><i class="fal fa-parking"></i></li>
-                                                            <li class="tolt"  data-microtip-position="top" data-tooltip="Non-smoking Rooms"><i class="fal fa-smoking-ban"></i></li>
-                                                            <li class="tolt"  data-microtip-position="top" data-tooltip="Pets Friendly"><i class="fal fa-dog-leashed"></i></li>
+                                                            <li class="tolt" data-microtip-position="top" data-tooltip="Nhạc mp3"><i class="fal fa-music"></i></li>
+                                                            <li class="tolt" data-microtip-position="top" data-tooltip="Chuẩn 128 kb/s"><i class="fal fa-sliders"></i></li>
+                                                            <li class="tolt" data-microtip-position="top" data-tooltip="Có hỗ trợ"><i class="fa fa-soundcloud"></i></li>
                                                         </ul>
                                                     </div>
                                                 </div>
                                                 <div class="geodir-category-footer fl-wrap">
                                                     <a class="listing-item-category-wrap">
-                                                        <div class="listing-item-category green-bg"><i class="fal fa-cart-arrow-down"></i></div>
-                                                        <span>Shopping</span>
+                                                        <div class="listing-item-category blue-bg"><i class="fal fa-gamepad"></i></div>
+                                                        <span>Giải trí</span>
                                                     </a>
                                                     <div class="geodir-opt-list">
                                                         <ul class="no-list-style">
-                                                            <li><a href="#" class="show_gcc"><i class="fal fa-envelope"></i><span class="geodir-opt-tooltip">Contact Info</span></a></li>
-                                                            <li><a href="#" class="single-map-item" data-newlatitude="40.88496706" data-newlongitude="-73.88191222"><i class="fal fa-map-marker-alt"></i><span class="geodir-opt-tooltip">On the map <strong>5</strong></span> </a></li>
+                                                            <li><a class="show_gcc"><i class="fal fa-envelope"></i><span class="geodir-opt-tooltip">Liên hệ</span></a></li>
                                                             <li>
-                                                                <div class="dynamic-gal gdop-list-link" data-dynamicPath="[{'src': 'images/all/28.jpg'},{'src': 'images/all/29.jpg'}, {'src': 'images/all/30.jpg'}]"><i class="fal fa-search-plus"></i><span class="geodir-opt-tooltip">Gallery</span></div>
+																<a href="https://thuongmaitructuyenbrvt.business.site/posts/1585168273711709619" target="_blank" class="single-map-item" data-newlatitude="10.5108216" data-newlongitude="107.1894638">
+																	<i class="fal fa-map-marker-alt"></i><span class="geodir-opt-tooltip"><strong>Nhạc hoa</strong></span>
+																</a>
+															</li>
+                                                            <li>
+                                                                <div class="dynamic-gal gdop-list-link" data-dynamicPath="[
+																	{'src': 'https://www.mediafire.com/convkey/90ac/v87xau8bo2gflj66g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/7507/zyc8rvsyncjypb86g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/9302/3x7dh4n4hsimbz26g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/c271/h96yymxgecm5v4c6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/3ebc/go86zjllcjah6c66g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/0765/f1yq4ajvbttha4k6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/475c/bf5ocz9tqf5gbs36g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/0adc/yxby6dommop2f8s6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/dafd/grf0fclxcogczt26g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/07eb/mh7038xgjnhkoo96g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/3513/1y9zrjz748bwllo6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/c900/cfku9ldvvk3oc2y6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/9d0f/al77p5c4we95e9d6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/d7ac/dz9b0kw5f45tlio6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/5623/wmt1irbf3qpcu8u6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/c690/iyy7fd7g7bun6ro6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/c919/2722zr9pxf3ln1h6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/09ff/nnysqlgp83anyms6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/da58/4brfd6q50jywm9w6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/7b75/njilh6p69f6rz8w6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/c662/o0q0r7sq6c4gha26g.jpg'}
+																]"><i class="fal fa-search-plus"></i><span class="geodir-opt-tooltip">Ảnh nhạc hoa</span></div>
                                                             </li>
                                                         </ul>
                                                     </div>
                                                     <div class="price-level geodir-category_price">
-                                                        <span class="price-level-item" data-pricerating="3"></span>
-                                                        <span class="price-name-tooltip">Pricey</span>
+                                                        <span class="price-level-item" data-pricerating="1"></span>
+                                                        <span class="price-name-tooltip">Miễn phí</span>
                                                     </div>
                                                     <div class="geodir-category_contacts">
                                                         <div class="close_gcc"><i class="fal fa-times-circle"></i></div>
                                                         <ul class="no-list-style">
-                                                            <li><span><i class="fal fa-phone"></i> Call : </span><a href="#">+38099231212</a></li>
-                                                            <li><span><i class="fal fa-envelope"></i> Write : </span><a href="#">yourmail@domain.com</a></li>
+                                                            <li><span><i class="fal fa-phone"></i> SMS: </span><a href="tel:+84869202254">086-920-2254</a></li>
+                                                            <li><span><i class="fal fa-envelope"></i> Email: </span><a href="mailto:thuongmaibrvt@gmail.com">thuongmaibrvt</a></li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -962,72 +1016,83 @@
                                     </div>
                                     <!-- listing-item end -->                                           
                                 </div>
-                                <!-- gallery-item  end-->                                 
-                                <!-- gallery-item  -->
-                                <div class="gallery-item restaurant hotels">
+                                <!-- gallery-item end-->                                
+                                <!-- gallery-item -->
+                                <div class="gallery-item restaurant giaitri" id="giaitrinhachoa" itemscope itemtype="https://schema.org/Movie">
                                     <!-- listing-item  -->
-                                    <div id="iconiccafeinmanhattan" class="listing-item">
+                                    <div class="listing-item">
                                         <article class="geodir-category-listing fl-wrap">
                                             <div class="geodir-category-img">
-                                                <div class="geodir-js-favorite_btn"><i class="fal fa-heart"></i><span>Save</span></div>
+                                                <div class="geodir-js-favorite_btn">
+													<i class="fa fa-youtube"></i><a href="https://www.youtube.com/watch?v=46poENpIVnc" target="_blank" title="giải trí nhạc hòa tấu"><span itemprop="dateCreated">Apr 23, 2021</span></a>
+												</div>
                                                 <a href="listing-single.html" class="geodir-category-img-wrap fl-wrap">
-                                                <img src="images/all/18.jpg" alt=""> 
+													<img itemprop="image" src="https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg" alt="giai tri nhac hoa tau">
                                                 </a>
-                                                <div class="listing-avatar"><a href="author-single.html"><img src="images/avatar/1.jpg" alt=""></a>
-                                                    <span class="avatar-tooltip">Added By  <strong>Alisa Noory</strong></span>
+                                                <div class="listing-avatar">
+													<a href="https://www.google.com/search?q=itvtbadboy" target="_blank" title="khương itvtbadboy">
+														<img src="https://www.mediafire.com/convkey/5ab8/u5f4886rjjtony56g.jpg" alt="khuong itvtbadoy">
+													</a>
+                                                    <span class="avatar-tooltip" itemprop="director" itemscope itemtype="https://schema.org/Person"><strong itemprop="name">khương itvtbadboy</strong></span>
                                                 </div>
-                                                <div class="geodir_status_date gsd_close"><i class="fal fa-lock-open"></i>Close Now</div>
+                                                <div class="geodir_status_date gsd_open">
+													<i class="fal fa-lock-open"></i><a style="color: white;" href="https://drive.google.com/drive/folders/0BxTvT8zcUBb4YVRwMmdXaVRLLWM?usp=sharing" target="_blank" title="tải nhạc hòa tấu">Tải nhạc</a>
+												</div>
                                                 <div class="geodir-category-opt">
-                                                    <div class="listing-rating-count-wrap">
-                                                        <div class="review-score">4.1</div>
-                                                        <div class="listing-rating card-popup-rainingvis" data-starrating2="4"></div>
-                                                        <br>
-                                                        <div class="reviews-count">26 reviews</div>
+                                                    <div class="listing-rating-count-wrap" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+														<div class="review-score" itemprop="ratingValue">5</div>
+														<div class="listing-rating card-popup-rainingvis" data-starrating2="5"></div>
+														<br><div class="reviews-count" itemprop="ratingCount" content="5">đánh giá 5</div>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="geodir-category-content fl-wrap title-sin_item">
                                                 <div class="geodir-category-content-title fl-wrap">
                                                     <div class="geodir-category-content-title-item">
-                                                        <h3 class="title-sin_map"><a href="listing-single.html">Iconic Cafe in Manhattan</a><span class="verified-badge"><i class="fal fa-check"></i></span></h3>
-                                                        <div class="geodir-category-location fl-wrap"><a href="#"><i class="fas fa-map-marker-alt"></i> 40 Journal Square Plaza, NJ,  USA</a></div>
+                                                        <h3 class="title-sin_map" itemprop="name"><a id="video-giaitrinhachoatau" href="https://www.youtube.com/embed/46poENpIVnc" title="Nhạc hòa tấu tuyển chọn khương itvtbadboy sưu tầm (còn lại nhớ thương, không tên, lặng lẽ mùa đông, lỗi lầm đã qua, một nhành mai, tôi sẽ không yêu, tomorrow will come ...)">Nhạc hòa tấu</a><span class="verified-badge"><i class="fal fa-check"></i></span></h3>
+                                                        <div class="geodir-category-location fl-wrap"><a title="tài nguyên nhạc hòa tấu"><i class="fas fa-headphones"></i>  Laptop - Tablet - Mobile</a></div>
                                                     </div>
                                                 </div>
                                                 <div class="geodir-category-text fl-wrap">
-                                                    <p style="font-size:15px;">Sed interdum metus at nisi tempor laoreet. Integer gravida orci a justo sodales.</p>
+                                                    <p style="font-size:15px;">Nhạc hòa tấu tuyển chọn khương itvtbadboy sưu tầm (còn lại nhớ thương, không tên, lặng lẽ mùa ...)</p>
                                                     <div class="facilities-list fl-wrap">
-                                                        <div class="facilities-list-title">Facilities : </div>
+                                                        <div class="facilities-list-title">Tính năng: </div>
                                                         <ul class="no-list-style">
-                                                            <li class="tolt"  data-microtip-position="top" data-tooltip="Free WiFi"><i class="fal fa-wifi"></i></li>
-                                                            <li class="tolt"  data-microtip-position="top" data-tooltip="Parking"><i class="fal fa-parking"></i></li>
-                                                            <li class="tolt"  data-microtip-position="top" data-tooltip="Non-smoking Rooms"><i class="fal fa-smoking-ban"></i></li>
-                                                            <li class="tolt"  data-microtip-position="top" data-tooltip="Pets Friendly"><i class="fal fa-dog-leashed"></i></li>
+                                                            <li class="tolt" data-microtip-position="top" data-tooltip="Nhạc mp3"><i class="fal fa-music"></i></li>
+                                                            <li class="tolt" data-microtip-position="top" data-tooltip="Chuẩn 128 kb/s"><i class="fal fa-sliders"></i></li>
+                                                            <li class="tolt" data-microtip-position="top" data-tooltip="Chưa hỗ trợ"><i class="fa fa-soundcloud"></i></li>
                                                         </ul>
                                                     </div>
                                                 </div>
                                                 <div class="geodir-category-footer fl-wrap">
                                                     <a class="listing-item-category-wrap">
-                                                        <div class="listing-item-category red-bg"><i class="fal fa-cheeseburger"></i></div>
-                                                        <span>Restaurants</span>
+                                                        <div class="listing-item-category blue-bg"><i class="fal fa-gamepad"></i></div>
+                                                        <span>Giải trí</span>
                                                     </a>
                                                     <div class="geodir-opt-list">
                                                         <ul class="no-list-style">
-                                                            <li><a href="#" class="show_gcc"><i class="fal fa-envelope"></i><span class="geodir-opt-tooltip">Contact Info</span></a></li>
-                                                            <li><a href="#" class="single-map-item" data-newlatitude="40.76221766" data-newlongitude="-73.96511769"><i class="fal fa-map-marker-alt"></i><span class="geodir-opt-tooltip">On the map <strong>6</strong></span> </a></li>
+                                                            <li><a class="show_gcc"><i class="fal fa-envelope"></i><span class="geodir-opt-tooltip">Liên hệ</span></a></li>
                                                             <li>
-                                                                <div class="dynamic-gal gdop-list-link" data-dynamicPath="[{'src': 'images/all/18.jpg'},{'src': 'images/all/21.jpg'}, {'src': 'images/all/22.jpg'}]"><i class="fal fa-search-plus"></i><span class="geodir-opt-tooltip">Gallery</span></div>
+																<a href="https://thuongmaitructuyenbrvt.business.site/posts/8925551446250051805" target="_blank" class="single-map-item" data-newlatitude="10.5108216" data-newlongitude="107.1894638">
+																	<i class="fal fa-map-marker-alt"></i><span class="geodir-opt-tooltip"><strong>Nhạc hòa tấu</strong></span>
+																</a>
+															</li>
+                                                            <li>
+                                                                <div class="dynamic-gal gdop-list-link" data-dynamicPath="[
+																	{'src': 'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'}
+																]"><i class="fal fa-search-plus"></i><span class="geodir-opt-tooltip">Ảnh nhạc hòa tấu</span></div>
                                                             </li>
                                                         </ul>
                                                     </div>
                                                     <div class="price-level geodir-category_price">
-                                                        <span class="price-level-item" data-pricerating="2"></span>
-                                                        <span class="price-name-tooltip">Moderate</span>
+                                                        <span class="price-level-item" data-pricerating="1"></span>
+                                                        <span class="price-name-tooltip">Miễn phí</span>
                                                     </div>
                                                     <div class="geodir-category_contacts">
                                                         <div class="close_gcc"><i class="fal fa-times-circle"></i></div>
                                                         <ul class="no-list-style">
-                                                            <li><span><i class="fal fa-phone"></i> Call : </span><a href="#">+38099231212</a></li>
-                                                            <li><span><i class="fal fa-envelope"></i> Write : </span><a href="#">yourmail@domain.com</a></li>
+                                                            <li><span><i class="fal fa-phone"></i> SMS: </span><a href="tel:+84869202254">086-920-2254</a></li>
+                                                            <li><span><i class="fal fa-envelope"></i> Email: </span><a href="mailto:thuongmaibrvt@gmail.com">thuongmaibrvt</a></li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -1036,72 +1101,104 @@
                                     </div>
                                     <!-- listing-item end -->                                                        
                                 </div>
-                                <!-- gallery-item  end-->
-                                <!-- gallery-item  -->
-                                <div class="gallery-item fitness">
+                                <!-- gallery-item end-->
+                                <!-- gallery-item -->
+                                <div class="gallery-item giaitri" id="giaitrinhactre" itemscope itemtype="https://schema.org/Movie">
                                     <!-- listing-item  -->
-                                    <div id="bodystronggym" class="listing-item">
+                                    <div class="listing-item">
                                         <article class="geodir-category-listing fl-wrap">
                                             <div class="geodir-category-img">
-                                                <div class="geodir-js-favorite_btn"><i class="fal fa-heart"></i><span>Save</span></div>
+                                                <div class="geodir-js-favorite_btn">
+													<i class="fa fa-youtube"></i><a href="https://www.youtube.com/watch?v=JgWlDwKhyck" target="_blank" title="giải trí nhạc trẻ"><span itemprop="dateCreated">Jun 04, 2020</span></a>
+												</div>
                                                 <a href="listing-single.html" class="geodir-category-img-wrap fl-wrap">
-                                                <img src="images/all/52.jpg" alt=""> 
+													<img itemprop="image" src="https://www.mediafire.com/convkey/5b1f/p29mltgmaj9y41k6g.jpg" alt="giai tri nhac tre">
                                                 </a>
-                                                <div class="listing-avatar"><a href="author-single.html"><img src="images/avatar/6.jpg" alt=""></a>
-                                                    <span class="avatar-tooltip">Added By  <strong>Lisa Smith</strong></span>
+                                                <div class="listing-avatar">
+													<a href="https://www.google.com/search?q=itvtbadboy" target="_blank" title="khương itvtbadboy">
+														<img src="https://www.mediafire.com/convkey/5ab8/u5f4886rjjtony56g.jpg" alt="khuong itvtbadoy">
+													</a>
+                                                    <span class="avatar-tooltip" itemprop="director" itemscope itemtype="https://schema.org/Person"><strong itemprop="name">khương itvtbadboy</strong></span>
                                                 </div>
-                                                <div class="geodir_status_date gsd_close"><i class="fal fa-lock"></i>Close Now</div>
+                                                <div class="geodir_status_date gsd_open">
+													<i class="fal fa-lock-open"></i><a style="color: white;" href="https://drive.google.com/drive/folders/0BxTvT8zcUBb4Y01fRVdvNE9fYWs?usp=sharing" target="_blank" title="tải nhạc trẻ">Tải nhạc</a>
+												</div>
                                                 <div class="geodir-category-opt">
-                                                    <div class="listing-rating-count-wrap">
-                                                        <div class="review-score">4.1</div>
-                                                        <div class="listing-rating card-popup-rainingvis" data-starrating2="4"></div>
-                                                        <br>
-                                                        <div class="reviews-count">56 reviews</div>
+                                                    <div class="listing-rating-count-wrap" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+														<div class="review-score" itemprop="ratingValue">5</div>
+														<div class="listing-rating card-popup-rainingvis" data-starrating2="5"></div>
+														<br><div class="reviews-count" itemprop="ratingCount" content="5">đánh giá 5</div>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="geodir-category-content fl-wrap title-sin_item">
                                                 <div class="geodir-category-content-title fl-wrap">
                                                     <div class="geodir-category-content-title-item">
-                                                        <h3 class="title-sin_map"><a href="listing-single.html">BodyStrong Gym</a><span class="verified-badge"><i class="fal fa-check"></i></span></h3>
-                                                        <div class="geodir-category-location fl-wrap"><a href="#"><i class="fas fa-map-marker-alt"></i> W 85th St, New York, USA</a></div>
+                                                        <h3 class="title-sin_map" itemprop="name"><a id="video-giaitrinhactre" href="https://www.youtube.com/embed/JgWlDwKhyck" title="Nhạc trẻ tuyển chọn khương itvtbadboy sưu tầm (xin một lần được yêu, tình mãi bên anh, tiếng sáo phiêu bồng, sai lầm vẫn là anh, quên một lời thề, cứ yêu nhau đi, con tim mù lòa ...)">Nhạc trẻ</a><span class="verified-badge"><i class="fal fa-check"></i></span></h3>
+                                                        <div class="geodir-category-location fl-wrap"><a title="tài nguyên nhạc trẻ"><i class="fas fa-headphones"></i>  Laptop - Tablet - Mobile</a></div>
                                                     </div>
                                                 </div>
                                                 <div class="geodir-category-text fl-wrap">
-                                                    <p style="font-size:15px;">Sed interdum metus at nisi tempor laoreet. Integer gravida orci a justo sodales.</p>
+                                                    <p style="font-size:15px;">Nhạc trẻ tuyển chọn khương itvtbadboy sưu tầm (xin một lần được yêu, tình mãi bên anh, tiếng sáo ...)</p>
                                                     <div class="facilities-list fl-wrap">
-                                                        <div class="facilities-list-title">Facilities : </div>
+                                                        <div class="facilities-list-title">Tính năng: </div>
                                                         <ul class="no-list-style">
-                                                            <li class="tolt"  data-microtip-position="top" data-tooltip="Free WiFi"><i class="fal fa-wifi"></i></li>
-                                                            <li class="tolt"  data-microtip-position="top" data-tooltip="Parking"><i class="fal fa-parking"></i></li>
-                                                            <li class="tolt"  data-microtip-position="top" data-tooltip="Non-smoking Rooms"><i class="fal fa-smoking-ban"></i></li>
-                                                            <li class="tolt"  data-microtip-position="top" data-tooltip="Pets Friendly"><i class="fal fa-dog-leashed"></i></li>
+                                                            <li class="tolt" data-microtip-position="top" data-tooltip="Nhạc mp3"><i class="fal fa-music"></i></li>
+                                                            <li class="tolt" data-microtip-position="top" data-tooltip="Chuẩn 128 kb/s"><i class="fal fa-sliders"></i></li>
+                                                            <li class="tolt" data-microtip-position="top" data-tooltip="Chưa hỗ trợ"><i class="fa fa-soundcloud"></i></li>
                                                         </ul>
                                                     </div>
                                                 </div>
                                                 <div class="geodir-category-footer fl-wrap">
                                                     <a class="listing-item-category-wrap">
-                                                        <div class="listing-item-category blue-bg"><i class="fal fa-dumbbell"></i></div>
-                                                        <span>Fitness / Gym</span>
+                                                        <div class="listing-item-category blue-bg"><i class="fal fa-gamepad"></i></div>
+                                                        <span>Giải trí</span>
                                                     </a>
                                                     <div class="geodir-opt-list">
                                                         <ul class="no-list-style">
-                                                            <li><a href="#" class="show_gcc"><i class="fal fa-envelope"></i><span class="geodir-opt-tooltip">Contact Info</span></a></li>
-                                                            <li><a href="#" class="single-map-item" data-newlatitude="40.94982541" data-newlongitude="-73.84357452"><i class="fal fa-map-marker-alt"></i><span class="geodir-opt-tooltip">On the map <strong>7</strong></span> </a></li>
+                                                            <li><a class="show_gcc"><i class="fal fa-envelope"></i><span class="geodir-opt-tooltip">Liên hệ</span></a></li>
                                                             <li>
-                                                                <div class="dynamic-gal gdop-list-link" data-dynamicPath="[{'src': 'images/all/10.jpg'},{'src': 'images/all/14.jpg'}]"><i class="fal fa-search-plus"></i><span class="geodir-opt-tooltip">Gallery</span></div>
+																<a href="https://thuongmaitructuyenbrvt.business.site/posts/8403576715416179507" target="_blank" class="single-map-item" data-newlatitude="10.5108216" data-newlongitude="107.1894638">
+																	<i class="fal fa-map-marker-alt"></i><span class="geodir-opt-tooltip"><strong>Nhạc trẻ</strong></span>
+																</a>
+															</li>
+                                                            <li>
+                                                                <div class="dynamic-gal gdop-list-link" data-dynamicPath="[
+																	{'src': 'https://www.mediafire.com/convkey/0a26/00awj3s6k4kqczw6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/89c9/x2egl1q5yql2i7b6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/8b90/8huem6i7pos3jog6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/83f5/7avrca7u752vk7s6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/7c4b/1crsv6ndgy3m1re6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/73b7/n90khlg43q3dwgd6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/2194/a0fp51g3eyi24jt6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/958b/n0h6555r80baoca6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/2f34/93mj1atses1aekf6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/b4c3/hoyrsr1bolld4kt6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/cb36/wvlih8mc8527y4x6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/9f97/c2a952fl1idw77g6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/bec2/sipu3bn2yjnq94v6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/5b1f/p29mltgmaj9y41k6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/fc25/68tph32abl7avve6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/28a6/g2rmmqpbppv8jpl6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/85ed/uijn9qqr58gzxt76g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/87f3/mk5rp5714s29h3h6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/5617/g00eghg7nlo11606g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/0566/8zg735pcv7e7v4v6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/1426/pc9c6bf29jo1za26g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/4bf2/stit9ctioji7vnx6g.jpg'}
+																]"><i class="fal fa-search-plus"></i><span class="geodir-opt-tooltip">Ảnh nhạc trẻ</span></div>
                                                             </li>
                                                         </ul>
                                                     </div>
                                                     <div class="price-level geodir-category_price">
-                                                        <span class="price-level-item" data-pricerating="2"></span>
-                                                        <span class="price-name-tooltip">Moderate</span>
+                                                        <span class="price-level-item" data-pricerating="1"></span>
+                                                        <span class="price-name-tooltip">Miễn phí</span>
                                                     </div>
                                                     <div class="geodir-category_contacts">
                                                         <div class="close_gcc"><i class="fal fa-times-circle"></i></div>
                                                         <ul class="no-list-style">
-                                                            <li><span><i class="fal fa-phone"></i> Call : </span><a href="#">+38099231212</a></li>
-                                                            <li><span><i class="fal fa-envelope"></i> Write : </span><a href="#">yourmail@domain.com</a></li>
+                                                            <li><span><i class="fal fa-phone"></i> SMS: </span><a href="tel:+84869202254">086-920-2254</a></li>
+                                                            <li><span><i class="fal fa-envelope"></i> Email: </span><a href="mailto:thuongmaibrvt@gmail.com">thuongmaibrvt</a></li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -1110,72 +1207,93 @@
                                     </div>
                                     <!-- listing-item end -->                                   
                                 </div>
-                                <!-- gallery-item  end--> 
-                                <!-- gallery-item  -->
-                                <div class="gallery-item hotels">
+                                <!-- gallery-item end-->
+                                <!-- gallery-item -->
+                                <div class="gallery-item giaitri" id="giaitrinhacquocte" itemscope itemtype="https://schema.org/Movie">
                                     <!-- listing-item  -->
-                                    <div id="familystore" class="listing-item">
+                                    <div class="listing-item">
                                         <article class="geodir-category-listing fl-wrap">
                                             <div class="geodir-category-img">
-                                                <div class="geodir-js-favorite_btn"><i class="fal fa-heart"></i><span>Save</span></div>
+                                                <div class="geodir-js-favorite_btn">
+													<i class="fa fa-youtube"></i><a href="https://www.youtube.com/watch?v=3SqSu0qK38w" target="_blank" title="giải trí nhạc quốc tế"><span itemprop="dateCreated">Mar 09, 2020</span></a>
+												</div>
                                                 <a href="listing-single.html" class="geodir-category-img-wrap fl-wrap">
-                                                <img src="images/all/62.jpg" alt=""> 
+													<img itemprop="image" src="https://www.mediafire.com/convkey/28f4/1z2xbyvetzh0e0r6g.jpg" alt="giai tri nhac quoc te">
                                                 </a>
-                                                <div class="listing-avatar"><a href="author-single.html"><img src="images/avatar/4.jpg" alt=""></a>
-                                                    <span class="avatar-tooltip">Added By  <strong>Nasty Wood</strong></span>
+                                                <div class="listing-avatar">
+													<a href="https://www.google.com/search?q=itvtbadboy" target="_blank" title="khương itvtbadboy">
+														<img src="https://www.mediafire.com/convkey/5ab8/u5f4886rjjtony56g.jpg" alt="khuong itvtbadoy">
+													</a>
+                                                    <span class="avatar-tooltip" itemprop="director" itemscope itemtype="https://schema.org/Person"><strong itemprop="name">khương itvtbadboy</strong></span>
                                                 </div>
-                                                <div class="geodir_status_date gsd_open"><i class="fal fa-lock-open"></i>Open Now</div>
+                                                <div class="geodir_status_date gsd_open">
+													<i class="fal fa-lock-open"></i><a style="color: white;" href="https://drive.google.com/drive/folders/0BxTvT8zcUBb4X1M2NHhMZWo0ak0?usp=sharing" target="_blank" title="tải nhạc quốc tế">Tải nhạc</a>
+												</div>
                                                 <div class="geodir-category-opt">
-                                                    <div class="listing-rating-count-wrap">
-                                                        <div class="review-score">4.7</div>
-                                                        <div class="listing-rating card-popup-rainingvis" data-starrating2="5"></div>
-                                                        <br>
-                                                        <div class="reviews-count">9 reviews</div>
+                                                    <div class="listing-rating-count-wrap" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+														<div class="review-score" itemprop="ratingValue">5</div>
+														<div class="listing-rating card-popup-rainingvis" data-starrating2="5"></div>
+														<br><div class="reviews-count" itemprop="ratingCount" content="5">đánh giá 5</div>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="geodir-category-content fl-wrap title-sin_item">
                                                 <div class="geodir-category-content-title fl-wrap">
                                                     <div class="geodir-category-content-title-item">
-                                                        <h3 class="title-sin_map"><a href="listing-single.html">Family Store</a></h3>
-                                                        <div class="geodir-category-location fl-wrap"><a href="#"><i class="fas fa-map-marker-alt"></i>  34-42 Montgomery St , NY, USA</a></div>
+                                                        <h3 class="title-sin_map" itemprop="name"><a id="video-giaitrinhacquocte" href="https://www.youtube.com/embed/3SqSu0qK38w" title="Nhạc quốc tế tuyển chọn khương itvtbadboy sưu tầm (circle in the sand, iam so in love with you, moon light, no face no name no number, tomorrow will come, walking in the sun, you will find your way ...)">Nhạc quốc tế</a><span class="verified-badge"><i class="fal fa-check"></i></span></h3>
+                                                        <div class="geodir-category-location fl-wrap"><a title="tài nguyên nhạc quốc tế"><i class="fas fa-headphones"></i>  Laptop - Tablet - Mobile</a></div>
                                                     </div>
                                                 </div>
                                                 <div class="geodir-category-text fl-wrap">
-                                                    <p style="font-size:15px;">Sed interdum metus at nisi tempor laoreet. Integer gravida orci a justo sodales.</p>
+                                                    <p style="font-size:15px;">Nhạc quốc tế tuyển chọn khương itvtbadboy sưu tầm (circle in the sand, iam so in love with you, moon ...)</p>
                                                     <div class="facilities-list fl-wrap">
-                                                        <div class="facilities-list-title">Facilities : </div>
+                                                        <div class="facilities-list-title">Tính năng: </div>
                                                         <ul class="no-list-style">
-                                                            <li class="tolt"  data-microtip-position="top" data-tooltip="Free WiFi"><i class="fal fa-wifi"></i></li>
-                                                            <li class="tolt"  data-microtip-position="top" data-tooltip="Parking"><i class="fal fa-parking"></i></li>
-                                                            <li class="tolt"  data-microtip-position="top" data-tooltip="Non-smoking Rooms"><i class="fal fa-smoking-ban"></i></li>
-                                                            <li class="tolt"  data-microtip-position="top" data-tooltip="Pets Friendly"><i class="fal fa-dog-leashed"></i></li>
+                                                            <li class="tolt" data-microtip-position="top" data-tooltip="Nhạc mp3"><i class="fal fa-music"></i></li>
+                                                            <li class="tolt" data-microtip-position="top" data-tooltip="Chuẩn 128 kb/s"><i class="fal fa-sliders"></i></li>
+                                                            <li class="tolt" data-microtip-position="top" data-tooltip="Chưa hỗ trợ"><i class="fa fa-soundcloud"></i></li>
                                                         </ul>
                                                     </div>
                                                 </div>
                                                 <div class="geodir-category-footer fl-wrap">
                                                     <a class="listing-item-category-wrap">
-                                                        <div class="listing-item-category green-bg"><i class="fal fa-cart-arrow-down"></i></div>
-                                                        <span>Shopping</span>
+                                                        <div class="listing-item-category blue-bg"><i class="fal fa-gamepad"></i></div>
+                                                        <span>Giải trí</span>
                                                     </a>
                                                     <div class="geodir-opt-list">
                                                         <ul class="no-list-style">
-                                                            <li><a href="#" class="show_gcc"><i class="fal fa-envelope"></i><span class="geodir-opt-tooltip">Contact Info</span></a></li>
-                                                            <li><a href="#" class="single-map-item" data-newlatitude="40.88496706" data-newlongitude="-73.88191222"><i class="fal fa-map-marker-alt"></i><span class="geodir-opt-tooltip">On the map <strong>5</strong></span> </a></li>
+                                                            <li><a class="show_gcc"><i class="fal fa-envelope"></i><span class="geodir-opt-tooltip">Liên hệ</span></a></li>
                                                             <li>
-                                                                <div class="dynamic-gal gdop-list-link" data-dynamicPath="[{'src': 'images/all/28.jpg'},{'src': 'images/all/29.jpg'}, {'src': 'images/all/30.jpg'}]"><i class="fal fa-search-plus"></i><span class="geodir-opt-tooltip">Gallery</span></div>
+																<a href="https://thuongmaitructuyenbrvt.business.site/posts/8099251455742136040" target="_blank" class="single-map-item" data-newlatitude="10.5108216" data-newlongitude="107.1894638">
+																	<i class="fal fa-map-marker-alt"></i><span class="geodir-opt-tooltip"><strong>Nhạc quốc tế</strong></span>
+																</a>
+															</li>
+                                                            <li>
+                                                                <div class="dynamic-gal gdop-list-link" data-dynamicPath="[
+																	{'src': 'https://www.mediafire.com/convkey/9e8e/f1bhnkm0qjyq48g6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/0d0a/kzv99ujv840ip2s6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/1473/fpx43icm2j36hq86g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/1fae/s6x2uis23s2l92w6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/d850/1pj9cw09hxilivb6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/28f4/1z2xbyvetzh0e0r6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/77ed/cr223cb4ud3h98y6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/1b99/ft8xod4kcjhe7qx6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/a912/huh2mth9r9q13dl6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/a3e7/23vvrvak3hkcqql6g.jpg'},
+																	{'src': 'https://www.mediafire.com/convkey/da19/kyp213bymay9t146g.jpg'}
+																]"><i class="fal fa-search-plus"></i><span class="geodir-opt-tooltip">Ảnh nhạc quốc tế</span></div>
                                                             </li>
                                                         </ul>
                                                     </div>
                                                     <div class="price-level geodir-category_price">
-                                                        <span class="price-level-item" data-pricerating="3"></span>
-                                                        <span class="price-name-tooltip">Pricey</span>
+                                                        <span class="price-level-item" data-pricerating="1"></span>
+                                                        <span class="price-name-tooltip">Miễn phí</span>
                                                     </div>
                                                     <div class="geodir-category_contacts">
                                                         <div class="close_gcc"><i class="fal fa-times-circle"></i></div>
                                                         <ul class="no-list-style">
-                                                            <li><span><i class="fal fa-phone"></i> Call : </span><a href="#">+38099231212</a></li>
-                                                            <li><span><i class="fal fa-envelope"></i> Write : </span><a href="#">yourmail@domain.com</a></li>
+                                                            <li><span><i class="fal fa-phone"></i> SMS: </span><a href="tel:+84869202254">086-920-2254</a></li>
+                                                            <li><span><i class="fal fa-envelope"></i> Email: </span><a href="mailto:thuongmaibrvt@gmail.com">thuongmaibrvt</a></li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -1184,7 +1302,7 @@
                                     </div>             
                                 </div>                                                                                     
                             </div>
-                            <a href="listing.html" class="btn  dec_btn  color2-bg">Check Out All Listings<i class="fal fa-arrow-alt-right"></i></a>
+                            <a class="btn dec_btn color2-bg" title="tìm giải pháp thương mại">Giải pháp<i class="fal fa-arrow-alt-right"></i></a>
                         </div>
                     </section>
 
