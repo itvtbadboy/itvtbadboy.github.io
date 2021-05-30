@@ -516,20 +516,6 @@ function initTowhub() {
     $(document).on('keyup', '#contactform input, #contactform textarea', function () {
         $("#message").slideUp(1500);
     });
-    //   mailchimp------------------
-    $("#subscribe").ajaxChimp({
-        language: "eng",
-        url: "https://thuongmaitructuyenbrvt.github.io/website-thuong-mai/du-lich-townhub/"
-    });
-    $.ajaxChimp.translations.eng = {
-        submit: "đang xác nhận ...",
-        0: '<i class="fa fa-check"></i> chúng tôi sẽ sớm hồi âm!',
-        1: '<i class="fa fa-warning"></i> nhập địa chỉ hộp thư.',
-        2: '<i class="fa fa-warning"></i> định dạng hộp thư không đúng.',
-        3: '<i class="fa fa-warning"></i> định dạng hộp thư không đúng.',
-        4: '<i class="fa fa-warning"></i> định dạng hộp thư không đúng.',
-        5: '<i class="fa fa-warning"></i> định dạng hộp thư không đúng.'
-    };
     //   Video------------------
     var v = $(".background-youtube-wrapper").data("vid");
     var f = $(".background-youtube-wrapper").data("mv");
