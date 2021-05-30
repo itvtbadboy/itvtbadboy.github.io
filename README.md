@@ -1,2 +1,3 @@
 # duongthanhkhuong.github.io
-Dương Thành Khương, chuyên viên phát triển thương mại điện tử, xây dựng website chiến lược bootstrap v4 và google amp khai thác ma trận nội dung ảo CDN Backends, sử dụng linux parrot giám sát an ninh mạng website
+
+Khương itvtbadboy quản lý thương mại brvt, xây dựng thư viện wiki, phát triển tiềm năng trang di động mobile, tối ưu website bootstrap, tư vấn an ninh mạng
