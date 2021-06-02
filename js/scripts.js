@@ -974,26 +974,6 @@ function initTowhub() {
     $('.init-dsmen').on("click", function () {
         $(".user-profile-menu-wrap").slideToggle(400);
     });
-// chat -----------------
-    var chatwidwrap = $(".chat-widget_wrap"),
-        cahtwidbutton = $(".chat-widget-button");
-
-    function showChat() {
-        cahtwidbutton.addClass("closechat_btn");
-        chatwidwrap.fadeIn(500).removeClass("not-vis-chat");
-    }
-    function hideChat() {
-        cahtwidbutton.removeClass("closechat_btn");
-        chatwidwrap.fadeOut(500).addClass("not-vis-chat");
-    }
-    $(".cwb").on("click", function (e) {
-        e.preventDefault();
-        if (chatwidwrap.hasClass("not-vis-chat")) {
-            showChat();
-        } else {
-            hideChat();
-        }
-    });
     // Styles ------------------
     function csselem() {
         $(".height-emulator").css({
