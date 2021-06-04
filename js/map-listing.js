@@ -6,8 +6,8 @@
         }
 	    //  Map Infoboxes ------------------
         var locations = [
-            [locationData( 'https://caphethoitrang.business.site/', 'https://www.google.com/search?q=ca+phe+thoi+trang+itvtbadboy', 'https://www.mediafire.com/convkey/5045/9csyzv9teavwn546g.jpg', 'cà phê thời trang', "56 Nguyễn Hữu Huân", 'cafe-cat', "5", "5", "Nhà hàng", "#thuongmai-caphethoitrang"), 10.5108216, 107.1894638, 0 , 'https://www.mediafire.com/convkey/5045/9csyzv9teavwn546g.jpg'],
-            [locationData( 'https://www.thuongmaitructuyenbrvt.com/', 'https://www.google.com/search?q=thuong+mai+truc+tuyen', 'https://www.mediafire.com/convkey/489d/1p1fb1flcj5dcgc6g.jpg?size_id=8', 'thương mại brvt', "56 Nguyễn Hữu Huân", 'cafe-cat', "5", "5", "Nhà hàng", "#thuongmai-thuongmaibrvt"), 10.5118216, 107.1994638, 1 , 'https://www.mediafire.com/convkey/489d/1p1fb1flcj5dcgc6g.jpg']
+            [locationData( 'https://caphethoitrang.business.site/', 'https://www.google.com/maps/d/edit?mid=1rfsk8yS_48loWG2bHMvQ11fipwxhq6xK&ll=10.5002464964914%2C107.17280359807914&z=13', 'https://www.mediafire.com/convkey/5045/9csyzv9teavwn546g.jpg', 'cà phê thời trang', "56 Nguyễn Hữu Huân", 'cafe-cat', "5", "5", "Nhà hàng", "#thuongmai-caphethoitrang"), 10.5108216, 107.1894638, 0 , 'https://www.mediafire.com/convkey/5045/9csyzv9teavwn546g.jpg'],
+            [locationData( 'https://www.thuongmaitructuyenbrvt.com/', 'https://www.google.com/maps/d/edit?mid=1rfsk8yS_48loWG2bHMvQ11fipwxhq6xK&ll=10.5002464964914%2C107.17280359807914&z=13', 'https://www.mediafire.com/convkey/489d/1p1fb1flcj5dcgc6g.jpg?size_id=8', 'thương mại brvt', "56 Nguyễn Hữu Huân", 'cafe-cat', "5", "5", "Nhà hàng", "#thuongmai-thuongmaibrvt"), 10.5118216, 107.1994638, 1 , 'https://www.mediafire.com/convkey/489d/1p1fb1flcj5dcgc6g.jpg']
         ];
 	    //   Map Infoboxes end ------------------
         var map = new google.maps.Map(document.getElementById('bandothuongmai'), {
