@@ -1,28 +1,19 @@
 (function ($) {
     "use strict";
     function mainMap() {
-        function locationData(locationURL, locationImg, locationTitle, locationAddress, locationCategory, locationStarRating, locationRevievsCounter, locationStatus) {
-            return ('<div class="map-popup-wrap"><div class="map-popup"><div class="infoBox-close"><i class="fal fa-times"></i></div><a href="' + locationURL + '" class="listing-img-content fl-wrap"><div class="infobox-status '+ locationStatus +'">' + locationStatus + '</div><img src="' + locationImg + '" alt=""><div class="card-popup-raining map-card-rainting" data-staRrating="' + locationStarRating + '"><span class="map-popup-reviews-count">( ' + locationRevievsCounter + ' reviews )</span></div></a> <div class="listing-content"><div class="listing-content-item fl-wrap"><div class="map-popup-location-category ' + locationCategory + '"></div><div class="listing-title fl-wrap"><h4><a href=' + locationURL + '>' + locationTitle + '</a></h4><div class="map-popup-location-info"><i class="fas fa-map-marker-alt"></i>' + locationAddress + '</div></div><div class="map-popup-footer"><a href=' + locationURL + ' class="main-link">Details <i class="fal fa-long-arrow-right"></i></a><a href="#" class="infowindow_wishlist-btn"><i class="fal fa-heart"></i></a></div></div></div></div> ')
+        function locationData(locationURL, locationBusiness, locationImg, locationTitle, locationAddress, locationCategory, locationStarRating, locationRevievsCounter, locationStatus, LocationNhandang) {
+            return ('<div class="map-popup-wrap"><div class="map-popup"><div class="infoBox-close"><i class="fal fa-times"></i></div><!-- MO HINH --><a class="listing-img-content fl-wrap"><div class="infobox-status '+ locationStatus +'">' + locationStatus + '</div><img src="' + locationImg + '" alt="ban do thuong mai"><div class="card-popup-raining map-card-rainting" data-staRrating="' + locationStarRating + '"><span class="map-popup-reviews-count">( ' + locationRevievsCounter + ' đánh giá )</span></div></a> <div class="listing-content"><div class="listing-content-item fl-wrap"><div class="map-popup-location-category ' + locationCategory + '"></div><div class="listing-title fl-wrap"><h4><!-- TEN DAI DIEN --><a href=' + locationURL + ' target="_blank">' + locationTitle + '</a></h4><div class="map-popup-location-info"><i class="fas fa-map-marker-alt"></i>' + locationAddress + '</div></div><div class="map-popup-footer"><!-- DU AN --><a href=' + locationBusiness + ' target="_blank" class="main-link">Dự án <i class="fal fa-long-arrow-right"></i></a><a href=' + LocationNhandang + ' class="infowindow_wishlist-btn"><i class="fal fa-heart"></i></a></div></div></div></div> ')
         }
 	    //  Map Infoboxes ------------------
         var locations = [
-            [locationData('listing-single2.html', 'images/all/1.jpg', 'Luxary Resaturant', " 27th Brooklyn New York, USA", 'cafe-cat', "5", "12", "open"  ), 40.72956781, -73.99726866, 0 , 'images/all/1.jpg'],
-            [locationData('listing-single.html', 'images/all/9.jpg', 'Rocko Band in Marquee Club', "75 Prince St, NY, USA", 'event-cat', "4", "6", "27 may 2019" ), 40.76221766, -73.96511769, 1, 'images/all/9.jpg'],
-            [locationData('listing-single.html', 'images/all/31.jpg', 'Premium Fitness Gym', " W 85th St, New York, USA", 'gym-cat', "3",  "4" , "close"   ), 40.88496706, -73.88191222, 2,  'images/all/31.jpg'],
-            [locationData('listing-single.html', 'images/all/16.jpg', 'MontePlaza Hotel', " 70 Bright St New York, USA", 'hotels-cat', "4", "12","open"  ), 40.72228267, -73.99246214, 3, 'images/all/16.jpg' ],
-            [locationData('listing-single.html', 'images/all/28.jpg', 'Handmade Shop', "34-42 Montgomery St, New York, NY", 'shop-cat', "5", "9","close" ), 40.94982541, -73.84357452, 4,  'images/all/28.jpg'],
-            [locationData('listing-single.html', 'images/all/18.jpg', 'Iconic Cafe in Manhattan', " 40 Journal Square Plaza, NJ, USA", 'cafe-cat', "4", "26", "open"  ), 40.90261483, -74.15737152, 5,   'images/all/18.jpg'],
-            [locationData('listing-single.html', 'images/all/46.jpg', 'Zebra Premium Hotel', "123 School St. Lynchburg, NY ", 'hotels-cat', "4", "12","open" ), 40.79145927, -74.08252716, 6,  'images/all/46.jpg'],
-            [locationData('listing-single2.html', 'images/all/50.jpg', 'Web Design Event', "Mt Carmel Pl, New York, NY", 'event-cat', "5", "12","4 April 2019" ), 40.58423508, -73.96099091, 7, 'images/all/50.jpg'],
-            [locationData('listing-single2.html', 'images/all/25.jpg', 'Premium Gym In NY', "1-30 Hunters Point Ave, Long Island City, NY", 'gym-cat', "3", "7","open"  ), 40.58110616, -73.97678375, 8,   'images/all/25.jpg'],
-            [locationData('listing-single3.html', 'images/all/56.jpg', 'NY Plaza Hotel', "726-1728 2nd Ave, New York, NY", 'hotels-cat', "5", "12","open"  ), 40.73112881, -74.07897948, 9, 'images/all/56.jpg'],
-            [locationData('listing-single3.html', 'images/all/48.jpg', 'Bistro in City Center', "9443 Fairview Ave, North Bergen, NJ", 'cafe-cat', "3", "8","open"  ), 40.67386831, -74.10438536, 10,  'images/all/48.jpg'],
+            [locationData( 'https://caphethoitrang.business.site/', 'https://www.google.com/search?q=ca+phe+thoi+trang+itvtbadboy', 'https://www.mediafire.com/convkey/5045/9csyzv9teavwn546g.jpg', 'cà phê thời trang', "56 Nguyễn Hữu Huân", 'cafe-cat', "5", "5", "Nhà hàng", "#thuongmai-caphethoitrang"), 10.5108216, 107.1894638, 0 , 'https://www.mediafire.com/convkey/5045/9csyzv9teavwn546g.jpg'],
+            [locationData( 'https://www.thuongmaitructuyenbrvt.com/', 'https://www.google.com/search?q=thuong+mai+truc+tuyen', 'https://www.mediafire.com/convkey/489d/1p1fb1flcj5dcgc6g.jpg?size_id=8', 'thương mại brvt', "56 Nguyễn Hữu Huân", 'cafe-cat', "5", "5", "Nhà hàng", "#thuongmai-thuongmaibrvt"), 10.5118216, 107.1994638, 1 , 'https://www.mediafire.com/convkey/489d/1p1fb1flcj5dcgc6g.jpg']
         ];
 	    //   Map Infoboxes end ------------------
-        var map = new google.maps.Map(document.getElementById('map-main'), {
-            zoom: 12,
+        var map = new google.maps.Map(document.getElementById('bandothuongmai'), {
+            zoom: 14,
             scrollwheel: false,
-            center: new google.maps.LatLng(40.8, -73.90),
+            center: new google.maps.LatLng(10.51, 107.19),
             mapTypeId: google.maps.MapTypeId.ROADMAP,
             zoomControl: false,
             mapTypeControl: false,
@@ -41,6 +32,7 @@
                 }]
             }]
         });
+
         var boxText = document.createElement("div");
         boxText.className = 'map-box'
         var currentInfobox;
@@ -342,7 +334,7 @@ head.insertBefore = function( newElement, referenceElement ) {
     insertBefore.call( head, newElement, referenceElement );
 };	
 	
-	    var map = document.getElementById('map-main');
+	    var map = document.getElementById('bandothuongmai');
     if (typeof (map) != 'undefined' && map != null) {
         google.maps.event.addDomListener(window, 'load', mainMap);
     }
