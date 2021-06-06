@@ -1510,7 +1510,7 @@ section.gray-section .section-separator {
 	float:left;
 	width: 100%;
 	box-sizing:border-box;
-	height:50px;
+	height:35px;
 	padding:0 5px;
 	position:relative;
 }
@@ -1523,9 +1523,10 @@ section.gray-section .section-separator {
 }
 .main-search-input-item label {
 	position:absolute;
+	width: 99%;
 	font-size: 16px;
-	left:20px;
-	top:17px;
+	left: 1px;
+	top:9px;
 	z-index:10;
 }
 .main-search-button {
