@@ -1508,9 +1508,8 @@ section.gray-section .section-separator {
 }
 .main-search-input-item {
 	float:left;
-	width:33.3%;
+	width: 100%;
 	box-sizing:border-box;
-	border-right:1px solid #eee;
 	height:50px;
 	padding:0 5px;
 	position:relative;
@@ -1524,6 +1523,7 @@ section.gray-section .section-separator {
 }
 .main-search-input-item label {
 	position:absolute;
+	font-size: 16px;
 	left:20px;
 	top:17px;
 	z-index:10;
@@ -3451,7 +3451,7 @@ section.gray-section .section-separator {
 	content: "\f805";
 }
 .map-popup-location-category.gym-cat:after  {
-	content: "\f44b";
+	content: "\f080";
 }
 .map-popup-location-category.event-cat:after  {
 	content: "\f561";
