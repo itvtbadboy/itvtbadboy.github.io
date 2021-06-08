@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url><loc>https://duongthanhkhuong.github.io/</loc><lastmod>2021-06-07</lastmod></url>
+	<url><loc>https://duongthanhkhuong.github.io/</loc><lastmod>2021-06-08</lastmod></url>
 	<url><loc>https://duongthanhkhuong.github.io/amp/mobile-developer.amp.html</loc></url>
 	<url><loc>https://duongthanhkhuong.github.io/amp/tiem-nang-thuong-mai.amp.html</loc></url>
-	<url><loc>https://duongthanhkhuong.github.io/ban-do-thuong-mai.html</loc></url>
-	<url><loc>https://duongthanhkhuong.github.io/news/huong-dan-su-dung-ban-do.html</loc></url>
 
 	<url><loc>https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-am-thuc.html</loc></url>
 	<url><loc>https://duongthanhkhuong.github.io/amp/dot-pha-am-thuc-mobile.amp.html</loc></url>
@@ -14,6 +12,10 @@
 	<url><loc>https://duongthanhkhuong.github.io/amp/san-pham-mobile.amp.html</loc></url>
 	<url><loc>https://duongthanhkhuong.github.io/amp/quang-ba-san-pham-tieu-dung.amp.html</loc></url>
 
+	<url><loc>https://duongthanhkhuong.github.io/product/website-bootstrap-ung-dung-dien-may.html</loc></url>
+	<url><loc>https://duongthanhkhuong.github.io/amp/bootstrap-ung-dung-mobile.amp.html</loc></url>
+	<url><loc>https://duongthanhkhuong.github.io/amp/quang-ba-ung-dung-dien-may.amp.html</loc></url>
+
 	<url><loc>https://duongthanhkhuong.github.io/product/website-bootstrap-du-lich-sieu-thi.html</loc></url>
 	<url><loc>https://duongthanhkhuong.github.io/amp/bootstrap-du-lich-mobile.amp.html</loc></url>
 	<url><loc>https://duongthanhkhuong.github.io/amp/quang-ba-du-lich-sieu-thi.amp.html</loc></url>
@@ -21,4 +23,7 @@
 	<url><loc>https://duongthanhkhuong.github.io/product/website-bootstrap-am-thuc-nha-hang.html</loc></url>
 	<url><loc>https://duongthanhkhuong.github.io/amp/bootstrap-am-thuc-mobile.amp.html</loc></url>
 	<url><loc>https://duongthanhkhuong.github.io/amp/quang-ba-am-thuc-nha-hang.amp.html</loc></url>
+
+	<url><loc>https://duongthanhkhuong.github.io/ban-do-thuong-mai.html</loc></url>
+	<url><loc>https://duongthanhkhuong.github.io/news/huong-dan-su-dung-ban-do.html</loc></url>
 </urlset>
