@@ -2,14 +2,9 @@
 <rss version="2.0">
 
 <channel>
-	<title>khương itvtbadboy</title>
+	<title>dương thành khương</title>
 	<link>https://duongthanhkhuong.github.io/</link>
-	<description>Khương itvtbadboy quản lý thương mại brvt, xây dựng thư viện wiki, phát triển tiềm năng trang di động mobile, tối ưu website bootstrap, tư vấn an ninh mạng</description>
-	<item>
-		<title>mobile developer</title>
-		<link>https://duongthanhkhuong.github.io/amp/mobile-developer.amp.html</link>
-		<description>Mobile developer khương itvtbadboy thiết kế giao diện, tối ưu tốc độ x2 và viết seo json amp (accelerated mobile pages) tạo đòn gánh đột phá ma trận cdn backend</description>
-	</item>
+	<description>Dương thành khương quản lý thương mại brvt, xây dựng thư viện wiki, phát triển tiềm năng trang di động mobile, tối ưu website bootstrap, tư vấn an ninh mạng</description>
 	<item>
 		<title>tiềm năng thương mại</title>
 		<link>https://duongthanhkhuong.github.io/amp/tiem-nang-thuong-mai.amp.html</link>
@@ -33,12 +28,7 @@
 		<description>Hiệu ứng seo khương itvtbadboy phát triển json và microdata tối ưu mọi thiết bị</description>
 	</item>
 	<item>
-		<title>seo mobile</title>
-		<link>https://duongthanhkhuong.github.io/amp/seo-mobile.amp.html</link>
-		<description>Seo mobile khương itvtbadboy đột phá mọi chuyên đề tương ứng nhu cầu website thương mại bootstrap và di động amp</description>
-	</item>
-	<item>
-		<title>cấu trúc seo</title>
+		<title>đột phá cấu trúc seo</title>
 		<link>https://duongthanhkhuong.github.io/amp/dot-pha-cau-truc-seo.amp.html</link>
 		<description>Cấu trúc seo khương itvtbadboy chọn những chuyên đề có tiềm năng rất lớn trên trang di động mobile, có khả năng đột phá ma trận từ khóa cdn backend và tương tác ngược với website bootstrap</description>
 	</item>
