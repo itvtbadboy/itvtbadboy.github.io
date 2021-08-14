@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url><loc>https://duongthanhkhuong.github.io/</loc><lastmod>2021-08-13</lastmod></url>
+	<url><loc>https://duongthanhkhuong.github.io/</loc><lastmod>2021-08-14</lastmod></url>
 	<url><loc>https://duongthanhkhuong.github.io/amp/tiem-nang-thuong-mai.amp.html</loc></url>
-	<url><loc>https://duongthanhkhuong.github.io/ban-do-thuong-mai.html</loc></url>
+	<url><loc>https://duongthanhkhuong.github.io/ban-do-thuong-mai.html</loc><lastmod>2021-08-14</lastmod></url>
 
-	<url><loc>https://duongthanhkhuong.github.io/seo/hieu-ung-seo.html</loc></url>
+	<url><loc>https://duongthanhkhuong.github.io/seo/hieu-ung-seo.html</loc><lastmod>2021-08-14</lastmod></url>
 	<url><loc>https://duongthanhkhuong.github.io/amp/dot-pha-cau-truc-seo.amp.html</loc></url>
 
 	<url><loc>https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-danh-muc.html</loc></url>
@@ -34,5 +34,5 @@
 	<url><loc>https://duongthanhkhuong.github.io/product/website-bootstrap-am-thuc-nha-hang.html</loc></url>
 	<url><loc>https://duongthanhkhuong.github.io/amp/quang-ba-am-thuc-nha-hang.amp.html</loc></url>
 
-	<url><loc>https://duongthanhkhuong.github.io/news/huong-dan-su-dung-ban-do.html</loc></url>
+	<url><loc>https://duongthanhkhuong.github.io/news/huong-dan-su-dung-ban-do.html</loc><lastmod>2021-08-14</lastmod></url>
 </urlset>
