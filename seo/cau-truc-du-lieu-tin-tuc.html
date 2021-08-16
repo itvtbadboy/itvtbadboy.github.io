@@ -240,7 +240,7 @@
 													<p style="font-size: 17px;"><i class="fal fa-book"></i>&nbsp;&nbsp;articleSection (định dạng Text): khương itvtbadboy phân loại tin tức cơ bản, google top news hỗ trợ 5/8 loại (world - local - business - entertainment - sports) cho khu vực vi-VN, khu vực đặc biệt en-US có thêm 3 loại (technology - science - health).</p>
 													<p style="font-size: 17px;"><i class="fal fa-book"></i>&nbsp;&nbsp;backstory (định dạng CreativeWork | Text): là thuộc tính chuyên dụng phát triển trong môi trường tin tức news article, khương itvtbadboy sử dụng backstory nhằm đưa ra bổ sung về quy trình - giải pháp - báo cáo - phỏng vấn hoặc lược đồ dữ liệu data sources.</p>
 													<p style="font-size: 17px;"><i class="fal fa-book"></i>&nbsp;&nbsp;hasPart (định dạng CreativeWork): là hiệu ứng phụ khương itvtbadboy sử dụng faqpage triển khai nội dung chi tiết đưa tin tức ra ngoài kết quả tìm kiếm, đây là thực tế mà thuật ngữ chuyên ngành kỹ thuật phần mềm gọi là lớp truy cập dữ liệu data access layer (BackEnd) khương itvtbadboy giải thích trong phần ma trận.</p>
-												</div><span style="margin-top: 18px; margin-bottom: 25px;" class="fw-separator"></span>
+												</div><span style="margin-top: 15px; margin-bottom: 25px;" class="fw-separator"></span>
 
 												<div id="tintucstories">
 													<img src="https://www.mediafire.com/convkey/769e/hrc27qqq2iq4fpy6g.jpg?size_id=8" class="respimg" alt="cau truc tin tuc">
@@ -250,7 +250,7 @@
 													<p style="font-size: 17px;"><i class="fal fa-book"></i>&nbsp;&nbsp;Tin tức stories khương itvtbadboy triển khai nội dung thành phân khúc qua các trang lẻ amp-story-grid-layer được phân biệt bằng id và tính năng khác nhau nhờ vào tùy chọn template, nội dung quá dài vừa che mất hình ảnh vừa bị ẩn đoạn dưới.</p>
 													<p style="font-size: 17px;"><i class="fal fa-book"></i>&nbsp;&nbsp;Tin tức stories không hỗ trợ truy vấn nội dung thẻ id từ bên ngoài vì vậy hướng dẫn howto là hiệu ứng đầu tiên khương itvtbadboy không dùng chung, tiếp theo là danh mục itemlist dạng all-in-one đem từng phần nội dung tạo thành slide show hiển thị ra ngoài.</p>
 													<p style="font-size: 17px;"><i class="fal fa-book"></i>&nbsp;&nbsp;Tin tức stories hỗ trợ nội dung phụ bằng tính năng bookend (định dạng json) khương itvtbadboy có thể tạo file.json riêng biệt hoặc chèn trực tiếp trong trang, đây chính là khu vực của hiệu ứng phụ hasPart.</p>
-												</div><span style="margin-top: 18px; margin-bottom: 25px;" class="fw-separator"></span>
+												</div><span style="margin-top: 15px; margin-bottom: 25px;" class="fw-separator"></span>
 
 												<div id="tintucreview">
 													<img src="https://www.mediafire.com/convkey/a923/grm6moqt5lhkdqn6g.jpg?size_id=8" class="respimg" alt="cau truc tin tuc">
@@ -260,7 +260,7 @@
 													<p style="font-size: 17px;"><i class="fal fa-book"></i>&nbsp;&nbsp;Tin tức review google developer hướng dẫn thực chất là không có nhưng review snippet lại hỗ trợ đến 17 chuyên đề lớn nhỏ, đây là sự khác biệt của chuyên viên khai thác khương itvtbadboy, không những có mà phải đầy đủ 3 thẻ tính năng mới mở được hiệu ứng kép.</p>
 													<p style="font-size: 17px;"><i class="fal fa-book"></i>&nbsp;&nbsp;Tin tức review cơ bản khương itvtbadboy chỉ cần 5 sao và nội dung trích trong trang cho reviewBody (định dạng Text), không chèn nội dung giả mạo bên ngoài trang.</p>
 													<p style="font-size: 17px;"><i class="fal fa-book"></i>&nbsp;&nbsp;Tin tức review nâng cao phải thay reviewBody bằng itemReviewed (định dạng Thing), chọn 1 chuyên đề sẽ hiển thị cùng hiệu ứng trang tin tức, nói dễ hiểu trước khi khương itvtbadboy triển khai cần làm sáng tỏ câu hỏi <strong>viết cho cái gì</strong> và cái đó sẽ là nội dung của itemReviewed.</p>
-												</div><span style="margin-top: 18px; margin-bottom: 25px;" class="fw-separator"></span>
+												</div><span style="margin-top: 15px; margin-bottom: 25px;" class="fw-separator"></span>
 
 												<div id="tintucvideo">
 													<img src="https://www.mediafire.com/convkey/b8e0/lg1ut0jie77fpx76g.jpg?size_id=8" class="respimg" alt="cau truc tin tuc">
@@ -269,7 +269,7 @@
 													<p style="font-size: 17px;"><i class="fal fa-book"></i>&nbsp;&nbsp;Tin tức video rất dễ nhầm lẫn khi triển khai sử dụng vì video object là phần tử của article cũng như news article nên video khương itvtbadboy có thể dùng độc lập hoặc trở thành tính năng của hiệu ứng khác.</p>
 													<p style="font-size: 17px;"><i class="fal fa-book"></i>&nbsp;&nbsp;Tin tức video khương itvtbadboy dùng độc lập vẫn có thể kích hoạt được 4 hiệu ứng đặc biệt của trang tin tức, sự khác biệt về khả năng đột phá nằm ở nguồn cấp contentUrl và embedUrl (định dạng URL), video trỏ về từ youtube khả năng không cao bằng liên kết trực tiếp trong tên miền, đây có lẻ là lý do doanh nghiệp không khai thác được hiệu ứng video vì ổ cứng trực tuyến không bằng youtube.</p>
 													<p style="font-size: 17px;"><i class="fal fa-book"></i>&nbsp;&nbsp;Tin tức video khương itvtbadboy dùng như tính năng của tin tức news article hay ẩm thực recipe hiệu quả cao hơn, lợi ích nhiều hơn vì được youtube và google recipe guidance assistant chung tay quảng bá thương hiệu, với tin tức news article thì video là thẻ mở rộng tách biệt với các thẻ cơ bản hoặc chèn vào about, nếu có ẩm thực recipe không cần chèn vì video là thuộc tính bắt buộc phải có của recipe.</p>
-												</div><span style="margin-top: 18px; margin-bottom: 25px;" class="fw-separator"></span>
+												</div><span style="margin-top: 15px; margin-bottom: 25px;" class="fw-separator"></span>
 
 												<div id="tintucrecipe">
 													<img src="https://www.mediafire.com/convkey/b61d/bpecfjozwql7rn26g.jpg?size_id=8" class="respimg" alt="cau truc tin tuc">
@@ -278,7 +278,7 @@
 													<p style="font-size: 17px;"><i class="fal fa-book"></i>&nbsp;&nbsp;Tin tức recipe rất nổi tiếng trên thương trường quốc tế nên được google ưu ái nhiều hơn khi khương itvtbadboy có bản đồ nhà hàng restaurant.</p>
 													<p style="font-size: 17px;"><i class="fal fa-book"></i>&nbsp;&nbsp;Tin tức recipe dù khương itvtbadboy sử dụng theo cách nào thì yêu cầu vẫn không thay đổi, trọng tâm nội dung là hình ảnh và video từng bước, riêng video google còn trang bị thêm hiệu ứng trích đoạn clip nhưng chỉ dùng cho trang di động mobile.</p>
 													<p style="font-size: 17px;"><i class="fal fa-book"></i>&nbsp;&nbsp;Tin tức recipe khương itvtbadboy khai thác thuộc tính recipe guidance assistant chỉ hiển thị trên bản đồ doanh nghiệp business loại nhà hàng restaurant, thuộc tính này nói đến cùng chẳng qua cũng chỉ là hướng dẫn howto cho ẩm thực.</p>
-												</div><span style="margin-top: 18px; margin-bottom: 25px;" class="fw-separator"></span>
+												</div><span style="margin-top: 15px; margin-bottom: 25px;" class="fw-separator"></span>
 
 												<div id="tintuchowto">
 													<img src="https://www.mediafire.com/convkey/d3ee/no3idggw1q8vziz6g.jpg?size_id=8" class="respimg" alt="cau truc tin tuc">
