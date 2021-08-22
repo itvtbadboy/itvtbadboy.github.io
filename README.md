@@ -1,7 +1,7 @@
 <img src="anh-thuong-hieu/logoamp.png" align="right" width="128px" height="128px"/>
 
 # duongthanhkhuong.github.io
-[KHƯƠNG ITVTBADBOY](https://vi.wikipedia.org/wiki/Thành_viên:Dương_Thành_Khương)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![khuongitvtbadboy](anh-thuong-hieu/awesome.svg)](https://duongthanhkhuong.github.io/) [![khuongitvtbadboy](https://img.shields.io/twitter/follow/badboyvt83.svg?style=social)](https://twitter.com/badboyvt83)
+[KHƯƠNG ITVTBADBOY](https://vi.wikipedia.org/wiki/Thành_viên:Dương_Thành_Khương)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![khuongitvtbadboy](anh-thuong-hieu/awesome.svg)](https://duongthanhkhuong.github.io/) [![khuongitvtbadboy](https://img.shields.io/twitter/follow/badboyvt83.svg?style=social)](https://twitter.com/badboyvt83)
 > &#10031; Phát triển tiềm năng di động amp mobile quảng bá thương hiệu toàn cầu.<br>
 > &#10031; Tối ưu website bootstrap v4 và media wiki khai thác ma trận cdn backend.<br>
 > &#10031; Sử dụng linux parrot security giám sát an ninh mạng web server cục bộ.
@@ -20,7 +20,7 @@
 - [seo hướng dẫn](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-huong-dan.html) - Hiệu ứng seo hướng dẫn đột phá ma trận cdn backend điện máy.
 - [seo danh mục](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-danh-muc.html) - Hiệu ứng seo danh mục đột phá ma trận cdn backend siêu thị.
 
- ## nhạc tuyển chọn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![khuongitvtbadboy](anh-thuong-hieu/awesome.svg)
+ ## nhạc tuyển chọn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![khuongitvtbadboy](anh-thuong-hieu/awesome.svg)
  > &#10031; Nhạc trẻ (vpop) - nhạc hoa (cpop) - nhạc quốc tế (pop) - nhạc hòa tấu (guzheng) chất lượng 128kps khương itvtbadboy tuyển chọn.
 - [nhạc trẻ](https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/top-vpop-nhac-tre.html) - Xin một lần được yêu, tình mãi bên anh, tiếng sáo phiêu bồng, sai lầm vẫn là anh, quên một lời thề, cứ yêu nhau đi ...
 - [nhạc hoa](https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/top-cpop-nhac-hoa.html) - 7 viên kim cương, cuộc chơi vô nghĩa, đao kiếm như mộng, ngàn năm tương phùng, tiếu ngạo giang hồ, mịt mù ...
