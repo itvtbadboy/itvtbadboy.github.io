@@ -20,7 +20,7 @@
 - [seo hướng dẫn](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-huong-dan.html) - Hiệu ứng seo hướng dẫn đột phá ma trận cdn backend điện máy.
 - [seo danh mục](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-danh-muc.html) - Hiệu ứng seo danh mục đột phá ma trận cdn backend siêu thị.
 
- ## nhạc tuyển chọn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![khuongitvtbadboy](anh-thuong-hieu/awesome.svg)
+ ## nhạc tuyển chọn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![khuongitvtbadboy](anh-thuong-hieu/awesome.svg)
  > &#10031; Nhạc trẻ (vpop) - nhạc hoa (cpop) - nhạc quốc tế (pop) - nhạc hòa tấu (guzheng) chất lượng 128kps khương itvtbadboy tuyển chọn.
 - [nhạc trẻ](https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/top-vpop-nhac-tre.html) - Hiệu ứng seo ẩm thực đột phá ma trận cdn backend nhà hàng.
 - [nhạc hoa](https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/top-cpop-nhac-hoa.html) - Hiệu ứng seo tin tức đột phá ma trận cdn backend đại lý.
