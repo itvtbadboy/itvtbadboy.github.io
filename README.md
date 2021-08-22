@@ -3,7 +3,6 @@
 # duongthanhkhuong.github.io
 
 <div>
-![duongthanhkhuong](https://www.mediafire.com/convkey/5ab8/u5f4886rjjtony56g.jpg)
 ![duongthanhkhuong](anh-thuong-hieu/awesome.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[KHƯƠNG ITVTBADBOY](https://vi.wikipedia.org/wiki/Thành_viên:Dương_Thành_Khương)
 > &#10031; Phát triển tiềm năng di động amp mobile quảng bá thương hiệu toàn cầu.<br>
 > &#10031; Tối ưu website bootstrap v4 và media wiki khai thác ma trận cdn backend.<br>
