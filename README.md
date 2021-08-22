@@ -20,14 +20,7 @@
 - [seo hướng dẫn](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-huong-dan.html) - Hiệu ứng seo hướng dẫn đột phá ma trận cdn backend điện máy.
 - [seo danh mục](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-danh-muc.html) - Hiệu ứng seo danh mục đột phá ma trận cdn backend siêu thị.
 
- ## nhạc tuyển chọn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![khuongitvtbadboy](anh-thuong-hieu/awesome.svg)
- > &#10031; Nhạc trẻ (vpop) - nhạc hoa (cpop) - nhạc quốc tế (pop) - nhạc hòa tấu (guzheng) chất lượng 128kps khương itvtbadboy tuyển chọn.
-- [nhạc trẻ](https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/top-vpop-nhac-tre.html) - Xin một lần được yêu, tình mãi bên anh, tiếng sáo phiêu bồng, sai lầm vẫn là anh, quên một lời thề, cứ yêu nhau đi ...
-- [nhạc hoa](https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/top-cpop-nhac-hoa.html) - 7 viên kim cương, cuộc chơi vô nghĩa, đao kiếm như mộng, ngàn năm tương phùng, tiếu ngạo giang hồ, mịt mù ...
-- [nhạc quốc tế](https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/top-pop-nhac-quoc-te.html) - Circle in the sand, iam so in love with you, moon light, no face no name no number, walking in the sun, you will ...
-- [nhạc hòa tấu](https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/top-guzheng-nhac-hoa-tau.html) - Còn lại nhớ thương, không tên, lặng lẽ mùa đông, lỗi lầm đã qua, một nhành mai, tôi sẽ không yêu, tomorrow ...
-
-## top seo tiềm năng&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![khuongitvtbadboy](anh-thuong-hieu/awesome.svg)](https://duongthanhkhuong.github.io/amp/tiem-nang-thuong-mai.amp.html)
+## top seo tiềm năng&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![khuongitvtbadboy](anh-thuong-hieu/awesome.svg)](https://duongthanhkhuong.github.io/amp/tiem-nang-thuong-mai.amp.html)
  > &#10031; Top seo tiềm năng thương mại khương itvtbadboy đột phá mọi nền tảng (media wiki - bootstrap - mobile), mọi giới hạn ma trận cdn backend.
 - [top seo pinterest](https://www.pinterest.com/itvtbadboy/) - Top seo pinterest khương itvtbadboy tối ưu tiềm năng quảng bá hình ảnh thương hiệu toàn cầu.
 - [top seo facebook](https://www.facebook.com/watch/khuongbadboy/) - Top seo facebook khương itvtbadboy xây dựng tiềm năng bán hàng trực tuyến video market place.
@@ -35,3 +28,10 @@
 - [top seo twitter](https://twitter.com/i/events/1145163551859855360) - Top seo twitter khương itvtbadboy xây dựng kênh di động chuyên dụng khai thác tiềm năng amp.
 - [top seo tumblr](https://khuongitvtbadboy.tumblr.com/) - Top seo tumblr khương itvtbadboy thiết kế web tiềm năng giả di động mobile đột phá hiệu ứng tự do.
 - [top seo instagram](https://www.instagram.com/khuongitvtbadboy8383/?hl=en) - Top seo liên kết instagram khương itvtbadboy chọn quảng bá tiềm năng thương trường quốc tế.
+
+ ## nhạc tuyển chọn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![khuongitvtbadboy](anh-thuong-hieu/awesome.svg)
+ > &#10031; Nhạc trẻ (vpop) - nhạc hoa (cpop) - nhạc quốc tế (pop) - nhạc hòa tấu (guzheng) chất lượng 128kps khương itvtbadboy tuyển chọn.
+- [nhạc trẻ](https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/top-vpop-nhac-tre.html) - Xin một lần được yêu, tình mãi bên anh, tiếng sáo phiêu bồng, sai lầm vẫn là anh, quên một lời thề, cứ yêu nhau đi ...
+- [nhạc hoa](https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/top-cpop-nhac-hoa.html) - 7 viên kim cương, cuộc chơi vô nghĩa, đao kiếm như mộng, ngàn năm tương phùng, tiếu ngạo giang hồ, mịt mù ...
+- [nhạc quốc tế](https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/top-pop-nhac-quoc-te.html) - Circle in the sand, iam so in love with you, moon light, no face no name no number, walking in the sun, you will ...
+- [nhạc hòa tấu](https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/top-guzheng-nhac-hoa-tau.html) - Còn lại nhớ thương, không tên, lặng lẽ mùa đông, lỗi lầm đã qua, một nhành mai, tôi sẽ không yêu, tomorrow ...
