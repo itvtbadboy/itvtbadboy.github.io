@@ -13,14 +13,14 @@
 - [bootstrap ứng dụng](https://duongthanhkhuong.github.io/product/website-bootstrap-ung-dung-dien-may.html) - Website bootstrap ứng dụng khương itvtbadboy tối ưu điện máy.
 - [bootstrap bán lẻ](https://duongthanhkhuong.github.io/product/website-bootstrap-ban-le-dai-ly.html) - Website bootstrap bán lẻ khương itvtbadboy tối ưu đại lý.
 
- ## hiệu ứng seo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![khuongitvtbadboy](anh-thuong-hieu/awesome.svg)](https://duongthanhkhuong.github.io/seo/hieu-ung-seo.html)
+ ## hiệu ứng seo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![khuongitvtbadboy](anh-thuong-hieu/awesome.svg)](https://duongthanhkhuong.github.io/seo/hieu-ung-seo.html)
  > &#10031; Hiệu ứng seo khương itvtbadboy phát triển tag manager json tối ưu mọi thiết bị nền tảng đột phá ma trận cdn backend.
 - [seo ẩm thực](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-am-thuc.html) - Hiệu ứng seo ẩm thực đột phá ma trận cdn backend nhà hàng.
 - [seo tin tức](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-tin-tuc.html) - Hiệu ứng seo tin tức đột phá ma trận cdn backend đại lý.
 - [seo hướng dẫn](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-huong-dan.html) - Hiệu ứng seo hướng dẫn đột phá ma trận cdn backend điện máy.
 - [seo danh mục](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-danh-muc.html) - Hiệu ứng seo danh mục đột phá ma trận cdn backend siêu thị.
 
- ## nhạc tuyển chọn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![khuongitvtbadboy](anh-thuong-hieu/awesome.svg)
+ ## nhạc tuyển chọn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![khuongitvtbadboy](anh-thuong-hieu/awesome.svg)
  > &#10031; Nhạc trẻ (vpop) - nhạc hoa (cpop) - nhạc quốc tế (pop) - nhạc hòa tấu (guzheng) chất lượng 128kps khương itvtbadboy tuyển chọn.
 - [nhạc trẻ](https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/top-vpop-nhac-tre.html) - Xin một lần được yêu, tình mãi bên anh, tiếng sáo phiêu bồng, sai lầm vẫn là anh, quên một lời thề, cứ yêu nhau đi ...
 - [nhạc hoa](https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/top-cpop-nhac-hoa.html) - 7 viên kim cương, cuộc chơi vô nghĩa, đao kiếm như mộng, ngàn năm tương phùng, tiếu ngạo giang hồ, mịt mù ...
