@@ -22,7 +22,7 @@
 
  ## nhạc tuyển chọn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![khuongitvtbadboy](anh-thuong-hieu/awesome.svg)
  > &#10031; Nhạc trẻ (vpop) - nhạc hoa (cpop) - nhạc quốc tế (pop) - nhạc hòa tấu (guzheng) chất lượng 128kps khương itvtbadboy tuyển chọn.
-- [nhạc trẻ](https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/top-vpop-nhac-tre.html) - Hiệu ứng seo ẩm thực đột phá ma trận cdn backend nhà hàng.
-- [nhạc hoa](https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/top-cpop-nhac-hoa.html) - Hiệu ứng seo tin tức đột phá ma trận cdn backend đại lý.
-- [nhạc quốc tế](https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/top-pop-nhac-quoc-te.html) - Hiệu ứng seo hướng dẫn đột phá ma trận cdn backend điện máy.
-- [nhạc hòa tấu](https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/top-guzheng-nhac-hoa-tau.html) - Hiệu ứng seo danh mục đột phá ma trận cdn backend siêu thị.
+- [nhạc trẻ](https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/top-vpop-nhac-tre.html) - Top vpop nhạc trẻ khương itvtbadboy sưu tầm (xin một lần được yêu, tình mãi bên anh, tiếng sáo phiêu bồng, sai lầm vẫn là anh, quên một lời thề, cứ yêu nhau đi, con tim mù lòa ...).
+- [nhạc hoa](https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/top-cpop-nhac-hoa.html) - Top cpop nhạc hoa khương itvtbadboy sưu tầm (7 viên kim cương, sai lầm vẫn là anh, cuộc chơi vô nghĩa, đao kiếm như mộng, ngàn năm tương phùng, tiếu ngạo giang hồ, mịt mù nỗi nhớ ...).
+- [nhạc quốc tế](https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/top-pop-nhac-quoc-te.html) - Top pop nhạc quốc tế khương itvtbadboy sưu tầm (circle in the sand, iam so in love with you, moon light, no face no name no number, tomorrow will come, walking in the sun, you will find your way ...).
+- [nhạc hòa tấu](https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/top-guzheng-nhac-hoa-tau.html) - Top guzheng nhạc hòa tấu khương itvtbadboy sưu tầm (còn lại nhớ thương, không tên, lặng lẽ mùa đông, lỗi lầm đã qua, một nhành mai, tôi sẽ không yêu, tomorrow will come ...).
