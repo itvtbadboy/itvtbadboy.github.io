@@ -15,10 +15,10 @@
 
  ## hiệu ứng seo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![khuongitvtbadboy](https://duongthanhkhuong.github.io/anh-thuong-hieu/awesome.svg)](https://duongthanhkhuong.github.io/seo/hieu-ung-seo.html)
  > &#10031; Hiệu ứng seo khương itvtbadboy phát triển tag manager json tối ưu mọi thiết bị nền tảng đột phá ma trận cdn backend.
-- [seo ẩm thực](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-am-thuc.html) - Hiệu ứng seo ẩm thực đột phá ma trận cdn backend nhà hàng.
-- [seo tin tức](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-tin-tuc.html) - Hiệu ứng seo tin tức đột phá ma trận cdn backend đại lý.
-- [seo hướng dẫn](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-huong-dan.html) - Hiệu ứng seo hướng dẫn đột phá ma trận cdn backend điện máy.
-- [seo danh mục](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-danh-muc.html) - Hiệu ứng seo danh mục đột phá ma trận cdn backend siêu thị.
+- [seo ẩm thực](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-am-thuc.html) - Hiệu ứng seo ẩm thực khương itvtbadboy đột phá ma trận cdn backend nhà hàng.
+- [seo tin tức](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-tin-tuc.html) - Hiệu ứng seo tin tức khương itvtbadboy đột phá ma trận cdn backend đại lý.
+- [seo hướng dẫn](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-huong-dan.html) - Hiệu ứng seo hướng dẫn khương itvtbadboy đột phá ma trận cdn backend điện máy.
+- [seo danh mục](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-danh-muc.html) - Hiệu ứng seo danh mục khương itvtbadboy đột phá ma trận cdn backend siêu thị.
 
 ## top seo tiềm năng&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![khuongitvtbadboy](https://duongthanhkhuong.github.io/anh-thuong-hieu/awesome.svg)](https://duongthanhkhuong.github.io/amp/tiem-nang-thuong-mai.amp.html)
  > &#10031; Top seo tiềm năng thương mại khương itvtbadboy đột phá mọi nền tảng (media wiki - bootstrap - mobile), mọi giới hạn ma trận cdn backend.
