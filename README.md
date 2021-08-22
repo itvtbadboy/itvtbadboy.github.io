@@ -8,17 +8,17 @@
 
  ## website bootstrap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![khuongitvtbadboy](https://duongthanhkhuong.github.io/anh-thuong-hieu/awesome.svg)](https://duongthanhkhuong.github.io/product/san-pham-thuong-mai.html)
  > &#10031; Website bootstrap v4 quảng bá sản phẩm thương mại công - nông - ngư nghiệp thúc đẩy mạng lưới đối tác toàn cầu.
-- [bootstrap ẩm thực](https://duongthanhkhuong.github.io/product/website-bootstrap-am-thuc-nha-hang.html) - Website bootstrap ẩm thực khương itvtbadboy tối ưu nhà hàng.
-- [bootstrap du lịch](https://duongthanhkhuong.github.io/product/website-bootstrap-du-lich-sieu-thi.html) - Website bootstrap du lịch khương itvtbadboy tối ưu siêu thị.
-- [bootstrap ứng dụng](https://duongthanhkhuong.github.io/product/website-bootstrap-ung-dung-dien-may.html) - Website bootstrap ứng dụng khương itvtbadboy tối ưu điện máy.
-- [bootstrap bán lẻ](https://duongthanhkhuong.github.io/product/website-bootstrap-ban-le-dai-ly.html) - Website bootstrap bán lẻ khương itvtbadboy tối ưu đại lý.
+- [bootstrap ẩm thực](https://duongthanhkhuong.github.io/product/website-bootstrap-am-thuc-nha-hang.html) - Website bootstrap ẩm thực tối ưu nhà hàng.
+- [bootstrap du lịch](https://duongthanhkhuong.github.io/product/website-bootstrap-du-lich-sieu-thi.html) - Website bootstrap du lịch tối ưu siêu thị.
+- [bootstrap ứng dụng](https://duongthanhkhuong.github.io/product/website-bootstrap-ung-dung-dien-may.html) - Website bootstrap ứng dụng tối ưu điện máy.
+- [bootstrap bán lẻ](https://duongthanhkhuong.github.io/product/website-bootstrap-ban-le-dai-ly.html) - Website bootstrap bán lẻ tối ưu đại lý.
 
  ## hiệu ứng seo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![khuongitvtbadboy](https://duongthanhkhuong.github.io/anh-thuong-hieu/awesome.svg)](https://duongthanhkhuong.github.io/seo/hieu-ung-seo.html)
  > &#10031; Hiệu ứng seo khương itvtbadboy phát triển tag manager json tối ưu mọi thiết bị nền tảng đột phá ma trận cdn backend.
-- [seo ẩm thực](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-am-thuc.html) - Hiệu ứng seo ẩm thực khương itvtbadboy đột phá ma trận cdn backend nhà hàng.
-- [seo tin tức](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-tin-tuc.html) - Hiệu ứng seo tin tức khương itvtbadboy đột phá ma trận cdn backend đại lý.
-- [seo hướng dẫn](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-huong-dan.html) - Hiệu ứng seo hướng dẫn khương itvtbadboy đột phá ma trận cdn backend điện máy.
-- [seo danh mục](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-danh-muc.html) - Hiệu ứng seo danh mục khương itvtbadboy đột phá ma trận cdn backend siêu thị.
+- [seo ẩm thực](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-am-thuc.html) - Đột phá ma trận cdn backend nhà hàng.
+- [seo tin tức](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-tin-tuc.html) - Đột phá ma trận cdn backend đại lý.
+- [seo hướng dẫn](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-huong-dan.html) - Đột phá ma trận cdn backend điện máy.
+- [seo danh mục](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-danh-muc.html) - Đột phá ma trận cdn backend siêu thị.
 
 ## top seo tiềm năng&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![khuongitvtbadboy](https://duongthanhkhuong.github.io/anh-thuong-hieu/awesome.svg)](https://duongthanhkhuong.github.io/amp/tiem-nang-thuong-mai.amp.html)
  > &#10031; Top seo tiềm năng thương mại khương itvtbadboy đột phá mọi nền tảng (media wiki - bootstrap - mobile), mọi giới hạn ma trận cdn backend.
@@ -27,7 +27,7 @@
 - [top seo youtube](https://www.youtube.com/channel/UCWxlQXKvU104ylco8XFcoJg) - Sở hữu kênh chat độc quyền hỗ trợ tiềm năng top 1 video.
 - [top seo twitter](https://twitter.com/i/events/1145163551859855360) - Xây dựng kênh di động chuyên dụng khai thác tiềm năng amp.
 - [top seo tumblr](https://khuongitvtbadboy.tumblr.com/) - Thiết kế web tiềm năng giả di động mobile đột phá hiệu ứng tự do.
-- [top seo instagram](https://www.instagram.com/khuongitvtbadboy8383/?hl=en) - Quảng bá tiềm năng thương trường quốc tế.
+- [top seo instagram](https://www.instagram.com/khuongitvtbadboy8383/?hl=en) - Liên kết facebook quảng bá tiềm năng thương trường quốc tế.
 
  ## nhạc tuyển chọn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![khuongitvtbadboy](https://duongthanhkhuong.github.io/anh-thuong-hieu/awesome.svg)
  > &#10031; Nhạc trẻ (vpop) - nhạc hoa (cpop) - nhạc quốc tế (pop) - nhạc hòa tấu (guzheng) chất lượng 128kps khương itvtbadboy tuyển chọn.
