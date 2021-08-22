@@ -1,7 +1,7 @@
 <img src="anh-thuong-hieu/logoamp.png" align="right" width="128px" height="128px"/>
 
 # duongthanhkhuong.github.io
-[KHƯƠNG ITVTBADBOY](https://vi.wikipedia.org/wiki/Thành_viên:Dương_Thành_Khương)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![khuongitvtbadboy](anh-thuong-hieu/awesome.svg)](https://duongthanhkhuong.github.io/) [![khuongitvtbadboy](https://upload.wikimedia.org/wikipedia/commons/3/35/Pinterest_Logo.svg)](https://www.pinterest.com/itvtbadboy/) [![khuongitvtbadboy](https://img.shields.io/twitter/follow/badboyvt83.svg?style=social)](https://twitter.com/badboyvt83)
+[KHƯƠNG ITVTBADBOY](https://vi.wikipedia.org/wiki/Thành_viên:Dương_Thành_Khương)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![khuongitvtbadboy](anh-thuong-hieu/awesome.svg)](https://duongthanhkhuong.github.io/) [![khuongitvtbadboy](https://img.shields.io/twitter/follow/badboyvt83.svg?style=social)](https://twitter.com/badboyvt83)
 > &#10031; Phát triển tiềm năng di động amp mobile quảng bá thương hiệu toàn cầu.<br>
 > &#10031; Tối ưu website bootstrap v4 và media wiki khai thác ma trận cdn backend.<br>
 > &#10031; Sử dụng linux parrot security giám sát an ninh mạng web server cục bộ.
