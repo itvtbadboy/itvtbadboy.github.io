@@ -33,4 +33,4 @@
 - [top seo facebook](https://www.facebook.com/watch/khuongbadboy/) - Top seo facebook khương itvtbadboy xây dựng tiềm năng bán hàng trực tuyến market place.
 - [top seo youtube](https://www.youtube.com/channel/UCWxlQXKvU104ylco8XFcoJg) - Top seo youtube khương itvtbadboy sở hữu kênh chat độc quyền hỗ trợ tiềm năng top 1 video.
 - [top seo twitter](https://twitter.com/i/events/1145163551859855360) - Top seo twitter khương itvtbadboy xây dựng kênh di động chuyên dụng khai thác tiềm năng amp.
-- [top seo tumblr](https://khuongitvtbadboy.tumblr.com/) - Top seo tumblr khương itvtbadboy thiết kế website tiềm năng giả di động amp mobile đột phá hiệu ứng tự do.
+- [top seo tumblr](https://khuongitvtbadboy.tumblr.com/) - Top seo tumblr khương itvtbadboy thiết kế web tiềm năng giả di động đột phá hiệu ứng tự do.
