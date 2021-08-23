@@ -419,7 +419,7 @@
                         '    <p class="description"></p>' +
                         '    <div class="tracklist">' +
                         '        <ol class="tracks"> </ol>' +
-                        '        <div class="more">nhạc tuyển chọn</div>' +
+                        '        <div class="more">nhạc chọn lọc</div>' +
                         '    </div>' +
                         '    <div class="jPlayer-container"></div>' +
                         '</div>';
