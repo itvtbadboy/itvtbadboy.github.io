@@ -29,7 +29,7 @@
 - [top seo tumblr](https://khuongitvtbadboy.tumblr.com/) - Thiết kế web tiềm năng giả di động mobile đột phá hiệu ứng tự do.
 - [top seo instagram](https://www.instagram.com/khuongitvtbadboy8383/?hl=en) - Liên kết facebook quảng bá tiềm năng thương trường quốc tế.
 
- ## nhạc tuyển chọn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![khuongitvtbadboy](https://duongthanhkhuong.github.io/anh-thuong-hieu/awesome.svg)
+ ## nhạc chọn lọc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![khuongitvtbadboy](https://duongthanhkhuong.github.io/anh-thuong-hieu/awesome.svg)
  > &#10031; Nhạc trẻ (vpop) - nhạc hoa (cpop) - nhạc quốc tế (pop) - nhạc hòa tấu (guzheng) chất lượng 128kps khương itvtbadboy tuyển chọn.
 - [nhạc trẻ](https://duongthanhkhuong.github.io/nhac-chon-loc/top-1-thoi-nhac-tre.html) - Xin một lần được yêu, tiếng sáo phiêu bồng, sai lầm vẫn là anh ...
 - [nhạc hoa](https://duongthanhkhuong.github.io/nhac-chon-loc/top-1-thoi-nhac-hoa.html) - 7 viên kim cương, cuộc chơi vô nghĩa, đao kiếm như mộng ...
