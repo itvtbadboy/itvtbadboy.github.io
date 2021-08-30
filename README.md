@@ -13,12 +13,19 @@
 - [bootstrap ứng dụng](https://duongthanhkhuong.github.io/product/website-bootstrap-ung-dung-dien-may.html) - Website bootstrap ứng dụng tối ưu điện máy.
 - [bootstrap bán lẻ](https://duongthanhkhuong.github.io/product/website-bootstrap-ban-le-dai-ly.html) - Website bootstrap bán lẻ tối ưu đại lý.
 
- ## hiệu ứng seo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![khuongitvtbadboy](https://duongthanhkhuong.github.io/anh-thuong-hieu/awesome.svg)](https://duongthanhkhuong.github.io/seo/hieu-ung-seo.html)
- > &#10031; Hiệu ứng seo khương itvtbadboy phát triển tag manager json tối ưu mọi thiết bị nền tảng đột phá ma trận cdn backend.
+ ## hiệu ứng mobile&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![khuongitvtbadboy](https://duongthanhkhuong.github.io/anh-thuong-hieu/awesome.svg)](https://duongthanhkhuong.github.io/seo/hieu-ung-seo.html)
+ > &#10031; Hiệu ứng mobile khương itvtbadboy phát triển tag manager json tối ưu mọi thiết bị nền tảng đột phá ma trận cdn backend.
 - [seo ẩm thực](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-am-thuc.html) - Đột phá ma trận cdn backend nhà hàng.
 - [seo tin tức](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-tin-tuc.html) - Đột phá ma trận cdn backend đại lý.
 - [seo hướng dẫn](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-huong-dan.html) - Đột phá ma trận cdn backend điện máy.
 - [seo danh mục](https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-danh-muc.html) - Đột phá ma trận cdn backend siêu thị.
+
+ ## tiềm năng seo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![khuongitvtbadboy](https://duongthanhkhuong.github.io/anh-thuong-hieu/awesome.svg)
+ > &#10031; Tiềm năng seo khương itvtbadboy xây dựng ma trận tri thức thương hiệu media wiki, di động amp mobile làm đòn gánh cân bằng mạng xã hội.
+- [seo ảnh pinterest](https://duongthanhkhuong.github.io/seo/tiem-nang-seo-anh-pinterest.html) - Giải pháp seo ảnh toàn cầu pinterest.
+- [hosting 55GB mediafire](https://duongthanhkhuong.github.io/seo/tiem-nang-hosting-55gb-mediafire.html) - Lưu ảnh seo hosting 55GB mediafire.
+- [thương mại 13 đô](https://duongthanhkhuong.github.io/seo/tiem-nang-thuong-mai-13-do.html) - Máy chủ ảo đột phá thương mại 13 đô.
+- [tiềm năng business](https://duongthanhkhuong.github.io/seo/tiem-nang-ban-do-business.html) - Đột phá 3 mảnh ghép thương hiệu business.
 
 ## top seo tiềm năng&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![khuongitvtbadboy](https://duongthanhkhuong.github.io/anh-thuong-hieu/awesome.svg)](https://duongthanhkhuong.github.io/amp/tiem-nang-thuong-mai.amp.html)
  > &#10031; Top seo tiềm năng thương mại khương itvtbadboy đột phá mọi nền tảng (media wiki - bootstrap - mobile), mọi giới hạn ma trận cdn backend.
