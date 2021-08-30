@@ -1,5 +1,5 @@
 .ttw-music-player {
-    width: 410px;
+    width: 400px;
     margin: 10px auto;
     font-family: 'Roboto';
 }
@@ -109,7 +109,7 @@
 
 /** Player **/
 .ttw-music-player .player-controls {
-    width: 255px;
+    width: 245px;
     height: 30px;
     border-radius: 6px;
     -moz-border-radius: 6px;
@@ -161,7 +161,7 @@
 
 .ttw-music-player .progress-wrapper {
     height: 9px;
-    width: 175px;
+    width: 165px;
     float: left;
     background: transparent url(../anhplugin/player-progress.png) repeat-x 0 0 scroll;
     margin: 11px 10px 10px 0;
