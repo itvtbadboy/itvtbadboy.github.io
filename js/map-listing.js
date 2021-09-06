@@ -10,7 +10,7 @@
             [locationData( 'thuongmaitructuyenbrvt.com/', 'https://www.mediafire.com/convkey/489d/1p1fb1flcj5dcgc6g.jpg?size_id=8', 'thương mại brvt', "56 Nguyễn Hữu Huân", 'cafe-cat', "5", "5", "Nhà hàng", "#thuongmai-thuongmaibrvt"), 10.5118216, 107.1994638, 1 , 'https://www.mediafire.com/convkey/489d/1p1fb1flcj5dcgc6g.jpg']
         ];
 	    //   Map Infoboxes end ------------------
-        var map = new google.maps.Map(document.getElementById('bandothuongmai'), {
+        var map = new google.maps.Map(document.getElementById('mapbando'), {
             zoom: 14,
             scrollwheel: false,
             center: new google.maps.LatLng(10.51, 107.19),
@@ -334,7 +334,7 @@ head.insertBefore = function( newElement, referenceElement ) {
     insertBefore.call( head, newElement, referenceElement );
 };	
 	
-	    var map = document.getElementById('bandothuongmai');
+	    var map = document.getElementById('mapbando');
     if (typeof (map) != 'undefined' && map != null) {
         google.maps.event.addDomListener(window, 'load', mainMap);
     }
