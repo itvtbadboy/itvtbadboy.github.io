@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+	<url>
+		<loc>https://duongthanhkhuong.github.io/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-10-01</news:publication_date>
+			<news:title>dương thành khương</news:title>
+			<news:keywords>duong, thanh, khuong</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/amp/tiem-nang-thuong-mai.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-10-01</news:publication_date>
+			<news:title>bootstrap nổi bật</news:title>
+			<news:keywords>bootstrap, noi bat</news:keywords>
+		</news:news>
+	</url>
+</urlset>
