@@ -24,4 +24,16 @@
 			<news:keywords>tiem nang, seo, mobile friendly</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/amp/xay-dung-thuong-hieu-business.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-10-27</news:publication_date>
+			<news:title>xây dựng thương hiệu business</news:title>
+			<news:keywords>xay dung, thuong hieu, business</news:keywords>
+		</news:news>
+	</url>
 </urlset>
