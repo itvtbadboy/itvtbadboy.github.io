@@ -12,4 +12,16 @@
 			<news:keywords>tiem nang, thuong mai</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/amp/tiem-nang-seo-mobile-friendly.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-10-27</news:publication_date>
+			<news:title>tiềm năng seo mobile friendly</news:title>
+			<news:keywords>tiem nang, seo, mobile friendly</news:keywords>
+		</news:news>
+	</url>
 </urlset>
