@@ -36,4 +36,16 @@
 			<news:keywords>xay dung, thuong hieu, business</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/amp/tiem-nang-may-chu-ao-cloud-ce.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-10-27</news:publication_date>
+			<news:title>tiềm năng máy chủ ảo cloud ce</news:title>
+			<news:keywords>tiem nang, may chu ao, cloud ce</news:keywords>
+		</news:news>
+	</url>
 </urlset>
