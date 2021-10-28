@@ -108,4 +108,16 @@
 			<news:keywords>quang ba, ung dung, dien may</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/amp/quang-ba-du-lich-sieu-thi.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-10-28</news:publication_date>
+			<news:title>quảng bá du lịch siêu thị</news:title>
+			<news:keywords>quang ba, du lich, sieu thi</news:keywords>
+		</news:news>
+	</url>
 </urlset>
