@@ -84,4 +84,16 @@
 			<news:keywords>quang ba, san pham, tieu dung</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/amp/quang-ba-ban-le-dai-ly.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-10-28</news:publication_date>
+			<news:title>quảng bá đại lý bán lẻ</news:title>
+			<news:keywords>quang ba, dai ly, ban le</news:keywords>
+		</news:news>
+	</url>
 </urlset>
