@@ -156,4 +156,16 @@
 			<news:keywords>hieu ung, huong dan</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/amp/hieu-ung-danh-muc.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-10-29</news:publication_date>
+			<news:title>hiệu ứng danh mục</news:title>
+			<news:keywords>hieu ung, danh muc</news:keywords>
+		</news:news>
+	</url>
 </urlset>
