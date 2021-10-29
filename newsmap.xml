@@ -180,4 +180,16 @@
 			<news:keywords>hieu ung, am thuc</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/amp/dot-pha-cau-truc-seo.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-10-29</news:publication_date>
+			<news:title>đột phá cấu trúc seo</news:title>
+			<news:keywords>dot pha, cau truc, seo</news:keywords>
+		</news:news>
+	</url>
 </urlset>
