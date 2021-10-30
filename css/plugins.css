@@ -274,7 +274,7 @@ body .pac-container{border-radius:0 0 4px 4px;box-shadow:none;border:1px solid #
   background: #313E6E;
   color: #fff;
   content: attr(data-tooltip);
-  font-size:11px;
+  font-size:15px;
   font-weight:400;
   padding: 0 20px;
     height: 30px;
