@@ -4687,7 +4687,7 @@ section.gray-section .section-separator {
 	min-width:100px;
 	margin-left:-65px;
 	color:#fff;
-	font-size:11px;
+	font-size:15px;
 	visibility: hidden;
 	border-radius:2px;
 	background: #313E6E;
@@ -6487,7 +6487,7 @@ section.gray-section .section-separator {
 	margin-bottom:30px;
 }
 .gallery-item{
-	width: 25%;
+	width: 33%;
 	position:relative;
 	float:left;
 	padding:5px;
