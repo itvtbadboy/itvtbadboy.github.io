@@ -484,7 +484,7 @@
 				}
 
 				// Vertical video
-				var $video = $('<div class="yesp-playlist-video" data-playing="0" data-index="'+base.info.playlist_i+'"><img src="'+img_src+'" width="200" /><div class="yesp-playlist-overlay"><div class="yesp-playlist-title">'+video.snippet.title+'</div><div class="yesp-playlist-channel">'+video.snippet.channelTitle+'</div></div><div class="yesp-playlist-current"><i class="yesp-icon yesp-icon-play"></i><span>'+base.options.now_playing_text+'</span></div></div>');
+				var $video = $('<div class="yesp-playlist-video" data-playing="0" data-index="'+base.info.playlist_i+'"><img src="'+img_src+'" width="200" /><div class="yesp-playlist-overlay"><div class="yesp-playlist-title">'+video.snippet.title+'</div><div class="yesp-playlist-channel">'+video.snippet.channelTitle+'</div></div><div class="yesp-playlist-current"><i class="yesp-icon yesp-icon-play"></i><span style="font-size: 15px;">'+base.options.now_playing_text+'</span></div></div>');
 
 				$video.click(function(e) {
 					e.preventDefault();
