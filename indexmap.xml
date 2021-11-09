@@ -2,8 +2,8 @@
 <sitemapindex xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap><loc>https://duongthanhkhuong.github.io/sitemap.xml</loc></sitemap>
 	<sitemap><loc>https://duongthanhkhuong.github.io/pdf-map.xml</loc></sitemap>
-	<sitemap><loc>https://duongthanhkhuong.github.io/newsmap.xml</loc></sitemap>
 	<sitemap><loc>https://duongthanhkhuong.github.io/rss-channel.xml</loc></sitemap>
+	<sitemap><loc>https://duongthanhkhuong.github.io/amp/amp-map.xml</loc></sitemap>
 	<sitemap><loc>https://duongthanhkhuong.github.io/nhac-chon-loc/music-map.xml</loc></sitemap>
 	<sitemap><loc>https://duongthanhkhuong.github.io/seo/seo-map.xml</loc></sitemap>
 	<sitemap><loc>https://duongthanhkhuong.github.io/product/product-map.xml</loc></sitemap>
