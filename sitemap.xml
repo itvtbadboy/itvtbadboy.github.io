@@ -1,4 +1,387 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9/">
-	<url><loc>https://duongthanhkhuong.github.io/</loc><lastmod>2021-11-07</lastmod></url>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="https://www.google.com/schemas/sitemap-news/0.9">
+	<url>
+		<loc>https://duongthanhkhuong.github.io/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-11-22</news:publication_date>
+			<news:title>dương thành khương</news:title>
+			<news:keywords>duong, thanh, khuong</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/seo/tiem-nang-seo-di-dong.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-10-02</news:publication_date>
+			<news:title>tiềm năng seo di động</news:title>
+			<news:keywords>tiem nang, seo, di dong</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/seo/hieu-ung-seo.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-11-02</news:publication_date>
+			<news:title>hiệu ứng seo</news:title>
+			<news:keywords>hieu ung, seo</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/seo/bootstrap-than-thien-di-dong.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-10-25</news:publication_date>
+			<news:title>bootstrap thân thiện di động</news:title>
+			<news:keywords>bootstrap, than thien, di dong</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-danh-muc.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-11-04</news:publication_date>
+			<news:title>cấu trúc dữ liệu danh mục</news:title>
+			<news:keywords>cau truc, du lieu, danh muc</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-huong-dan.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-11-04</news:publication_date>
+			<news:title>cấu trúc dữ liệu hướng dẫn</news:title>
+			<news:keywords>cau truc, du lieu, huong dan</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-tin-tuc.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-11-03</news:publication_date>
+			<news:title>cấu trúc dữ liệu tin tức</news:title>
+			<news:keywords>cau truc, du lieu, tin tuc</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/seo/cau-truc-du-lieu-am-thuc.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-11-03</news:publication_date>
+			<news:title>cấu trúc dữ liệu ẩm thực</news:title>
+			<news:keywords>cau truc, du lieu, am thuc</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/seo/tiem-nang-seo-anh-pinterest.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-10-25</news:publication_date>
+			<news:title>tiềm năng seo ảnh pinterest</news:title>
+			<news:keywords>tiem nang, seo anh, pinterest</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/seo/tiem-nang-hosting-55gb-mediafire.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-10-25</news:publication_date>
+			<news:title>tiềm năng hosting 55GB mediafire</news:title>
+			<news:keywords>tiem nang, hosting 55gb, mediafire</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/seo/tiem-nang-thuong-mai-13-do.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-10-24</news:publication_date>
+			<news:title>tiềm năng thương mại 13 đô</news:title>
+			<news:keywords>tiem nang, thuong mai, 13 do</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/seo/tiem-nang-ban-do-business.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-10-26</news:publication_date>
+			<news:title>tiềm năng bản đồ business</news:title>
+			<news:keywords>tiem nang, ban do, business</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/product/tiem-nang-bootstrap-di-dong.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-09-04</news:publication_date>
+			<news:title>tiềm năng bootstrap di động</news:title>
+			<news:keywords>tiem nang, bootstrap, di dong</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/product/san-pham-thuong-mai.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-10-30</news:publication_date>
+			<news:title>sản phẩm thương mại</news:title>
+			<news:keywords>san pham, thuong mai</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/product/website-bootstrap-ban-le-dai-ly.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-11-01</news:publication_date>
+			<news:title>website bootstrap bán lẻ đại lý</news:title>
+			<news:keywords>website bootstrap, ban le, dai ly</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/product/website-bootstrap-ung-dung-dien-may.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-11-02</news:publication_date>
+			<news:title>website bootstrap ứng dụng điện máy</news:title>
+			<news:keywords>website bootstrap, ung dung, dien may</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/product/website-bootstrap-du-lich-sieu-thi.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-11-01</news:publication_date>
+			<news:title>website bootstrap du lịch siêu thị</news:title>
+			<news:keywords>website bootstrap, du lich, sieu thi</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/product/website-bootstrap-am-thuc-nha-hang.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-11-01</news:publication_date>
+			<news:title>website bootstrap ẩm thực nhà hàng</news:title>
+			<news:keywords>website bootstrap, am thuc, nha hang</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/nhac-chon-loc/top-1-thoi-nhac-hoa.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-08-26</news:publication_date>
+			<news:title>top 1 thời nhạc hoa</news:title>
+			<news:keywords>top, 1 thoi, nhac hoa</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/nhac-chon-loc/top-1-thoi-nhac-tre.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-08-26</news:publication_date>
+			<news:title>top 1 thời nhạc trẻ</news:title>
+			<news:keywords>top, 1 thoi, nhac tre</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/nhac-chon-loc/top-1-thoi-nhac-quoc-te.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-08-26</news:publication_date>
+			<news:title>top 1 thời nhạc quốc tế</news:title>
+			<news:keywords>top, 1 thoi, nhac quoc te</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-08-26</news:publication_date>
+			<news:title>top 1 thời nhạc hòa tấu</news:title>
+			<news:keywords>top, 1 thoi, nhac hoa tau</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/news/ban-do-da-nang-business-map.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-10-23</news:publication_date>
+			<news:title>bản đồ đa năng business map</news:title>
+			<news:keywords>ban do, da nang, business map</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/news/lap-trinh-di-dong-amp-developer.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-10-23</news:publication_date>
+			<news:title>lập trình di động amp developer</news:title>
+			<news:keywords>lap trinh, di dong, amp developer</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/fashion/vay-ngan-satin-khieu-goi.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-11-07</news:publication_date>
+			<news:title>váy ngắn satin khiêu gợi</news:title>
+			<news:keywords>vay ngan, satin, khieu goi</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/fashion/legging-satin-mem-mai.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-11-09</news:publication_date>
+			<news:title>legging satin mềm mại</news:title>
+			<news:keywords>legging, satin, mem mai</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/fashion/do-ngu-satin-ngot-ngao.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-11-08</news:publication_date>
+			<news:title>đồ ngủ satin ngọt ngào</news:title>
+			<news:keywords>do ngu, satin, ngot ngao</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/fashion/do-lot-satin-rao-ruc.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-11-08</news:publication_date>
+			<news:title>đồ lót satin rạo rực</news:title>
+			<news:keywords>do lot, satin, rao ruc</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/fashion/dam-ngu-satin-phoi-phoi.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-11-08</news:publication_date>
+			<news:title>đầm ngủ satin phơi phới</news:title>
+			<news:keywords>dam ngu, satin, phoi phoi</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/fashion/bodysuit-satin-quyen-ru.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-11-08</news:publication_date>
+			<news:title>bodysuit satin quyến rũ</news:title>
+			<news:keywords>bodysuit, satin, quyen ru</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/fashion/dam-satin-cuon-hut.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-11-08</news:publication_date>
+			<news:title>đầm satin cuốn hút</news:title>
+			<news:keywords>dam, satin, cuon hut</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/fashion/dam-satin-cuon-hut.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-11-08</news:publication_date>
+			<news:title>đầm satin cuốn hút</news:title>
+			<news:keywords>dam, satin, cuon hut</news:keywords>
+		</news:news>
+	</url>
 </urlset>
