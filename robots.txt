@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://duongthanhkhuong.github.io/sitemap.xml?redirect=false&start-index=1&max-results=500
-Sitemap: https://duongthanhkhuong.github.io/amp/newsmap.xml?redirect=false&start-index=501&max-results=1000
+Sitemap: https://duongthanhkhuong.github.io/amp/newsmap.xml?redirect=false&start-index=501&max-results=500
