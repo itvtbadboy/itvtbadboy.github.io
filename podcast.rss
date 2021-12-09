@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+	<title>dương thành khương</title>
+	<link>https://duongthanhkhuong.github.io/</link>
+	<language>vi-VN</language>
+	<copyright>© 2021 itvtbadboy</copyright>
+	<itunes:owner><itunes:email>itvtbadboy@gmail.com</itunes:email></itunes:owner>
+	<itunes:author>itvtbadboy</itunes:author>
+	<itunes:image href="https://www.mediafire.com/convkey/5ab8/u5f4886rjjtony56g.jpg"/>
+	<description><a href="https://duongthanhkhuong.github.io/"><img src="https://www.mediafire.com/convkey/5ab8/u5f4886rjjtony56g.jpg"></img></a> Dương thành khương lập trình web di động amp mobile, tối ưu server cloud ce, quản lý bán hàng online, tư vấn bảo mật tiếp thị thương mại</description>
+
+	<item>
+		<itunes:episodeType>entertainment</itunes:episodeType>
+		<itunes:title>1 thuở yêu người</itunes:title>
+		<description><content:encoded>
+			<![CDATA[Ca khúc nhạc hoa <a href="https://duongthanhkhuong.github.io/nhac-chon-loc/top-1-thoi-nhac-hoa.html">1 thuở yêu người</a>.]]>
+		</content:encoded></description>
+		<enclosure length="281" type="audio/mpeg" url="https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4QUIzeTB3ZG9peEE"/>
+		<guid>top-1-thoi-nhac-hoa</guid>
+		<pubDate>Dec 05, 2021</pubDate>
+		<itunes:duration>04:41</itunes:duration>
+		<itunes:explicit>false</itunes:explicit>
+	</item>
+</channel>
+
+</rss>
