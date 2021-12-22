@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://duongthanhkhuong.github.io/sitemap.xml
-Sitemap: https://duongthanhkhuong.github.io/amp/newsmap.xml
+Sitemap: https://www.itvtbadboy.com/sitemap.xml
+Sitemap: https://www.itvtbadboy.com/amp/newsmap.xml
