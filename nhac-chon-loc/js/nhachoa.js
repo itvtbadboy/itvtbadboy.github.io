@@ -2,7 +2,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/1_thu%E1%BB%9F_y%C3%AAu_ng%C6%B0%E1%BB%9Di.mp3',
 		oga:'#',
-		title:'1 thuở yêu người',
+		title:'<a rel="tag" title="Top nhạc hoa trương ngọc hữu: 1 thuở yêu người">1 thuở yêu người</a>',
 		artist:'Jacky Cheung',
 		rating:5,
 		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
@@ -11,224 +11,224 @@ var myPlaylist = [
 		cover:'https://i.pinimg.com/originals/8f/64/41/8f644187eeaf779543a2489abae6f681.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4dFRFckoxYTZ6ZU0',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/opportunity_dark_as_possible.mp3',
 		oga:'#',
-		title:'7 viên kim cương',
+		title:'<a rel="tag" title="Top nhạc hoa lê minh: 7 viên kim cương">7 viên kim cương</a>',
 		artist:'Leon Lai',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4dFRFckoxYTZ6ZU0',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
 		price:'0',
 		duration:'03:24',
-		cover:'https://www.mediafire.com/convkey/475c/bf5ocz9tqf5gbs36g.jpg'
+		cover:'https://i.pinimg.com/originals/6e/0f/be/6e0fbee64b0fffb69661f9ab87816aa3.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4MWtJRUdUQ2dfQW8',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/c%E1%BB%95_m%C3%A1y_th%E1%BB%9Di_gian.mp3',
 		oga:'#',
-		title:'cổ máy thời gian',
+		title:'<a rel="tag" title="Top nhạc hoa cổ thiên lạc: cổ máy thời gian">cổ máy thời gian</a>',
 		artist:'Louis Koo',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4MWtJRUdUQ2dfQW8',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
 		price:'0',
 		duration:'03:12',
-		cover:'https://www.mediafire.com/convkey/c271/h96yymxgecm5v4c6g.jpg'
+		cover:'https://i.pinimg.com/originals/65/e4/fa/65e4faf9e8624b7c4c787e0783df15d6.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4Tkl6MmVGVUhSNFE',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/c%C3%B2n_l%E1%BA%A1i_n%E1%BB%97i_c%C3%B4_%C4%91%C6%A1n.mp3',
 		oga:'#',
-		title:'còn lại nỗi cô đơn',
+		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: còn lại nỗi cô đơn">còn lại nỗi cô đơn</a>',
 		artist:'Andy Lau',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4Tkl6MmVGVUhSNFE',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
 		price:'0',
 		duration:'04:35',
-		cover:'https://www.mediafire.com/convkey/dafd/grf0fclxcogczt26g.jpg'
+		cover:'https://i.pinimg.com/originals/df/0d/fc/df0dfc2c020ac37d293b7b9d765de1ed.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4WHlwSkRlU0VnMXM',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/cu%E1%BB%99c_ch%C6%A1i_v%C3%B4_ngh%C4%A9a.mp3',
 		oga:'#',
-		title:'cuộc chơi vô nghĩa',
+		title:'<a rel="tag" title="Top nhạc hoa trần tuệ lâm: cuộc chơi vô nghĩa">cuộc chơi vô nghĩa</a>',
 		artist:'Kelly Chen',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4WHlwSkRlU0VnMXM',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
 		price:'0',
 		duration:'04:09',
-		cover:'https://www.mediafire.com/convkey/c690/iyy7fd7g7bun6ro6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/e6/93/c5e693bb265b90eebe8e8ba799e5e133.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4MF80Wjd1SHZZQ1E',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/cu%E1%BB%99c_t%C3%ACnh_v%E1%BA%A1n_d%E1%BA%B7m.mp3',
 		oga:'#',
-		title:'cuộc tình vạn dặm',
+		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: cuộc tình vạn dặm">cuộc tình vạn dặm</a>',
 		artist:'Andy Lau',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4MF80Wjd1SHZZQ1E',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
 		price:'0',
 		duration:'03:48',
-		cover:'https://www.mediafire.com/convkey/dafd/grf0fclxcogczt26g.jpg'
+		cover:'https://i.pinimg.com/originals/df/0d/fc/df0dfc2c020ac37d293b7b9d765de1ed.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4b1F6YU5vb1k1bVk',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/d%C3%A1ng_em.mp3',
 		oga:'#',
-		title:'dáng em',
+		title:'<a rel="tag" title="Top nhạc hoa lâm chí huyền: dáng em">dáng em</a>',
 		artist:'Terry Lin',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4b1F6YU5vb1k1bVk',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
 		price:'0',
 		duration:'04:23',
-		cover:'https://www.mediafire.com/convkey/0765/f1yq4ajvbttha4k6g.jpg'
+		cover:'https://i.pinimg.com/originals/47/ce/95/47ce95688bda81c74ff264791392f6ce.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4UnkweTE1WWVuRjQ',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/d%C3%B9_c%C3%B3_l%C3%A0_ng%C6%B0%E1%BB%9Di_t%C3%ACnh.mp3',
 		oga:'#',
-		title:'dù có là người tình',
+		title:'<a rel="tag" title="Top nhạc hoa quách phú thành: dù có là người tình">dù có là người tình</a>',
 		artist:'Aaron Kwok',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4UnkweTE1WWVuRjQ',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
 		price:'0',
 		duration:'03:07',
-		cover:'https://www.mediafire.com/convkey/c900/cfku9ldvvk3oc2y6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/f5/35/c5f53501c9543d9f8e87e996d6b1889d.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=1Jj3AzwNMrNi2rMbDrV09rrMvWh1nQgY2',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/%C4%91ao_ki%E1%BA%BFm_nh%C6%B0_m%E1%BB%99ng.mp3',
 		oga:'#',
-		title:'đao kiếm như mộng',
+		title:'<a rel="tag" title="Top nhạc hoa châu hoa kiện: đao kiếm như mộng">đao kiếm như mộng</a>',
 		artist:'Wakin Chau',
 		rating:5,
-		buy:'https://drive.google.com/open?id=1Jj3AzwNMrNi2rMbDrV09rrMvWh1nQgY2',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
 		price:'0',
 		duration:'03:01',
-		cover:'https://www.mediafire.com/convkey/7507/zyc8rvsyncjypb86g.jpg'
+		cover:'https://i.pinimg.com/originals/bd/96/9a/bd969a3c4238af327a131960d4b7e8da.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=1w8aML4_8hD56dXBY_XTfCsT1B4Xo-lXW',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/%C4%91au-th%C6%B0%C6%A1ng-v%C3%AC-em.mp3',
 		oga:'#',
-		title:'đau thương chỉ vì em',
+		title:'<a rel="tag" title="Top nhạc hoa vũ khải hiền: đau thương chỉ vì em">đau thương chỉ vì em</a>',
 		artist:'Eric Moo',
 		rating:5,
-		buy:'https://drive.google.com/open?id=1w8aML4_8hD56dXBY_XTfCsT1B4Xo-lXW',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
 		price:'0',
 		duration:'04:14',
-		cover:'https://www.mediafire.com/convkey/c662/o0q0r7sq6c4gha26g.jpg'
+		cover:'https://i.pinimg.com/originals/c6/1a/9f/c61a9f2afb7ac4d85724dfc4b4efe00b.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4NXBRN2tiSGgyUlk',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/em_c%C3%B3_y%C3%AAu_anh_kh%C3%B4ng.mp3',
 		oga:'#',
-		title:'em có yêu anh không',
+		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: em có yêu anh không">em có yêu anh không</a>',
 		artist:'Andy Lau',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4NXBRN2tiSGgyUlk',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
 		price:'0',
 		duration:'03:49',
-		cover:'https://www.mediafire.com/convkey/dafd/grf0fclxcogczt26g.jpg'
+		cover:'https://i.pinimg.com/originals/df/0d/fc/df0dfc2c020ac37d293b7b9d765de1ed.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4NFFNM3B4aF9reUE',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/thi%C3%AAn_long_b%C3%A1t_b%E1%BB%99.mp3',
 		oga:'#',
-		title:'giang sơn tươi đẹp',
+		title:'<a rel="tag" title="Top nhạc hoa chung hán lương: giang sơn tươi đẹp">giang sơn tươi đẹp</a>',
 		artist:'Wallace Chung',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4NFFNM3B4aF9reUE',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
 		price:'0',
 		duration:'01:59',
-		cover:'https://www.mediafire.com/convkey/9302/3x7dh4n4hsimbz26g.jpg'
+		cover:'https://i.pinimg.com/originals/ab/8f/f8/ab8ff8c69f77d8e05bb37311f415bef7.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4NV9NUlFPM1R1Y2c',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/thanh_ki%E1%BA%BFm_%C4%91%E1%BB%93_long.mp3',
 		oga:'#',
-		title:'gió mây chuyển sắc',
+		title:'<a rel="tag" title="Top nhạc hoa ngô khải hoa: gió mây chuyển sắc">gió mây chuyển sắc</a>',
 		artist:'Lawrence Ng',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4NV9NUlFPM1R1Y2c',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
 		price:'0',
 		duration:'03:18',
-		cover:'https://www.mediafire.com/convkey/07eb/mh7038xgjnhkoo96g.jpg'
+		cover:'https://i.pinimg.com/originals/61/e2/75/61e275d76bdbff8d364d3b0c404430a2.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=1Bl9jjeOVxqVZ1udWkwz_WhPPk-eJMYHe',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/hao-han-truong-kiet.mp3',
 		oga:'#',
-		title:'hảo hán',
+		title:'<a rel="tag" title="Top nhạc hoa trương kiệt: hảo hán">hảo hán</a>',
 		artist:'Jason Zhang',
 		rating:5,
-		buy:'https://drive.google.com/open?id=1Bl9jjeOVxqVZ1udWkwz_WhPPk-eJMYHe',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
 		price:'0',
 		duration:'03:52',
-		cover:'https://www.mediafire.com/convkey/da58/4brfd6q50jywm9w6g.jpg'
+		cover:'https://i.pinimg.com/originals/e5/ad/d0/e5add0e8e65a7a4cd4b3f28da18d11b8.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4WG9fc29VbmtkQ2M',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/hoa_b%E1%BA%B1ng_l%C4%83ng.mp3',
 		oga:'#',
-		title:'hoa bằng lăng',
+		title:'<a rel="tag" title="Top nhạc hoa trác y đình: hoa bằng lăng">hoa bằng lăng</a>',
 		artist:'Timi Zhuo',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4WG9fc29VbmtkQ2M',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
 		price:'0',
 		duration:'03:28',
-		cover:'https://www.mediafire.com/convkey/5623/wmt1irbf3qpcu8u6g.jpg'
+		cover:'https://i.pinimg.com/originals/8f/24/11/8f24112ea8cfb4ed63528cfe86b3af49.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4aVduS3pOWFE2SXM',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/khi_n%C3%A0o_em_m%E1%BB%9Bi_bi%E1%BA%BFt.mp3',
 		oga:'#',
-		title:'khi nào em mới biết',
+		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: khi nào em mới biết">khi nào em mới biết</a>',
 		artist:'Andy Lau',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4aVduS3pOWFE2SXM',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
 		price:'0',
 		duration:'04:39',
-		cover:'https://www.mediafire.com/convkey/dafd/grf0fclxcogczt26g.jpg'
+		cover:'https://i.pinimg.com/originals/df/0d/fc/df0dfc2c020ac37d293b7b9d765de1ed.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4T1AtYlFldXBBZHM',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/kh%C3%BAc_nh%E1%BA%A1c_bu%E1%BB%93n.mp3',
 		oga:'#',
-		title:'khúc nhạc buồn',
+		title:'<a rel="tag" title="Top nhạc hoa quách phú thành: khúc nhạc buồn">khúc nhạc buồn</a>',
 		artist:'Aaron Kwok',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4T1AtYlFldXBBZHM',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
 		price:'0',
 		duration:'04:22',
-		cover:'https://www.mediafire.com/convkey/c900/cfku9ldvvk3oc2y6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/f5/35/c5f53501c9543d9f8e87e996d6b1889d.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4dWhUVm9qVUwycWs',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/ki%E1%BA%BFp_ve_s%E1%BA%A7u.mp3',
 		oga:'#',
-		title:'kiếp ve sầu',
+		title:'<a rel="tag" title="Top nhạc hoa thái chánh tiêu: kiếp ve sầu">kiếp ve sầu</a>',
 		artist:'Samuel Tai',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4dWhUVm9qVUwycWs',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
 		price:'0',
 		duration:'03:40',
 		cover:'https://www.mediafire.com/convkey/9d0f/al77p5c4we95e9d6g.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4b2hpSGJnazBUQjA',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/kinh_kh%C3%B3_ni%E1%BB%87m.mp3',
 		oga:'#',
-		title:'kinh khó niệm',
+		title:'<a rel="tag" title="Top nhạc hoa châu hoa kiện: kinh khó niệm">kinh khó niệm</a>',
 		artist:'Wakin Chau',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4b2hpSGJnazBUQjA',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
 		price:'0',
 		duration:'04:46',
-		cover:'https://www.mediafire.com/convkey/7507/zyc8rvsyncjypb86g.jpg'
+		cover:'https://i.pinimg.com/originals/bd/96/9a/bd969a3c4238af327a131960d4b7e8da.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4bUpWLU96eWdNMXc',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/loves_first_experiment.mp3',
 		oga:'#',
-		title:'love first experiment',
+		title:'<a rel="tag" title="Top nhạc hoa trương chấn nhạc: love first experiment">love first experiment</a>',
 		artist:'Chang Chen-yue',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4bUpWLU96eWdNMXc',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
 		price:'0',
 		duration:'04:02',
-		cover:'https://www.mediafire.com/convkey/09ff/nnysqlgp83anyms6g.jpg'
+		cover:'https://i.pinimg.com/originals/e9/57/42/e95742d1d88da5e2c4827fa7396e109e.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4Tmc3S1VNZHFSczg',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/m%E1%BB%81m_l%C3%B2ng.mp3',
 		oga:'#',
-		title:'mềm lòng',
+		title:'<a rel="tag" title="Top nhạc hoa nhậm hiền tề: mềm lòng">mềm lòng</a>',
 		artist:'Richie Ren',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4Tmc3S1VNZHFSczg',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
 		price:'0',
 		duration:'05:54',
-		cover:'https://www.mediafire.com/convkey/3513/1y9zrjz748bwllo6g.jpg'
+		cover:'https://i.pinimg.com/originals/1e/fd/4b/1efd4b7d14dad2416209e20120a1360a.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4LTNnemxiS05OYkU',
@@ -261,7 +261,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4V3ZjOUIzMVZHcUU',
 		price:'0',
 		duration:'02:40',
-		cover:'https://www.mediafire.com/convkey/7507/zyc8rvsyncjypb86g.jpg'
+		cover:'https://i.pinimg.com/originals/bd/96/9a/bd969a3c4238af327a131960d4b7e8da.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4QkV6ZTh1LTZDRms',
@@ -294,7 +294,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4bXA2V3RxenVKZ1E',
 		price:'0',
 		duration:'04:08',
-		cover:'https://www.mediafire.com/convkey/5623/wmt1irbf3qpcu8u6g.jpg'
+		cover:'https://i.pinimg.com/originals/8f/24/11/8f24112ea8cfb4ed63528cfe86b3af49.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4Y09iSDFMNy1GWVk',
@@ -305,7 +305,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4Y09iSDFMNy1GWVk',
 		price:'0',
 		duration:'02:34',
-		cover:'https://www.mediafire.com/convkey/dafd/grf0fclxcogczt26g.jpg'
+		cover:'https://i.pinimg.com/originals/df/0d/fc/df0dfc2c020ac37d293b7b9d765de1ed.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4WWhuWDZqb0dLSm8',
@@ -327,7 +327,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4Zll3bkhCa21TTXc',
 		price:'0',
 		duration:'05:13',
-		cover:'https://www.mediafire.com/convkey/5623/wmt1irbf3qpcu8u6g.jpg'
+		cover:'https://i.pinimg.com/originals/8f/24/11/8f24112ea8cfb4ed63528cfe86b3af49.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4UEQyb1pOWE5uQ1E',
@@ -349,7 +349,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4c1pyRkRKM0xNTW8',
 		price:'0',
 		duration:'03:55',
-		cover:'https://www.mediafire.com/convkey/c900/cfku9ldvvk3oc2y6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/f5/35/c5f53501c9543d9f8e87e996d6b1889d.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4V3hMVzh6R19NRGc',
@@ -360,7 +360,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4V3hMVzh6R19NRGc',
 		price:'0',
 		duration:'03:38',
-		cover:'https://www.mediafire.com/convkey/dafd/grf0fclxcogczt26g.jpg'
+		cover:'https://i.pinimg.com/originals/df/0d/fc/df0dfc2c020ac37d293b7b9d765de1ed.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4eFNCNFBwcGFwSGc',
@@ -371,7 +371,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4eFNCNFBwcGFwSGc',
 		price:'0',
 		duration:'03:10',
-		cover:'https://www.mediafire.com/convkey/3513/1y9zrjz748bwllo6g.jpg'
+		cover:'https://i.pinimg.com/originals/1e/fd/4b/1efd4b7d14dad2416209e20120a1360a.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4cXl6YkF5NlloQ28',
@@ -382,7 +382,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4cXl6YkF5NlloQ28',
 		price:'0',
 		duration:'04:04',
-		cover:'https://www.mediafire.com/convkey/dafd/grf0fclxcogczt26g.jpg'
+		cover:'https://i.pinimg.com/originals/df/0d/fc/df0dfc2c020ac37d293b7b9d765de1ed.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4TmMzUlprbGJrWVE',
@@ -393,7 +393,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4TmMzUlprbGJrWVE',
 		price:'0',
 		duration:'04:35',
-		cover:'https://www.mediafire.com/convkey/3513/1y9zrjz748bwllo6g.jpg'
+		cover:'https://i.pinimg.com/originals/1e/fd/4b/1efd4b7d14dad2416209e20120a1360a.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4OGZfTnNVT1lvbzg',
@@ -404,7 +404,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4OGZfTnNVT1lvbzg',
 		price:'0',
 		duration:'08:31',
-		cover:'https://www.mediafire.com/convkey/dafd/grf0fclxcogczt26g.jpg'
+		cover:'https://i.pinimg.com/originals/df/0d/fc/df0dfc2c020ac37d293b7b9d765de1ed.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4VHFPdEF3ZGp4UXM',
@@ -415,7 +415,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4VHFPdEF3ZGp4UXM',
 		price:'0',
 		duration:'04:14',
-		cover:'https://www.mediafire.com/convkey/7507/zyc8rvsyncjypb86g.jpg'
+		cover:'https://i.pinimg.com/originals/bd/96/9a/bd969a3c4238af327a131960d4b7e8da.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4U3pCb3MyalNaZ0k',
@@ -437,7 +437,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4UXI4OXBaWUJGVk0',
 		price:'0',
 		duration:'04:13',
-		cover:'https://www.mediafire.com/convkey/5623/wmt1irbf3qpcu8u6g.jpg'
+		cover:'https://i.pinimg.com/originals/8f/24/11/8f24112ea8cfb4ed63528cfe86b3af49.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4Rk9UYmVDQnVwVVE',
@@ -448,7 +448,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4Rk9UYmVDQnVwVVE',
 		price:'0',
 		duration:'04:19',
-		cover:'https://www.mediafire.com/convkey/5623/wmt1irbf3qpcu8u6g.jpg'
+		cover:'https://i.pinimg.com/originals/8f/24/11/8f24112ea8cfb4ed63528cfe86b3af49.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4eUpvZFlPUzQwN1E',
@@ -459,7 +459,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4eUpvZFlPUzQwN1E',
 		price:'0',
 		duration:'03:19',
-		cover:'https://www.mediafire.com/convkey/7507/zyc8rvsyncjypb86g.jpg'
+		cover:'https://i.pinimg.com/originals/bd/96/9a/bd969a3c4238af327a131960d4b7e8da.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4dnkwaUlBa00weG8',
@@ -470,7 +470,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4dnkwaUlBa00weG8',
 		price:'0',
 		duration:'04:30',
-		cover:'https://www.mediafire.com/convkey/3513/1y9zrjz748bwllo6g.jpg'
+		cover:'https://i.pinimg.com/originals/1e/fd/4b/1efd4b7d14dad2416209e20120a1360a.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4NmhxWDdwTlpkaG8',
@@ -492,7 +492,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4eXU1Tk9OenB2Ykk',
 		price:'0',
 		duration:'04:25',
-		cover:'https://www.mediafire.com/convkey/5623/wmt1irbf3qpcu8u6g.jpg'
+		cover:'https://i.pinimg.com/originals/8f/24/11/8f24112ea8cfb4ed63528cfe86b3af49.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4RnoxbktUSUFONVk',
@@ -514,7 +514,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4SlN1bWQ3dVpMZnM',
 		price:'0',
 		duration:'03:55',
-		cover:'https://www.mediafire.com/convkey/dafd/grf0fclxcogczt26g.jpg'
+		cover:'https://i.pinimg.com/originals/df/0d/fc/df0dfc2c020ac37d293b7b9d765de1ed.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4ZW5jbnJPUFlRSlk',
@@ -525,7 +525,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4ZW5jbnJPUFlRSlk',
 		price:'0',
 		duration:'04:32',
-		cover:'https://www.mediafire.com/convkey/5623/wmt1irbf3qpcu8u6g.jpg'
+		cover:'https://i.pinimg.com/originals/8f/24/11/8f24112ea8cfb4ed63528cfe86b3af49.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4SGtFaHgtNmZMZjA',
@@ -558,7 +558,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4VmZEVzBUMHdqLWs',
 		price:'0',
 		duration:'05:00',
-		cover:'https://www.mediafire.com/convkey/475c/bf5ocz9tqf5gbs36g.jpg'
+		cover:'https://i.pinimg.com/originals/6e/0f/be/6e0fbee64b0fffb69661f9ab87816aa3.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4ZTE4U1Q0MVJrazQ',
@@ -580,7 +580,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4cVlBUmNUVDNoTXc',
 		price:'0',
 		duration:'05:22',
-		cover:'https://www.mediafire.com/convkey/7507/zyc8rvsyncjypb86g.jpg'
+		cover:'https://i.pinimg.com/originals/bd/96/9a/bd969a3c4238af327a131960d4b7e8da.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4RndBbFdybEVkS3M',
@@ -591,7 +591,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4RndBbFdybEVkS3M',
 		price:'0',
 		duration:'04:22',
-		cover:'https://www.mediafire.com/convkey/dafd/grf0fclxcogczt26g.jpg'
+		cover:'https://i.pinimg.com/originals/df/0d/fc/df0dfc2c020ac37d293b7b9d765de1ed.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4eXlaRHdwNmttckE',
