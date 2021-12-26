@@ -1,14 +1,14 @@
 var myPlaylist = [
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4QUIzeTB3ZG9peEE',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/1_thu%E1%BB%9F_y%C3%AAu_ng%C6%B0%E1%BB%9Di.mp3',
 		oga:'#',
 		title:'1 thuở yêu người',
 		artist:'Jacky Cheung',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4QUIzeTB3ZG9peEE',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
 		price:'0',
 		duration:'04:41',
-		cover:'https://www.mediafire.com/convkey/7b75/njilh6p69f6rz8w6g.jpg'
+		cover:'https://i.pinimg.com/originals/8f/64/41/8f644187eeaf779543a2489abae6f681.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4dFRFckoxYTZ6ZU0',
@@ -316,7 +316,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4WWhuWDZqb0dLSm8',
 		price:'0',
 		duration:'05:03',
-		cover:'https://www.mediafire.com/convkey/7b75/njilh6p69f6rz8w6g.jpg'
+		cover:'https://i.pinimg.com/originals/8f/64/41/8f644187eeaf779543a2489abae6f681.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4Zll3bkhCa21TTXc',
@@ -481,7 +481,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4NmhxWDdwTlpkaG8',
 		price:'0',
 		duration:'04:35',
-		cover:'https://www.mediafire.com/convkey/7b75/njilh6p69f6rz8w6g.jpg'
+		cover:'https://i.pinimg.com/originals/8f/64/41/8f644187eeaf779543a2489abae6f681.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4eXU1Tk9OenB2Ykk',
@@ -569,7 +569,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4ZTE4U1Q0MVJrazQ',
 		price:'0',
 		duration:'04:03',
-		cover:'https://www.mediafire.com/convkey/7b75/njilh6p69f6rz8w6g.jpg'
+		cover:'https://i.pinimg.com/originals/8f/64/41/8f644187eeaf779543a2489abae6f681.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4cVlBUmNUVDNoTXc',
@@ -613,6 +613,6 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4SnhxYlB1MnFsems',
 		price:'0',
 		duration:'05:55',
-		cover:'https://www.mediafire.com/convkey/7b75/njilh6p69f6rz8w6g.jpg'
+		cover:'https://i.pinimg.com/originals/8f/64/41/8f644187eeaf779543a2489abae6f681.jpg'
 	}
 ];
