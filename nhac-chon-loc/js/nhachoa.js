@@ -231,6 +231,17 @@ var myPlaylist = [
 		cover:'https://i.pinimg.com/originals/1e/fd/4b/1efd4b7d14dad2416209e20120a1360a.jpg'
 	},
 	{
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/thi%C3%AAn-nhai-minh-nguy%E1%BB%87t.mp3',
+		oga:'#',
+		title:'<a rel="tag" title="Top nhạc hoa it vũng tàu badboy: minh nguyệt">minh nguyệt</a>',
+		artist:'it vũng tàu badboy',
+		rating:5,
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		price:'0',
+		duration:'04:34',
+		cover:'https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg'
+	},
+	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/m%E1%BB%8Bt_m%C3%B9_n%E1%BB%97i_nh%E1%BB%9B.mp3',
 		oga:'#',
 		title:'<a rel="tag" title="Top nhạc hoa diệp tịnh văn: mịt mù nỗi nhớ">mịt mù nỗi nhớ</a>',
@@ -330,7 +341,7 @@ var myPlaylist = [
 		cover:'https://i.pinimg.com/originals/8f/24/11/8f24112ea8cfb4ed63528cfe86b3af49.jpg'
 	},
 	{
-		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/n%E1%BB%A5_h%E1%BB%93ng_mong_manh.mp3',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/heart_broken_in_the_past.mp3',
 		oga:'#',
 		title:'<a rel="tag" title="Top nhạc hoa diệp tịnh văn: nụ hồng mong manh">nụ hồng mong manh</a>',
 		artist:'Sally Yeh',
@@ -396,6 +407,17 @@ var myPlaylist = [
 		cover:'https://i.pinimg.com/originals/1e/fd/4b/1efd4b7d14dad2416209e20120a1360a.jpg'
 	},
 	{
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/sunset.mp3',
+		oga:'#',
+		title:'<a rel="tag" title="Top nhạc hoa it vũng tàu badboy: sunset">sunset</a>',
+		artist:'it vũng tàu badboy',
+		rating:5,
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		price:'0',
+		duration:'04:34',
+		cover:'https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg'
+	},
+	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/th%E1%BA%A7m_g%E1%BB%8Di_t%C3%AAn_em.mp3',
 		oga:'#',
 		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: thầm gọi tên em">thầm gọi tên em</a>',
@@ -421,7 +443,7 @@ var myPlaylist = [
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/thi%C3%AAn_nhai.mp3',
 		oga:'#',
 		title:'<a rel="tag" title="Top nhạc hoa it vũng tàu badboy: thiên nhai">thiên nhai</a>',
-		artist:'thiên nhai',
+		artist:'it vũng tàu badboy',
 		rating:5,
 		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
 		price:'0',
@@ -495,7 +517,7 @@ var myPlaylist = [
 		cover:'https://i.pinimg.com/originals/8f/24/11/8f24112ea8cfb4ed63528cfe86b3af49.jpg'
 	},
 	{
-		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/t%C3%ACnh_%C4%91%C6%A1n_ph%C6%B0%C6%A1ng.mp3',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/heart_wants_you_to_hear.mp3',
 		oga:'#',
 		title:'<a rel="tag" title="Top nhạc hoa thái chánh tiêu: tình đơn phương">tình đơn phương</a>',
 		artist:'Samuel Tai',
@@ -570,6 +592,17 @@ var myPlaylist = [
 		price:'0',
 		duration:'04:03',
 		cover:'https://i.pinimg.com/originals/8f/64/41/8f644187eeaf779543a2489abae6f681.jpg'
+	},
+	{
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/tuy%E1%BA%BFt_s%C6%A1n_phi_h%E1%BB%93.mp3',
+		oga:'#',
+		title:'<a rel="tag" title="Top nhạc hoa it vũng tàu badboy: tuyết sơn phi hồ">tuyết sơn phi hồ</a>',
+		artist:'it vũng tàu badboy',
+		rating:5,
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		price:'0',
+		duration:'04:34',
+		cover:'https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg'
 	},
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/v%E1%BA%A7ng_tr%C4%83ng_kh%C3%B3c.mp3',
