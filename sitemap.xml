@@ -19,7 +19,7 @@
 				<news:name>tiềm năng thương mại</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2021-12-24</news:publication_date>
+			<news:publication_date>2021-12-28</news:publication_date>
 			<news:title>Tiềm năng thương mại it vũng tàu badboy thiết kế amp mobile cân bằng top từ khóa bách khoa tri thức media wiki</news:title>
 			<news:keywords>tiem nang, thuong mai</news:keywords>
 		</news:news>
@@ -67,7 +67,7 @@
 				<news:name>seo mobile friendly</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2021-12-26</news:publication_date>
+			<news:publication_date>2021-12-28</news:publication_date>
 			<news:title>Seo mobile friendly đột phá tiềm năng hiệu ứng website bootstrap chuyên nghiệp trên điện thoại di động amp</news:title>
 			<news:keywords>seo, mobile, friendly</news:keywords>
 		</news:news>
@@ -109,6 +109,18 @@
 		</news:news>
 	</url>
 	<url>
+		<loc>https://www.itvtbadboy.com/amp/hieu-ung-tin-tuc.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>tin tức</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-12-28</news:publication_date>
+			<news:title>Tin tức article it vũng tàu badboy phát triển bài đăng hàng đầu top news đột phá bảng xếp hạng từ khóa tiếp thị</news:title>
+			<news:keywords>tin tuc</news:keywords>
+		</news:news>
+	</url>
+	<url>
 		<loc>https://www.itvtbadboy.com/seo/cau-truc-du-lieu-am-thuc.html</loc>
 		<news:news>
 			<news:publication>
@@ -139,7 +151,7 @@
 				<news:name>seo ảnh mạng xã hội</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2021-12-26</news:publication_date>
+			<news:publication_date>2021-12-28</news:publication_date>
 			<news:title>Mạng xã hội pinterest không chỉ miễn phí tiếp thị đa ngôn ngữ toàn cầu mà còn sở hữu top hiệu ứng seo ảnh amp</news:title>
 			<news:keywords>seo, anh, mang xa hoi</news:keywords>
 		</news:news>
@@ -163,7 +175,7 @@
 				<news:name>miễn phí hosting 55GB</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2021-12-27</news:publication_date>
+			<news:publication_date>2021-12-28</news:publication_date>
 			<news:title>Miễn phí 55GB thư viện ảnh chuẩn seo snippets đột phá mọi mảnh ghép bí mật vì lợi ích tiếp thị hosting media</news:title>
 			<news:keywords>mien phi, hosting, 55GB</news:keywords>
 		</news:news>
@@ -187,7 +199,7 @@
 				<news:name>máy chủ ảo cloud ce</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2021-12-26</news:publication_date>
+			<news:publication_date>2021-12-28</news:publication_date>
 			<news:title>Máy chủ ảo mang sức mạnh vô hạn làm nền tảng thúc đẩy tiềm năng quảng cáo dưới giám sát của let's encrypt</news:title>
 			<news:keywords>may chu ao, cloud ce</news:keywords>
 		</news:news>
@@ -211,7 +223,7 @@
 				<news:name>xây dựng thương hiệu</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2021-12-25</news:publication_date>
+			<news:publication_date>2021-12-28</news:publication_date>
 			<news:title>Xây dựng thương hiệu business tận dụng sức mạnh product, video và offers tăng tiềm năng quảng cáo</news:title>
 			<news:keywords>xay dung, thuong hieu</news:keywords>
 		</news:news>
@@ -247,7 +259,7 @@
 				<news:name>sản phẩm tiêu dùng</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2021-10-28</news:publication_date>
+			<news:publication_date>2021-12-28</news:publication_date>
 			<news:title>Tiêu dùng trực tuyến quảng bá kênh thương mại it vũng tàu badboy tiếp thị đa dạng sản phẩm dịch vụ toàn cầu</news:title>
 			<news:keywords>san pham, tieu dung</news:keywords>
 		</news:news>
@@ -283,7 +295,7 @@
 				<news:name>ứng dụng điện máy</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2021-12-27</news:publication_date>
+			<news:publication_date>2021-12-28</news:publication_date>
 			<news:title>Điện máy it vũng tàu badboy phát triển web bootstrap cơ bản nhanh nhẹ, quảng bá ứng dụng tuyệt đối hiệu quả</news:title>
 			<news:keywords>ung dung, dien may</news:keywords>
 		</news:news>
