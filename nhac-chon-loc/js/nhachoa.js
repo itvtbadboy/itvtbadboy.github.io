@@ -636,16 +636,5 @@ var myPlaylist = [
 		price:'0',
 		duration:'04:27',
 		cover:'https://i.pinimg.com/originals/c5/00/ea/c500ea03b89235352a33ea295d43a6b3.jpg'
-	},
-	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4SnhxYlB1MnFsems',
-		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa trương ngọc hữu: yêu em">yêu em</a>',
-		artist:'Jacky Cheung',
-		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
-		price:'0',
-		duration:'05:55',
-		cover:'https://i.pinimg.com/originals/8f/64/41/8f644187eeaf779543a2489abae6f681.jpg'
 	}
 ];
