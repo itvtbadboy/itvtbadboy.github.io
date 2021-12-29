@@ -78,13 +78,6 @@
 		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/podcast/tlbb/thien-long-bat-bo-09.mp3" type="audio/mpeg" length="642163000"/>
 		<itunes:duration>53:18</itunes:duration>
 	</item>
-	<item>
-		<title>đoàn dự cứu chung linh</title>
-		<description>Mộc uyển thanh bị nam hải ngạc thần điểm huyệt mê man</description>
-		<pubDate>Thu, 30 Dec 2021 00:30:23 GMT</pubDate>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/podcast/tlbb/thien-long-bat-bo-10.mp3" type="audio/mpeg" length="642163000"/>
-		<itunes:duration>54:00</itunes:duration>
-	</item>
 
 </channel>
 </rss>
