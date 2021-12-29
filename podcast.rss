@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+	<title>it vung tau badboy</title>
+	<link>https://rss.com/podcasts/itvtbadboy/</link>
+	<language>vi-VN</language>
+	<copyright>© 2021 itvtbadboy</copyright>
+	<itunes:owner><itunes:email>itvtbadboy@gmail.com</itunes:email></itunes:owner>
+	<itunes:author>itvtbadboy</itunes:author>
+	<itunes:image href="https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg"/>
+	<description>
+		<a href="https://www.itvtbadboy.com/"><img src="https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg"></img></a> It vũng tàu badboy lập trình web di động amp mobile, tối ưu server cloud ce, quản lý bán hàng online, tư vấn bảo mật tiếp thị thương mại
+	</description>
+
+	<item>
+		<itunes:episodeType>Marketing</itunes:episodeType>
+		<itunes:title>nen tang dien toan dam may</itunes:title>
+		<description><content:encoded>
+			<![CDATA[Nền tảng điện toán đám mây <a href="https://www.itvtbadboy.com/">it vũng tàu badboy</a> xây dựng khung tiếp thị thương mại brvt trên google cloud engine cân bằng tải bảo mật cao</a>.]]>
+		</content:encoded></description>
+		<enclosure length="350443" type="audio/mpeg" url="https://rss.com/podcasts/itvtbadboy/350443/"/>
+		<guid>top-1-thoi-nhac-hoa</guid>
+		<pubDate>Dec 29, 2021</pubDate>
+		<itunes:duration>05:05</itunes:duration>
+		<itunes:explicit>false</itunes:explicit>
+	</item>
+</channel>
+
+</rss>
