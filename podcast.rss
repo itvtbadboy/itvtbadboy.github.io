@@ -1,30 +1,56 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd">
-
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
 <channel>
-	<title>it vung tau badboy</title>
-	<link>https://www.itvtbadboy.com/podcast.rss</link>
-	<language>vi-VN</language>
-	<copyright>© 2021 itvtbadboy</copyright>
-	<itunes:owner><itunes:email>itvtbadboy@gmail.com</itunes:email></itunes:owner>
-	<itunes:author>itvtbadboy</itunes:author>
-	<itunes:image href="https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg"/>
+	<title><![CDATA[ it vung tau badboy ]]></title>
+	<link>https://rss.com/podcasts/itvtbadboy</link>
+	<atom:link href="https://media.rss.com/itvtbadboy/feed.xml" rel="self" type="application/rss+xml"/>
+	<atom:link rel="hub" href="https://hub.livewire.io/"/>
 	<description>
-		<a href="https://www.itvtbadboy.com/"><img src="https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg"></img></a> It vũng tàu badboy lập trình web di động amp mobile, tối ưu server cloud ce, quản lý bán hàng online, tư vấn bảo mật tiếp thị thương mại
+		<![CDATA[ It vũng tàu badboy lập trình web di động amp mobile, tối ưu server cloud ce, quản lý bán hàng online, tư vấn bảo mật tiếp thị thương mại ]]>
 	</description>
+	<generator>itvtbadboy</generator>
+	<lastBuildDate>Wed, 29 Dec 2021 08:57:25 GMT</lastBuildDate>
+	<language>en</language>
+	<copyright><![CDATA[ © 2021 itvtbadboy ]]></copyright>
+
+	<itunes:image href="https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg"/>
+	<image>
+		<url>https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg</url>
+		<title>it vung tau badboy</title>
+		<link>https://rss.com/podcasts/itvtbadboy</link>
+	</image>
+	<itunes:summary>
+		<![CDATA[ It vũng tàu badboy lập trình web di động amp mobile, tối ưu server cloud ce, quản lý bán hàng online, tư vấn bảo mật tiếp thị thương mại ]]>
+	</itunes:summary>
+
+	<podcast:locked owner="itvtbadboy@gmail.com">Yes</podcast:locked>
+	<itunes:author>it vung tau badboy</itunes:author>
+	<itunes:owner>
+		<itunes:name>it vung tau badboy</itunes:name>
+		<itunes:email>itvtbadboy@gmail.com</itunes:email>
+	</itunes:owner>
+
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:type>episodic</itunes:type>
+
+	<itunes:category text="Business"><itunes:category text="Marketing"/></itunes:category>
+	<itunes:category text="Education"><itunes:category text="How To"/></itunes:category>
+	<itunes:category text="News"><itunes:category text="Tech News"/></itunes:category>
 
 	<item>
-		<itunes:episodeType>Marketing</itunes:episodeType>
-		<itunes:title>nen tang dien toan dam may</itunes:title>
-		<description><content:encoded>
-			<![CDATA[Nền tảng điện toán đám mây <a href="https://www.itvtbadboy.com/">it vũng tàu badboy</a> xây dựng khung tiếp thị thương mại brvt trên google cloud engine cân bằng tải bảo mật cao</a>.]]>
-		</content:encoded></description>
-		<enclosure length="350443" type="audio/mpeg" url="https://rss.com/podcasts/itvtbadboy/350443/"/>
-		<guid>top-1-thoi-nhac-hoa</guid>
-		<pubDate>Dec 29, 2021</pubDate>
-		<itunes:duration>05:05</itunes:duration>
-		<itunes:explicit>false</itunes:explicit>
+		<title><![CDATA[ nen tang dien toan dam may ]]></title>
+		<itunes:title><![CDATA[ nen tang dien toan dam may ]]></itunes:title>
+		<itunes:summary>Nền tảng điện toán đám mây it vũng tàu badboy xây dựng khung tiếp thị thương mại brvt trên google cloud engine cân bằng tải bảo mật cao</itunes:summary>
+		<description><![CDATA[ <p>Nền tảng điện toán đám mây it vũng tàu badboy xây dựng khung tiếp thị thương mại brvt trên google cloud engine cân bằng tải bảo mật cao</p> ]]></description>
+		<link>https://rss.com/podcasts/itvtbadboy/350443</link>
+		<enclosure url="https://media.rss.com/itvtbadboy/20211229_081247_5121b2aa901c84794fe1089131f2f183.mp3" length="4869782" type="audio/mpeg"/>
+		<guid isPermaLink="false">de19e393-00f2-4c13-81fb-7377b02af596</guid>
+		<itunes:image href="https://media.rss.com/itvtbadboy/20211229_081223_cf017d09b8ff456f15d4639a7578f587.jpg"/>
+		<itunes:duration>305</itunes:duration>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:episode>1</itunes:episode>
+		<itunes:season>1</itunes:season>
+		<itunes:explicit>no</itunes:explicit>
+		<pubDate>Wed, 29 Dec 2021 08:57:23 GMT</pubDate>
 	</item>
 </channel>
-
 </rss>
