@@ -8,7 +8,11 @@
 	</itunes:owner>
 	<itunes:author>it vung tau badboy</itunes:author><itunes:explicit>no</itunes:explicit>
 	<description>Thiên long bát bộ, truyện mp3 kim dung xoay quanh kiều phong, hư trúc và đoàn dự</description>
-	<itunes:image href="https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg"/>
+	<image>
+		<url>https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg</url>
+		<title>it vung tau badboy</title>
+		<link>https://www.itvtbadboy.com/</link>
+	</image>
 	<language>vi-VN</language><link>https://www.itvtbadboy.com/</link><copyright>vov giao thông</copyright>
 	<itunes:category text="Business"/><itunes:category text="News &amp; Politics"/><itunes:category text="Technology"/>
 
