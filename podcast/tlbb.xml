@@ -3,13 +3,19 @@
 
 <channel>
 	<title>thiên long bát bộ</title>
-	<itunes:owner><itunes:email>itvtbadboy@gmail.com</itunes:email></itunes:owner>
-	<itunes:author>it vung tau badboy</itunes:author>
 	<description>Thiên long bát bộ, truyện mp3 kim dung xoay quanh kiều phong, hư trúc và đoàn dự</description>
-	<itunes:image href="https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg"/>
+	<image>
+		<url>https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg</url>
+		<title>it vung tau badboy</title>
+		<link>https://www.itvtbadboy.com/</link>
+	</image>
 	<language>vi-VN</language>
 	<link>https://www.itvtbadboy.com/</link>
 	<copyright>vov giao thông</copyright>
+
+	<itunes:owner><itunes:email>itvtbadboy@gmail.com</itunes:email></itunes:owner>
+	<itunes:author>it vung tau badboy</itunes:author>
+	<itunes:image href="https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg"/>
 	<itunes:explicit>no</itunes:explicit>
 	<itunes:category text="Marketing"/>
 	<itunes:category text="How To"/>
@@ -73,10 +79,17 @@
 	</item>
 	<item>
 		<title>mộc uyển thanh chờ đoàn dự</title>
-		<description>Mộc uyển thanh bị nam hải ngạc thần điểm huyệt mê man 3 ngày đêm ... t đại hộ vệ đại lý cứu trợ</description>
+		<description>Mộc uyển thanh bị nam hải ngạc thần điểm huyệt mê man 3 ngày đêm ... tứ đại hộ vệ đại lý cứu trợ</description>
 		<pubDate>Thu, 30 Dec 2021 00:29:29 GMT</pubDate>
 		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/podcast/tlbb/thien-long-bat-bo-09.mp3" type="audio/mpeg" length="642163000"/>
 		<itunes:duration>53:18</itunes:duration>
+	</item>
+	<item>
+		<title>đoàn dự cứu chung linh</title>
+		<description>Mộc uyển thanh bị nam hải ngạc thần điểm huyệt mê man</description>
+		<pubDate>Thu, 30 Dec 2021 00:30:23 GMT</pubDate>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/podcast/tlbb/thien-long-bat-bo-10.mp3" type="audio/mpeg" length="642163000"/>
+		<itunes:duration>54:00</itunes:duration>
 	</item>
 
 </channel>
