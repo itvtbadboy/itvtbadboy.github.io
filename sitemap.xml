@@ -373,6 +373,18 @@
 		</news:news>
 	</url>
 	<url>
+		<loc>https://www.itvtbadboy.com/amp/quang-ba-du-lich-sieu-thi.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>du lịch siêu thị</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-12-30</news:publication_date>
+			<news:title>Siêu thị it vũng tàu badboy phát triển web bootstrap chuyên nghiệp với slide show và bộ lọc nhẹ nhanh bảo mật</news:title>
+			<news:keywords>du lich, sieu thi</news:keywords>
+		</news:news>
+	</url>
+	<url>
 		<loc>https://www.itvtbadboy.com/product/website-bootstrap-am-thuc-nha-hang.html</loc>
 		<news:news>
 			<news:publication>
