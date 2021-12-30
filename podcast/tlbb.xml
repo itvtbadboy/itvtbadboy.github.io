@@ -2,19 +2,14 @@
 <rss version="2.0" xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd">
 
 <channel>
-	<title>thiên long bát bộ</title><link>https://www.itvtbadboy.com/</link>
-	<description>Thiên long bát bộ, truyện mp3 kim dung xoay quanh kiều phong, hư trúc và đoàn dự</description>
-	<generator>itvtbadboy</generator><lastBuildDate>Wed, 29 Dec 2021 23:31:23 GMT</lastBuildDate>
-	<language>vi-VN</language><copyright>vov giao thông</copyright>
-	<image>
-		<url>https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg</url>
-		<title>it vung tau badboy</title><link>https://www.itvtbadboy.com/</link>
-	</image>
-
-	<itunes:image href="https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg"/>
-	<itunes:summary>Thiên long bát bộ, truyện mp3 kim dung xoay quanh kiều phong, hư trúc và đoàn dự</itunes:summary>
+	<title>thiên long bát bộ</title>
+	<itunes:owner>
+		<itunes:email>itvtbadboy@gmail.com</itunes:email>
+	</itunes:owner>
 	<itunes:author>it vung tau badboy</itunes:author><itunes:explicit>no</itunes:explicit>
-	<itunes:owner><itunes:name>it vung tau badboy</itunes:name><itunes:email>itvtbadboy@gmail.com</itunes:email></itunes:owner>
+	<description>Thiên long bát bộ, truyện mp3 kim dung xoay quanh kiều phong, hư trúc và đoàn dự</description>
+	<itunes:image href="https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg"/>
+	<language>vi-VN</language><link>https://www.itvtbadboy.com/</link><copyright>vov giao thông</copyright>
 	<itunes:category text="Business"/><itunes:category text="News &amp; Politics"/><itunes:category text="Technology"/>
 
 	<item>
