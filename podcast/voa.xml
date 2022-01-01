@@ -14,10 +14,10 @@
 	</image>
 
 	<itunes:summary><![CDATA[ Luyện kỹ năng nghe 2 kiểu phát âm anh mỹ thực tế từ đài tiếng nói hoa kỳ voa (special english technology report) ]]></itunes:summary>
-	<itunes:author>it vung tau badboy</itunes:author><itunes:explicit>no</itunes:explicit>
+	<itunes:author>it vung tau badboy</itunes:author><itunes:explicit>false</itunes:explicit>
 	<itunes:owner>
-		<itunes:name text="it vung tau badboy"></itunes:name>
-		<itunes:email href="itvtbadboy@gmail.com"></itunes:email>
+		<itunes:name>it vung tau badboy</itunes:name>
+		<itunes:email>itvtbadboy@gmail.com</itunes:email>
 	</itunes:owner>
 	<itunes:image href="https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg"/>
 	<itunes:category text="Business"/><itunes:category text="News &amp; Politics"/><itunes:category text="Technology"/>
