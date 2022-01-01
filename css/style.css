@@ -6487,10 +6487,10 @@ section.gray-section .section-separator {
 	margin-bottom:30px;
 }
 .gallery-item{
-	width: 33%;
+	width: 49.9%;
 	position:relative;
 	float:left;
-	padding:5px;
+	padding:30px;
 }
 .gallery-item .listing-item {
 	width:100%;
