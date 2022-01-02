@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="https://www.google.com/schemas/play-podcasts/1.0" xmlns:content="https://purl.org/rss/1.0/modules/content/">
+
+<channel>
+	<generator>it vũng tàu badboy</generator>
+	<lastBuildDate>Sun, 02 Jan 2022 17:34:23 GMT</lastBuildDate>
+	<title><![CDATA[ it vũng tàu badboy ]]></title>
+	<description><![CDATA[ It vũng tàu badboy lập trình web di động amp mobile, tối ưu server cloud ce, quản lý bán hàng online, tư vấn bảo mật tiếp thị thương mại ]]></description>
+	<language>vi-VN</language><link>https://www.itvtbadboy.com/</link><copyright>itvtbadboy</copyright>
+	<image>
+		<url>https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg</url>
+		<title>it vung tau badboy</title>
+		<link>https://www.itvtbadboy.com/</link>
+	</image>
+
+	<itunes:summary><![CDATA[ It vũng tàu badboy lập trình web di động amp mobile, tối ưu server cloud ce, quản lý bán hàng online, tư vấn bảo mật tiếp thị thương mại ]]></itunes:summary>
+	<itunes:author>it vung tau badboy</itunes:author><itunes:explicit>false</itunes:explicit>
+	<itunes:owner>
+		<itunes:name>it vung tau badboy</itunes:name>
+		<itunes:email>itvtbadboy@gmail.com</itunes:email>
+	</itunes:owner>
+	<itunes:image href="https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg"/>
+	<itunes:category text="Business"/><itunes:category text="News &amp; Politics"/><itunes:category text="Technology"/>
+
+	<item>
+		<title><![CDATA[ bản đồ đa năng ]]></title>
+		<description><![CDATA[
+			<a href="https://www.itvtbadboy.com/news/ban-do-da-nang-business-map.html"><img src="https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg"></img></a>
+			<p>Bản đồ đa năng business map 5-in-1 tìm kiếm mọi ngôn ngữ, thư viện dữ liệu sản phẩm dịch vụ tiêu dùng phong phú, bộ lọc top 1 chuyên nghiệp.</p>
+		]]></description>
+		<pubDate>Sun, 02 Jan 2022 17:40:23 GMT</pubDate>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/guz-tomorrow-will-come.mp3" type="audio/mpeg" length="6421630"/>
+		<itunes:duration>05:04</itunes:duration>
+	</item>
+
+</channel>
+</rss>
