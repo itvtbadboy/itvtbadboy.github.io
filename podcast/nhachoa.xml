@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="https://www.google.com/schemas/play-podcasts/1.0" xmlns:content="https://purl.org/rss/1.0/modules/content/">
+
+<channel>
+	<generator>it vũng tàu badboy</generator>
+	<lastBuildDate>Sun, 02 Jan 2022 21:33:23 GMT</lastBuildDate>
+	<title>nhạc hoa</title>
+	<description>
+		<![CDATA[ <p>✯ Top nhạc hoa 1 thời it vũng tàu badboy sưu tầm (7 viên kim cương, sai lầm vẫn là anh, cuộc chơi vô nghĩa, đao kiếm như mộng, ngàn năm tương phùng, tiếu ngạo giang hồ, mịt mù nỗi nhớ ...)</p> ]]>
+	</description>
+	<language>vi-VN</language><link>https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html</link><copyright>itvtbadboy</copyright>
+	<image>
+		<url>https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg</url>
+		<title>nhạc hoa</title><link>https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html</link>
+	</image>
+
+	<itunes:summary>
+		<![CDATA[ <p>✯ Top nhạc hoa 1 thời it vũng tàu badboy sưu tầm (7 viên kim cương, sai lầm vẫn là anh, cuộc chơi vô nghĩa, đao kiếm như mộng, ngàn năm tương phùng, tiếu ngạo giang hồ, mịt mù nỗi nhớ ...)</p> ]]>
+	</itunes:summary>
+	<itunes:author>it vũng tàu badboy</itunes:author><itunes:explicit>false</itunes:explicit>
+	<itunes:owner>
+		<itunes:name>it vũng tàu badboy</itunes:name>
+		<itunes:email>itvtbadboy@gmail.com</itunes:email>
+	</itunes:owner>
+	<itunes:image href="https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg"/>
+	<itunes:category text="Business"/><itunes:category text="News &amp; Politics"/><itunes:category text="Technology"/>
+
+	<item>
+		<title>nhạc hoa</title>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/guz-tomorrow-will-come.mp3" type="audio/mpeg" length="4869782"/>
+	</item>
+
+</channel>
+</rss>
