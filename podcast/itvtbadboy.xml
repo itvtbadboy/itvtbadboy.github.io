@@ -25,15 +25,17 @@
 	<item>
 		<title><![CDATA[ bản đồ đa năng ]]></title>
 		<description>
-			<![CDATA[<a href="https://www.itvtbadboy.com/news/ban-do-da-nang-business-map.html"><img src="https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg"></img></a><p>Bản đồ đa năng business map 5-in-1 tìm kiếm mọi ngôn ngữ, thư viện dữ liệu sản phẩm dịch vụ tiêu dùng phong phú, bộ lọc top 1 chuyên nghiệp.</p>]]>
+			<![CDATA[ <p><a href="https://www.itvtbadboy.com/news/ban-do-da-nang-business-map.html">Bản đồ đa năng</a> business map 5-in-1 tìm kiếm mọi ngôn ngữ, thư viện dữ liệu sản phẩm dịch vụ tiêu dùng phong phú, bộ lọc top 1 chuyên nghiệp.</p>]]>
 		</description>
 		<pubDate>Sun, 02 Jan 2022 19:22:23 GMT</pubDate>
 		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/guz-tomorrow-will-come.mp3" type="audio/mpeg" length="4869782"/>
 		<itunes:image href="https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg"/>
-		<itunes:duration>05:04</itunes:duration><itunes:explicit>false</itunes:explicit>
-		<podcast:soundbite startTime="0" duration="100">bản đồ đa năng</podcast:soundbite>
-		<podcast:soundbite startTime="100" duration="200">bản đồ thông dụng</podcast:soundbite>
-		<podcast:soundbite startTime="200" duration="300">bản đồ nâng cao</podcast:soundbite>
+		<itunes:duration>05:04</itunes:duration>
+		
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:soundbite startTime="0" duration="100">bản đồ đa năng</itunes:soundbite>
+		<itunes:soundbite startTime="100" duration="200">bản đồ thông dụng</itunes:soundbite>
+		<itunes:soundbite startTime="200" duration="300">bản đồ nâng cao</itunes:soundbite>
 	</item>
 
 </channel>
