@@ -3,6 +3,8 @@
 
 <channel>
 	<generator>it vũng tàu badboy</generator>
+	<copyright>itvtbadboy</copyright>
+
 	<lastBuildDate>Sun, 02 Jan 2022 22:34:23 GMT</lastBuildDate>
 	<title>du lịch siêu thị</title>
 	<description>
@@ -10,24 +12,15 @@
 		<p>✯ <a href="https://www.itvtbadboy.com/product/website-bootstrap-du-lich-sieu-thi.html#gianhangsieuchat">Gian hàng siêu chất</a> phong phú đa dạng theo địa điểm lý tưởng, trung tâm đô thị, vui chơi giải trí, thu hút đầu tư, tính năng đặc biệt, sử dụng di động và hướng dẫn viên it vũng tàu badboy chia ra làm nhiều chuyên mục tùy ý phát triển trong ngoài không thể tính hết</p>
 		<p>✯ <a href="https://www.itvtbadboy.com/product/website-bootstrap-du-lich-sieu-thi.html#trongtamdulich">Trọng tâm du lịch</a> mang theo tiềm năng rất lớn bao gồm cả bề dày nội dung và hiệu ứng seo do it vũng tàu badboy phát triển</p> ]]>
 	</description>
-	<language>vi-VN</language><link>https://www.itvtbadboy.com/product/website-bootstrap-du-lich-sieu-thi.html</link><copyright>itvtbadboy</copyright>
-	<image>
+	<language>vi-VN</language>
+	<link>https://www.itvtbadboy.com/product/website-bootstrap-du-lich-sieu-thi.html</link>
+	<itunes:explicit>false</itunes:explicit>
+	<googleplay:image>
 		<url>https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg</url>
-		<title>du lịch siêu thị</title><link>https://www.itvtbadboy.com/product/website-bootstrap-du-lich-sieu-thi.html</link>
-	</image>
-
-	<itunes:summary>
-		<![CDATA[ <p>✯ Du lịch siêu thị it vũng tàu badboy quảng cáo đặc sản quê hương, dịch vụ giải trí, website bootstrap siêu thị 3tr chỉ 102</p>
-		<p>✯ <a href="https://www.itvtbadboy.com/product/website-bootstrap-du-lich-sieu-thi.html#gianhangsieuchat">Gian hàng siêu chất</a> phong phú đa dạng theo địa điểm lý tưởng, trung tâm đô thị, vui chơi giải trí, thu hút đầu tư, tính năng đặc biệt, sử dụng di động và hướng dẫn viên it vũng tàu badboy chia ra làm nhiều chuyên mục tùy ý phát triển trong ngoài không thể tính hết</p>
-		<p>✯ <a href="https://www.itvtbadboy.com/product/website-bootstrap-du-lich-sieu-thi.html#trongtamdulich">Trọng tâm du lịch</a> mang theo tiềm năng rất lớn bao gồm cả bề dày nội dung và hiệu ứng seo do it vũng tàu badboy phát triển</p> ]]>
-	</itunes:summary>
-	<itunes:author>it vũng tàu badboy</itunes:author><itunes:explicit>false</itunes:explicit>
-	<itunes:owner>
-		<itunes:name>it vũng tàu badboy</itunes:name>
-		<itunes:email>itvtbadboy@gmail.com</itunes:email>
-	</itunes:owner>
-	<itunes:image href="https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg"/>
-	<itunes:category text="Business"/><itunes:category text="News &amp; Politics"/><itunes:category text="Technology"/>
+		<title>du lich sieu thi</title>
+		<link>https://www.itvtbadboy.com/product/website-bootstrap-du-lich-sieu-thi.html</link>
+	</googleplay:image>
+	<googleplay:owner>itvtbadboy@gmail.com</googleplay:owner>
 
 	<item>
 		<title>du lịch siêu thị</title>
