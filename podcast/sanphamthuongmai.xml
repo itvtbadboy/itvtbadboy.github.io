@@ -3,6 +3,8 @@
 
 <channel>
 	<generator>it vũng tàu badboy</generator>
+	<copyright>itvtbadboy</copyright>
+
 	<lastBuildDate>Sun, 02 Jan 2022 21:51:23 GMT</lastBuildDate>
 	<title>sản phẩm thương mại</title>
 	<description>
@@ -12,26 +14,15 @@
 		<p>✯ <a href="https://www.itvtbadboy.com/product/san-pham-thuong-mai.html#sieuthi">Thương mại siêu thị</a> phong phú dịch vụ ăn uống vui chơi, máy lạnh thoáng mát, wifi 5G</p>
 		<p>✯ <a href="https://www.itvtbadboy.com/product/san-pham-thuong-mai.html#dienmay">Thương mại điện máy</a> phân phối linh kiện toàn quốc, wifi 5G, rộng rãi đủ cafe giải khát</p> ]]>
 	</description>
-	<language>vi-VN</language><link>https://www.itvtbadboy.com/product/san-pham-thuong-mai.html</link><copyright>itvtbadboy</copyright>
-	<image>
+	<language>vi-VN</language>
+	<link>https://www.itvtbadboy.com/product/san-pham-thuong-mai.html</link>
+	<itunes:explicit>false</itunes:explicit>
+	<googleplay:image>
 		<url>https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg</url>
-		<title>sản phẩm thương mại</title><link>https://www.itvtbadboy.com/product/san-pham-thuong-mai.html</link>
-	</image>
-
-	<itunes:summary>
-		<![CDATA[ <p>✯ Sản phẩm thương mại công nông ngư nghiệp thúc đẩy mạng lưới bản đồ đối tác toàn cầu chỉ 102 it vũng tàu badboy</p>
-		<p>✯ <a href="https://www.itvtbadboy.com/product/san-pham-thuong-mai.html#nhahang">Thương mại nhà hàng</a> tiện nghi đầy đủ, wifi 5G, bãi xe, phòng vip, có đồ ăn chó / mèo</p>
-		<p>✯ <a href="https://www.itvtbadboy.com/product/san-pham-thuong-mai.html#daily">Thương mại đại lý</a> phân phối sản phẩm giao hàng toàn quốc, kho có bãi xe pccc tốt</p>
-		<p>✯ <a href="https://www.itvtbadboy.com/product/san-pham-thuong-mai.html#sieuthi">Thương mại siêu thị</a> phong phú dịch vụ ăn uống vui chơi, máy lạnh thoáng mát, wifi 5G</p>
-		<p>✯ <a href="https://www.itvtbadboy.com/product/san-pham-thuong-mai.html#dienmay">Thương mại điện máy</a> phân phối linh kiện toàn quốc, wifi 5G, rộng rãi đủ cafe giải khát</p> ]]>
-	</itunes:summary>
-	<itunes:author>it vũng tàu badboy</itunes:author><itunes:explicit>false</itunes:explicit>
-	<itunes:owner>
-		<itunes:name>it vũng tàu badboy</itunes:name>
-		<itunes:email>itvtbadboy@gmail.com</itunes:email>
-	</itunes:owner>
-	<itunes:image href="https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg"/>
-	<itunes:category text="Business"/><itunes:category text="News &amp; Politics"/><itunes:category text="Technology"/>
+		<title>san pham thuong mai</title>
+		<link>https://www.itvtbadboy.com/product/san-pham-thuong-mai.html</link>
+	</googleplay:image>
+	<googleplay:owner>itvtbadboy@gmail.com</googleplay:owner>
 
 	<item>
 		<title>sản phẩm thương mại</title>
