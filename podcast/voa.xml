@@ -3,24 +3,20 @@
 
 <channel>
 	<generator>voa technology report</generator>
+	<copyright>voa</copyright>
+
 	<lastBuildDate>Thu, 30 Dec 2021 22:00:23 GMT</lastBuildDate>
 	<title>luyện nghe thực tế voa</title>
 	<description>Luyện kỹ năng nghe 2 kiểu phát âm anh mỹ thực tế từ đài tiếng nói hoa kỳ voa (special english technology report)</description>
-	<language>en-VN</language><link>https://www.itvtbadboy.com/</link><copyright>voa</copyright>
-	<image>
+	<language>vi-VN</language>
+	<link>https://www.itvtbadboy.com/</link>
+	<itunes:explicit>false</itunes:explicit>
+	<googleplay:image>
 		<url>https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg</url>
 		<title>it vung tau badboy</title>
 		<link>https://www.itvtbadboy.com/</link>
-	</image>
-
-	<itunes:summary>Luyện kỹ năng nghe 2 kiểu phát âm anh mỹ thực tế từ đài tiếng nói hoa kỳ voa (special english technology report)</itunes:summary>
-	<itunes:author>it vung tau badboy</itunes:author><itunes:explicit>false</itunes:explicit>
-	<itunes:owner>
-		<itunes:name>it vung tau badboy</itunes:name>
-		<itunes:email>itvtbadboy@gmail.com</itunes:email>
-	</itunes:owner>
-	<itunes:image href="https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg"/>
-	<itunes:category text="Business"/><itunes:category text="News &amp; Politics"/><itunes:category text="Technology"/>
+	</googleplay:image>
+	<googleplay:owner>itvtbadboy@gmail.com</googleplay:owner>
 
 	<item>
 		<title>tri thức cộng đồng nghèo</title>
