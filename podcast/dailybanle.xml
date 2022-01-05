@@ -3,6 +3,8 @@
 
 <channel>
 	<generator>it vũng tàu badboy</generator>
+	<copyright>itvtbadboy</copyright>
+
 	<lastBuildDate>Sun, 02 Jan 2022 22:22:23 GMT</lastBuildDate>
 	<title>đại lý bán lẻ</title>
 	<description>
@@ -10,24 +12,15 @@
 		<p>✯ <a href="https://www.itvtbadboy.com/product/website-bootstrap-ban-le-dai-ly.html#nhucaudaily">Nhu cầu đại lý</a> it vũng tàu badboy bắt đầu từ slide show sản phẩm nhà phân phối trực thuộc hoặc đối tác thương mại có thể kết hợp video youtube, bản đồ business và facebook market place quảng bá đa kênh, đa sản phẩm tiêu dùng</p>
 		<p>✯ <a href="https://www.itvtbadboy.com/product/website-bootstrap-ban-le-dai-ly.html#tamdiembanle">Tâm điểm bán lẻ</a> it vũng tàu badboy sử dụng cấu trúc dữ liệu seo product và event được google map, google store hỗ trợ miễn phí có giới hạn nhưng đủ sức đột phá mọi tiềm năng toàn cầu</p> ]]>
 	</description>
-	<language>vi-VN</language><link>https://www.itvtbadboy.com/product/website-bootstrap-ban-le-dai-ly.html</link><copyright>itvtbadboy</copyright>
-	<image>
+	<language>vi-VN</language>
+	<link>https://www.itvtbadboy.com/product/website-bootstrap-ban-le-dai-ly.html</link>
+	<itunes:explicit>false</itunes:explicit>
+	<googleplay:image>
 		<url>https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg</url>
-		<title>đại lý bán lẻ</title><link>https://www.itvtbadboy.com/product/website-bootstrap-ban-le-dai-ly.html</link>
-	</image>
-
-	<itunes:summary>
-		<![CDATA[ <p>✯ Đại lý bán lẻ it vũng tàu badboy quảng cáo sản phẩm thời trang, dịch vụ làm đẹp, website bootstrap đại lý 3tr chỉ 102</p>
-		<p>✯ <a href="https://www.itvtbadboy.com/product/website-bootstrap-ban-le-dai-ly.html#nhucaudaily">Nhu cầu đại lý</a> it vũng tàu badboy bắt đầu từ slide show sản phẩm nhà phân phối trực thuộc hoặc đối tác thương mại có thể kết hợp video youtube, bản đồ business và facebook market place quảng bá đa kênh, đa sản phẩm tiêu dùng</p>
-		<p>✯ <a href="https://www.itvtbadboy.com/product/website-bootstrap-ban-le-dai-ly.html#tamdiembanle">Tâm điểm bán lẻ</a> it vũng tàu badboy sử dụng cấu trúc dữ liệu seo product và event được google map, google store hỗ trợ miễn phí có giới hạn nhưng đủ sức đột phá mọi tiềm năng toàn cầu</p> ]]>
-	</itunes:summary>
-	<itunes:author>it vũng tàu badboy</itunes:author><itunes:explicit>false</itunes:explicit>
-	<itunes:owner>
-		<itunes:name>it vũng tàu badboy</itunes:name>
-		<itunes:email>itvtbadboy@gmail.com</itunes:email>
-	</itunes:owner>
-	<itunes:image href="https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg"/>
-	<itunes:category text="Business"/><itunes:category text="News &amp; Politics"/><itunes:category text="Technology"/>
+		<title>dai ly ban le</title>
+		<link>https://www.itvtbadboy.com/product/website-bootstrap-ban-le-dai-ly.html</link>
+	</googleplay:image>
+	<googleplay:owner>itvtbadboy@gmail.com</googleplay:owner>
 
 	<item>
 		<title>đại lý bán lẻ</title>
