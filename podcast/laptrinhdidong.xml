@@ -3,6 +3,8 @@
 
 <channel>
 	<generator>it vũng tàu badboy</generator>
+	<copyright>itvtbadboy</copyright>
+
 	<lastBuildDate>Sun, 02 Jan 2022 21:15:23 GMT</lastBuildDate>
 	<title>lập trình di động</title>
 	<description>
@@ -12,26 +14,15 @@
 		<p>✯ <a href="https://www.itvtbadboy.com/news/lap-trinh-di-dong-amp-developer.html#thuongmaididong">Thương mại di động</a> google cung cấp miễn phí, bản quyền lập trình do developer chịu trách nhiệm khi quảng cáo</p>
 		<p>✯ <a href="https://www.itvtbadboy.com/news/lap-trinh-di-dong-amp-developer.html#khoinghiepdidong">Khởi nghiệp di động</a> là kinh nghiệm phát triển thực tế it vũng tàu badboy cung cấp sau khi hoàn tất đột phá nhiều nền tảng không riêng gì amp (tri thức bách khoa wiki, mạng xã hội, bảo mật)</p> ]]>
 	</description>
-	<language>vi-VN</language><link>https://www.itvtbadboy.com/news/lap-trinh-di-dong-amp-developer.html</link><copyright>itvtbadboy</copyright>
-	<image>
+	<language>vi-VN</language>
+	<link>https://www.itvtbadboy.com/news/lap-trinh-di-dong-amp-developer.html</link>
+	<itunes:explicit>false</itunes:explicit>
+	<googleplay:image>
 		<url>https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg</url>
-		<title>lập trình di động</title><link>https://www.itvtbadboy.com/news/lap-trinh-di-dong-amp-developer.html</link>
-	</image>
-
-	<itunes:summary>
-		<![CDATA[ <p>✯ Lập trình di động amp developer, it vũng tàu badboy tối ưu thiết kế giao diện đột phá tiềm năng hiệu ứng seo amp và amp stories</p>
-		<p>✯ <a href="https://www.itvtbadboy.com/news/lap-trinh-di-dong-amp-developer.html#nentangdidong">Nền tảng di động</a> amp là con cưng được google developer hỗ trợ tốc độ x2 (ma trận cdn) và bảo mật x2 (wss cloud - dnssec domain) khi it vũng tàu badboy sử dụng đủ bộ tài nguyên</p>
-		<p>✯ <a href="https://www.itvtbadboy.com/news/lap-trinh-di-dong-amp-developer.html#toiuudidong">Tối ưu di động</a> không mất nhiều thời gian, đặc biệt chuyên đề tin tức amp stories vì yêu cầu quan trọng nhất it vũng tàu badboy phải giữ được vẫn là tốc độ nhanh nhẹ</p>
-		<p>✯ <a href="https://www.itvtbadboy.com/news/lap-trinh-di-dong-amp-developer.html#thuongmaididong">Thương mại di động</a> google cung cấp miễn phí, bản quyền lập trình do developer chịu trách nhiệm khi quảng cáo</p>
-		<p>✯ <a href="https://www.itvtbadboy.com/news/lap-trinh-di-dong-amp-developer.html#khoinghiepdidong">Khởi nghiệp di động</a> là kinh nghiệm phát triển thực tế it vũng tàu badboy cung cấp sau khi hoàn tất đột phá nhiều nền tảng không riêng gì amp (tri thức bách khoa wiki, mạng xã hội, bảo mật)</p> ]]>
-	</itunes:summary>
-	<itunes:author>it vũng tàu badboy</itunes:author><itunes:explicit>false</itunes:explicit>
-	<itunes:owner>
-		<itunes:name>it vũng tàu badboy</itunes:name>
-		<itunes:email>itvtbadboy@gmail.com</itunes:email>
-	</itunes:owner>
-	<itunes:image href="https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg"/>
-	<itunes:category text="Business"/><itunes:category text="News &amp; Politics"/><itunes:category text="Technology"/>
+		<title>lap trinh di dong</title>
+		<link>https://www.itvtbadboy.com/news/lap-trinh-di-dong-amp-developer.html</link>
+	</googleplay:image>
+	<googleplay:owner>itvtbadboy@gmail.com</googleplay:owner>
 
 	<item>
 		<title>lập trình di động</title>
