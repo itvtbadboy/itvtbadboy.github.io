@@ -3,24 +3,20 @@
 
 <channel>
 	<generator>vov giao thông</generator>
+	<copyright>vov giao thông</copyright>
+
 	<lastBuildDate>Wed, 29 Dec 2021 23:21:23 GMT</lastBuildDate>
 	<title>thiên long bát bộ</title>
 	<description>Thiên long bát bộ, truyện phật giáo mp3 kim dung xoay quanh kiều phong, hư trúc và đoàn dự</description>
-	<language>vi-VN</language><link>https://www.itvtbadboy.com/</link><copyright>vov giao thông</copyright>
-	<image>
+	<language>vi-VN</language>
+	<link>https://www.itvtbadboy.com/</link>
+	<itunes:explicit>false</itunes:explicit>
+	<googleplay:image>
 		<url>https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg</url>
 		<title>it vung tau badboy</title>
 		<link>https://www.itvtbadboy.com/</link>
-	</image>
-
-	<itunes:summary>Thiên long bát bộ, truyện phật giáo mp3 kim dung xoay quanh kiều phong, hư trúc và đoàn dự</itunes:summary>
-	<itunes:author>it vung tau badboy</itunes:author><itunes:explicit>false</itunes:explicit>
-	<itunes:owner>
-		<itunes:name>it vung tau badboy</itunes:name>
-		<itunes:email>itvtbadboy@gmail.com</itunes:email>
-	</itunes:owner>
-	<itunes:image href="https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg"/>
-	<itunes:category text="Business"/><itunes:category text="News &amp; Politics"/><itunes:category text="Technology"/>
+	</googleplay:image>
+	<googleplay:owner>itvtbadboy@gmail.com</googleplay:owner>
 
 	<item>
 		<title>tập 1: đoàn dự hội ngộ chung linh</title>
@@ -301,6 +297,13 @@
 		<pubDate>Tue, 04 Jan 2022 20:16:23 GMT</pubDate>
 		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/podcast/tlbb/thien-long-bat-bo-40.mp3" type="audio/mpeg" length="642163000"/>
 		<itunes:duration>53:02</itunes:duration>
+	</item>
+	<item>
+		<title>tập 41: 999999</title>
+		<description>999999</description>
+		<pubDate>Tue, 04 Jan 2022 20:16:23 GMT</pubDate>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/podcast/tlbb/thien-long-bat-bo-41.mp3" type="audio/mpeg" length="642163000"/>
+		<itunes:duration>53:42</itunes:duration>
 	</item>
 
 </channel>
