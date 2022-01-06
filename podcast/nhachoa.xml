@@ -8,7 +8,7 @@
 	<lastBuildDate>Sun, 02 Jan 2022 21:33:23 GMT</lastBuildDate>
 	<title>nhạc hoa</title>
 	<description>
-		<![CDATA[ <p>✯ Top nhạc hoa 1 thời it vũng tàu badboy sưu tầm (7 viên kim cương, sai lầm vẫn là anh, cuộc chơi vô nghĩa, đao kiếm như mộng, ngàn năm tương phùng, tiếu ngạo giang hồ, mịt mù nỗi nhớ ...)</p> ]]>
+		<![CDATA[ <p>✯ Top nhạc hoa 1 thời it vũng tàu badboy sưu tầm (Lê Minh, Lưu Đức Hoa, Trần Tuệ Lâm, Châu Hoa Kiện, Trác Y Đình, Nhậm Hiền Tề, Diệp Tịnh Văn ...)</p> ]]>
 	</description>
 	<language>vi-VN</language>
 	<link>https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html</link>
@@ -21,8 +21,11 @@
 	<googleplay:owner>itvtbadboy@gmail.com</googleplay:owner>
 
 	<item>
-		<title>thiên nhai minh nguyệt</title>
+		<title>nhạc hoa</title>
 		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/thi%C3%AAn-nhai-minh-nguy%E1%BB%87t.mp3" type="audio/mpeg" length="240"/>
+		<description>
+			<![CDATA[ <p>✯ Top nhạc hoa 1 thời it vũng tàu badboy sưu tầm (7 viên kim cương, sai lầm vẫn là anh, cuộc chơi vô nghĩa, đao kiếm như mộng, ngàn năm tương phùng, tiếu ngạo giang hồ, mịt mù nỗi nhớ ...)</p> ]]>
+		</description>
 	</item>
 
 </channel>
