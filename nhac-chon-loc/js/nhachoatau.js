@@ -77,7 +77,7 @@ var myPlaylist = [
 		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-nguyet-tinh.mp3',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-nguyet-tinh.mp3',
 		oga:'#',
 		title:'nguyệt tình',
 		artist:'sáo trúc',
