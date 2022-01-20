@@ -1,255 +1,255 @@
 var myPlaylist = [
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4TFB1X0ZkNlBieDA',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/broken-hearted-woman.mp3',
 		oga:'#',
 		title:'broken hearted woman',
 		artist:'Faye Wong',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4TFB1X0ZkNlBieDA',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-quoc-te.html',
 		price:'0',
 		duration:'05:18',
-		cover:'https://www.mediafire.com/convkey/1473/fpx43icm2j36hq86g.jpg'
+		cover:'https://i.pinimg.com/originals/97/2d/7d/972d7deb41c9445db6a39974401057eb.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4R3lwLVZOVjZVOU0',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/caravan-of-life.mp3',
 		oga:'#',
 		title:'caravan of life',
 		artist:'Tokyo Square',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4R3lwLVZOVjZVOU0',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-quoc-te.html',
 		price:'0',
 		duration:'03:40',
-		cover:'https://www.mediafire.com/convkey/da19/kyp213bymay9t146g.jpg'
+		cover:'https://i.pinimg.com/originals/6c/b4/d6/6cb4d68590171c43602382add6898e8f.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4eVF4VmhUNXBfQ3c',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/circle-in-the-sand.mp3',
 		oga:'#',
 		title:'circle in the sand',
 		artist:'Belinda Carlisle',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4eVF4VmhUNXBfQ3c',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-quoc-te.html',
 		price:'0',
 		duration:'03:41',
-		cover:'https://www.mediafire.com/convkey/0d0a/kzv99ujv840ip2s6g.jpg'
+		cover:'https://i.pinimg.com/originals/b0/7e/7e/b07e7e534c02411a6f2d124395b5b132.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4eTM1dnJmSDR0eE0',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/coco-jambo.mp3',
 		oga:'#',
 		title:'coco jambo',
 		artist:'Mr President',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4eTM1dnJmSDR0eE0',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-quoc-te.html',
 		price:'0',
 		duration:'03:43',
-		cover:'https://www.mediafire.com/convkey/a3e7/23vvrvak3hkcqql6g.jpg'
+		cover:'https://i.pinimg.com/originals/fd/07/c8/fd07c8565e48daa06ad20170f347d845.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4VUFCQzVrRzc3NFE',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/iam-so-in-love-with-you.mp3',
 		oga:'#',
 		title:'iam so in love with u',
 		artist:'Jill Andrews',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4VUFCQzVrRzc3NFE',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-quoc-te.html',
 		price:'0',
 		duration:'04:32',
-		cover:'https://www.mediafire.com/convkey/77ed/cr223cb4ud3h98y6g.jpg'
+		cover:'https://i.pinimg.com/originals/69/81/94/698194388d467dcd5df51ba49437c631.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4b3BmN2lNeEZXYzA',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/keep-on-loving-you.mp3',
 		oga:'#',
 		title:'keep on loving u',
 		artist:'Tokyo Square',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4b3BmN2lNeEZXYzA',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-quoc-te.html',
 		price:'0',
 		duration:'04:05',
-		cover:'https://www.mediafire.com/convkey/da19/kyp213bymay9t146g.jpg'
+		cover:'https://i.pinimg.com/originals/6c/b4/d6/6cb4d68590171c43602382add6898e8f.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4RC1mcjVCbHNuRUU',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/lonely.mp3',
 		oga:'#',
 		title:'lonely',
 		artist:'Akon',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4RC1mcjVCbHNuRUU',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-quoc-te.html',
 		price:'0',
 		duration:'04:08',
-		cover:'https://www.mediafire.com/convkey/9e8e/f1bhnkm0qjyq48g6g.jpg'
+		cover:'https://i.pinimg.com/originals/9b/00/64/9b00647a0f543f1df52884fce8b35394.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4RGw3WWVlWGR5b28',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/memories-of-you.mp3',
 		oga:'#',
 		title:'memories of u',
 		artist:'Chinese Melody',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4RGw3WWVlWGR5b28',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-quoc-te.html',
 		price:'0',
 		duration:'03:50',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/6d/bf/0c/6dbf0c2d8ff0e9ef30df71c509290272.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4bFE4NWh1bVFpMWs',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/miss-you-not.mp3',
 		oga:'#',
 		title:'miss u not',
 		artist:'Chinese Melody',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4bFE4NWh1bVFpMWs',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-quoc-te.html',
 		price:'0',
 		duration:'03:47',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/6d/bf/0c/6dbf0c2d8ff0e9ef30df71c509290272.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=1oyFP16pp6rLmDazc9hxJVMA5c0dBhWS5',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/moon_light.mp3',
 		oga:'#',
 		title:'moon light',
 		artist:'Jet Li',
 		rating:5,
-		buy:'https://drive.google.com/open?id=1oyFP16pp6rLmDazc9hxJVMA5c0dBhWS5',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-quoc-te.html',
 		price:'0',
 		duration:'03:56',
-		cover:'https://www.mediafire.com/convkey/28f4/1z2xbyvetzh0e0r6g.jpg'
+		cover:'https://i.pinimg.com/originals/c7/6c/77/c76c77ea670f8f2ad7b1a5364fe65b6d.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=1IleufLxLYxgXY7AtkfCkRmMkEQn3jUg4',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/no_face_no_name_no_number.mp3',
 		oga:'#',
 		title:'no face no name no num',
 		artist:'Modern Talking',
 		rating:5,
-		buy:'https://drive.google.com/open?id=1IleufLxLYxgXY7AtkfCkRmMkEQn3jUg4',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-quoc-te.html',
 		price:'0',
 		duration:'03:57',
-		cover:'https://www.mediafire.com/convkey/a912/huh2mth9r9q13dl6g.jpg'
+		cover:'https://i.pinimg.com/originals/1b/8f/47/1b8f47b041c92d2e62c4ae3b1acfd61b.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4elJ4dmhjekxGZ00',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/sad-without-you.mp3',
 		oga:'#',
 		title:'sad without u',
 		artist:'Tokyo Square',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4elJ4dmhjekxGZ00',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-quoc-te.html',
 		price:'0',
 		duration:'04:23',
-		cover:'https://www.mediafire.com/convkey/da19/kyp213bymay9t146g.jpg'
+		cover:'https://i.pinimg.com/originals/6c/b4/d6/6cb4d68590171c43602382add6898e8f.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4RkEzZEZtWjJBcnM',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/say-that-you-love-me.mp3',
 		oga:'#',
 		title:'say that u love me',
 		artist:'Tokyo Square',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4RkEzZEZtWjJBcnM',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-quoc-te.html',
 		price:'0',
 		duration:'03:46',
-		cover:'https://www.mediafire.com/convkey/da19/kyp213bymay9t146g.jpg'
+		cover:'https://i.pinimg.com/originals/6c/b4/d6/6cb4d68590171c43602382add6898e8f.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4LUNCMjM5c3BNdlE',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/self-control.mp3',
 		oga:'#',
 		title:'self control',
 		artist:'Laura Branigan',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4LUNCMjM5c3BNdlE',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-quoc-te.html',
 		price:'0',
 		duration:'03:39',
-		cover:'https://www.mediafire.com/convkey/1b99/ft8xod4kcjhe7qx6g.jpg'
+		cover:'https://i.pinimg.com/originals/73/67/d3/7367d3827223b9d166971377300bdeb1.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4RXZtYVQ1eDhvaW8',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/sexy-sexy-lover.mp3',
 		oga:'#',
 		title:'sexy sexy lover',
 		artist:'Modern Talking',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4RXZtYVQ1eDhvaW8',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-quoc-te.html',
 		price:'0',
 		duration:'03:02',
-		cover:'https://www.mediafire.com/convkey/a912/huh2mth9r9q13dl6g.jpg'
+		cover:'https://i.pinimg.com/originals/1b/8f/47/1b8f47b041c92d2e62c4ae3b1acfd61b.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4UFpfbFVPY0tfUm8',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/that-is-love.mp3',
 		oga:'#',
 		title:'that is love',
 		artist:'Tokyo Square',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4UFpfbFVPY0tfUm8',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-quoc-te.html',
 		price:'0',
 		duration:'04:06',
-		cover:'https://www.mediafire.com/convkey/da19/kyp213bymay9t146g.jpg'
+		cover:'https://i.pinimg.com/originals/6c/b4/d6/6cb4d68590171c43602382add6898e8f.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4RmhrWHZaV0U0U28',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/till-the-end-of-time.mp3',
 		oga:'#',
 		title:'till the end of time',
 		artist:'Chinese Melody',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4RmhrWHZaV0U0U28',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-quoc-te.html',
 		price:'0',
 		duration:'04:27',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/6d/bf/0c/6dbf0c2d8ff0e9ef30df71c509290272.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4Z2MxckVENnN2ajA',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/tokyo-by-night.mp3',
 		oga:'#',
 		title:'tokyo by night',
 		artist:'Gina T',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4Z2MxckVENnN2ajA',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-quoc-te.html',
 		price:'0',
 		duration:'03:46',
-		cover:'https://www.mediafire.com/convkey/1fae/s6x2uis23s2l92w6g.jpg'
+		cover:'https://i.pinimg.com/originals/8d/bc/6d/8dbc6db118ab2230cd05d97995918a32.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4bGpLTzVmcnItNVU',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/tomorrow-will-come.mp3',
 		oga:'#',
 		title:'tomorrow will come',
 		artist:'Chinese Melody',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4bGpLTzVmcnItNVU',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-quoc-te.html',
 		price:'0',
 		duration:'03:47',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/6d/bf/0c/6dbf0c2d8ff0e9ef30df71c509290272.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4S0lTcjdWQzJTd00',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/walking-in-the-sun.mp3',
 		oga:'#',
 		title:'walking in the sun',
 		artist:'Degauss',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4S0lTcjdWQzJTd00',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-quoc-te.html',
 		price:'0',
 		duration:'05:44',
-		cover:'https://www.mediafire.com/convkey/5ab8/u5f4886rjjtony56g.jpg'
+		cover:'https://i.pinimg.com/originals/6d/bf/0c/6dbf0c2d8ff0e9ef30df71c509290272.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4bW9WUkQzSGQ5cGc',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/what-is-love.mp3',
 		oga:'#',
 		title:'what is love',
 		artist:'Haddaway',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4bW9WUkQzSGQ5cGc',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-quoc-te.html',
 		price:'0',
 		duration:'04:29',
-		cover:'https://www.mediafire.com/convkey/d850/1pj9cw09hxilivb6g.jpg'
+		cover:'https://i.pinimg.com/originals/d0/a1/ac/d0a1acd14204240a3c815f44fa164ba3.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4Y3RWbzgtTTNJUDQ',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/within-you-will-remain.mp3',
 		oga:'#',
 		title:'within u will remain',
 		artist:'Tokyo Square',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4Y3RWbzgtTTNJUDQ',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-quoc-te.html',
 		price:'0',
 		duration:'03:58',
-		cover:'https://www.mediafire.com/convkey/da19/kyp213bymay9t146g.jpg'
+		cover:'https://i.pinimg.com/originals/6c/b4/d6/6cb4d68590171c43602382add6898e8f.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4YUZBci1yZVBaNVE',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/you-will-find-your-way.mp3',
 		oga:'#',
 		title:'u will find your way',
 		artist:'Tokyo Square',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4YUZBci1yZVBaNVE',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-quoc-te.html',
 		price:'0',
 		duration:'02:21',
-		cover:'https://www.mediafire.com/convkey/da19/kyp213bymay9t146g.jpg'
+		cover:'https://i.pinimg.com/originals/6c/b4/d6/6cb4d68590171c43602382add6898e8f.jpg'
 	}
 ];
