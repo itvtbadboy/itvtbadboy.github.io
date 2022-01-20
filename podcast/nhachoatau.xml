@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="https://www.google.com/schemas/play-podcasts/1.0" xmlns:content="https://purl.org/rss/1.0/modules/content/">
+
+<channel>
+	<generator>it vũng tàu badboy</generator>
+	<copyright>itvtbadboy</copyright>
+
+	<lastBuildDate>Thu, 20 Jan 2022 15:15:23 GMT+7</lastBuildDate>
+	<title>nhạc hòa tấu</title>
+	<description>
+		<![CDATA[ <p>✯ Top nhạc hòa tấu 1 thời it vũng tàu badboy sưu tầm (đàn tranh, sáo, trúc ...)</p> ]]>
+	</description>
+	<language>vi-VN</language>
+	<link>https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html</link>
+	<itunes:explicit>false</itunes:explicit>
+	<googleplay:image>
+		<url>https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg</url>
+		<title>nhac hoa tau</title>
+		<link>https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html</link>
+	</googleplay:image>
+	<googleplay:owner>itvtbadboy@gmail.com</googleplay:owner>
+
+	<item>
+		<title>tomorrow will come</title>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/guz-tomorrow-will-come.mp3" type="audio/mpeg" length="240"/>
+		<description>
+			<![CDATA[ <p>✯ Top nhạc hòa tấu 1 thời it vũng tàu badboy sưu tầm (còn lại nhớ thương, không tên, lặng lẽ mùa đông, lỗi lầm đã qua, một nhành mai, tôi sẽ không yêu, tomorrow will come ...)</p> ]]>
+		</description>
+	</item>
+
+</channel>
+</rss>
