@@ -1,398 +1,398 @@
 var myPlaylist = [
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4VG9TaGxqa04xMHM',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-caravan-of-life.mp3',
 		oga:'#',
 		title:'caravan of life',
 		artist:'sáo trúc',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4VG9TaGxqa04xMHM',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'04:13',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4UHFMcjJOQ1FuTnM',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-co-don-mot-vi-sao.mp3',
 		oga:'#',
 		title:'cô đơn 1 vì sao',
 		artist:'sáo trúc',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4UHFMcjJOQ1FuTnM',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'05:36',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4dkEwdlNHYm1fdjg',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-enternal-flame.mp3',
 		oga:'#',
 		title:'eternal flame',
 		artist:'sáo trúc',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4dkEwdlNHYm1fdjg',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'03:24',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4bm5wVkJoYjNkXzg',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-hoa-bang-lang.mp3',
 		oga:'#',
 		title:'hoa bằng lăng',
 		artist:'sáo trúc',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4bm5wVkJoYjNkXzg',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'04:50',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4RzNzdVNSbU1jTlk',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-lang-le-mua-dong.mp3',
 		oga:'#',
 		title:'lặng lẽ mùa đông',
 		artist:'sáo trúc',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4RzNzdVNSbU1jTlk',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'04:28',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4QS1QQjhUQ3FheTg',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-moi-mon.mp3',
 		oga:'#',
 		title:'mỏi mòn',
 		artist:'sáo trúc',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4QS1QQjhUQ3FheTg',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'04:56',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4QTFINXBZUElMZVk',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-mot-kiep-phong-ba.mp3',
 		oga:'#',
 		title:'1 kiếp phong ba',
 		artist:'sáo trúc',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4QTFINXBZUElMZVk',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'04:02',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4ako3Y082bXJOdWs',
+		mp3:'https://https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-nguyet-tinh.mp3',
 		oga:'#',
 		title:'nguyệt tình',
 		artist:'sáo trúc',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4ako3Y082bXJOdWs',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'03:10',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4aG00eUxCVXpRT2M',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-nho-em-nhieu-hon.mp3',
 		oga:'#',
 		title:'nhớ em nhiều hơn',
 		artist:'sáo trúc',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4aG00eUxCVXpRT2M',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'03:24',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4R1hTaTItTURQWGc',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-nu-hon-va-nuoc-mat.mp3',
 		oga:'#',
 		title:'nụ hôn và nước mắt',
 		artist:'sáo trúc',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4R1hTaTItTURQWGc',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'05:10',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4eDZmY21hcVdJa3c',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-nu-hong-mong-manh.mp3',
 		oga:'#',
 		title:'nụ hồng mong manh',
 		artist:'sáo trúc',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4eDZmY21hcVdJa3c',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'04:29',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4cWItU2JsS0R2RTA',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-take-me-to-your-heart.mp3',
 		oga:'#',
 		title:'take me to your heart',
 		artist:'sáo trúc',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4cWItU2JsS0R2RTA',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'05:26',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4Y2pQMV9wRDdtZzA',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-than-thoai.mp3',
 		oga:'#',
 		title:'thần thoại',
 		artist:'sáo trúc',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4Y2pQMV9wRDdtZzA',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'04:50',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4bVhjZktvUS1pOFE',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-thien-sinh-nhai.mp3',
 		oga:'#',
 		title:'thiên sinh nhai',
 		artist:'sáo trúc',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4bVhjZktvUS1pOFE',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'02:27',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4bms5VWJPZWVsSjQ',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-thu-muon.mp3',
 		oga:'#',
 		title:'thu muộn',
 		artist:'sáo trúc',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4bms5VWJPZWVsSjQ',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'03:44',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4Z0JmeUpTN284YVE',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-tieu-ngao-giang-ho.mp3',
 		oga:'#',
 		title:'tiếu ngạo giang hồ',
 		artist:'sáo trúc',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4Z0JmeUpTN284YVE',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'03:14',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4UFBHUWRxQ2ZFOVk',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-tinh-xua-nghia-cu-1.mp3',
 		oga:'#',
 		title:'tình xưa nghĩa cũ 1',
 		artist:'sáo trúc',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4UFBHUWRxQ2ZFOVk',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'04:15',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4X3A5UFhLY21taXc',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-tinh-xua-nghia-cu-2.mp3',
 		oga:'#',
 		title:'tình xưa nghĩa cũ 2',
 		artist:'sáo trúc',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4X3A5UFhLY21taXc',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'03:51',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4bGVkWmhFdTg5R0U',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-toi-se-khong-yeu.mp3',
 		oga:'#',
 		title:'tôi sẽ không yêu',
 		artist:'sáo trúc',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4bGVkWmhFdTg5R0U',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'04:04',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4Wm5PVVF3Vi1fY0k',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-vi-anh-yeu-em.mp3',
 		oga:'#',
 		title:'vì anh yêu em',
 		artist:'sáo trúc',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4Wm5PVVF3Vi1fY0k',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'04:35',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4ZGZDVlhzczJaZWs',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-yeu-mot-nguoi.mp3',
 		oga:'#',
 		title:'yêu 1 người',
 		artist:'sáo trúc',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4ZGZDVlhzczJaZWs',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'04:04',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4R042ZllTLVQ0Rkk',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/guz-999-doa-hong.mp3',
 		oga:'#',
 		title:'999 đóa hồng',
 		artist:'đàn tranh',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4R042ZllTLVQ0Rkk',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'04:18',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4N2NrOV9jcGFmTTQ',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/guz-ao-mong-tinh-yeu.mp3',
 		oga:'#',
 		title:'ảo mộng tình yêu',
 		artist:'đàn tranh',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4N2NrOV9jcGFmTTQ',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'04:14',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4UlNnV1J6MHRza1U',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/guz-chiec-la-mua-dong.mp3',
 		oga:'#',
 		title:'chiếc lá mùa đông',
 		artist:'đàn tranh',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4UlNnV1J6MHRza1U',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'04:03',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4TkFhcHhfWi1Oanc',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/guz-con-lai-nho-thuong.mp3',
 		oga:'#',
 		title:'còn lại nhớ thương',
 		artist:'đàn tranh',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4TkFhcHhfWi1Oanc',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'03:55',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4c2tub2hhV3NvUTA',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/guz-doi-buom-bay-luon.mp3',
 		oga:'#',
 		title:'đôi bướm bay lượn',
 		artist:'đàn tranh',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4c2tub2hhV3NvUTA',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'03:53',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4MWFFUTlZTW5PYmc',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/guz-duong-ve-hai-thon.mp3',
 		oga:'#',
 		title:'đường về 2 thôn',
 		artist:'đàn tranh',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4MWFFUTlZTW5PYmc',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'03:53',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4enFhUHo4N2o0THc',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/guz-endless-love.mp3',
 		oga:'#',
 		title:'endless love',
 		artist:'đàn tranh',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4enFhUHo4N2o0THc',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'02:31',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4UGF3VDJQVFQyMmc',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/guz-giac-mo-mot-cuoc-tinh.mp3',
 		oga:'#',
 		title:'giấc mơ 1 cuộc tình',
 		artist:'đàn tranh',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4UGF3VDJQVFQyMmc',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'04:00',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4clVsdERaakYtdGc',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/guz-khong-ten.mp3',
 		oga:'#',
 		title:'không tên',
 		artist:'đàn tranh',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4clVsdERaakYtdGc',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'02:38',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4c2xpSXhVdzE5RWM',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/guz-loi-lam-da-qua.mp3',
 		oga:'#',
 		title:'lỗi lầm đã qua',
 		artist:'đàn tranh',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4c2xpSXhVdzE5RWM',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'04:57',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4NU1JMnZ6aE56Tkk',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/guz-mong-uyen-uong.mp3',
 		oga:'#',
 		title:'mộng uyên ương hồ điệp',
 		artist:'đàn tranh',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4NU1JMnZ6aE56Tkk',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'03:56',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4SGN1QVZMV21aQVE',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/guz-mot-nhanh-mai.mp3',
 		oga:'#',
 		title:'1 nhành mai',
 		artist:'đàn tranh',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4SGN1QVZMV21aQVE',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'03:35',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4ZHNKTmhKYzE4aEE',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/guz-tieng-sao-phieu-bong.mp3',
 		oga:'#',
 		title:'tiếng sáo phiêu bồng',
 		artist:'đàn tranh',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4ZHNKTmhKYzE4aEE',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'02:31',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4b0RsTmdjYVVuTDQ',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/guz-tomorrow-will-come.mp3',
 		oga:'#',
 		title:'tomorrow will come',
 		artist:'đàn tranh',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4b0RsTmdjYVVuTDQ',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'05:04',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	},
 	{
-		mp3:'https://drive.google.com/uc?export=download&id=0BxTvT8zcUBb4NU5ScGVLbkNxT2M',
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/guz-tuong-tu-trong-mua.mp3',
 		oga:'#',
 		title:'tương tư trong mưa',
 		artist:'đàn tranh',
 		rating:5,
-		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4NU5ScGVLbkNxT2M',
+		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa-tau.html',
 		price:'0',
 		duration:'04:06',
-		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
+		cover:'https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg'
 	}
 ];
