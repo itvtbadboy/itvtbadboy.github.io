@@ -568,12 +568,24 @@
 		<loc>https://www.itvtbadboy.com/ads/luyen-nghe-voa.html</loc>
 		<news:news>
 			<news:publication>
-				<news:name>khương itvtbadboy</news:name>
+				<news:name>voa</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
 			<news:publication_date>2022-01-09</news:publication_date>
-			<news:title>đầm satin cuốn hút</news:title>
-			<news:keywords>dam, satin, cuon hut</news:keywords>
+			<news:title>Luyện kỹ năng nghe 2 kiểu phát âm anh mỹ thực tế từ đài tiếng nói hoa kỳ voa (special english technology report)</news:title>
+			<news:keywords>voa</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.com/ads/thien-long-bat-bo.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>truyện</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2022-01-20</news:publication_date>
+			<news:title>Thiên long bát bộ, truyện phật giáo mp3 kim dung xoay quanh kiều phong, hư trúc và đoàn dự</news:title>
+			<news:keywords>truyen</news:keywords>
 		</news:news>
 	</url>
 </urlset>
