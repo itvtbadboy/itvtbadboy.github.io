@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="https://www.google.com/schemas/play-podcasts/1.0" xmlns:content="https://purl.org/rss/1.0/modules/content/">
+
+<channel>
+	<generator>it vũng tàu badboy</generator>
+	<copyright>itvtbadboy</copyright>
+
+	<lastBuildDate>Mon, 24 Jan 2022 22:47:23 GMT+7</lastBuildDate>
+	<title>tri thức đen hữu ích</title>
+	<description>
+		<![CDATA[ <p>✯ Tri thức đen hữu ích mang cả 1 thư viện kiến thức của cộng đồng dark web vào công việc vào cuộc sống it vũng tàu badboy biên soạn từ tác giả Dan Price MUO</p> ]]>
+	</description>
+	<language>vi-VN</language>
+	<link>https://www.itvtbadboy.com/news/tri-thuc-den-huu-ich-dark-web.html</link>
+	<itunes:explicit>false</itunes:explicit>
+	<googleplay:image>
+		<url>https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg</url>
+		<title>tri thuc den huu ich</title>
+		<link>https://www.itvtbadboy.com/news/tri-thuc-den-huu-ich-dark-web.html</link>
+	</googleplay:image>
+	<googleplay:owner>itvtbadboy@gmail.com</googleplay:owner>
+
+	<item>
+		<pubDate>Mon, 24 Jan 2022 22:47:23 GMT+7</pubDate>
+		<title>mở cửa web đen vpn</title>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/guz-tomorrow-will-come.mp3" type="audio/mpeg" length="4869782"/>
+		<description>
+			<![CDATA[ <p>✯ <a href="https://www.itvtbadboy.com/news/tri-thuc-den-huu-ich-dark-web.html#mocuawebdenvpn">Mở cửa web đen vpn</a> là cách tốt nhất it vũng tàu badboy tự bảo vệ mình trong thế giới của hacker, quan điểm tự cho rằng trình duyệt tor có thể ẩn danh an toàn là sai lầm rất lớn</p> ]]>
+		</description>
+	</item>
+	<item>
+		<pubDate>Mon, 24 Jan 2022 22:47:23 GMT+7</pubDate>
+		<title>tìm về nguồn tri thức</title>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/guz-tieng-sao-phieu-bong.mp3" type="audio/mpeg" length="4869782"/>
+		<description>
+			<![CDATA[ <p>✯ <a href="https://www.itvtbadboy.com/news/tri-thuc-den-huu-ich-dark-web.html#timvenguontrithuc">Tìm về nguồn tri thức</a> dark web it vũng tàu badboy chỉ có thể truy cập định dạng .onion thông qua tor (the onion router), tính năng mà tất cả trình duyệt web thông thường không làm được</p> ]]>
+		</description>
+	</item>
+	<item>
+		<pubDate>Mon, 24 Jan 2022 22:47:23 GMT+7</pubDate>
+		<title>thư viện dark web</title>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/guz-doi-buom-bay-luon.mp3" type="audio/mpeg" length="4869782"/>
+		<description>
+			<![CDATA[ <p>✯ <a href="https://www.itvtbadboy.com/news/tri-thuc-den-huu-ich-dark-web.html#thuviendarkweb">Thư viện dark web</a> mang theo kỹ năng cao nhất để xác minh các domain tồn tại dưới dạng .onion, thật may mắn it vũng tàu badboy đọc được 1 số tài nguyên có sẵn</p> ]]>
+		</description>
+	</item>
+
+</channel>
+</rss>
