@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:bing="https://bing.com/schema/media/">
+
+<channel>
+
+	<site>www.itvtbadboy.com</site>
+	<webMaster>itvtbadboy@hotmail.com</webMaster>
+	<feedType>full</feedType>
+	<lastBuildDate>Mon, 24 Jan 2022 12:30:45 PST</lastBuildDate>
+	<changefreq>daily</changefreq>
+
+	<item>
+		<title>sản phẩm thương mại</title>
+		<link>https://www.itvtbadboy.com/product/san-pham-thuong-mai.html</link>
+		<pubDate>Mon, 24 Jan 2022 12:30:45 PST</pubDate>
+		<description>Sản phẩm thương mại đa dạng công nông ngư nghiệp tiếp thị toàn cầu qua nền tảng bách khoa media wiki chuẩn seo friendly.</description>
+		<content url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/video/san-pham-thuong-mai.mp4" type="video/mp4" medium="video" height="1280" width="720" duration="60" fileSize="2996568"  bitrate="392" />
+		<thumbnail url="https://i.pinimg.com/originals/bf/44/6d/bf446d0101104800b33d3f16b265c751.jpg" width="4128" height="3096"/>
+
+		<keywords>san pham, thuong, mai</keywords>
+		<category>marketing</category>
+		<viewCount>706</viewCount>
+		<embedHtml>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/video/san-pham-thuong-mai.mp4</embedHtml>
+
+		<restriction relationship="allow" type="country">VN</restriction>
+		<rating>nonadult</rating>
+		<expireDate>Mon, 24 Jan 2022 24:00:00 PST</expireDate>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
+</channel>
+</rss>
