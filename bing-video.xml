@@ -10,6 +10,25 @@
 	<changefreq>daily</changefreq>
 
 	<item>
+		<title>chuyên gia phát triển python</title>
+		<link>https://www.itvtbadboy.com/news/10-ung-dung-huu-ich-cho-chuyen-gia-phat-trien-python.html</link>
+		<pubDate>Thu 27, Jan 2022 13:54:45 PST</pubDate>
+		<description>Video lợi ích python it vũng tàu badboy sàn lọc 10 mảng kỹ năng đặc thù qua từng ứng dụng hữu ích giúp các chuyên gia tỏa sáng toàn cầu.</description>
+		<content url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/video/chuyen-gia-phat-trien-python.mp4" type="video/mp4" medium="video" height="1280" width="720" duration="100" fileSize="997340"  bitrate="71" />
+		<thumbnail url="https://i.pinimg.com/originals/f5/90/72/f590720ee1e307254318acfddb3e58d5.jpg" width="736" height="540"/>
+
+		<keywords>chuyen gia, phat trien, python</keywords>
+		<category>seo</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/video/chuyen-gia-phat-trien-python.mp4</embedHtml>
+
+		<restriction relationship="allow" type="country">VN</restriction>
+		<rating>nonadult</rating>
+		<expireDate>Thu 27, Jan 2022 13:54:45 PST</expireDate>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
+
+	<item>
 		<title>hồ sơ linkedin trực tuyến</title>
 		<link>https://www.itvtbadboy.com/news/cach-khai-thac-ho-so-linkedin-truc-tuyen.html</link>
 		<pubDate>Wed, 26 Jan 2022 00:33:45 PST</pubDate>
