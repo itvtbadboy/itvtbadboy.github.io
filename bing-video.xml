@@ -10,6 +10,25 @@
 	<changefreq>daily</changefreq>
 
 	<item>
+		<title>chuyển nhạc ipod cũ</title>
+		<link>https://www.itvtbadboy.com/news/cach-chuyen-nhac-tu-ipod-cu-sang-iphone.html</link>
+		<pubDate>Fri 28, Jan 2022 13:38:45 PST</pubDate>
+		<description>Video chuyển nhạc ipod cũ it vũng tàu badboy sàn lọc nội dung khuyến cáo khách hàng đọc kỹ để tránh trường hợp ghi đè mất nhạc iphone.</description>
+		<content url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/video/chuyen-nhac-ipod-cu.mp4" type="video/mp4" medium="video" height="1280" width="720" duration="60" fileSize="661334"  bitrate="80" />
+		<thumbnail url="https://i.pinimg.com/originals/ec/97/37/ec97374980787aa03f801dcbf88658ac.jpg" width="736" height="540"/>
+
+		<keywords>chuyen nhac, ipod, cu</keywords>
+		<category>seo</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/video/chuyen-nhac-ipod-cu.mp4</embedHtml>
+
+		<restriction relationship="allow" type="country">VN</restriction>
+		<rating>nonadult</rating>
+		<expireDate>Fri 28, Jan 2022 13:38:45 PST</expireDate>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
+
+	<item>
 		<title>chuyên gia phát triển python</title>
 		<link>https://www.itvtbadboy.com/news/10-ung-dung-huu-ich-cho-chuyen-gia-phat-trien-python.html</link>
 		<pubDate>Thu 27, Jan 2022 13:54:45 PST</pubDate>
