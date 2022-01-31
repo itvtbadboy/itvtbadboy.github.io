@@ -10,6 +10,25 @@
 	<changefreq>daily</changefreq>
 
 	<item>
+		<title>di động bị tấn công</title>
+		<link>https://www.itvtbadboy.com/news/cach-nhan-biet-di-dong-bi-tan-cong.html</link>
+		<pubDate>Mon 31, Jan 2022 17:42:45 PST</pubDate>
+		<description>Video nhận biết di động 3 dấu hiệu phần cứng 6 dấu hiệu phần mềm it vũng tàu badboy chia sẽ tri thức giúp khách hàng tự bảo vệ mình.</description>
+		<content url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/video/di-dong-bi-tan-cong.mp4" type="video/mp4" medium="video" height="1280" width="720" duration="130" fileSize="1182246"  bitrate="64" />
+		<thumbnail url="https://i.pinimg.com/originals/72/e0/d9/72e0d98b77f7d04ffa43e4965f927f0b.jpg" width="736" height="540"/>
+
+		<keywords>di dong, bi, tan cong</keywords>
+		<category>seo</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/video/di-dong-bi-tan-cong.mp4</embedHtml>
+
+		<restriction relationship="allow" type="country">VN</restriction>
+		<rating>nonadult</rating>
+		<expireDate>Mon 31, Jan 2022 17:42:45 PST</expireDate>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
+
+	<item>
 		<title>chuyển ứng dụng sd card</title>
 		<link>https://www.itvtbadboy.com/news/cach-chuyen-ung-dung-tu-di-dong-vao-sd-card.html</link>
 		<pubDate>Sun 30, Jan 2022 09:38:45 PST</pubDate>
