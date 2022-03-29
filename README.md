@@ -6,7 +6,7 @@
 > &#10031; Sử dụng linux parrot security giám sát an ninh mạng web server cục bộ.
 
 ### đối tác công nghệ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://cdn.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/search/label/doi%20tac)
-> &#10031; Đối tác công nghệ it vũng tàu badboy liên kết nhiều doanh nghiệp chuyên bảo mật, linh kiện điện máy, thiết kế website, lập trình ứng dụng và đặc biệt ... khả năng phát triển dự án thông minh toàn tỉnh brvt.
+> &#10031; Đối tác công nghệ it vũng tàu badboy liên kết nhiều doanh nghiệp chuyên bảo mật, linh kiện điện máy, thiết kế website, lập trình ứng dụng và đặc biệt ... khả năng phát triển dự án thông minh toàn tỉnh brvt.<br>
 > &#10031; [Huỳnh Gia Solution Vietnam](https://hgsolutions.vn/), chuyên camera giám sát và các dự án về an ninh kho xưởng, doanh nghiệp trực tuyến, nhà thông minh smart home.
 
 ### website bootstrap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://cdn.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/product/san-pham-thuong-mai.html)
