@@ -1,9 +1,16 @@
 <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhu_tQr3_aFOd58nkjXfr2IgHjiM99t0YuOgafDF7-x7nTu2jRwStV3qK9ViZ39Hi3QAM4Sto9GvZDvGUJq_Skv1y606EXn-hByu3Y6nhvuVu3K-0nLMGnFULzpMja_4WtaK8AyWvxs87WewLLbNUKRsCaPoY6OXVylPUHDOntexEF-1B4imp0O72yQkg=s512" align="right" width="128px" height="128px"/>
 
-# IT VŨNG TÀU BADBOY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://cdn.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/) [![itvtbadboy](https://img.shields.io/twitter/follow/badboyvt83.svg?style=social)](https://twitter.com/badboyvt83)
+## IT VŨNG TÀU BADBOY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://cdn.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/) [![itvtbadboy](https://img.shields.io/twitter/follow/badboyvt83.svg?style=social)](https://twitter.com/badboyvt83)
 > &#10031; Phát triển tiềm năng di động amp mobile quảng bá thương hiệu toàn cầu.<br>
 > &#10031; Tối ưu website bootstrap v4 và media wiki khai thác ma trận cdn backend.<br>
 > &#10031; Sử dụng linux parrot security giám sát an ninh mạng web server cục bộ.
+
+ ### đối tác công nghệ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://cdn.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/search/label/doi%20tac)
+ > &#10031; Đối tác công nghệ it vũng tàu badboy liên kết nhiều doanh nghiệp chuyên bảo mật, linh kiện điện máy, thiết kế website, lập trình ứng dụng và đặc biệt ... khả năng phát triển dự án thông minh toàn tỉnh brvt.
+- [bootstrap ẩm thực](https://www.itvtbadboy.com/product/website-bootstrap-am-thuc-nha-hang.html) - Website bootstrap ẩm thực tối ưu nhà hàng.
+- [bootstrap du lịch](https://www.itvtbadboy.com/product/website-bootstrap-du-lich-sieu-thi.html) - Website bootstrap du lịch tối ưu siêu thị.
+- [bootstrap ứng dụng](https://www.itvtbadboy.com/product/website-bootstrap-ung-dung-dien-may.html) - Website bootstrap ứng dụng tối ưu điện máy.
+- [bootstrap bán lẻ](https://www.itvtbadboy.com/product/website-bootstrap-ban-le-dai-ly.html) - Website bootstrap bán lẻ tối ưu đại lý.
 
  ### website bootstrap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://cdn.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/product/san-pham-thuong-mai.html)
  > &#10031; Website bootstrap v4 quảng bá sản phẩm thương mại công - nông - ngư nghiệp thúc đẩy mạng lưới đối tác toàn cầu.
