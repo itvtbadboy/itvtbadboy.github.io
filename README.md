@@ -1,7 +1,6 @@
 <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhu_tQr3_aFOd58nkjXfr2IgHjiM99t0YuOgafDF7-x7nTu2jRwStV3qK9ViZ39Hi3QAM4Sto9GvZDvGUJq_Skv1y606EXn-hByu3Y6nhvuVu3K-0nLMGnFULzpMja_4WtaK8AyWvxs87WewLLbNUKRsCaPoY6OXVylPUHDOntexEF-1B4imp0O72yQkg=s512" align="right" width="128px" height="128px"/>
 
-# duongthanhkhuong.github.io
-IT VŨNG TÀU BADBOY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://cdn.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/) [![itvtbadboy](https://img.shields.io/twitter/follow/badboyvt83.svg?style=social)](https://twitter.com/badboyvt83)
+# IT VŨNG TÀU BADBOY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://cdn.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/) [![itvtbadboy](https://img.shields.io/twitter/follow/badboyvt83.svg?style=social)](https://twitter.com/badboyvt83)
 > &#10031; Phát triển tiềm năng di động amp mobile quảng bá thương hiệu toàn cầu.<br>
 > &#10031; Tối ưu website bootstrap v4 và media wiki khai thác ma trận cdn backend.<br>
 > &#10031; Sử dụng linux parrot security giám sát an ninh mạng web server cục bộ.
