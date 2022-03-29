@@ -5,28 +5,28 @@
 > &#10031; Tối ưu website bootstrap v4 và media wiki khai thác ma trận cdn backend.<br>
 > &#10031; Sử dụng linux parrot security giám sát an ninh mạng web server cục bộ.
 
- ## website bootstrap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://cdn.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/product/san-pham-thuong-mai.html)
+ ### website bootstrap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://cdn.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/product/san-pham-thuong-mai.html)
  > &#10031; Website bootstrap v4 quảng bá sản phẩm thương mại công - nông - ngư nghiệp thúc đẩy mạng lưới đối tác toàn cầu.
 - [bootstrap ẩm thực](https://www.itvtbadboy.com/product/website-bootstrap-am-thuc-nha-hang.html) - Website bootstrap ẩm thực tối ưu nhà hàng.
 - [bootstrap du lịch](https://www.itvtbadboy.com/product/website-bootstrap-du-lich-sieu-thi.html) - Website bootstrap du lịch tối ưu siêu thị.
 - [bootstrap ứng dụng](https://www.itvtbadboy.com/product/website-bootstrap-ung-dung-dien-may.html) - Website bootstrap ứng dụng tối ưu điện máy.
 - [bootstrap bán lẻ](https://www.itvtbadboy.com/product/website-bootstrap-ban-le-dai-ly.html) - Website bootstrap bán lẻ tối ưu đại lý.
 
- ## hiệu ứng mobile&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://cdn.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/seo/hieu-ung-seo.html)
+ ### hiệu ứng mobile&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://cdn.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/seo/hieu-ung-seo.html)
  > &#10031; Hiệu ứng mobile khương itvtbadboy phát triển tag manager json tối ưu mọi thiết bị nền tảng đột phá ma trận cdn backend.
 - [seo ẩm thực](https://www.itvtbadboy.com/seo/cau-truc-du-lieu-am-thuc.html) - Đột phá ma trận cdn backend nhà hàng.
 - [seo tin tức](https://www.itvtbadboy.com/seo/cau-truc-du-lieu-tin-tuc.html) - Đột phá ma trận cdn backend đại lý.
 - [seo hướng dẫn](https://www.itvtbadboy.com/seo/cau-truc-du-lieu-huong-dan.html) - Đột phá ma trận cdn backend điện máy.
 - [seo danh mục](https://www.itvtbadboy.com/seo/cau-truc-du-lieu-danh-muc.html) - Đột phá ma trận cdn backend siêu thị.
 
- ## tiềm năng seo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![itvtbadboy](https://cdn.itvtbadboy.com/image/awesome.svg)
+ ### tiềm năng seo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![itvtbadboy](https://cdn.itvtbadboy.com/image/awesome.svg)
  > &#10031; Tiềm năng seo khương itvtbadboy xây dựng ma trận tri thức thương hiệu media wiki, di động amp mobile làm đòn gánh cân bằng mạng xã hội.
 - [seo ảnh pinterest](https://www.itvtbadboy.com/seo/tiem-nang-seo-anh-pinterest.html) - Giải pháp seo ảnh toàn cầu pinterest.
 - [hosting 55GB mediafire](https://www.itvtbadboy.com/seo/tiem-nang-hosting-55gb-mediafire.html) - Lưu ảnh seo hosting 55GB mediafire.
 - [thương mại 13 đô](https://www.itvtbadboy.com/seo/tiem-nang-thuong-mai-13-do.html) - Máy chủ ảo đột phá thương mại 13 đô.
 - [tiềm năng business](https://www.itvtbadboy.com/seo/tiem-nang-ban-do-business.html) - Đột phá 3 mảnh ghép thương hiệu business.
 
-## top seo tiềm năng&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://cdn.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/amp/tiem-nang-thuong-mai.amp.html)
+### top seo tiềm năng&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://cdn.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/amp/tiem-nang-thuong-mai.amp.html)
  > &#10031; Top seo tiềm năng thương mại khương itvtbadboy đột phá mọi nền tảng (media wiki - bootstrap - mobile), mọi giới hạn ma trận cdn backend.
 - [top seo pinterest](https://www.pinterest.com/itvtbadboy/) - Tối ưu tiềm năng quảng bá hình ảnh thương hiệu toàn cầu.
 - [top seo facebook](https://www.facebook.com/watch/khuongbadboy/) - Xây dựng tiềm năng bán hàng trực tuyến video market place.
@@ -35,7 +35,7 @@
 - [top seo tumblr](https://itvtbadboy.tumblr.com/) - Thiết kế web tiềm năng giả di động mobile đột phá hiệu ứng tự do.
 - [top seo instagram](https://www.instagram.com/itvtbadboy8383/?hl=en) - Liên kết facebook quảng bá tiềm năng thương trường quốc tế.
 
- ## nhạc chọn lọc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![itvtbadboy](https://cdn.itvtbadboy.com/image/awesome.svg)
+ ### nhạc chọn lọc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![itvtbadboy](https://cdn.itvtbadboy.com/image/awesome.svg)
  > &#10031; Nhạc trẻ (vpop) - nhạc hoa (cpop) - nhạc quốc tế (pop) - nhạc hòa tấu (guzheng) chất lượng 128kps khương itvtbadboy chọn lọc.
 - [nhạc trẻ](https://cdn.itvtbadboy.com/music/nhac-tre-top-1-thoi.html) - Xin một lần được yêu, tiếng sáo phiêu bồng, sai lầm vẫn là anh ...
 - [nhạc hoa](https://cdn.itvtbadboy.com/music/nhac-hoa-top-1-thoi.html) - 7 viên kim cương, cuộc chơi vô nghĩa, đao kiếm như mộng ...
