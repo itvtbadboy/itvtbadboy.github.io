@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:bing="https://bing.com/schema/media/">
+<channel>
+	<site>khương it github</site>
+	<webMaster>itvtbadboy@hotmail.com</webMaster>
+	<feedType>full</feedType>
+	<lastBuildDate>Mon, 23 May 2022 14:01:45 PST</lastBuildDate>
+	<changefreq>daily</changefreq>
+
+	<item>
+		<title>khương it github</title>
+		<link>https://duongthanhkhuong.github.io/</link>
+		<pubDate>Mon, 23 May 2022 14:01:45 PST</pubDate>
+		<description>Khương it github đột phá tiếp thị 1-click thương mại toàn cầu bằng tài nguyên cơ bản nhất.</description>
+		<content url="https://www.youtube.com/watch?v=vCLlhTpNTA0" type="video/mp4" medium="video" height="1280" width="720" duration="60" fileSize="1,305,740"  bitrate="174" />
+		<thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi5vDeooj0ydbgvQjhbGUCTvUp3BE83h6zGJf7NlWTYnj7llpEZSibI7UHUJTS-CBPic7K_QhdqM0dDxVZNN6kVGbhJRg1ve7zImyBqf9V5MXrdGXLEBDVi9amGAMbj-zRLjoqBKekH4w7E-9Xj1lWBv2g6VipDtpTERZUghzS-5Ijib2foVjFjiRkKQ/s1936/itvtbadboy.jpg" width="1936" height="1936"/>
+		<keywords>khương it github</keywords>
+		<category>seo</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://www.youtube.com/watch?v=vCLlhTpNTA0</embedHtml>
+		<restriction relationship="allow" type="country">VN</restriction>
+		<rating>nonadult</rating>
+		<expireDate>Mon, 23 May 2022 23:59:45 PST</expireDate>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
+</channel>
+</rss>
