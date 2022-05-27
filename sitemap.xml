@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://duongthanhkhuong.github.io/news/ung-dung-brvt.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>ứng dụng brvt</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2022-05-27</news:publication_date>
+			<news:title>Ứng dụng brvt khương it github hướng dẫn triển khai cửa hàng di động tiếp cận khách hàng</news:title>
+			<news:keywords>Ứng dụng brvt khương it github hướng dẫn triển khai cửa hàng di động tiếp cận khách hàng</news:keywords>
+		</news:news>
+	</url>
+	<url>
 		<loc>https://duongthanhkhuong.github.io/news/web-server-brvt.html</loc>
 		<news:news>
 			<news:publication>
