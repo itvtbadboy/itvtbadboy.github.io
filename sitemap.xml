@@ -1,8 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-	<url><loc>https://duongthanhkhuong.github.io/news/web-server-brvt.html</loc><lastmod>2022-05-25</lastmod></url>
-	<url><loc>https://duongthanhkhuong.github.io/news/workspace-brvt.html</loc><lastmod>2022-05-25</lastmod></url>
-	<url><loc>https://duongthanhkhuong.github.io/news/nosql-server-brvt.html</loc><lastmod>2022-05-25</lastmod></url>
-	<url><loc>https://duongthanhkhuong.github.io/news/laptop-intel-brvt.html</loc><lastmod>2022-05-25</lastmod></url>
-	<url><loc>https://duongthanhkhuong.github.io/</loc><lastmod>2022-05-23</lastmod></url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/news/web-server-brvt.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>web server brvt</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2022-05-26</news:publication_date>
+			<news:title>Web server brvt khương it github hướng dẫn cài nhanh mã nguồn apache2 trên môi trường crostini chromebook</news:title>
+			<news:keywords>Web server brvt khương it github hướng dẫn cài nhanh mã nguồn apache2 trên môi trường crostini chromebook</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/news/workspace-brvt.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>workspace brvt</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2022-05-26</news:publication_date>
+			<news:title>Workspace brvt khương it github hướng dẫn phát triển web tiếp thị đa năng bằng tài nguyên google</news:title>
+			<news:keywords>Workspace brvt khương it github hướng dẫn phát triển web tiếp thị đa năng bằng tài nguyên google</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/news/nosql-server-brvt.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>nosql server brvt</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2022-05-26</news:publication_date>
+			<news:title>Nosql server brvt khương it github hướng dẫn khai thác mô hình csdl linh hoạt trên mongodb server</news:title>
+			<news:keywords>Nosql server brvt khương it github hướng dẫn khai thác mô hình csdl linh hoạt trên mongodb server</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/news/laptop-intel-brvt.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>laptop intel brvt</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2022-05-26</news:publication_date>
+			<news:title>Laptop intel brvt khương it github tư vấn cấu hình tiêu chuẩn cpu ram ssd giúp lập trình viên tăng 100% hiệu suất làm việc</news:title>
+			<news:keywords>Laptop intel brvt khương it github tư vấn cấu hình tiêu chuẩn cpu ram ssd giúp lập trình viên tăng 100% hiệu suất làm việc</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://duongthanhkhuong.github.io/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương it github</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2022-05-23</news:publication_date>
+			<news:title>Khương it github đột phá tiếp thị 1-click thương mại toàn cầu bằng tài nguyên cơ bản nhất</news:title>
+			<news:keywords>Khương it github đột phá tiếp thị 1-click thương mại toàn cầu bằng tài nguyên cơ bản nhất</news:keywords>
+		</news:news>
+	</url>
 </urlset>
