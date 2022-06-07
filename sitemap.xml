@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="https://www.google.com/schemas/sitemap-news/0.9">
 	<url>
+		<loc>https://duongthanhkhuong.github.io/news/ung-dung-kids-mode-brvt.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương it github</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2022-06-07</news:publication_date>
+			<news:title>ứng dụng kids mode brvt</news:title>
+			<news:keywords>Ứng dụng kids mode brvt khương it github hướng dẫn phụ huynh xây dựng môi trường học tập vui chơi lành mạnh cho con trẻ</news:keywords>
+		</news:news>
+	</url>
+	<url>
 		<loc>https://duongthanhkhuong.github.io/news/iphone-vpn-brvt.html</loc>
 		<news:news>
 			<news:publication>
