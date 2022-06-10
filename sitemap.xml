@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="https://www.google.com/schemas/sitemap-news/0.9">
 	<url>
+		<loc>https://duongthanhkhuong.github.io/news/dien-dan-do-sd-card-brvt.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>khương it github</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2022-06-10</news:publication_date>
+			<news:title>diễn đàn độ sd card brvt</news:title>
+			<news:keywords>Diễn đàn độ sd card brvt là mảng tri thức rộng lớn của linux raspberry pi itvtbadboy sưu tầm và mong muốn kết hợp vào lập trình python</news:keywords>
+		</news:news>
+	</url>
+	<url>
 		<loc>https://duongthanhkhuong.github.io/news/ung-dung-ip-camera-brvt.html</loc>
 		<news:news>
 			<news:publication>
