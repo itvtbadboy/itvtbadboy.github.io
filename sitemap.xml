@@ -1,147 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="https://www.google.com/schemas/sitemap-news/0.9">
 	<url>
-		<loc>https://duongthanhkhuong.github.io/news/dien-dan-do-sd-card-brvt.html</loc>
+		<loc>https://itvtbadboy.github.io/</loc>
 		<news:news>
 			<news:publication>
-				<news:name>khương it github</news:name>
+				<news:name>itvtbadboy</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2022-06-10</news:publication_date>
-			<news:title>diễn đàn độ sd card brvt</news:title>
-			<news:keywords>Diễn đàn độ sd card brvt là mảng tri thức rộng lớn của linux raspberry pi khương it github sưu tầm và mong muốn kết hợp vào lập trình python</news:keywords>
-		</news:news>
-	</url>
-	<url>
-		<loc>https://duongthanhkhuong.github.io/news/ung-dung-ip-camera-brvt.html</loc>
-		<news:news>
-			<news:publication>
-				<news:name>khương it github</news:name>
-				<news:language>vi</news:language>
-			</news:publication>
-			<news:publication_date>2022-06-08</news:publication_date>
-			<news:title>ứng dụng ip camera brvt</news:title>
-			<news:keywords>Ứng dụng ip camera brvt khương it github hướng dẫn khách hàng cài đặt cấu hình di động android sử dụng webcam ivideon server miễn phí bảo vệ tài sản 2 mặt trước sau full video h264</news:keywords>
-		</news:news>
-	</url>
-	<url>
-		<loc>https://duongthanhkhuong.github.io/news/ung-dung-kids-mode-brvt.html</loc>
-		<news:news>
-			<news:publication>
-				<news:name>khương it github</news:name>
-				<news:language>vi</news:language>
-			</news:publication>
-			<news:publication_date>2022-06-07</news:publication_date>
-			<news:title>ứng dụng kids mode brvt</news:title>
-			<news:keywords>Ứng dụng kids mode brvt khương it github hướng dẫn phụ huynh xây dựng môi trường học tập vui chơi lành mạnh cho con trẻ</news:keywords>
-		</news:news>
-	</url>
-	<url>
-		<loc>https://duongthanhkhuong.github.io/news/iphone-vpn-brvt.html</loc>
-		<news:news>
-			<news:publication>
-				<news:name>khương it github</news:name>
-				<news:language>vi</news:language>
-			</news:publication>
-			<news:publication_date>2022-06-05</news:publication_date>
-			<news:title>iphone vpn brvt</news:title>
-			<news:keywords>Iphone vpn brvt khương it github hướng dẫn tiếp cận tư duy thương mại không bảo mật google one</news:keywords>
-		</news:news>
-	</url>
-	<url>
-		<loc>https://duongthanhkhuong.github.io/news/web-chat-brvt.html</loc>
-		<news:news>
-			<news:publication>
-				<news:name>khương it github</news:name>
-				<news:language>vi</news:language>
-			</news:publication>
-			<news:publication_date>2022-06-04</news:publication_date>
-			<news:title>web chat brvt</news:title>
-			<news:keywords>Web chat brvt khương it github chia sẽ giải pháp xây dựng kênh tri thức nhanh nhẹ bảo mật</news:keywords>
-		</news:news>
-	</url>
-	<url>
-		<loc>https://duongthanhkhuong.github.io/news/xep-hang-brvt.html</loc>
-		<news:news>
-			<news:publication>
-				<news:name>khương it github</news:name>
-				<news:language>vi</news:language>
-			</news:publication>
-			<news:publication_date>2022-05-30</news:publication_date>
-			<news:title>xếp hạng brvt</news:title>
-			<news:keywords>Xếp hạng brvt khương it github hướng dẫn đột phá ranking từ khóa keyword bằng ứng dụng seo android</news:keywords>
-		</news:news>
-	</url>
-	<url>
-		<loc>https://duongthanhkhuong.github.io/news/ung-dung-brvt.html</loc>
-		<news:news>
-			<news:publication>
-				<news:name>khương it github</news:name>
-				<news:language>vi</news:language>
-			</news:publication>
-			<news:publication_date>2022-05-30</news:publication_date>
-			<news:title>ứng dụng brvt</news:title>
-			<news:keywords>Ứng dụng brvt khương it github hướng dẫn triển khai cửa hàng di động tiếp cận khách hàng</news:keywords>
-		</news:news>
-	</url>
-	<url>
-		<loc>https://duongthanhkhuong.github.io/news/web-server-brvt.html</loc>
-		<news:news>
-			<news:publication>
-				<news:name>khương it github</news:name>
-				<news:language>vi</news:language>
-			</news:publication>
-			<news:publication_date>2022-05-30</news:publication_date>
-			<news:title>web server brvt</news:title>
-			<news:keywords>Web server brvt khương it github hướng dẫn cài nhanh mã nguồn apache2 trên môi trường crostini chromebook</news:keywords>
-		</news:news>
-	</url>
-	<url>
-		<loc>https://duongthanhkhuong.github.io/news/workspace-brvt.html</loc>
-		<news:news>
-			<news:publication>
-				<news:name>khương it github</news:name>
-				<news:language>vi</news:language>
-			</news:publication>
-			<news:publication_date>2022-05-30</news:publication_date>
-			<news:title>workspace brvt</news:title>
-			<news:keywords>Workspace brvt khương it github hướng dẫn phát triển web tiếp thị đa năng bằng tài nguyên google</news:keywords>
-		</news:news>
-	</url>
-	<url>
-		<loc>https://duongthanhkhuong.github.io/news/nosql-server-brvt.html</loc>
-		<news:news>
-			<news:publication>
-				<news:name>khương it github</news:name>
-				<news:language>vi</news:language>
-			</news:publication>
-			<news:publication_date>2022-05-30</news:publication_date>
-			<news:title>nosql server brvt</news:title>
-			<news:keywords>Nosql server brvt khương it github hướng dẫn khai thác mô hình csdl linh hoạt trên mongodb server</news:keywords>
-		</news:news>
-	</url>
-	<url>
-		<loc>https://duongthanhkhuong.github.io/news/laptop-intel-brvt.html</loc>
-		<news:news>
-			<news:publication>
-				<news:name>khương it github</news:name>
-				<news:language>vi</news:language>
-			</news:publication>
-			<news:publication_date>2022-05-30</news:publication_date>
-			<news:title>laptop intel brvt</news:title>
-			<news:keywords>Laptop intel brvt khương it github tư vấn cấu hình tiêu chuẩn cpu ram ssd giúp lập trình viên tăng 100% hiệu suất làm việc</news:keywords>
-		</news:news>
-	</url>
-	<url>
-		<loc>https://duongthanhkhuong.github.io/</loc>
-		<news:news>
-			<news:publication>
-				<news:name>khương it github</news:name>
-				<news:language>vi</news:language>
-			</news:publication>
-			<news:publication_date>2022-05-30</news:publication_date>
-			<news:title>khương it github</news:title>
-			<news:keywords>Khương it github đột phá tiếp thị 1-click thương mại toàn cầu bằng tài nguyên cơ bản nhất</news:keywords>
+			<news:publication_date>2023-05-24</news:publication_date>
+			<news:title>it vũng tàu badboy</news:title>
+			<news:keywords>It vũng tàu badboy chuyên gia điện toán đám mây cloud engine, linux debian server, apache2 lamp, bách khoa media wiki, di động amp mobile, bảo mật parrot security</news:keywords>
 		</news:news>
 	</url>
 </urlset>
