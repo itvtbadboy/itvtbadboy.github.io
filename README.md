@@ -8,7 +8,6 @@
 
 <hr />
 
-[[https://www.itvtbadboy.com/image/thuong-hieu-itvtbadboy.jpg|thuong hieu top it]]
 ### thương hiệu top it&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/#thuonghieutopit)
 > ✯ Thương hiệu top it là bước đệm quan trọng itvtbadboy thông qua chiến lược tiếp thị podcast bẻ khóa mọi mảnh ghép bí mật seo google carousel trao tay đối tác, tổng hợp thành tích nhắm thẳng google bing coccoc lấy về lợi ích cho mạng lưới.
 - bảo mật hai lớp
@@ -17,7 +16,6 @@
 
 <hr />
 
-[[https://www.itvtbadboy.com/image/oracle-brvt-security-header.jpg|baomat mang it]]
 ### bảo mật mạng it&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/#baomatmangit)
 > ✯ Bảo mật mạng it là tư duy thương mại sạch được itvtbadboy đặt làm trọng tâm phát triển nền tảng điện toán đám mây tiếp thị toàn cầu sử dụng 100% tài nguyên miễn phí (web server apache, bách khoa wiki, tin tức, cửa hàng bootstrap, bảo mật parrot, mạng xã hội).
 - điện toán đám mây
@@ -30,7 +28,6 @@
 
 <hr />
 
-[[https://www.itvtbadboy.com/image/oracle-brvt-ssllab.jpg|bang vang hang it]]
 ### bảng vàng hạng it&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/#bangvanghangit)
 > ✯ Bảng vàng hạng it là vị trí thực tế trên bảng xếp hạng seo ranking google bing coccoc, điểm A+ là chìa khóa vàng giúp itvtbadboy kéo giãn các chính sách tiếp cận hiệu ứng seo cho phép triển khai ma trận cdn backend hiển thị theo nhiều khía cạnh.
 - lets encrypt 2048bit
@@ -39,7 +36,6 @@
 
 <hr />
 
-[[https://www.itvtbadboy.com/image/oracle-brvt-load-balancer.jpg|ten mien top it]]
 ### tên miền top it&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/#tenmientopit)
 > ✯ Tên miền top it có dung lượng lưu trữ chênh lệch từ 30GB tới 100GB, itvtbadboy chọn lọc ra 2 nền tảng tiêu chuẩn giúp trải nghiệm thực hành và hoàn hảo cho xây dựng kinh doanh từ 4 thương hiệu đứng đầu thế giới (google ce - oracle cloud - amazon aws - microsoft azure).
 - google 30GB linux
@@ -47,7 +43,6 @@
 
 <hr />
 
-[[https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg|alt=nhac chon loc]]
 ### nhạc chọn lọc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/music/)
 > ✯ Nhạc trẻ (vpop) - nhạc hoa (cpop) - nhạc quốc tế (pop) - nhạc hòa tấu (guzheng) chất lượng 128kps khương itvtbadboy chọn lọc.
 - nhạc trẻ
