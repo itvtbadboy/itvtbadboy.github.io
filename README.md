@@ -37,11 +37,15 @@
 - giảm tấn công mitm
 - certificate authority
 
+<img src="https://camo.githubusercontent.com/5d6504d9dea77a943471e82e04bc59e67ebfe3f7df124c91dc681bb03c09db82/68747470733a2f2f7777772e69747674626164626f792e636f6d2f696d6167652f6f7261636c652d627276742d6c6f61642d62616c616e6365722e6a7067" alt="ten mien top it" />
+
 ### tên miền top it&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/#tenmientopit)
 > ✯ Tên miền top it có dung lượng lưu trữ chênh lệch từ 30GB tới 100GB, itvtbadboy chọn lọc ra 2 nền tảng tiêu chuẩn giúp trải nghiệm thực hành và hoàn hảo cho xây dựng kinh doanh từ 4 thương hiệu đứng đầu thế giới (google ce - oracle cloud - amazon aws - microsoft azure).<br><br>
 > ✯ Tên miền top it bắt đầu thực hành 2 kỹ năng an ninh mạng security và web server apache2 trên mã nguồn kali với oracle cloud vì khởi tạo instance itvtbadboy không cần tốn nhiều tiền qua mastercard, khi kiến thức vững chắc cũng là thời điểm kinh doanh trực tuyến trên google ce.
 - google 30GB linux
 - oracle 100GB linux
+
+<img src="https://camo.githubusercontent.com/bf42de7ed937043a495f4fdaaca8f5b4dbf345e56d5614f6a4e4e38dfe42feb3/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63352f32662f33652f63353266336565363861346137636339633532626264376362333066643535382e6a7067" alt="nhac chon loc" />
 
 ### nhạc chọn lọc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/music/)
 > ✯ Nhạc trẻ (vpop) - nhạc hoa (cpop) - nhạc quốc tế (pop) - nhạc hòa tấu (guzheng) chất lượng 128kps khương itvtbadboy chọn lọc.
