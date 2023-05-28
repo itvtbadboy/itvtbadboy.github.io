@@ -54,7 +54,7 @@
 <img src="https://camo.githubusercontent.com/bf42de7ed937043a495f4fdaaca8f5b4dbf345e56d5614f6a4e4e38dfe42feb3/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63352f32662f33652f63353266336565363861346137636339633532626264376362333066643535382e6a7067" alt="nhac chon loc" />
 
 ### nhạc chọn lọc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/music/)
-> ✯ Nhạc trẻ (vpop) - nhạc hoa (cpop) - nhạc quốc tế (pop) - nhạc hòa tấu (guzheng) chất lượng 128kps khương itvtbadboy chọn lọc.
+> ✯ Nhạc trẻ (vpop) - nhạc hoa (cpop) - nhạc quốc tế (pop) - nhạc hòa tấu (guzheng) - phim kiếm hiệp (mp4) chất lượng 128kps khương itvtbadboy chọn lọc.
 - nhạc trẻ
 - nhạc hoa
 - quốc tế
