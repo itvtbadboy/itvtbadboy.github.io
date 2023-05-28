@@ -6,12 +6,16 @@
 > ✯ Tối ưu website bootstrap v4 và media wiki khai thác ma trận cdn backend.<br>
 > ✯ Sử dụng linux parrot security giám sát an ninh mạng web server cục bộ.
 
+<img src="https://camo.githubusercontent.com/9b6f30612880f6835aa258b5035d2b7c2653a53487168028e45620551aa391ef/68747470733a2f2f7777772e69747674626164626f792e636f6d2f696d6167652f7468756f6e672d686965752d69747674626164626f792e6a7067" alt="thuong hieu top it" />
+
 ### thương hiệu top it&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/#thuonghieutopit)
 > ✯ Thương hiệu top it là bước đệm quan trọng itvtbadboy thông qua chiến lược tiếp thị podcast bẻ khóa mọi mảnh ghép bí mật seo google carousel trao tay đối tác, tổng hợp thành tích nhắm thẳng google bing coccoc lấy về lợi ích cho mạng lưới.<br><br>
 > ✯ Thương hiệu top it xây dựng khung an ninh mạng dữ liệu itvtbadboy đột phá tới đỉnh điểm A+ không còn giới hạn khi sở hữu bảo mật 2 lớp dnssec (domain name system security extensions) và cân bằng tải load balancing từ google ce.
 - bảo mật hai lớp
 - cân bằng tải x2
 - tiếp thị podcast
+
+<img src="https://camo.githubusercontent.com/6db79a50452b9d31e007f401f7e844787b3525d431fb8dacd173231259bed74a/68747470733a2f2f7777772e69747674626164626f792e636f6d2f696d6167652f6f7261636c652d627276742d73656375726974792d6865616465722e6a7067" alt="bao mat mang it" />
 
 ### bảo mật mạng it&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/#baomatmangit)
 > ✯ Bảo mật mạng it là tư duy thương mại sạch được itvtbadboy đặt làm trọng tâm phát triển nền tảng điện toán đám mây tiếp thị toàn cầu sử dụng 100% tài nguyên miễn phí (web server apache, bách khoa wiki, tin tức, cửa hàng bootstrap, bảo mật parrot, mạng xã hội).<br><br>
@@ -23,6 +27,8 @@
 - cửa hàng bootstrap
 - bảo mật web parrot
 - top mạng xã hội ảo
+
+<img src="https://camo.githubusercontent.com/aedfeff9d0c5c98daf1acf8111f6e197a78eb02b262496b2eea2dda1213c3afa/68747470733a2f2f7777772e69747674626164626f792e636f6d2f696d6167652f6f7261636c652d627276742d73736c6c61622e6a7067" alt="bang vang hang it" />
 
 ### bảng vàng hạng it&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/#bangvanghangit)
 > ✯ Bảng vàng hạng it là vị trí thực tế trên bảng xếp hạng seo ranking google bing coccoc, điểm A+ là chìa khóa vàng giúp itvtbadboy kéo giãn các chính sách tiếp cận hiệu ứng seo cho phép triển khai ma trận cdn backend hiển thị theo nhiều khía cạnh.<br><br>
