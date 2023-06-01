@@ -8,7 +8,7 @@
 
 <hr />
 
-[[https://www.itvtbadboy.com/image/thuong-hieu-itvtbadboy.jpg|thuong hieu top it]]
+<img src="https://www.itvtbadboy.com/image/thuong-hieu-itvtbadboy.jpg" align="center" width="100%" height="128px"/>
 ### thương hiệu it badboy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/#thuonghieutopit)
 > ✯ Thương hiệu it badboy là bước đệm quan trọng itvtbadboy thông qua chiến lược tiếp thị podcast bẻ khóa mọi mảnh ghép bí mật seo google carousel trao tay đối tác, tổng hợp thành tích nhắm thẳng google bing coccoc lấy về lợi ích cho mạng lưới.
 - bảo mật hai lớp
