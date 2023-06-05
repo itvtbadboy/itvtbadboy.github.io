@@ -3,8 +3,15 @@
     <div itemprop="item" itemscope itemtype="https://schema.org/MovieClip" itemid="it-v%C5%A9ng-t%C3%A0u-badboy-">
       <span itemprop="name" content="it vũng tàu badboy"></span>
       <img src="https://www.itvtbadboy.com/wiki/images/0/0e/Podcast.jpg" align="right" width="128px" height="128px"></img>
+      <div style="display: none;" class="author vcard">
+        <a class="url" itemprop="url" href="https://www.itvtbadboy.com/#thuonghieuitbadboy" title="thương hiệu it badboy"><span class="fn">thương hiệu <span class="category">it badboy</span></span></a>
+        <img class="photo" itemprop="image" src="https://www.itvtbadboy.com/wiki/images/b/bd/Thuong-hieu-itvtbadboy.jpg" alt="thuong hieu it badboy">
+        <span itemprop="dateCreated">Jun 02, 2023</span>
+        <div itemprop="director actor" itemscope itemtype="https://schema.org/Person"><span itemprop="name">thương hiệu</span></div>
+        <span class="entry-content">Thương hiệu it badboy là bước đệm quan trọng itvtbadboy thông qua <span class="entry-summary">chiến lược tiếp thị podcast bẻ khóa mọi mảnh ghép bí mật</span> seo google carousel trao tay đối tác, tổng hợp thành tích nhắm thẳng google bing coccoc lấy về lợi ích cho mạng lưới</span>
+      </div>
 
-<h2>it vũng tàu badboy</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/) [![itvtbadboy](https://img.shields.io/twitter/follow/badboyvt83.svg?style=social)](https://twitter.com/badboyvt83)
+## it vũng tàu badboy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/) [![itvtbadboy](https://img.shields.io/twitter/follow/badboyvt83.svg?style=social)](https://twitter.com/badboyvt83)
 > ✯ It vũng tàu badboy chuyên gia điện toán đám mây cloud engine 869 202 254.<br>
 > ✯ Phát triển tiềm năng di động amp mobile quảng bá thương hiệu toàn cầu.<br>
 > ✯ Tối ưu website bootstrap v4 và media wiki khai thác ma trận cdn backend.<br>
