@@ -65,7 +65,7 @@
 
 <img src="https://www.itvtbadboy.com/wiki/images/b/bd/Thuong-hieu-itvtbadboy.jpg" align="center" width="100%" height="300px"/>
 
-### thương hiệu it badboy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![thương hiệu it badboy](https://www.itvtbadboy.com/image/google.svg)](https://www.google.com/maps/d/viewer?mid=1rfsk8yS_48loWG2bHMvQ11fipwxhq6xK&ll=10.508226299999997%2C107.18387579999998&z=15)
+### thương hiệu it badboy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![thương hiệu it badboy](https://www.itvtbadboy.com/image/google.svg)](https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw)
 > ✯ Thương hiệu it badboy là bước đệm quan trọng itvtbadboy thông qua chiến lược tiếp thị podcast bẻ khóa mọi mảnh ghép bí mật seo google carousel trao tay đối tác, tổng hợp thành tích nhắm thẳng google bing coccoc lấy về lợi ích cho mạng lưới.
 - bảo mật hai lớp
 - cân bằng tải x2
@@ -89,7 +89,7 @@
 
 <img src="https://www.itvtbadboy.com/wiki/images/0/06/Oracle-brvt-ssllab.jpg" align="center" width="100%" height="300px"/>
 
-### bảng vàng it badboy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![bảng vàng it badboy](https://www.itvtbadboy.com/image/youtube.svg)](https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw)
+### bảng vàng it badboy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![bảng vàng it badboy](https://www.itvtbadboy.com/image/youtube.svg)](https://www.youtube.com/@thuongmaibrvt)
 > ✯ Bảng vàng it badboy là vị trí thực tế trên bảng xếp hạng seo ranking google bing coccoc, điểm A+ là chìa khóa vàng giúp itvtbadboy kéo giãn các chính sách tiếp cận hiệu ứng seo cho phép triển khai ma trận cdn backend hiển thị theo nhiều khía cạnh.
 - lets encrypt 2048bit
 - giảm tấn công mitm
