@@ -2,13 +2,13 @@
   <div itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><span itemprop="position" content="1"></span>
     <div itemprop="item" itemscope itemtype="https://schema.org/MovieClip" itemid="it-v%C5%A9ng-t%C3%A0u-badboy-">
       <span itemprop="name" content="it vũng tàu badboy"></span>
-      <img src="https://www.itvtbadboy.com/wiki/images/0/0e/Podcast.jpg" align="right" width="128px" height="128px"></img>
       <div class="author vcard">
         <a class="url" itemprop="url" href="https://github.com/itvtbadboy/itvtbadboy.github.io/blob/master/README.md#it-v%C5%A9ng-t%C3%A0u-badboy-" title="thương hiệu it badboy"><span class="fn" content="it vũng tàu badboy"><span class="category" content="it vũng tàu"></span></span></a>
-        <img class="photo" itemprop="image" src="https://www.itvtbadboy.com/wiki/images/b/bd/Thuong-hieu-itvtbadboy.jpg" alt="thuong hieu it badboy">
-        <span itemprop="dateCreated">Jun 02, 2023</span>
-        <div itemprop="director actor" itemscope itemtype="https://schema.org/Person"><span itemprop="name">thương hiệu</span></div>
-        <span class="entry-content">Thương hiệu it badboy là bước đệm quan trọng itvtbadboy thông qua <span class="entry-summary">chiến lược tiếp thị podcast bẻ khóa mọi mảnh ghép bí mật</span> seo google carousel trao tay đối tác, tổng hợp thành tích nhắm thẳng google bing coccoc lấy về lợi ích cho mạng lưới</span>
+        <img class="photo" itemprop="image" src="https://www.itvtbadboy.com/wiki/images/0/0e/Podcast.jpg" align="right" width="128px" height="128px" alt="it vung tau badboy"></img>
+        <span itemprop="dateCreated" content="Jun 05, 2023"></span>
+        <div itemprop="director actor" itemscope itemtype="https://schema.org/Person"><span itemprop="name" content="itvtbadboy"></span></div>
+        <span class="entry-content" content="It vũng tàu badboy chuyên gia điện toán đám mây cloud engine 869 202 254"></span>
+        <span class="entry-summary" content="Phát triển tiềm năng di động amp mobile quảng bá thương hiệu toàn cầu. Tối ưu website bootstrap v4 và media wiki khai thác ma trận cdn backend. Sử dụng linux parrot security giám sát an ninh mạng web server cục bộ"></span>
       </div>
 
 ## it vũng tàu badboy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/) [![itvtbadboy](https://img.shields.io/twitter/follow/badboyvt83.svg?style=social)](https://twitter.com/badboyvt83)
