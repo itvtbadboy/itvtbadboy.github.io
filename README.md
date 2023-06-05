@@ -1,3 +1,5 @@
+<div itemscope itemtype="https://schema.org/MovieClip>
+
 <img src="https://www.itvtbadboy.com/wiki/images/0/0e/Podcast.jpg" align="right" width="128px" height="128px"/>
 
 ## it vũng tàu badboy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/) [![itvtbadboy](https://img.shields.io/twitter/follow/badboyvt83.svg?style=social)](https://twitter.com/badboyvt83)
@@ -5,6 +7,8 @@
 > ✯ Phát triển tiềm năng di động amp mobile quảng bá thương hiệu toàn cầu.<br>
 > ✯ Tối ưu website bootstrap v4 và media wiki khai thác ma trận cdn backend.<br>
 > ✯ Sử dụng linux parrot security giám sát an ninh mạng web server cục bộ.
+
+</div>
 
 <hr />
 
