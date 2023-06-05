@@ -3,8 +3,8 @@
     <div itemprop="item" itemscope itemtype="https://schema.org/MovieClip" itemid="it-v%C5%A9ng-t%C3%A0u-badboy-">
       <span itemprop="name" content="it vũng tàu badboy"></span>
       <img src="https://www.itvtbadboy.com/wiki/images/0/0e/Podcast.jpg" align="right" width="128px" height="128px"></img>
-      <div style="display: none;" class="author vcard">
-        <a class="url" itemprop="url" href="https://www.itvtbadboy.com/#thuonghieuitbadboy" title="thương hiệu it badboy"><span class="fn">thương hiệu <span class="category">it badboy</span></span></a>
+      <div class="author vcard">
+        <a class="url" itemprop="url" href="https://github.com/itvtbadboy/itvtbadboy.github.io/blob/master/README.md#it-v%C5%A9ng-t%C3%A0u-badboy-" title="thương hiệu it badboy"><span class="fn" content="it vũng tàu badboy"><span class="category" content="it vũng tàu"></span></span></a>
         <img class="photo" itemprop="image" src="https://www.itvtbadboy.com/wiki/images/b/bd/Thuong-hieu-itvtbadboy.jpg" alt="thuong hieu it badboy">
         <span itemprop="dateCreated">Jun 02, 2023</span>
         <div itemprop="director actor" itemscope itemtype="https://schema.org/Person"><span itemprop="name">thương hiệu</span></div>
