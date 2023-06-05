@@ -1,4 +1,6 @@
-<div itemscope itemtype="https://schema.org/MovieClip>
+<div itemscope="" itemtype="https://schema.org/BreadcrumbList>
+  <div itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><span style="display: none;" itemprop="position">1</span>
+    <div itemprop="item" itemscope itemtype="https://schema.org/MovieClip" itemid="thương-hiệu-it-badboy"></div>
 
 <img src="https://www.itvtbadboy.com/wiki/images/0/0e/Podcast.jpg" align="right" width="128px" height="128px"/>
 
@@ -8,6 +10,7 @@
 > ✯ Tối ưu website bootstrap v4 và media wiki khai thác ma trận cdn backend.<br>
 > ✯ Sử dụng linux parrot security giám sát an ninh mạng web server cục bộ.
 
+  </div>
 </div>
 
 <hr />
