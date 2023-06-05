@@ -46,7 +46,7 @@
   </div>
   <div itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><span itemprop="position" content="6"></span>
     <div itemprop="item" itemscope itemtype="https://schema.org/MovieClip" itemid="gi%E1%BA%A3i-tr%C3%AD-it-badboy">
-      <img itemprop="image" src="https://www.itvtbadboy.com/wiki/images/0/06/Oracle-brvt-ssllab.jpg" align="right" width="58px" height="58px" alt="giai tri it badboy" />
+      <img itemprop="image" src="https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg" align="right" width="58px" height="58px" alt="giai tri it badboy" />
       <span itemprop="name" content="giải trí it badboy"></span><span itemprop="dateCreated" content="Jun 05, 2023"></span>
       <a itemprop="url" href="https://github.com/itvtbadboy/itvtbadboy.github.io/blob/master/README.md#gi%E1%BA%A3i-tr%C3%AD-it-badboy" title="giải trí it badboy"></a>
       <div itemprop="director actor" itemscope itemtype="https://schema.org/Person"><span itemprop="name" content="giải trí"></span></div>
