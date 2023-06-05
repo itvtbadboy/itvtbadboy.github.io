@@ -1,7 +1,7 @@
 <div itemscope="" itemtype="https://schema.org/BreadcrumbList">
   <div itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><span itemprop="position" content="1"></span>
     <div itemprop="item" itemscope itemtype="https://schema.org/MovieClip" itemid="it-v%C5%A9ng-t%C3%A0u-badboy-">
-      <img itemprop="image" src="https://www.itvtbadboy.com/wiki/images/0/0e/Podcast.jpg" align="right" width="128px" height="128px" alt="it vung tau badboy" />
+      <img itemprop="image" src="https://www.itvtbadboy.com/wiki/images/0/0e/Podcast.jpg" align="right" width="64px" height="64px" alt="it vung tau badboy" />
       <span itemprop="name" content="it vũng tàu badboy"></span><span itemprop="dateCreated" content="Jun 05, 2023"></span>
       <a itemprop="url" href="https://github.com/itvtbadboy/itvtbadboy.github.io/blob/master/README.md#it-v%C5%A9ng-t%C3%A0u-badboy-" title="it vũng tàu badboy"></a>
       <div itemprop="director actor" itemscope itemtype="https://schema.org/Person"><span itemprop="name" content="itvtbadboy"></span></div>
@@ -10,7 +10,7 @@
   </div>
   <div itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><span itemprop="position" content="2"></span>
     <div itemprop="item" itemscope itemtype="https://schema.org/MovieClip" itemid="th%C6%B0%C6%A1ng-hi%E1%BB%87u-it-badboy">
-      <img itemprop="image" src="https://www.itvtbadboy.com/wiki/images/b/bd/Thuong-hieu-itvtbadboy.jpg" align="right" width="128px" height="128px" alt="thuong hieu it badboy" />
+      <img itemprop="image" src="https://www.itvtbadboy.com/wiki/images/b/bd/Thuong-hieu-itvtbadboy.jpg" align="right" width="64px" height="64px" alt="thuong hieu it badboy" />
       <span itemprop="name" content="thương hiệu it badboy"></span><span itemprop="dateCreated" content="Jun 05, 2023"></span>
       <a itemprop="url" href="https://github.com/itvtbadboy/itvtbadboy.github.io/blob/master/README.md#th%C6%B0%C6%A1ng-hi%E1%BB%87u-it-badboy" title="thương hiệu it badboy"></a>
       <div itemprop="director actor" itemscope itemtype="https://schema.org/Person"><span itemprop="name" content="thương hiệu"></span></div>
@@ -19,7 +19,7 @@
   </div>
   <div itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><span itemprop="position" content="2"></span>
     <div itemprop="item" itemscope itemtype="https://schema.org/MovieClip" itemid="th%C6%B0%C6%A1ng-hi%E1%BB%87u-it-badboy">
-      <img itemprop="image" src="https://www.itvtbadboy.com/wiki/images/b/bd/Thuong-hieu-itvtbadboy.jpg" align="right" width="128px" height="128px" alt="thuong hieu it badboy" />
+      <img itemprop="image" src="https://www.itvtbadboy.com/wiki/images/b/bd/Thuong-hieu-itvtbadboy.jpg" align="right" width="64px" height="64px" alt="thuong hieu it badboy" />
       <span itemprop="name" content="thương hiệu it badboy"></span><span itemprop="dateCreated" content="Jun 05, 2023"></span>
       <a itemprop="url" href="https://github.com/itvtbadboy/itvtbadboy.github.io/blob/master/README.md#th%C6%B0%C6%A1ng-hi%E1%BB%87u-it-badboy" title="thương hiệu it badboy"></a>
       <div itemprop="director actor" itemscope itemtype="https://schema.org/Person"><span itemprop="name" content="thương hiệu"></span></div>
@@ -28,7 +28,7 @@
   </div>
   <div itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><span itemprop="position" content="2"></span>
     <div itemprop="item" itemscope itemtype="https://schema.org/MovieClip" itemid="th%C6%B0%C6%A1ng-hi%E1%BB%87u-it-badboy">
-      <img itemprop="image" src="https://www.itvtbadboy.com/wiki/images/b/bd/Thuong-hieu-itvtbadboy.jpg" align="right" width="128px" height="128px" alt="thuong hieu it badboy" />
+      <img itemprop="image" src="https://www.itvtbadboy.com/wiki/images/b/bd/Thuong-hieu-itvtbadboy.jpg" align="right" width="64px" height="64px" alt="thuong hieu it badboy" />
       <span itemprop="name" content="thương hiệu it badboy"></span><span itemprop="dateCreated" content="Jun 05, 2023"></span>
       <a itemprop="url" href="https://github.com/itvtbadboy/itvtbadboy.github.io/blob/master/README.md#th%C6%B0%C6%A1ng-hi%E1%BB%87u-it-badboy" title="thương hiệu it badboy"></a>
       <div itemprop="director actor" itemscope itemtype="https://schema.org/Person"><span itemprop="name" content="thương hiệu"></span></div>
@@ -37,7 +37,7 @@
   </div>
   <div itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><span itemprop="position" content="2"></span>
     <div itemprop="item" itemscope itemtype="https://schema.org/MovieClip" itemid="th%C6%B0%C6%A1ng-hi%E1%BB%87u-it-badboy">
-      <img itemprop="image" src="https://www.itvtbadboy.com/wiki/images/b/bd/Thuong-hieu-itvtbadboy.jpg" align="right" width="128px" height="128px" alt="thuong hieu it badboy" />
+      <img itemprop="image" src="https://www.itvtbadboy.com/wiki/images/b/bd/Thuong-hieu-itvtbadboy.jpg" align="right" width="64px" height="64px" alt="thuong hieu it badboy" />
       <span itemprop="name" content="thương hiệu it badboy"></span><span itemprop="dateCreated" content="Jun 05, 2023"></span>
       <a itemprop="url" href="https://github.com/itvtbadboy/itvtbadboy.github.io/blob/master/README.md#th%C6%B0%C6%A1ng-hi%E1%BB%87u-it-badboy" title="thương hiệu it badboy"></a>
       <div itemprop="director actor" itemscope itemtype="https://schema.org/Person"><span itemprop="name" content="thương hiệu"></span></div>
@@ -46,7 +46,7 @@
   </div>
   <div itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><span itemprop="position" content="2"></span>
     <div itemprop="item" itemscope itemtype="https://schema.org/MovieClip" itemid="th%C6%B0%C6%A1ng-hi%E1%BB%87u-it-badboy">
-      <img itemprop="image" src="https://www.itvtbadboy.com/wiki/images/b/bd/Thuong-hieu-itvtbadboy.jpg" align="right" width="128px" height="128px" alt="thuong hieu it badboy" />
+      <img itemprop="image" src="https://www.itvtbadboy.com/wiki/images/b/bd/Thuong-hieu-itvtbadboy.jpg" align="right" width="64px" height="64px" alt="thuong hieu it badboy" />
       <span itemprop="name" content="thương hiệu it badboy"></span><span itemprop="dateCreated" content="Jun 05, 2023"></span>
       <a itemprop="url" href="https://github.com/itvtbadboy/itvtbadboy.github.io/blob/master/README.md#th%C6%B0%C6%A1ng-hi%E1%BB%87u-it-badboy" title="thương hiệu it badboy"></a>
       <div itemprop="director actor" itemscope itemtype="https://schema.org/Person"><span itemprop="name" content="thương hiệu"></span></div>
