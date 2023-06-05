@@ -17,6 +17,42 @@
       <span itemprop="description" content="Thương hiệu it badboy là bước đệm quan trọng itvtbadboy thông qua chiến lược tiếp thị podcast bẻ khóa mọi mảnh ghép bí mật seo google carousel trao tay đối tác, tổng hợp thành tích nhắm thẳng google bing coccoc lấy về lợi ích cho mạng lưới"></span>
     </div>
   </div>
+  <div itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><span itemprop="position" content="2"></span>
+    <div itemprop="item" itemscope itemtype="https://schema.org/MovieClip" itemid="th%C6%B0%C6%A1ng-hi%E1%BB%87u-it-badboy">
+      <img itemprop="image" src="https://www.itvtbadboy.com/wiki/images/b/bd/Thuong-hieu-itvtbadboy.jpg" align="right" width="128px" height="128px" alt="thuong hieu it badboy" />
+      <span itemprop="name" content="thương hiệu it badboy"></span><span itemprop="dateCreated" content="Jun 05, 2023"></span>
+      <a itemprop="url" href="https://github.com/itvtbadboy/itvtbadboy.github.io/blob/master/README.md#th%C6%B0%C6%A1ng-hi%E1%BB%87u-it-badboy" title="thương hiệu it badboy"></a>
+      <div itemprop="director actor" itemscope itemtype="https://schema.org/Person"><span itemprop="name" content="thương hiệu"></span></div>
+      <span itemprop="description" content="Thương hiệu it badboy là bước đệm quan trọng itvtbadboy thông qua chiến lược tiếp thị podcast bẻ khóa mọi mảnh ghép bí mật seo google carousel trao tay đối tác, tổng hợp thành tích nhắm thẳng google bing coccoc lấy về lợi ích cho mạng lưới"></span>
+    </div>
+  </div>
+  <div itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><span itemprop="position" content="2"></span>
+    <div itemprop="item" itemscope itemtype="https://schema.org/MovieClip" itemid="th%C6%B0%C6%A1ng-hi%E1%BB%87u-it-badboy">
+      <img itemprop="image" src="https://www.itvtbadboy.com/wiki/images/b/bd/Thuong-hieu-itvtbadboy.jpg" align="right" width="128px" height="128px" alt="thuong hieu it badboy" />
+      <span itemprop="name" content="thương hiệu it badboy"></span><span itemprop="dateCreated" content="Jun 05, 2023"></span>
+      <a itemprop="url" href="https://github.com/itvtbadboy/itvtbadboy.github.io/blob/master/README.md#th%C6%B0%C6%A1ng-hi%E1%BB%87u-it-badboy" title="thương hiệu it badboy"></a>
+      <div itemprop="director actor" itemscope itemtype="https://schema.org/Person"><span itemprop="name" content="thương hiệu"></span></div>
+      <span itemprop="description" content="Thương hiệu it badboy là bước đệm quan trọng itvtbadboy thông qua chiến lược tiếp thị podcast bẻ khóa mọi mảnh ghép bí mật seo google carousel trao tay đối tác, tổng hợp thành tích nhắm thẳng google bing coccoc lấy về lợi ích cho mạng lưới"></span>
+    </div>
+  </div>
+  <div itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><span itemprop="position" content="2"></span>
+    <div itemprop="item" itemscope itemtype="https://schema.org/MovieClip" itemid="th%C6%B0%C6%A1ng-hi%E1%BB%87u-it-badboy">
+      <img itemprop="image" src="https://www.itvtbadboy.com/wiki/images/b/bd/Thuong-hieu-itvtbadboy.jpg" align="right" width="128px" height="128px" alt="thuong hieu it badboy" />
+      <span itemprop="name" content="thương hiệu it badboy"></span><span itemprop="dateCreated" content="Jun 05, 2023"></span>
+      <a itemprop="url" href="https://github.com/itvtbadboy/itvtbadboy.github.io/blob/master/README.md#th%C6%B0%C6%A1ng-hi%E1%BB%87u-it-badboy" title="thương hiệu it badboy"></a>
+      <div itemprop="director actor" itemscope itemtype="https://schema.org/Person"><span itemprop="name" content="thương hiệu"></span></div>
+      <span itemprop="description" content="Thương hiệu it badboy là bước đệm quan trọng itvtbadboy thông qua chiến lược tiếp thị podcast bẻ khóa mọi mảnh ghép bí mật seo google carousel trao tay đối tác, tổng hợp thành tích nhắm thẳng google bing coccoc lấy về lợi ích cho mạng lưới"></span>
+    </div>
+  </div>
+  <div itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><span itemprop="position" content="2"></span>
+    <div itemprop="item" itemscope itemtype="https://schema.org/MovieClip" itemid="th%C6%B0%C6%A1ng-hi%E1%BB%87u-it-badboy">
+      <img itemprop="image" src="https://www.itvtbadboy.com/wiki/images/b/bd/Thuong-hieu-itvtbadboy.jpg" align="right" width="128px" height="128px" alt="thuong hieu it badboy" />
+      <span itemprop="name" content="thương hiệu it badboy"></span><span itemprop="dateCreated" content="Jun 05, 2023"></span>
+      <a itemprop="url" href="https://github.com/itvtbadboy/itvtbadboy.github.io/blob/master/README.md#th%C6%B0%C6%A1ng-hi%E1%BB%87u-it-badboy" title="thương hiệu it badboy"></a>
+      <div itemprop="director actor" itemscope itemtype="https://schema.org/Person"><span itemprop="name" content="thương hiệu"></span></div>
+      <span itemprop="description" content="Thương hiệu it badboy là bước đệm quan trọng itvtbadboy thông qua chiến lược tiếp thị podcast bẻ khóa mọi mảnh ghép bí mật seo google carousel trao tay đối tác, tổng hợp thành tích nhắm thẳng google bing coccoc lấy về lợi ích cho mạng lưới"></span>
+    </div>
+  </div>
 </div>
 
 ## it vũng tàu badboy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/) [![itvtbadboy](https://img.shields.io/twitter/follow/badboyvt83.svg?style=social)](https://twitter.com/badboyvt83)
