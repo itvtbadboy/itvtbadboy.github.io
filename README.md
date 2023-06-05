@@ -55,7 +55,7 @@
   </div>
 </div>
 
-## it vũng tàu badboy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.com/image/awesome.svg)](https://www.itvtbadboy.com/) [![itvtbadboy](https://img.shields.io/twitter/follow/badboyvt83.svg?style=social)](https://twitter.com/badboyvt83)
+## it vũng tàu badboy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://img.shields.io/twitter/follow/badboyvt83.svg?style=social)](https://twitter.com/badboyvt83)
 > ✯ It vũng tàu badboy chuyên gia điện toán đám mây cloud engine 869 202 254.<br>
 > ✯ Phát triển tiềm năng di động amp mobile quảng bá thương hiệu toàn cầu.<br>
 > ✯ Tối ưu website bootstrap v4 và media wiki khai thác ma trận cdn backend.<br>
