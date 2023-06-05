@@ -75,7 +75,7 @@
 
 <img src="https://www.itvtbadboy.com/wiki/images/c/ce/Oracle-brvt-security-header.jpg" align="center" width="100%" height="300px"/>
 
-### bảo mật it badboy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![bảo mật it badboy](https://www.itvtbadboy.com/image/google.svg)](https://www.youtube.com/@thuongmaibrvt/community)
+### bảo mật it badboy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![bảo mật it badboy](https://www.itvtbadboy.com/image/google.svg)](https://groups.google.com/g/itvtbadboy)
 > ✯ Bảo mật it badboy là tư duy thương mại sạch được itvtbadboy đặt làm trọng tâm phát triển nền tảng điện toán đám mây tiếp thị toàn cầu sử dụng 100% tài nguyên miễn phí (web server apache, bách khoa wiki, tin tức, cửa hàng bootstrap, bảo mật parrot, mạng xã hội).
 - điện toán đám mây
 - web server apache
@@ -89,7 +89,7 @@
 
 <img src="https://www.itvtbadboy.com/wiki/images/0/06/Oracle-brvt-ssllab.jpg" align="center" width="100%" height="300px"/>
 
-### bảng vàng it badboy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![bảng vàng it badboy](https://www.itvtbadboy.com/image/youtube.svg)](https://www.itvtbadboy.com/#bangvanghangit)
+### bảng vàng it badboy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![bảng vàng it badboy](https://www.itvtbadboy.com/image/youtube.svg)](https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw)
 > ✯ Bảng vàng it badboy là vị trí thực tế trên bảng xếp hạng seo ranking google bing coccoc, điểm A+ là chìa khóa vàng giúp itvtbadboy kéo giãn các chính sách tiếp cận hiệu ứng seo cho phép triển khai ma trận cdn backend hiển thị theo nhiều khía cạnh.
 - lets encrypt 2048bit
 - giảm tấn công mitm
