@@ -99,7 +99,7 @@
 
 <img src="https://www.itvtbadboy.com/wiki/images/e/e2/Oracle-brvt-load-balancer.jpg" align="center" width="100%" height="300px"/>
 
-### tên miền it badboy&nbsp;&nbsp;&nbsp;[![tên miền it badboy](https://www.itvtbadboy.com/image/google.svg)](https://www.itvtbadboy.com/#tenmientopit)
+### tên miền it badboy&nbsp;&nbsp;&nbsp;[![tên miền it badboy](https://www.itvtbadboy.com/image/google.svg)](https://didong.itvtbadboy.com/)
 > ✯ Tên miền it badboy có dung lượng lưu trữ chênh lệch từ 30GB tới 100GB, itvtbadboy chọn lọc ra 2 nền tảng tiêu chuẩn giúp trải nghiệm thực hành và hoàn hảo cho xây dựng kinh doanh từ 4 thương hiệu đứng đầu thế giới (google ce - oracle cloud - amazon aws - microsoft azure).
 - google 30GB linux
 - oracle 100GB linux
