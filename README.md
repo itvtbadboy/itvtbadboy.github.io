@@ -75,7 +75,7 @@
 
 <img src="https://www.itvtbadboy.com/wiki/images/c/ce/Oracle-brvt-security-header.jpg" align="center" width="100%" height="300px"/>
 
-### bảo mật it badboy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![bảo mật it badboy](https://www.itvtbadboy.com/image/kali.svg)](https://www.youtube.com/@thuongmaibrvt/community)
+### bảo mật it badboy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![bảo mật it badboy](https://www.itvtbadboy.com/image/bao-mat.svg)](https://www.youtube.com/@thuongmaibrvt/community)
 > ✯ Bảo mật it badboy là tư duy thương mại sạch được itvtbadboy đặt làm trọng tâm phát triển nền tảng điện toán đám mây tiếp thị toàn cầu sử dụng 100% tài nguyên miễn phí (web server apache, bách khoa wiki, tin tức, cửa hàng bootstrap, bảo mật parrot, mạng xã hội).
 - điện toán đám mây
 - web server apache
