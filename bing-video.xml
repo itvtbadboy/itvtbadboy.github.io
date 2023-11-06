@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:bing="http://bing.com/schema/media/">
+<channel>
+	<site>Thương mại brvt</site>
+	<webMaster>itvtbadboy@hotmail.com</webMaster>
+	<feedType>full</feedType>
+	<lastBuildDate>Mon, 06 Nov 2023 10:18:45 PST</lastBuildDate>
+	<changefreq>daily</changefreq>
+
+	<item>
+		<title>Áo dài satin xanh</title>
+		<link>https://itvtbadboy.github.io/thuong-mai-brvt/thoi-trang/ao-dai-satin-xanh.html</link>
+		<pubDate>Mon, 06 Nov 2023 10:18:45 PST</pubDate>
+		<description>Áo dài satin xanh itbadboy đột phá từ khóa chất liệu lụa satin trên nền xanh đa sắc màu, thiết kế thời trang cổ điển tinh tế hay hiền lành đôn hậu với đường thêu ren hoa văn muôn màu vẻ đẹp thân hình thiếu nữ</description>
+		<content url="https://www.youtube.com/watch?v=3R6euiqqFng" type="video/mp4" medium="video" height="1280" width="720" duration="100" />
+		<thumbnail url="https://amp.thuongmai.blog/image/thoi-trang/ao-dai-satin-xanh-09.jpg" width="856" height="1200"/>
+		<keywords>Áo dài satin xanh</keywords>
+		<category>fashion</category>
+		<viewCount>697</viewCount>
+		<embedHtml>https://www.youtube.com/embed/3R6euiqqFng</embedHtml>
+		<restriction relationship="allow" type="country">VN</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
+</channel>
+</rss>
