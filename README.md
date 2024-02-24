@@ -37,7 +37,7 @@
 
 <img alt="itvtbadboy" src="https://wiki.thuongmai.blog/images/news/bao-mat-webserver.jpg" width="100%" height="490px"/>
 
-### bảo mật tuyệt đối&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg)](https://github.com/itvtbadboy/itvtbadboy.github.io/discussions/1)
+### bảo mật tuyệt đối&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg "Thảo luận")](https://github.com/itvtbadboy/itvtbadboy.github.io/discussions/1)
 <p>Bảo mật tuyệt đối là tư duy thương mại sạch được itvtbadboy đặt làm trọng tâm bảo vệ cửa hàng trực tuyến dưới thủ đoạn cạnh tranh phá hoại nội dung uy tín thương hiệu sử dụng 100% tài nguyên miễn phí đủ sức chống tấn công MITM.</p>
 
 > X-Frame-Options.<br/>
