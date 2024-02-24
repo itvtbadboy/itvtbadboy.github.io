@@ -1,117 +1,51 @@
-<div itemscope="" itemtype="https://schema.org/BreadcrumbList">
-  <div itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><span itemprop="position" content="1"></span>
-    <div itemprop="item" itemscope itemtype="https://schema.org/MovieClip" itemid="it-v%C5%A9ng-t%C3%A0u-badboy-">
-      <img itemprop="image" src="https://www.itvtbadboy.com/wiki/images/0/0e/Podcast.jpg" align="right" width="58px" height="58px" alt="it vung tau badboy" />
-      <span itemprop="name" content="it vũng tàu badboy"></span><span itemprop="dateCreated" content="Jun 05, 2023"></span>
-      <a itemprop="url" href="https://github.com/itvtbadboy/itvtbadboy.github.io#it-v%C5%A9ng-t%C3%A0u-badboy" title="it vũng tàu badboy"></a>
-      <div itemprop="director actor" itemscope itemtype="https://schema.org/Person"><span itemprop="name" content="itvtbadboy"></span></div>
-      <span itemprop="description" content="It vũng tàu badboy chuyên gia điện toán đám mây cloud engine 869 202 254"></span>
-    </div>
-  </div>
-  <div itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><span itemprop="position" content="2"></span>
-    <div itemprop="item" itemscope itemtype="https://schema.org/MovieClip" itemid="th%C6%B0%C6%A1ng-hi%E1%BB%87u-it-badboy">
-      <img itemprop="image" src="https://www.itvtbadboy.com/wiki/images/b/bd/Thuong-hieu-itvtbadboy.jpg" align="right" width="58px" height="58px" alt="thuong hieu it badboy" />
-      <span itemprop="name" content="thương hiệu it badboy"></span><span itemprop="dateCreated" content="Jun 05, 2023"></span>
-      <a itemprop="url" href="https://github.com/itvtbadboy/itvtbadboy.github.io#th%C6%B0%C6%A1ng-hi%E1%BB%87u-it-badboy" title="thương hiệu it badboy"></a>
-      <div itemprop="director actor" itemscope itemtype="https://schema.org/Person"><span itemprop="name" content="thương hiệu"></span></div>
-      <span itemprop="description" content="Thương hiệu it badboy là bước đệm quan trọng itvtbadboy thông qua chiến lược tiếp thị podcast bẻ khóa mọi mảnh ghép bí mật seo google carousel trao tay đối tác, tổng hợp thành tích nhắm thẳng google bing coccoc lấy về lợi ích cho mạng lưới"></span>
-    </div>
-  </div>
-  <div itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><span itemprop="position" content="3"></span>
-    <div itemprop="item" itemscope itemtype="https://schema.org/MovieClip" itemid="b%E1%BA%A3o-m%E1%BA%ADt-it-badboy">
-      <img itemprop="image" src="https://www.itvtbadboy.com/wiki/images/c/ce/Oracle-brvt-security-header.jpg" align="right" width="58px" height="58px" alt="bao mat it badboy" />
-      <span itemprop="name" content="bảo mật it badboy"></span><span itemprop="dateCreated" content="Jun 05, 2023"></span>
-      <a itemprop="url" href="https://github.com/itvtbadboy/itvtbadboy.github.io#b%E1%BA%A3o-m%E1%BA%ADt-it-badboy" title="bảo mật it badboy"></a>
-      <div itemprop="director actor" itemscope itemtype="https://schema.org/Person"><span itemprop="name" content="bảo mật"></span></div>
-      <span itemprop="description" content="Bảo mật it badboy là tư duy thương mại sạch được itvtbadboy đặt làm trọng tâm phát triển nền tảng điện toán đám mây tiếp thị toàn cầu sử dụng 100% tài nguyên miễn phí (web server apache, bách khoa wiki, tin tức, cửa hàng bootstrap, bảo mật parrot, mạng xã hội)"></span>
-    </div>
-  </div>
-  <div itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><span itemprop="position" content="4"></span>
-    <div itemprop="item" itemscope itemtype="https://schema.org/MovieClip" itemid="b%E1%BA%A3ng-v%C3%A0ng-it-badboy">
-      <img itemprop="image" src="https://www.itvtbadboy.com/wiki/images/0/06/Oracle-brvt-ssllab.jpg" align="right" width="58px" height="58px" alt="bang vang it badboy" />
-      <span itemprop="name" content="bảng vàng it badboy"></span><span itemprop="dateCreated" content="Jun 05, 2023"></span>
-      <a itemprop="url" href="https://github.com/itvtbadboy/itvtbadboy.github.io#b%E1%BA%A3ng-v%C3%A0ng-it-badboy" title="bảng vàng it badboy"></a>
-      <div itemprop="director actor" itemscope itemtype="https://schema.org/Person"><span itemprop="name" content="bảng vàng"></span></div>
-      <span itemprop="description" content="Bảng vàng it badboy là vị trí thực tế trên bảng xếp hạng seo ranking google bing coccoc, điểm A+ là chìa khóa vàng giúp itvtbadboy kéo giãn các chính sách tiếp cận hiệu ứng seo cho phép triển khai ma trận cdn backend hiển thị theo nhiều khía cạnh"></span>
-    </div>
-  </div>
-  <div itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><span itemprop="position" content="5"></span>
-    <div itemprop="item" itemscope itemtype="https://schema.org/MovieClip" itemid="t%C3%AAn-mi%E1%BB%81n-it-badboy">
-      <img itemprop="image" src="https://www.itvtbadboy.com/wiki/images/e/e2/Oracle-brvt-load-balancer.jpg" align="right" width="58px" height="58px" alt="ten mien it badboy" />
-      <span itemprop="name" content="tên miền it badboy"></span><span itemprop="dateCreated" content="Jun 05, 2023"></span>
-      <a itemprop="url" href="https://github.com/itvtbadboy/itvtbadboy.github.io#t%C3%AAn-mi%E1%BB%81n-it-badboy" title="tên miền it badboy"></a>
-      <div itemprop="director actor" itemscope itemtype="https://schema.org/Person"><span itemprop="name" content="tên miền"></span></div>
-      <span itemprop="description" content="Tên miền it badboy có dung lượng lưu trữ chênh lệch từ 30GB tới 100GB, itvtbadboy chọn lọc ra 2 nền tảng tiêu chuẩn giúp trải nghiệm thực hành và hoàn hảo cho xây dựng kinh doanh từ 4 thương hiệu đứng đầu thế giới (google ce - oracle cloud - amazon aws - microsoft azure)"></span>
-    </div>
-  </div>
-  <div itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><span itemprop="position" content="6"></span>
-    <div itemprop="item" itemscope itemtype="https://schema.org/MovieClip" itemid="gi%E1%BA%A3i-tr%C3%AD-it-badboy">
-      <img itemprop="image" src="https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg" align="right" width="58px" height="58px" alt="giai tri it badboy" />
-      <span itemprop="name" content="giải trí it badboy"></span><span itemprop="dateCreated" content="Jun 05, 2023"></span>
-      <a itemprop="url" href="https://github.com/itvtbadboy/itvtbadboy.github.io#gi%E1%BA%A3i-tr%C3%AD-it-badboy" title="giải trí it badboy"></a>
-      <div itemprop="director actor" itemscope itemtype="https://schema.org/Person"><span itemprop="name" content="giải trí"></span></div>
-      <span itemprop="description" content="Giải trí it badboy chia sẻ nhạc hoa nhạc quốc tế nhạc trẻ nhạc hòa tấu sáo trúc top 1 thời tứ đại thiên vương, Tokyo Square, Nguyễn Hưng và phim kiếm hiệp kim dung"></span>
-    </div>
-  </div>
+<div class="FAQPage Table">
+	<div class="Question cssSelector" id="#diệt-mối-giá-rẻ-br">
+		<h2 class="name">thương mại</h2>
+		<div class="Answer">
+			<p class="text">
+				<img src="https://wiki.thuongmai.blog/images/thuong-mai.jpg" width="100%" height="350px" alt="thuong mai"/><br><br>
+				Thương mại tiếp thị thời trang áo dài quần shot tây jean vớ da váy ngắn đầm ngủ tiệc hội đồ lót legging dịch vụ mối ruồi muỗi siêu thị điện máy bán lẻ công nghệ bảo mật đám mây.
+				<ul>
+					<li>56 Nguyễn Hữu Huân BR</li>
+					<li>ASCBVNVX (mã dữ liệu)</li>
+					<li><a href="https://zalo.me/869202254" title="thương mại" target="_blank">0869-202-254</a> (nhắn zalo)</li>
+					<li>Thời trang trẻ em phụ nữ</li>
+					<li>Bảo mật máy chủ cenos7</li>
+					<li>Dịch vụ quảng cáo bán lẻ</li>
+					<li>25 sản phẩm 3000000vnđ</li>
+					<li><a href="mailto:thuongmaibrvt@gmail.com" title="thương mại" target="_blank">Thương mại</a> (thư đối tác)</li>
+				</ul>
+				Thương mại do itvtbadboy xây dựng và quản lý trên công nghệ điện toán đám mây oracle đặt tại Mỹ và làm việc trực tuyến tại Việt Nam, thương mại rất thích hợp cho doanh nghiệp quảng bá thương hiệu Vietnam ra thế giới.<br><br>
+				Thương mại wiki tất cả trong 1 đòn gánh liên kết quảng cáo chi phí cực kỳ thấp (1 ngày 1111đ) đặc biệt chỉ có thể là bách khoa mediawiki của itvtbadboy và di động amp story chính hãng google dev.<br><br>
+				Thương mại thời trang itvtbadboy cung cấp giải pháp tiềm năng áo dài áo bà ba áo khoác quần tây quần jean quần short vớ da váy ngắn đầm ngủ đầm dạ hội tiệc tùng đồ lót đồ ngủ legging bodysuit.<br><br>
+				Thương mại dịch vụ diệt mối siêu thị điện máy bán lẻ itvtbadboy triển khai nhiều giải pháp thương hiệu lấy blogger firebase làm khung cơ bản, đám mây google oracle dành cho nguồn lực lớn hơn kết hợp mạng xã hội giữ vững vị trí từ khóa.<br><br>
+				Thương mại bảo mật itvtbadboy hỗ trợ bằng parrot security 64bit thăm dò các lỗi nền tảng trang html php asp lưu trữ trong máy chủ cenos 7 duy trì trang chủ apache đạt điểm a+ cao nhất trong bảng xếp hạng thương hiệu.<br><br>
+				<table style="width: 100%;">
+					<tr>
+						<td style="width: 50%;">
+							<a href="https://www.youtube.com/watch?feature=player_embedded&v=GGJsMHsCbUI" title="thương mại" target="_blank">
+								<img class="image" src="https://wiki.thuongmai.blog/images/thoitrang/thoi-trang.jpg" width="100%;" alt="thuong mai"/>
+							</a>
+							<h3><a href="https://www.thuongmai.blog" title="thương mại" target="_blank">thời trang</a></h3>
+							<div style="font-size: 10px;"><i>2024-01-28</i> &nbsp; <i>PT4M34S</i> &nbsp; <i>MPAA-G</i> &nbsp; <i>11/5</i></div>
+							<p>Bà Rịa, diệt mối giá rẻ Long Tâm Phước Nguyên Phước Hưng Hòa Long...</p>
+						</td>
+						<td style="width: 50%;">
+							<a href="https://wiki.thuongmai.blog/images/news/viet-nam.jpg" title="thương mại" target="_blank">
+								<img class="image" src="https://wiki.thuongmai.blog/images/news/viet-nam.jpg" width="100%;" alt="thuong mai"/>
+							</a>
+						</td>
+					</tr>
+					<tr>
+						<td style="width: 50%;">
+							<a href="https://wiki.thuongmai.blog/images/news/bao-mat.jpg" title="thương mại" target="_blank">
+								<img class="image" src="https://wiki.thuongmai.blog/images/news/bao-mat.jpg" width="100%;" alt="thuong mai"/>
+							</a>
+						</td>
+						<td style="width: 50%;"></td>
+					</tr>
+				</table>
+			</p>
+		</div>
+	</div>
 </div>
-
-## it vũng tàu badboy&nbsp;&nbsp;&nbsp;[![it vũng tàu badboy](https://www.itvtbadboy.com/image/pinterest.svg)](https://www.pinterest.com/itvtbadboy/)&nbsp;&nbsp;&nbsp;[![it vũng tàu badboy](https://www.itvtbadboy.com/image/youtube.svg)](https://www.youtube.com/@thuongmaibrvt)
-> ✯ It vũng tàu badboy chuyên gia điện toán đám mây cloud engine 869 202 254.<br>
-> ✯ Phát triển tiềm năng di động amp mobile quảng bá thương hiệu toàn cầu.<br>
-> ✯ Tối ưu website bootstrap v4 và media wiki khai thác ma trận cdn backend.<br>
-> ✯ Sử dụng linux parrot security giám sát an ninh mạng web server cục bộ.
-
-<hr />
-
-<img src="https://www.itvtbadboy.com/wiki/images/b/bd/Thuong-hieu-itvtbadboy.jpg" align="center" width="100%" height="300px"/>
-
-### thương hiệu it badboy&nbsp;&nbsp;&nbsp;[![thương hiệu it badboy](https://www.itvtbadboy.com/image/google.svg)](https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw)
-> ✯ Thương hiệu it badboy là bước đệm quan trọng itvtbadboy thông qua chiến lược tiếp thị podcast bẻ khóa mọi mảnh ghép bí mật seo google carousel trao tay đối tác, tổng hợp thành tích nhắm thẳng google bing coccoc lấy về lợi ích cho mạng lưới.
-- bảo mật hai lớp
-- cân bằng tải x2
-- tiếp thị podcast
-
-<hr />
-
-<img src="https://www.itvtbadboy.com/wiki/images/c/ce/Oracle-brvt-security-header.jpg" align="center" width="100%" height="300px"/>
-
-### bảo mật it badboy&nbsp;&nbsp;&nbsp;[![bảo mật it badboy](https://www.itvtbadboy.com/image/google.svg)](https://groups.google.com/g/itvtbadboy)
-> ✯ Bảo mật it badboy là tư duy thương mại sạch được itvtbadboy đặt làm trọng tâm phát triển nền tảng điện toán đám mây tiếp thị toàn cầu sử dụng 100% tài nguyên miễn phí (web server apache, bách khoa wiki, tin tức, cửa hàng bootstrap, bảo mật parrot, mạng xã hội).
-- điện toán đám mây
-- web server apache
-- top seo bách khoa
-- top tin tức miễn phí
-- cửa hàng bootstrap
-- bảo mật web parrot
-- top mạng xã hội ảo
-
-<hr />
-
-<img src="https://www.itvtbadboy.com/wiki/images/0/06/Oracle-brvt-ssllab.jpg" align="center" width="100%" height="300px"/>
-
-### bảng vàng it badboy&nbsp;&nbsp;&nbsp;[![bảng vàng it badboy](https://www.itvtbadboy.com/image/google.svg)](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9pdHZ1bmd0YXViYWRib3k)
-> ✯ Bảng vàng it badboy là vị trí thực tế trên bảng xếp hạng seo ranking google bing coccoc, điểm A+ là chìa khóa vàng giúp itvtbadboy kéo giãn các chính sách tiếp cận hiệu ứng seo cho phép triển khai ma trận cdn backend hiển thị theo nhiều khía cạnh.
-- lets encrypt 2048bit
-- giảm tấn công mitm
-- certificate authority
-
-<hr />
-
-<img src="https://www.itvtbadboy.com/wiki/images/e/e2/Oracle-brvt-load-balancer.jpg" align="center" width="100%" height="300px"/>
-
-### tên miền it badboy&nbsp;&nbsp;&nbsp;[![tên miền it badboy](https://www.itvtbadboy.com/image/google.svg)](https://didong.itvtbadboy.com/)
-> ✯ Tên miền it badboy có dung lượng lưu trữ chênh lệch từ 30GB tới 100GB, itvtbadboy chọn lọc ra 2 nền tảng tiêu chuẩn giúp trải nghiệm thực hành và hoàn hảo cho xây dựng kinh doanh từ 4 thương hiệu đứng đầu thế giới (google ce - oracle cloud - amazon aws - microsoft azure).
-- google 30GB linux
-- oracle 100GB linux
-
-<hr />
-
-<img src="https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg" align="center" width="100%" height="300px"/>
-
-### giải trí it badboy&nbsp;&nbsp;&nbsp;[![giải trí it badboy](https://www.itvtbadboy.com/image/google.svg)](https://soundcloud.com/khuongitvtbadboy/sets/nhac-hoa-tuyen-chon)
-> ✯ Giải trí it badboy chia sẻ nhạc hoa nhạc quốc tế nhạc trẻ nhạc hòa tấu sáo trúc top 1 thời tứ đại thiên vương, Tokyo Square, Nguyễn Hưng và phim kiếm hiệp kim dung.
-- nhạc trẻ
-- nhạc hoa
-- quốc tế
-- hòa tấu
-- kiếm hiệp
