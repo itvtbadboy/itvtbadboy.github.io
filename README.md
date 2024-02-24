@@ -1,4 +1,4 @@
-## itvtbadboy&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg)](https://www.pinterest.com/itvtbadboy/)&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/youtube.svg)](https://www.youtube.com/@thuongmaibrvt)
+## itvtbadboy&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/pinterest.svg)](https://www.pinterest.com/itvtbadboy/)&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/youtube.svg)](https://www.youtube.com/@thuongmaibrvt)
 > ✯ itvtbadboy chuyên gia điện toán đám mây cloud engine 869 202 254.<br>
 > ✯ Phát triển tiềm năng di động amp mobile quảng bá thương hiệu toàn cầu.<br>
 > ✯ Tối ưu website bootstrap v4 và media wiki khai thác ma trận cdn backend.<br>
