@@ -65,11 +65,13 @@
 ### bảng vàng quảng cáo&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg "Quảng cáo")](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9pdHZ1bmd0YXViYWRib3k)
 <p>Bảng vàng quảng cáo là vị trí thực tế trên bảng xếp hạng seo ranking google bing coccoc itvtbadboy nói rõ chỉ có bách khoa tri thức mediawiki mới có khả năng khai thác quảng cáo Google với chi phí 1111đ mỗi ngày, tất cả tư duy đều từ doanh nghiệp lựa chọn như Google Business Youtube Facebook.</p>
 
-> Pinterest top rss
-> Google podcast
-> Google publisher
-> Youtube podcast
-> LinkedIn articles
+> Pinterest top rss.<br/>
+> Google podcast.<br/>
+> Google publisher.<br/>
+> Youtube podcast.<br/>
+> LinkedIn articles.<br/>
+> Instagram social.<br/>
+> Facebook market.
 
 <div style="padding-top: 30px; padding-bottom: 30px;"></div>
 
