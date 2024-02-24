@@ -3,9 +3,9 @@
 ## itvtbadboy&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/pinterest.svg?raw=true "Pinterest")](https://www.pinterest.com/itvtbadboy/)&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/youtube.svg "Youtube")](https://www.youtube.com/@thuongmaibrvt)
 <p>Itvtbadboy (0869.202.254) chuyên viên an ninh mạng parrot bảo mật công nghệ điện toán đám mây kỹ thuật lập trình tối ưu trang di động amp và bootstrap v4 đột phá hiệu ứng tiềm năng từ khóa thời trang dịch vụ bảo mật thương hiệu.</p>
 
-> Itvtbadboy chuyên viên điện toán đám mây oracle cloud instance vm.<br>
-> Phát triển tiềm năng di động amp dev quảng bá thương hiệu toàn cầu.<br>
-> Tối ưu trang bootstrap v4 và bách khoa wiki mở rộng ma trận từ khóa.<br>
+> Itvtbadboy chuyên viên điện toán đám mây oracle cloud instance vm.<br/>
+> Phát triển tiềm năng di động amp dev quảng bá thương hiệu toàn cầu.<br/>
+> Tối ưu trang bootstrap v4 và bách khoa wiki mở rộng ma trận từ khóa.<br/>
 > Sử dụng linux parrot security giám sát an ninh mạng web server mitm.
 
 <hr />
@@ -15,12 +15,12 @@
 ### đám mây oracle&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg)](https://www.oracle.com/vn/)
 <p>Đám mây oracle thương hiệu công nghệ đặt tại Mỹ, itvtbadboy xây dựng quản lý và làm việc trực tuyến tại Việt Nam, đám mây oracle dùng cho thương mại rất thích hợp hỗ trợ doanh nghiệp quảng bá thương hiệu Vietnam ra thế giới.</p>
 
-> điều hành Linux CenOS v7
-> ổ cứng 100GB 48MB/s x2
-> AMD-V 32-core 1996MHz
-> <a href="https://wiki.thuongmai.blog/" title="itvtbadboy" target="_blank">bách khoa</a> tri thức v1.39.6
-> máy chủ apache cân bằng
-> <a href="https://wiki.thuongmai.blog/amp/thuong-mai-di-dong.amp.html" title="itvtbadboy" target="_blank">di động</a> topnews amp dev
+> điều hành Linux CenOS v7.<br/>
+> ổ cứng 100GB 48MB/s x2.<br/>
+> AMD-V 32-core 1996MHz.<br/>
+> <a href="https://wiki.thuongmai.blog/" title="itvtbadboy" target="_blank">bách khoa</a> tri thức v1.39.6<br/>
+> máy chủ apache cân bằng.<br/>
+> <a href="https://wiki.thuongmai.blog/amp/thuong-mai-di-dong.amp.html" title="itvtbadboy" target="_blank">di động</a> topnews amp dev.
 
 <hr />
 
