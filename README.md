@@ -1,5 +1,6 @@
 ## itvtbadboy&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/pinterest.svg?raw=true "Pinterest")](https://www.pinterest.com/itvtbadboy/)&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/youtube.svg "Youtube")](https://www.youtube.com/@thuongmaibrvt)
 <p>Itvtbadboy (869.202.254) chuyên viên an ninh mạng parrot bảo mật công nghệ điện toán đám mây kỹ thuật lập trình tối ưu hiệu ứng tiềm năng từ khóa thời trang dịch vụ thương hiệu.</p>
+
 > Itvtbadboy chuyên viên điện toán đám mây oracle cloud instance vm.<br>
 > Phát triển tiềm năng di động amp dev quảng bá thương hiệu toàn cầu.<br>
 > Tối ưu trang bootstrap v4 và bách khoa wiki mở rộng ma trận từ khóa.<br>
