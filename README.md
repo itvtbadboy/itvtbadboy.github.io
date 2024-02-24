@@ -60,10 +60,11 @@
 
 <hr />
 
-<img alt="itvtbadboy" src="https://wiki.thuongmai.blog/images/news/ten-mien-mat-bao.jpg" width="100%" height="490px"/>
+<img alt="itvtbadboy" src="https://wiki.thuongmai.blog/images/news/bang-vang-quang-cao.jpg" width="100%" height="490px"/>
 
-### bảng vàng it badboy&nbsp;&nbsp;&nbsp;[![bảng vàng it badboy](https://www.itvtbadboy.io.vn/image/google.svg)](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9pdHZ1bmd0YXViYWRib3k)
-> ✯ Bảng vàng it badboy là vị trí thực tế trên bảng xếp hạng seo ranking google bing coccoc, điểm A+ là chìa khóa vàng giúp itvtbadboy kéo giãn các chính sách tiếp cận hiệu ứng seo cho phép triển khai ma trận cdn backend hiển thị theo nhiều khía cạnh.
+## bảng vàng quảng cáo&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/google.svg "Quảng cáo")](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9pdHZ1bmd0YXViYWRib3k)
+<p>Bảng vàng quảng cáo là vị trí thực tế trên bảng xếp hạng seo ranking google bing coccoc itvtbadboy nói rõ chỉ có bách khoa tri thức mediawiki mới có khả năng khai thác quảng cáo Google với chi phí 1111đ mỗi ngày, tất cả tư duy đều từ doanh nghiệp lựa chọn như Google Business Youtube Facebook.</p>
+
 - lets encrypt 2048bit
 - giảm tấn công mitm
 - certificate authority
