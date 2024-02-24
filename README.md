@@ -1,4 +1,4 @@
-<div style="text-align: center;"><img src="https://wiki.thuongmai.blog/images/8/82/Itvtbadboy.jpg" align="center" width="70%" height="490px"/></div>
+<div style="margin-left: 20%;"><img src="https://wiki.thuongmai.blog/images/8/82/Itvtbadboy.jpg" align="center" width="50%" height="490px"/></div>
 
 ## itvtbadboy&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/pinterest.svg?raw=true "Pinterest")](https://www.pinterest.com/itvtbadboy/)&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/youtube.svg "Youtube")](https://www.youtube.com/@thuongmaibrvt)
 <p>Itvtbadboy (0869.202.254) chuyên viên an ninh mạng parrot bảo mật công nghệ điện toán đám mây kỹ thuật lập trình tối ưu hiệu ứng tiềm năng từ khóa thời trang dịch vụ thương hiệu.</p>
