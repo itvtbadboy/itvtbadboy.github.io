@@ -1,9 +1,9 @@
-<img src="https://wiki.thuongmai.blog/images/it-vung-tau-badboy.jpg" width="100%" height="500px"/>
+<img src="https://wiki.thuongmai.blog/images/it-vung-tau-badboy.jpg" width="100%" height="490px"/>
 
 ## itvtbadboy&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/pinterest.svg "Pinterest")](https://www.pinterest.com/itvtbadboy/)&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/youtube.svg "Youtube")](https://www.youtube.com/@thuongmaibrvt)
 <p>Itvtbadboy (0869.202.254) chuyên viên an ninh mạng parrot bảo mật công nghệ điện toán đám mây kỹ thuật lập trình tối ưu trang di động amp và bootstrap v4 đột phá hiệu ứng tiềm năng từ khóa thời trang dịch vụ bảo mật thương hiệu.</p>
 
-> Itvtbadboy chuyên viên điện toán đám mây oracle cloud instance vm.<br/>
+> Itvtbadboy chuyên viên điện toán đám mây Oracle cloud instance vm.<br/>
 > Phát triển tiềm năng di động amp dev quảng bá thương hiệu toàn cầu.<br/>
 > Tối ưu trang bootstrap v4 và bách khoa wiki mở rộng ma trận từ khóa.<br/>
 > Sử dụng linux parrot security giám sát an ninh mạng web server mitm.
@@ -27,11 +27,11 @@
 <img src="https://wiki.thuongmai.blog/images/news/bootstrap-v4.jpg" width="100%" height="490px"/>
 
 ### di động bootstrap&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg)](https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw)
-<p>Di động bootstrap itvtbadboy dùng Github làm tâm điểm đột phá giới hạn hiệu ứng Google Bing Coccoc, quảng cáo bách khoa tri thức wiki 1111đ mỗi ngày đảo ngược vòng lặp ma trận từ khóa, tiếp thị miễn phí pinterest youtube podcast tin tức blogger instagram twitter facebook... giảm tình trạng vượt mặt rớt hạng, đây là bước đệm quan trọng trước khi thực hiện định dạng cấu trúc dữ liệu data highlighter lấy về lợi ích cho mạng lưới đối tác doanh nghiệp.</p>
+<p>Di động bootstrap itvtbadboy dùng Github làm tâm điểm đột phá giới hạn hiệu ứng Google Bing Coccoc, quảng cáo bách khoa tri thức wiki 1111đ mỗi ngày đảo ngược vòng lặp ma trận từ khóa, tiếp thị miễn phí Pinterest Youtube podcast tin tức LinkedIn Blogger Instagram Twitter Facebook... giảm tình trạng vượt mặt rớt hạng, đây là bước đệm quan trọng trước khi thực hiện định dạng cấu trúc dữ liệu data highlighter lấy về lợi ích cho mạng lưới đối tác doanh nghiệp.</p>
 
-> bảo mật hai lớp.</br>
-> cân bằng tải x2.</br>
-> tiếp thị podcast.
+> bảo mật hai lớp tên miền và Github.</br>
+> cân bằng tải Oracle Git siêu nhanh.</br>
+> tiếp thị Pinterest Youtube Amazon.
 
 <hr />
 
