@@ -8,15 +8,19 @@
 > Tối ưu trang bootstrap v4 và bách khoa wiki mở rộng ma trận từ khóa.<br>
 > Sử dụng linux parrot security giám sát an ninh mạng web server mitm.
 
-<hr style="padding-top: 30px; padding-bottom: 30px;"/>
+<hr />
 
 <img src="https://wiki.thuongmai.blog/images/news/dam-may-oracle.jpg" align="center" width="100%" height="490px"/>
 
 ### đám mây oracle&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg)](https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw)
-> Đám mây oracle thương hiệu công nghệ đặt tại Mỹ, itvtbadboy xây dựng quản lý và làm việc trực tuyến tại Việt Nam, đám mây oracle dùng cho thương mại rất thích hợp hỗ trợ doanh nghiệp quảng bá thương hiệu Vietnam ra thế giới.
-- bảo mật hai lớp
-- cân bằng tải x2
-- tiếp thị podcast
+<p>Đám mây oracle thương hiệu công nghệ đặt tại Mỹ, itvtbadboy xây dựng quản lý và làm việc trực tuyến tại Việt Nam, đám mây oracle dùng cho thương mại rất thích hợp hỗ trợ doanh nghiệp quảng bá thương hiệu Vietnam ra thế giới.</p>
+
+- điều hành Linux CenOS v7
+- ổ cứng 100GB 48MB/s x2
+- AMD-V 32-core 1996MHz
+- máy chủ apache cân bằng
+- bách khoa tri thức v1.39.6
+- di động google amp dev
 
 <hr />
 
