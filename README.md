@@ -31,7 +31,7 @@
 
 > chứng chỉ bảo mật Github <a href="https://github.com/itvtbadboy/itvtbadboy.github.io/blob/master/LICENSE" title="itvtbadboy: it vũng tàu badboy" target="_blank">GNU Public</a>.<br/>
 > <a href="https://pagespeed.web.dev/analysis/https-www-itvtbadboy-io-vn/pnjq3vp25x?form_factor=desktop" title="itvtbadboy: it vũng tàu badboy" target="_blank">cân bằng</a> Oracle và Github siêu nhanh.<br/>
-> tiếp thị thương hiệu không cần video.
+> tiếp thị thương hiệu mp3 không cần mp4.
 
 <hr />
 
