@@ -6,9 +6,19 @@
 
 <hr />
 
+<img src="https://wiki.thuongmai.blog/images/news/dam-may-oracle.jpg" align="center" width="100%" height="490px"/>
+
+### đám mây oracle&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg)](https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw)
+> ✯ Đám mây oracle thương hiệu công nghệ đặt tại Mỹ, itvtbadboy xây dựng quản lý và làm việc trực tuyến tại Việt Nam, đám mây oracle dùng cho thương mại rất thích hợp hỗ trợ doanh nghiệp quảng bá thương hiệu Vietnam ra thế giới.
+- bảo mật hai lớp
+- cân bằng tải x2
+- tiếp thị podcast
+
+<hr />
+
 <img src="https://wiki.thuongmai.blog/images/news/bootstrap-v4.jpg" align="center" width="100%" height="490px"/>
 
-### thương hiệu it badboy&nbsp;&nbsp;&nbsp;[![thương hiệu it badboy](https://www.itvtbadboy.io.vn/image/google.svg)](https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw)
+### thương hiệu it badboy&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/google.svg)](https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw)
 > ✯ Thương hiệu it badboy là bước đệm quan trọng itvtbadboy thông qua chiến lược tiếp thị podcast bẻ khóa mọi mảnh ghép bí mật seo google carousel trao tay đối tác, tổng hợp thành tích nhắm thẳng google bing coccoc lấy về lợi ích cho mạng lưới.
 - bảo mật hai lớp
 - cân bằng tải x2
