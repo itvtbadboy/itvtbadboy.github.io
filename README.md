@@ -18,7 +18,7 @@
 > điều hành Linux CenOS v7.<br/>
 > ổ cứng 100GB 48MB/s x2.<br/>
 > AMD-V 32-core 1996MHz.<br/>
-> <a href="https://wiki.thuongmai.blog/" title="itvtbadboy: it vũng tàu badboy" target="_blank">bách khoa</a> tri thức v1.39.6<br/>
+> <a href="https://wiki.thuongmai.blog/" title="itvtbadboy: it vũng tàu badboy" target="_blank">bách khoa</a> tri thức v1.39.6.<br/>
 > máy chủ apache cân bằng.<br/>
 > <a href="https://wiki.thuongmai.blog/amp/thuong-mai-di-dong.amp.html" title="itvtbadboy: it vũng tàu badboy" target="_blank">di động</a> top news amp dev.
 
