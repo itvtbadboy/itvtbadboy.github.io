@@ -31,7 +31,7 @@
 
 > bảo mật hai lớp tên miền với Github.</br>
 > cân bằng Oracle Github siêu nhanh.</br>
-> top tiếp thị Pinterest Youtube Amazon.
+> tiếp thị Pinterest Youtube LinkedIn.
 
 <hr />
 
