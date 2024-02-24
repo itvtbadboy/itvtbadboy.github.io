@@ -78,10 +78,12 @@
 
 <img alt="itvtbadboy" src="https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg" width="100%" height="490px"/>
 
-### giải trí it badboy&nbsp;&nbsp;&nbsp;[![giải trí it badboy](https://www.itvtbadboy.io.vn/image/google.svg)](https://soundcloud.com/khuongitvtbadboy/sets/nhac-hoa-tuyen-chon)
-> ✯ Giải trí it badboy chia sẻ nhạc hoa nhạc quốc tế nhạc trẻ nhạc hòa tấu sáo trúc top 1 thời tứ đại thiên vương, Tokyo Square, Nguyễn Hưng và phim kiếm hiệp kim dung.
-- nhạc trẻ
-- nhạc hoa
-- quốc tế
-- hòa tấu
-- kiếm hiệp
+### giải trí nhạc phim&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg "Giải trí")](https://soundcloud.com/khuongitvtbadboy/sets/nhac-hoa-tuyen-chon)
+<p>Giải trí nhạc phim itvtbadboy chia sẻ nhạc hoa nhạc quốc tế nhạc trẻ nhạc hòa tấu sáo trúc top 1 thời tứ đại thiên vương Tokyo Square Nguyễn Hưng, phim kiếm hiệp Kim Dung và đọc truyện đêm khuya.</p>
+
+> nhạc trẻ.<br/>
+> nhạc hoa.<br/>
+> quốc tế.<br/>
+> hòa tấu.<br/>
+> kiếm hiệp.<br/>
+> đọc truyện
