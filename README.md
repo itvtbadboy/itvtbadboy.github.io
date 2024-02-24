@@ -8,7 +8,7 @@
 > Tối ưu trang bootstrap v4 và bách khoa wiki mở rộng ma trận từ khóa.<br/>
 > Sử dụng linux parrot security giám sát an ninh mạng web server mitm.
 
-<hr />
+<div style="padding-top: 30px; padding-bottom: 30px;"></div>
 
 <img alt="itvtbadboy" src="https://wiki.thuongmai.blog/images/news/dam-may-oracle.jpg" width="100%" height="490px"/>
 
@@ -22,7 +22,7 @@
 > máy chủ apache cân bằng.<br/>
 > <a href="https://wiki.thuongmai.blog/amp/thuong-mai-di-dong.amp.html" title="itvtbadboy: it vũng tàu badboy" target="_blank">di động</a> top news amp dev.
 
-<hr />
+<div style="padding-top: 30px; padding-bottom: 30px;"></div>
 
 <img alt="itvtbadboy" src="https://wiki.thuongmai.blog/images/news/bootstrap-v4.jpg" width="100%" height="490px"/>
 
@@ -33,7 +33,7 @@
 > <a href="https://pagespeed.web.dev/analysis/https-www-itvtbadboy-io-vn/pnjq3vp25x?form_factor=desktop" title="itvtbadboy: it vũng tàu badboy" target="_blank">cân bằng</a> Oracle và Github siêu nhanh.<br/>
 > tiếp thị thương hiệu audio <a href="https://podcasts.google.com/feed/aHR0cHM6Ly93aWtpLnRodW9uZ21haS5ibG9nL3NpdGVtYXAvcG9kY2FzdC54bWw" title="itvtbadboy: it vũng tàu badboy" target="_blank">mp3 podcast</a>.
 
-<hr />
+<div style="padding-top: 30px; padding-bottom: 30px;"></div>
 
 <img alt="itvtbadboy" src="https://wiki.thuongmai.blog/images/news/bao-mat-webserver.jpg" width="100%" height="490px"/>
 
@@ -48,7 +48,7 @@
 > Content-Security-Policy.<br/>
 > Permissions-Policy.
 
-<hr />
+<div style="padding-top: 30px; padding-bottom: 30px;"></div>
 
 <img alt="itvtbadboy" src="https://wiki.thuongmai.blog/images/news/ten-mien-mat-bao.jpg" width="100%" height="490px"/>
 
@@ -58,18 +58,18 @@
 > GoDaddy.<br/>
 > Mắt bão.
 
-<hr />
+<div style="padding-top: 30px; padding-bottom: 30px;"></div>
 
 <img alt="itvtbadboy" src="https://wiki.thuongmai.blog/images/news/bang-vang-quang-cao.jpg" width="100%" height="490px"/>
 
-## bảng vàng quảng cáo&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/google.svg "Quảng cáo")](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9pdHZ1bmd0YXViYWRib3k)
+## bảng vàng quảng cáo&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg "Quảng cáo")](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9pdHZ1bmd0YXViYWRib3k)
 <p>Bảng vàng quảng cáo là vị trí thực tế trên bảng xếp hạng seo ranking google bing coccoc itvtbadboy nói rõ chỉ có bách khoa tri thức mediawiki mới có khả năng khai thác quảng cáo Google với chi phí 1111đ mỗi ngày, tất cả tư duy đều từ doanh nghiệp lựa chọn như Google Business Youtube Facebook.</p>
 
 - lets encrypt 2048bit
 - giảm tấn công mitm
 - certificate authority
 
-<hr />
+<div style="padding-top: 30px; padding-bottom: 30px;"></div>
 
 <img alt="itvtbadboy" src="https://i.pinimg.com/originals/c5/2f/3e/c52f3ee68a4a7cc9c52bbd7cb30fd558.jpg" width="100%" height="490px"/>
 
