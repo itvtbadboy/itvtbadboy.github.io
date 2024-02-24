@@ -1,7 +1,7 @@
-<img src="https://wiki.thuongmai.blog/images/8/82/Itvtbadboy.jpg" width="50%" height="490px"/>
+<img src="https://wiki.thuongmai.blog/images/it-vung-tau-badboy.jpg" width="100%" height="490px"/>
 
 ## itvtbadboy&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/pinterest.svg?raw=true "Pinterest")](https://www.pinterest.com/itvtbadboy/)&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/youtube.svg "Youtube")](https://www.youtube.com/@thuongmaibrvt)
-<p>Itvtbadboy (0869.202.254) chuyên viên an ninh mạng parrot bảo mật công nghệ điện toán đám mây kỹ thuật lập trình tối ưu hiệu ứng tiềm năng từ khóa thời trang dịch vụ thương hiệu.</p>
+<p>Itvtbadboy (0869.202.254) chuyên viên an ninh mạng parrot bảo mật công nghệ điện toán đám mây kỹ thuật lập trình tối ưu trang di động amp và bootstrap v4 đột phá hiệu ứng tiềm năng từ khóa thời trang dịch vụ bảo mật thương hiệu.</p>
 
 > Itvtbadboy chuyên viên điện toán đám mây oracle cloud instance vm.<br>
 > Phát triển tiềm năng di động amp dev quảng bá thương hiệu toàn cầu.<br>
@@ -12,7 +12,7 @@
 
 <img src="https://wiki.thuongmai.blog/images/news/dam-may-oracle.jpg" align="center" width="100%" height="490px"/>
 
-### đám mây oracle&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg)](https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw)
+### đám mây oracle&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg)](https://www.oracle.com/vn/)
 <p>Đám mây oracle thương hiệu công nghệ đặt tại Mỹ, itvtbadboy xây dựng quản lý và làm việc trực tuyến tại Việt Nam, đám mây oracle dùng cho thương mại rất thích hợp hỗ trợ doanh nghiệp quảng bá thương hiệu Vietnam ra thế giới.</p>
 
 - điều hành Linux CenOS v7
@@ -20,13 +20,13 @@
 - AMD-V 32-core 1996MHz
 - máy chủ apache cân bằng
 - bách khoa tri thức v1.39.6
-- di động google amp dev
+- di động topnews amp dev
 
 <hr />
 
 <img src="https://wiki.thuongmai.blog/images/news/bootstrap-v4.jpg" align="center" width="100%" height="490px"/>
 
-### thương hiệu it badboy&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/google.svg)](https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw)
+### di động bootstrap&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg)](https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw)
 > ✯ Thương hiệu it badboy là bước đệm quan trọng itvtbadboy thông qua chiến lược tiếp thị podcast bẻ khóa mọi mảnh ghép bí mật seo google carousel trao tay đối tác, tổng hợp thành tích nhắm thẳng google bing coccoc lấy về lợi ích cho mạng lưới.
 - bảo mật hai lớp
 - cân bằng tải x2
