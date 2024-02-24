@@ -71,7 +71,7 @@
 > <a href="https://youtu.be/suRI7-LfoKA?si=lbWhkRT17iXUUjma" title="itvtbadboy: it vũng tàu badboy" target="_blank">Youtube</a> podcast.<br/>
 > <a href="https://sg.linkedin.com/showcase/thuongmai/" title="itvtbadboy: it vũng tàu badboy" target="_blank">LinkedIn</a> articles.<br/>
 > <a href="https://www.threads.net/@khuongitvtbadboy8383" title="itvtbadboy: it vũng tàu badboy" target="_blank">Instagram</a> social.<br/>
-> <a href="https://www.slideshare.net/MrBadBoy" title="itvtbadboy: it vũng tàu badboy" target="_blank">Slide Share</a> pdf.<br/>
+> <a href="https://www.slideshare.net/MrBadBoy" title="itvtbadboy: it vũng tàu badboy" target="_blank">SlideShare</a> library.<br/>
 > <a href="https://www.facebook.com/profile.php?id=100089607512698" title="itvtbadboy: it vũng tàu badboy" target="_blank">Facebook</a> market.
 
 <div style="padding-top: 30px; padding-bottom: 30px;"></div>
