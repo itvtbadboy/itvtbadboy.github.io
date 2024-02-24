@@ -29,8 +29,8 @@
 ### di động bootstrap&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg)](https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw)
 <p>Di động bootstrap itvtbadboy dùng Github làm tâm điểm đột phá giới hạn hiệu ứng Google Bing Coccoc, quảng cáo bách khoa tri thức wiki 1111đ mỗi ngày đảo ngược vòng lặp ma trận từ khóa, tiếp thị miễn phí Pinterest Youtube podcast tin tức LinkedIn Blogger Instagram Twitter Facebook... giảm tình trạng vượt mặt rớt hạng, đây là bước đệm quan trọng trước khi thực hiện định dạng cấu trúc dữ liệu data highlighter lấy về lợi ích cho mạng lưới đối tác doanh nghiệp.</p>
 
-> bảo mật hai lớp tên miền và Github.</br>
-> cân bằng tải Oracle Git siêu nhanh.</br>
+> bảo mật 2 lớp tên miền với Github.</br>
+> cân bằng Oracle Github siêu nhanh.</br>
 > tiếp thị Pinterest Youtube Amazon.
 
 <hr />
