@@ -29,9 +29,9 @@
 ### di động bootstrap&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg)](https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw)
 <p>Di động bootstrap itvtbadboy dùng Github làm tâm điểm đột phá giới hạn hiệu ứng Google Bing Coccoc, quảng cáo bách khoa tri thức wiki 1111đ mỗi ngày đảo ngược vòng lặp ma trận từ khóa, tiếp thị miễn phí Pinterest Youtube podcast tin tức LinkedIn Blogger Instagram Twitter Facebook... giảm tình trạng vượt mặt rớt hạng, đây là bước đệm quan trọng trước khi thực hiện định dạng cấu trúc dữ liệu data highlighter lấy về lợi ích cho mạng lưới đối tác doanh nghiệp.</p>
 
-> chứng chỉ bảo mật Github <a href="https://www.itvtbadboy.io.vn/LICENSE" title="itvtbadboy: it vũng tàu badboy" target="_blank">GNU Public</a>.<br/>
+> chứng chỉ bảo mật Github <a href="https://github.com/itvtbadboy/itvtbadboy.github.io/blob/master/LICENSE" title="itvtbadboy: it vũng tàu badboy" target="_blank">GNU Public</a>.<br/>
 > <a href="https://pagespeed.web.dev/analysis/https-www-itvtbadboy-io-vn/pnjq3vp25x?form_factor=desktop" title="itvtbadboy: it vũng tàu badboy" target="_blank">cân bằng</a> Oracle và Github siêu nhanh.<br/>
-> quảng cáo Pinterest Youtube LinkedIn.
+> tiếp thị thương hiệu không cần video.
 
 <hr />
 
