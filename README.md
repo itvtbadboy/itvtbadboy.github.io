@@ -1,12 +1,12 @@
-## itvtbadboy&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/pinterest.svg?raw=true "Pinterest")](https://www.pinterest.com/itvtbadboy/)&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/youtube.svg)](https://www.youtube.com/@thuongmaibrvt)
-> ✯ itvtbadboy chuyên gia điện toán đám mây cloud engine 869 202 254.<br>
-> ✯ Phát triển tiềm năng di động amp mobile quảng bá thương hiệu toàn cầu.<br>
-> ✯ Tối ưu website bootstrap v4 và media wiki khai thác ma trận cdn backend.<br>
-> ✯ Sử dụng linux parrot security giám sát an ninh mạng web server cục bộ.
+## itvtbadboy&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/pinterest.svg?raw=true "Pinterest")](https://www.pinterest.com/itvtbadboy/)&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/youtube.svg "Youtube")](https://www.youtube.com/@thuongmaibrvt)
+> ✯ itvtbadboy chuyên gia điện toán đám mây oracle cloud 0869-202-254.<br>
+> ✯ Phát triển tiềm năng di động amp dev quảng bá thương hiệu toàn cầu.<br>
+> ✯ Tối ưu trang bootstrap v4 và bách khoa wiki mở rộng ma trận từ khóa.<br>
+> ✯ Sử dụng linux parrot security giám sát an ninh mạng web server mitm.
 
 <hr />
 
-<img src="https://www.itvtbadboy.io.vn/wiki/images/b/bd/Thuong-hieu-itvtbadboy.jpg" align="center" width="100%" height="300px"/>
+<img src="https://www.itvtbadboy.io.vn/images/news/bootstrap-v4.jpg" align="center" width="100%" height="300px"/>
 
 ### thương hiệu it badboy&nbsp;&nbsp;&nbsp;[![thương hiệu it badboy](https://www.itvtbadboy.io.vn/image/google.svg)](https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw)
 > ✯ Thương hiệu it badboy là bước đệm quan trọng itvtbadboy thông qua chiến lược tiếp thị podcast bẻ khóa mọi mảnh ghép bí mật seo google carousel trao tay đối tác, tổng hợp thành tích nhắm thẳng google bing coccoc lấy về lợi ích cho mạng lưới.
