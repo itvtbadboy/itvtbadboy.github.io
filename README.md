@@ -26,12 +26,12 @@
 
 <img alt="itvtbadboy" src="https://wiki.thuongmai.blog/images/news/bootstrap-v4.jpg" width="100%" height="490px"/>
 
-### di động bootstrap&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg)](https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw)
+### di động bootstrap&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg "Github")](https://github.com/itvtbadboy)
 <p>Di động bootstrap itvtbadboy dùng Github làm tâm điểm đột phá giới hạn hiệu ứng Google Bing Coccoc, quảng cáo bách khoa tri thức wiki 1111đ mỗi ngày đảo ngược vòng lặp ma trận từ khóa, tiếp thị miễn phí Pinterest Youtube podcast tin tức LinkedIn Blogger Instagram Twitter Facebook... giảm tình trạng vượt mặt rớt hạng, đây là bước đệm quan trọng trước khi thực hiện định dạng cấu trúc dữ liệu data highlighter lấy về lợi ích cho mạng lưới đối tác doanh nghiệp.</p>
 
 > chứng chỉ bảo mật Github <a href="https://github.com/itvtbadboy/itvtbadboy.github.io/blob/master/LICENSE" title="itvtbadboy: it vũng tàu badboy" target="_blank">GNU Public</a>.<br/>
 > <a href="https://pagespeed.web.dev/analysis/https-www-itvtbadboy-io-vn/pnjq3vp25x?form_factor=desktop" title="itvtbadboy: it vũng tàu badboy" target="_blank">cân bằng</a> Oracle và Github siêu nhanh.<br/>
-> tiếp thị thương hiệu audio mp3 podcast.
+> tiếp thị thương hiệu audio <a href="https://podcasts.google.com/feed/aHR0cHM6Ly93aWtpLnRodW9uZ21haS5ibG9nL3NpdGVtYXAvcG9kY2FzdC54bWw" title="itvtbadboy: it vũng tàu badboy" target="_blank">mp3 podcast</a>.
 
 <hr />
 
