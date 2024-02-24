@@ -50,22 +50,23 @@
 
 <hr />
 
-<img alt="itvtbadboy" src="https://www.itvtbadboy.io.vn/wiki/images/0/06/Oracle-brvt-ssllab.jpg" width="100%" height="490px"/>
+<img alt="itvtbadboy" src="https://wiki.thuongmai.blog/images/news/ten-mien-mat-bao.jpg" width="100%" height="490px"/>
+
+### tên miền khởi nghiệp&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg "Khởi nghiệp")](https://matbao.com/)
+<p>Tên miền khởi nghiệp có hai tư duy rất quan trọng itvtbadboy mong doanh nghiệp hiểu rõ trước khi đặt mua, chi phí tên miền khởi nghiệp rất rẻ nhưng nếu đảo ngược sẽ mất đi tiềm năng do ảnh hưởng của khu vực (DNS Zone), doanh nghiệp đem sản phẩm Việt ra thế giới thì chọn mua tên miền từ các nhà cung cấp danh tiếng nhất trên thế giới còn ngược lại các nhà đầu tư nước ngoài vào Vietnam thì chọn thương hiệu Việt.</p>
+
+> GoDaddy.<br/>
+> Mắt bão.
+
+<hr />
+
+<img alt="itvtbadboy" src="https://wiki.thuongmai.blog/images/news/ten-mien-mat-bao.jpg" width="100%" height="490px"/>
 
 ### bảng vàng it badboy&nbsp;&nbsp;&nbsp;[![bảng vàng it badboy](https://www.itvtbadboy.io.vn/image/google.svg)](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9pdHZ1bmd0YXViYWRib3k)
 > ✯ Bảng vàng it badboy là vị trí thực tế trên bảng xếp hạng seo ranking google bing coccoc, điểm A+ là chìa khóa vàng giúp itvtbadboy kéo giãn các chính sách tiếp cận hiệu ứng seo cho phép triển khai ma trận cdn backend hiển thị theo nhiều khía cạnh.
 - lets encrypt 2048bit
 - giảm tấn công mitm
 - certificate authority
-
-<hr />
-
-<img alt="itvtbadboy" src="https://www.itvtbadboy.io.vn/wiki/images/e/e2/Oracle-brvt-load-balancer.jpg" width="100%" height="490px"/>
-
-### tên miền it badboy&nbsp;&nbsp;&nbsp;[![tên miền it badboy](https://www.itvtbadboy.io.vn/image/google.svg)](https://didong.itvtbadboy.com/)
-> ✯ Tên miền it badboy có dung lượng lưu trữ chênh lệch từ 30GB tới 100GB, itvtbadboy chọn lọc ra 2 nền tảng tiêu chuẩn giúp trải nghiệm thực hành và hoàn hảo cho xây dựng kinh doanh từ 4 thương hiệu đứng đầu thế giới (google ce - oracle cloud - amazon aws - microsoft azure).
-- google 30GB linux
-- oracle 100GB linux
 
 <hr />
 
