@@ -1,15 +1,16 @@
 ## itvtbadboy&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/pinterest.svg?raw=true "Pinterest")](https://www.pinterest.com/itvtbadboy/)&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/youtube.svg "Youtube")](https://www.youtube.com/@thuongmaibrvt)
-> ✯ itvtbadboy chuyên gia điện toán đám mây oracle cloud 0869-202-254.<br>
-> ✯ Phát triển tiềm năng di động amp dev quảng bá thương hiệu toàn cầu.<br>
-> ✯ Tối ưu trang bootstrap v4 và bách khoa wiki mở rộng ma trận từ khóa.<br>
-> ✯ Sử dụng linux parrot security giám sát an ninh mạng web server mitm.
+<p>Itvtbadboy (869.202.254) chuyên viên an ninh mạng parrot bảo mật công nghệ điện toán đám mây kỹ thuật lập trình tối ưu hiệu ứng tiềm năng từ khóa thời trang dịch vụ thương hiệu.</p>
+> Itvtbadboy chuyên viên điện toán đám mây oracle cloud instance vm.<br>
+> Phát triển tiềm năng di động amp dev quảng bá thương hiệu toàn cầu.<br>
+> Tối ưu trang bootstrap v4 và bách khoa wiki mở rộng ma trận từ khóa.<br>
+> Sử dụng linux parrot security giám sát an ninh mạng web server mitm.
 
 <hr />
 
 <img src="https://wiki.thuongmai.blog/images/news/dam-may-oracle.jpg" align="center" width="100%" height="490px"/>
 
 ### đám mây oracle&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg)](https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw)
-> ✯ Đám mây oracle thương hiệu công nghệ đặt tại Mỹ, itvtbadboy xây dựng quản lý và làm việc trực tuyến tại Việt Nam, đám mây oracle dùng cho thương mại rất thích hợp hỗ trợ doanh nghiệp quảng bá thương hiệu Vietnam ra thế giới.
+> Đám mây oracle thương hiệu công nghệ đặt tại Mỹ, itvtbadboy xây dựng quản lý và làm việc trực tuyến tại Việt Nam, đám mây oracle dùng cho thương mại rất thích hợp hỗ trợ doanh nghiệp quảng bá thương hiệu Vietnam ra thế giới.
 - bảo mật hai lớp
 - cân bằng tải x2
 - tiếp thị podcast
