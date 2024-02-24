@@ -27,7 +27,7 @@
 <img src="https://wiki.thuongmai.blog/images/news/bootstrap-v4.jpg" width="100%" height="490px"/>
 
 ### di động bootstrap&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg)](https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw)
-<p>Di động bootstrap itvtbadboy dùng Github làm tâm điểm đột phá giới hạn hiệu ứng Google Bing Coccoc, quảng cáo bách khoa tri thức wiki 1111đ mỗi ngày đảo ngược vòng lặp ma trận từ khóa, tiếp thị miễn phí pinterest youtube podcast tin tức blogger instagram twitter facebook... giảm tình trạng vượt mặt rớt hạng, đây là bước đệm quan trọng cho kế hoạch định dạng cấu trúc dữ liệu data highlighter lấy về lợi ích cho mạng lưới dối tác doanh nghiệp.</p>
+<p>Di động bootstrap itvtbadboy dùng Github làm tâm điểm đột phá giới hạn hiệu ứng Google Bing Coccoc, quảng cáo bách khoa tri thức wiki 1111đ mỗi ngày đảo ngược vòng lặp ma trận từ khóa, tiếp thị miễn phí pinterest youtube podcast tin tức blogger instagram twitter facebook... giảm tình trạng vượt mặt rớt hạng, đây là bước đệm quan trọng trước khi thực hiện định dạng cấu trúc dữ liệu data highlighter lấy về lợi ích cho mạng lưới đối tác doanh nghiệp.</p>
 
 > bảo mật hai lớp.</br>
 > cân bằng tải x2.</br>
