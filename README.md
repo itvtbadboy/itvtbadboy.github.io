@@ -6,7 +6,7 @@
 
 <hr />
 
-<img src="https://www.itvtbadboy.io.vn/images/news/bootstrap-v4.jpg" align="center" width="100%" height="300px"/>
+<img src="https://wiki.thuongmai.blog/images/news/bootstrap-v4.jpg" align="center" width="100%" height="300px"/>
 
 ### thương hiệu it badboy&nbsp;&nbsp;&nbsp;[![thương hiệu it badboy](https://www.itvtbadboy.io.vn/image/google.svg)](https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw)
 > ✯ Thương hiệu it badboy là bước đệm quan trọng itvtbadboy thông qua chiến lược tiếp thị podcast bẻ khóa mọi mảnh ghép bí mật seo google carousel trao tay đối tác, tổng hợp thành tích nhắm thẳng google bing coccoc lấy về lợi ích cho mạng lưới.
