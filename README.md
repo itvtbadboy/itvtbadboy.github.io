@@ -65,13 +65,14 @@
 ### bảng vàng quảng cáo&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg "Quảng cáo")](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9pdHZ1bmd0YXViYWRib3k)
 <p>Bảng vàng quảng cáo là vị trí thực tế trên bảng xếp hạng seo ranking google bing coccoc itvtbadboy nói rõ chỉ có bách khoa tri thức mediawiki mới có khả năng khai thác quảng cáo Google với chi phí 1111đ mỗi ngày, tất cả tư duy đều từ doanh nghiệp lựa chọn như Google Business Youtube Facebook.</p>
 
-> Pinterest top rss.<br/>
-> Google podcast.<br/>
-> Google publisher.<br/>
-> Youtube podcast.<br/>
-> LinkedIn articles.<br/>
-> Instagram social.<br/>
-> Facebook market.
+> <a href="https://www.pinterest.com/itvtbadboy/" title="itvtbadboy: it vũng tàu badboy" target="_blank">Pinterest</a> top rss.<br/>
+> Google <a href="https://podcasts.google.com/feed/aHR0cHM6Ly93aWtpLnRodW9uZ21haS5ibG9nL3NpdGVtYXAvcG9kY2FzdC54bWw" title="itvtbadboy: it vũng tàu badboy" target="_blank">podcast</a>.<br/>
+> Google <a href="https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw?hl=vi-VN&gl=VN&ceid=VN:vi" title="itvtbadboy: it vũng tàu badboy" target="_blank">publisher</a>.<br/>
+> <a href="https://youtu.be/suRI7-LfoKA?si=lbWhkRT17iXUUjma" title="itvtbadboy: it vũng tàu badboy" target="_blank">Youtube</a> podcast.<br/>
+> <a href="https://sg.linkedin.com/showcase/thuongmai/" title="itvtbadboy: it vũng tàu badboy" target="_blank">LinkedIn</a> articles.<br/>
+> <a href="https://www.threads.net/@khuongitvtbadboy8383" title="itvtbadboy: it vũng tàu badboy" target="_blank">Instagram</a> social.<br/>
+> <a href="https://www.slideshare.net/MrBadBoy" title="itvtbadboy: it vũng tàu badboy" target="_blank">SlideShare</a> document.<br/>
+> <a href="https://www.facebook.com/profile.php?id=100089607512698" title="itvtbadboy: it vũng tàu badboy" target="_blank">Facebook</a> market.
 
 <div style="padding-top: 30px; padding-bottom: 30px;"></div>
 
