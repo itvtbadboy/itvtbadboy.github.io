@@ -1,6 +1,6 @@
 <img src="https://wiki.thuongmai.blog/images/it-vung-tau-badboy.jpg" width="100%" height="490px"/>
 
-## itvtbadboy&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/pinterest.svg?raw=true "Pinterest")](https://www.pinterest.com/itvtbadboy/)&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/youtube.svg "Youtube")](https://www.youtube.com/@thuongmaibrvt)
+## itvtbadboy&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/pinterest.svg "Pinterest")](https://www.pinterest.com/itvtbadboy/)&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/youtube.svg "Youtube")](https://www.youtube.com/@thuongmaibrvt)
 <p>Itvtbadboy (0869.202.254) chuyên viên an ninh mạng parrot bảo mật công nghệ điện toán đám mây kỹ thuật lập trình tối ưu trang di động amp và bootstrap v4 đột phá hiệu ứng tiềm năng từ khóa thời trang dịch vụ bảo mật thương hiệu.</p>
 
 > Itvtbadboy chuyên viên điện toán đám mây oracle cloud instance vm.<br/>
@@ -12,8 +12,8 @@
 
 <img src="https://wiki.thuongmai.blog/images/news/dam-may-oracle.jpg" width="100%" height="490px"/>
 
-### đám mây oracle&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg)](https://www.oracle.com/vn/)
-<p>Đám mây oracle thương hiệu công nghệ đặt tại Mỹ, itvtbadboy xây dựng quản lý và làm việc trực tuyến tại Việt Nam, đám mây oracle dùng cho thương mại rất thích hợp hỗ trợ doanh nghiệp quảng bá thương hiệu Vietnam ra thế giới.</p>
+### đám mây oracle&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg "Oracle Vietnam")](https://www.oracle.com/vn/)
+<p>Đám mây Oracle thương hiệu công nghệ đặt tại Mỹ, itvtbadboy xây dựng quản lý và làm việc trực tuyến tại Việt Nam, đám mây Oracle dùng cho thương mại rất thích hợp hỗ trợ doanh nghiệp quảng bá thương hiệu Vietnam ra thế giới.</p>
 
 > điều hành Linux CenOS v7.<br/>
 > ổ cứng 100GB 48MB/s x2.<br/>
@@ -27,10 +27,11 @@
 <img src="https://wiki.thuongmai.blog/images/news/bootstrap-v4.jpg" width="100%" height="490px"/>
 
 ### di động bootstrap&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg)](https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw)
-> ✯ Thương hiệu it badboy là bước đệm quan trọng itvtbadboy thông qua chiến lược tiếp thị podcast bẻ khóa mọi mảnh ghép bí mật seo google carousel trao tay đối tác, tổng hợp thành tích nhắm thẳng google bing coccoc lấy về lợi ích cho mạng lưới.
-- bảo mật hai lớp
-- cân bằng tải x2
-- tiếp thị podcast
+<p>Di động bootstrap itvtbadboy dùng Github làm tâm điểm đột phá giới hạn hiệu ứng Google Bing Coccoc, quảng cáo bách khoa tri thức wiki 1111đ mỗi ngày đảo ngược vòng lặp ma trận từ khóa, tiếp thị miễn phí pinterest youtube podcast tin tức blogger instagram twitter facebook... giảm tình trạng vượt mặt rớt hạng, đây là bước đệm quan trọng cho kế hoạch định dạng cấu trúc dữ liệu data highlighter lấy về lợi ích cho mạng lưới dối tác doanh nghiệp.</p>
+
+> bảo mật hai lớp.</br>
+> cân bằng tải x2.</br>
+> tiếp thị podcast.
 
 <hr />
 
