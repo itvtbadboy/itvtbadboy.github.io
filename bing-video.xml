@@ -22,5 +22,20 @@
 		<rating>nonadult</rating>
 		<payment type="free" price="00.00" currency="VND"/>
 	</item>
+	<item>
+		<title>Itvtbadboy: Diệt mối</title>
+		<link>https://www.itvtbadboy.io.vn/doitac/diet-moi.amp.html</link>
+		<pubDate>Sun, 25 Feb 2024 14:46:23 PST</pubDate>
+		<description>Itvtbadboy đối tác diệt mối Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Vietnam bằng phương pháp hóa sinh an toàn</description>
+		<content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" />
+		<thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/dietmoire.jpg" width="2230" height="1200"/>
+		<keywords>itvtbadboy,diet moi</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
 </channel>
 </rss>
