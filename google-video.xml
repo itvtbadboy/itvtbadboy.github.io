@@ -25,12 +25,26 @@
 			<media:player url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re.mp4" />
 			<media:title>Itvtbadboy: Diệt mối</media:title>
 			<media:description>Itvtbadboy đối tác diệt mối Bà Rịa Vũng Tàu Long Điền Tân Thành Xuyên Mộc Vietnam bằng phương pháp hóa sinh an toàn</media:description>
-			<media:thumbnail url="https://wiki.thuongmai.blog/images/dietmoi/dietmoire.jpg" height="1200" width="2230"/>
+			<media:thumbnail url="https://wiki.thuongmai.blog/images/didong/didong-diet-moi-phuong-nam.jpg" height="1280" width="720"/>
 			<media:price price="0.00" currency="VND" />
 			<media:price type="subscription" />
 		</media:content>
 		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
 		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-25T14:44:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:type>live-video</dcterms:type>
+	</item>
+	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
+		<link>https://www.itvtbadboy.io.vn/doitac/diet-moi-ba-ria.amp.html</link>
+		<media:content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-tan-goc-ba-ria.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="2544069" isDefault="true">
+			<media:player url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-tan-goc-ba-ria.mp4" />
+			<media:title>Bà Rịa: Diệt mối</media:title>
+			<media:description>Diệt mối Bà Rịa Phương Nam phòng chống bảo vệ biệt thự nhà kho nhà lầu sân bóng Long Tâm Phước Nguyên Phước Hưng Hòa Long tận gốc giá rẻ</media:description>
+			<media:thumbnail url="https://wiki.thuongmai.blog/images/didong/didong-diet-moi-ba-ria.jpg" height="1280" width="720"/>
+			<media:price price="0.00" currency="VND" />
+			<media:price type="subscription" />
+		</media:content>
+		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-26T11:44:00+07:00; scheme=W3C-DTF</dcterms:valid>
 		<dcterms:type>live-video</dcterms:type>
 	</item>
 </channel>
