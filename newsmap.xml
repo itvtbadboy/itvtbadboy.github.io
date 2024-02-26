@@ -36,4 +36,16 @@
 			<news:keywords>ba ria,diet moi</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/thuongmai/dau-goi-tinh-chat-buoi-500.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-02-26</news:publication_date>
+			<news:title>Bưởi: Dầu gội tinh chất 500k</news:title>
+			<news:keywords>dau goi,tinh chat buoi,500</news:keywords>
+		</news:news>
+	</url>
 </urlset>
