@@ -47,5 +47,19 @@
 		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-26T11:44:00+07:00; scheme=W3C-DTF</dcterms:valid>
 		<dcterms:type>live-video</dcterms:type>
 	</item>
+	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
+		<link>https://www.itvtbadboy.io.vn/thuongmai/dau-goi-tinh-chat-buoi-500k.amp.html</link>
+		<media:content url="https://wiki.thuongmai.blog/sitemap/mypham/dau-goi-tinh-chat-buoi-500k.mp4" type="video/mp4" medium="video" height="720" width="720" duration="202" fileSize="5519995" isDefault="true">
+			<media:player url="https://wiki.thuongmai.blog/sitemap/mypham/dau-goi-tinh-chat-buoi-500k.mp4" />
+			<media:title>Bưởi: Dầu gội tinh chất 500k</media:title>
+			<media:description>Dầu gội tinh chất bưởi 500k nuôi dưỡng chân tóc chắc khỏe giảm gãy rụng kích thích mọc tóc dày dài tạo mùi thơm cho mái tóc bồng bềnh mềm mại suôn mượt</media:description>
+			<media:thumbnail url="https://wiki.thuongmai.blog/images/didong/didong-dau-goi-buoi.jpg" height="1280" width="720"/>
+			<media:price price="0.00" currency="VND" />
+			<media:price type="subscription" />
+		</media:content>
+		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-27T08:35:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:type>live-video</dcterms:type>
+	</item>
 </channel>
 </rss>
