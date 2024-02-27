@@ -52,5 +52,20 @@
 		<rating>nonadult</rating>
 		<payment type="free" price="00.00" currency="VND"/>
 	</item>
+	<item>
+		<title>Bưởi: Dầu gội tinh chất 500k</title>
+		<link>https://www.itvtbadboy.io.vn/thuongmai/dau-goi-tinh-chat-buoi-500k.amp.html</link>
+		<pubDate>Mon, 27 Feb 2024 08:37:23 PST</pubDate>
+		<description>Dầu gội tinh chất bưởi 500k nuôi dưỡng chân tóc chắc khỏe giảm gãy rụng kích thích mọc tóc dày dài tạo mùi thơm cho mái tóc bồng bềnh mềm mại suôn mượt</description>
+		<content url="https://wiki.thuongmai.blog/sitemap/mypham/dau-goi-tinh-chat-buoi-500k.mp4" type="video/mp4" medium="video" height="720" width="720" duration="202" />
+		<thumbnail url="https://wiki.thuongmai.blog/images/didong/didong-dau-goi-buoi.jpg" height="1280" width="720"/>
+		<keywords>dau goi,tinh chat buoi,500</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://wiki.thuongmai.blog/sitemap/mypham/dau-goi-tinh-chat-buoi-500k.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
 </channel>
 </rss>
