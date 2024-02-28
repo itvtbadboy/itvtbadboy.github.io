@@ -48,4 +48,16 @@
 			<news:keywords>dau goi,tinh chat buoi,500</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/doitac/diet-moi-vung-tau.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-02-28</news:publication_date>
+			<news:title>Vũng Tàu: Diệt mối</news:title>
+			<news:keywords>vung tau,diet moi</news:keywords>
+		</news:news>
+	</url>
 </urlset>
