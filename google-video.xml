@@ -75,5 +75,19 @@
 		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-28T10:00:00+07:00; scheme=W3C-DTF</dcterms:valid>
 		<dcterms:type>live-video</dcterms:type>
 	</item>
+	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
+		<link>https://www.itvtbadboy.io.vn/doitac/diet-moi-long-dien.amp.html</link>
+		<media:content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-long-dien.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="2850244" isDefault="true">
+			<media:player url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-long-dien.mp4" />
+			<media:title>Long Điền: Diệt mối</media:title>
+			<media:description>Diệt mối Long Điền Phương Nam phòng chống bảo vệ biệt thự nhà bếp nhà hàng khách sạn An Ngãi An Nhứt Phước Hải Long Hải tận gốc giá rẻ</media:description>
+			<media:thumbnail url="https://wiki.thuongmai.blog/images/didong/didong-diet-moi-long-dien.jpg" height="1280" width="720"/>
+			<media:price price="0.00" currency="VND" />
+			<media:price type="subscription" />
+		</media:content>
+		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-28T14:35:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:type>live-video</dcterms:type>
+	</item>
 </channel>
 </rss>
