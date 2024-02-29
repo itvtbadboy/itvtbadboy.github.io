@@ -112,5 +112,20 @@
 		<rating>nonadult</rating>
 		<payment type="free" price="00.00" currency="VND"/>
 	</item>
+	<item>
+		<title>Tân Thành: Diệt mối</title>
+		<link>https://www.itvtbadboy.io.vn/doitac/diet-moi-tan-thanh.amp.html</link>
+		<pubDate>Wed, 29 Feb 2024 11:41:23 PST</pubDate>
+		<description>Diệt mối Tân Thành Phương Nam phòng chống bảo vệ nhà riêng biệt thự nhà hàng khách sạn công ty Mỹ Xuân Phú Mỹ Tốc Tiên Châu Pha Ngãi Giao tận gốc giá rẻ</description>
+		<content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-tan-thanh.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" />
+		<thumbnail url="https://wiki.thuongmai.blog/images/didong/didong-diet-moi-tan-thanh.jpg" height="1280" width="720"/>
+		<keywords>tan thanh,diet moi</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-tan-thanh.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
 </channel>
 </rss>
