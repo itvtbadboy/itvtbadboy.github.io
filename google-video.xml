@@ -103,5 +103,19 @@
 		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-29T09:31:00+07:00; scheme=W3C-DTF</dcterms:valid>
 		<dcterms:type>live-video</dcterms:type>
 	</item>
+	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
+		<link>https://www.itvtbadboy.io.vn/doitac/diet-moi-tan-thanh.amp.html</link>
+		<media:content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-tan-thanh.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="3083729" isDefault="true">
+			<media:player url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-tan-thanh.mp4" />
+			<media:title>Tân Thành: Diệt mối</media:title>
+			<media:description>Diệt mối Tân Thành Phương Nam phòng chống bảo vệ nhà riêng biệt thự nhà hàng khách sạn công ty Mỹ Xuân Phú Mỹ Tốc Tiên Châu Pha Ngãi Giao tận gốc giá rẻ</media:description>
+			<media:thumbnail url="https://wiki.thuongmai.blog/images/didong/didong-diet-moi-tan-thanh.jpg" height="1280" width="720"/>
+			<media:price price="0.00" currency="VND" />
+			<media:price type="subscription" />
+		</media:content>
+		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-29T11:39:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:type>live-video</dcterms:type>
+	</item>
 </channel>
 </rss>
