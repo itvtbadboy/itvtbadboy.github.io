@@ -89,5 +89,19 @@
 		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-28T14:35:00+07:00; scheme=W3C-DTF</dcterms:valid>
 		<dcterms:type>live-video</dcterms:type>
 	</item>
+	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
+		<link>https://www.itvtbadboy.io.vn/doitac/diet-moi-xuyen-moc.amp.html</link>
+		<media:content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-tan-goc-xuyen-moc.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="3124193" isDefault="true">
+			<media:player url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-tan-goc-xuyen-moc.mp4" />
+			<media:title>Xuyên Mộc: Diệt mối</media:title>
+			<media:description>Diệt mối Xuyên Mộc Phương Nam phòng chống bảo vệ biệt thự nhà hàng khách sạn sòng bài Hồ Tràm Phước Thuận Phước Bửu tận gốc giá rẻ</media:description>
+			<media:thumbnail url="https://wiki.thuongmai.blog/images/didong/didong-diet-moi-xuyen-moc.jpg" height="1280" width="720"/>
+			<media:price price="0.00" currency="VND" />
+			<media:price type="subscription" />
+		</media:content>
+		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-29T09:31:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:type>live-video</dcterms:type>
+	</item>
 </channel>
 </rss>
