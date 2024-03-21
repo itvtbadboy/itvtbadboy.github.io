@@ -67,5 +67,50 @@
 		<rating>nonadult</rating>
 		<payment type="free" price="00.00" currency="VND"/>
 	</item>
+	<item>
+		<title>Diệt mối Xuyên Mộc</title>
+		<link>https://www.itvtbadboy.io.vn/doitac/diet-moi-xuyen-moc.amp.html</link>
+		<pubDate>Thu, 21 Mar 2024 12:14:23 PST</pubDate>
+		<description>Diệt mối Xuyên Mộc công trình biệt thự nhà hàng khách sạn sòng bài tại Hồ Tràm Phước Thuận tận gốc giá rẻ</description>
+		<content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-tan-goc-xuyen-moc.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" />
+		<thumbnail url="https://wiki.thuongmai.blog/images/news/xuyen-moc.jpg" height="1280" width="720"/>
+		<keywords>diet moi,xuyen moc</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-tan-goc-xuyen-moc.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
+	<item>
+		<title>Diệt mối Tân Thành</title>
+		<link>https://www.itvtbadboy.io.vn/doitac/diet-moi-tan-thanh.amp.html</link>
+		<pubDate>Thu, 21 Mar 2024 12:16:23 PST</pubDate>
+		<description>Diệt mối Tân Thành công trình cà phê vườn nhà lầu biệt thự nhà hàng khách sạn công ty tại Mỹ Xuân Phú Mỹ Tốc Tiên Châu Pha Ngãi Giao tận gốc giá rẻ</description>
+		<content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-tan-thanh.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" />
+		<thumbnail url="https://wiki.thuongmai.blog/images/news/tan-thanh.jpg" height="1280" width="720"/>
+		<keywords>diet moi,tan thanh</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-tan-thanh.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
+	<item>
+		<title>Diệt mối Vũng Tàu</title>
+		<link>https://www.itvtbadboy.io.vn/doitac/diet-moi-vung-tau.amp.html</link>
+		<pubDate>Thu, 21 Mar 2024 12:17:23 PST</pubDate>
+		<description>Diệt mối Vũng Tàu công trình biệt thự nhà hàng khách sạn nhà lầu kho xưởng tại phường 2 phường 5 phường 7 phường 8 phường 10 tận gốc giá rẻ</description>
+		<content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-vung-tau.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" />
+		<thumbnail url="https://wiki.thuongmai.blog/images/news/vung-tau.jpg" height="1280" width="720"/>
+		<keywords>diet moi,vung tau</keywords>
+		<category>Services</category>
+		<viewCount>1</viewCount>
+		<embedHtml>https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-vung-tau.mp4</embedHtml>
+		<restriction relationship="allow" type="country">VN US SG</restriction>
+		<rating>nonadult</rating>
+		<payment type="free" price="00.00" currency="VND"/>
+	</item>
 </channel>
 </rss>
