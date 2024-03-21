@@ -61,5 +61,47 @@
 		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-16T10:50:00+07:00; scheme=W3C-DTF</dcterms:valid>
 		<dcterms:type>live-video</dcterms:type>
 	</item>
+	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
+		<link>https://www.itvtbadboy.io.vn/doitac/diet-moi-xuyen-moc.amp.html</link>
+		<media:content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-tan-goc-xuyen-moc.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="3124193" isDefault="true">
+			<media:player url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-tan-goc-xuyen-moc.mp4" />
+			<media:title>Diệt mối Xuyên Mộc</media:title>
+			<media:description>Diệt mối Xuyên Mộc công trình biệt thự nhà hàng khách sạn sòng bài tại Hồ Tràm Phước Thuận tận gốc giá rẻ</media:description>
+			<media:thumbnail url="https://wiki.thuongmai.blog/images/news/xuyen-moc.jpg" height="1200" width="2230"/>
+			<media:price price="0.00" currency="VND" />
+			<media:price type="subscription" />
+		</media:content>
+		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-14T08:22:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:type>live-video</dcterms:type>
+	</item>
+	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
+		<link>https://www.itvtbadboy.io.vn/doitac/diet-moi-tan-thanh.amp.html</link>
+		<media:content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-tan-thanh.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="3083729" isDefault="true">
+			<media:player url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-tan-thanh.mp4" />
+			<media:title>Diệt mối Tân Thành</media:title>
+			<media:description>Diệt mối Tân Thành công trình cà phê vườn nhà lầu biệt thự nhà hàng khách sạn công ty tại Mỹ Xuân Phú Mỹ Tốc Tiên Châu Pha Ngãi Giao tận gốc giá rẻ</media:description>
+			<media:thumbnail url="https://wiki.thuongmai.blog/images/news/tan-thanh.jpg" height="1200" width="2230"/>
+			<media:price price="0.00" currency="VND" />
+			<media:price type="subscription" />
+		</media:content>
+		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-23T10:19:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:type>live-video</dcterms:type>
+	</item>
+	<item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
+		<link>https://www.itvtbadboy.io.vn/doitac/diet-moi-vung-tau.amp.html</link>
+		<media:content url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-vung-tau.mp4" type="video/mp4" medium="video" height="720" width="1280" duration="60" fileSize="2723148" isDefault="true">
+			<media:player url="https://wiki.thuongmai.blog/sitemap/dietmoi/diet-moi-re-vung-tau.mp4" />
+			<media:title>Diệt mối Vũng Tàu</media:title>
+			<media:description>Diệt mối Vũng Tàu công trình biệt thự nhà hàng khách sạn nhà lầu kho xưởng tại phường 2 phường 5 phường 7 phường 8 phường 10 tận gốc giá rẻ</media:description>
+			<media:thumbnail url="https://wiki.thuongmai.blog/images/news/vung-tau.jpg" height="1200" width="2230"/>
+			<media:price price="0.00" currency="VND" />
+			<media:price type="subscription" />
+		</media:content>
+		<media:restriction relationship="allow" type="country">VN SG US</media:restriction>
+		<dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2024-02-18T13:36:00+07:00; scheme=W3C-DTF</dcterms:valid>
+		<dcterms:type>live-video</dcterms:type>
+	</item>
 </channel>
 </rss>
