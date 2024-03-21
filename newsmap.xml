@@ -32,7 +32,7 @@
 				<news:language>vi</news:language>
 			</news:publication>
 			<news:publication_date>2024-03-20</news:publication_date>
-			<news:title>Diệt mối Bà Rịa công trình biệt thự nhà kho nhà lầu sân bóng tại Long Tâm Phước Nguyên Phước Hưng Hòa Long tận gốc giá rẻ</news:title>
+			<news:title>Diệt mối Bà Rịa công trình biệt thự nhà kho nhà lầu sân bóng tại Long Tâm Phước Nguyên Phước Hưng Hòa Long</news:title>
 			<news:keywords>diet moi,ba ria</news:keywords>
 		</news:news>
 	</url>
@@ -44,8 +44,44 @@
 				<news:language>vi</news:language>
 			</news:publication>
 			<news:publication_date>2024-03-21</news:publication_date>
-			<news:title>Diệt mối Long Điền công trình biệt thự nhà bếp nhà hàng khách sạn tại An Ngãi An Nhứt Phước Hải Long Hải tận gốc giá rẻ</news:title>
+			<news:title>Diệt mối Long Điền công trình biệt thự nhà bếp nhà hàng khách sạn tại An Ngãi An Nhứt Phước Hải Long Hải</news:title>
 			<news:keywords>diet moi,long dien</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/doitac/diet-moi-xuyen-moc.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-03-21</news:publication_date>
+			<news:title>Diệt mối Xuyên Mộc công trình biệt thự nhà hàng khách sạn sòng bài tại Hồ Tràm Phước Thuận</news:title>
+			<news:keywords>diet moi,xuyen moc</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/doitac/diet-moi-tan-thanh.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-03-21</news:publication_date>
+			<news:title>Diệt mối Tân Thành công trình cà phê vườn nhà lầu biệt thự nhà hàng khách sạn công ty tại Mỹ Xuân Phú Mỹ Tốc Tiên Châu Pha Ngãi Giao</news:title>
+			<news:keywords>diet moi,tan thanh</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/doitac/diet-moi-vung-tau.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-03-21</news:publication_date>
+			<news:title>Diệt mối Vũng Tàu công trình biệt thự nhà hàng khách sạn nhà lầu kho xưởng tại phường 2 phường 5 phường 7 phường 8 phường 10</news:title>
+			<news:keywords>diet moi,vung tau</news:keywords>
 		</news:news>
 	</url>
 </urlset>
