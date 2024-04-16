@@ -18,9 +18,9 @@
 > điều hành Linux CenOS v7.<br/>
 > ổ cứng 100GB 48MB/s x2.<br/>
 > AMD-V 32-core 1996MHz.<br/>
-> <a href="https://wiki.thuongmai.blog/" title="itvtbadboy: it vũng tàu badboy" target="_blank">bách khoa</a> tri thức v1.39.6.<br/>
+> <a href="https://wiki.thuongmai.blog/" title="itvtbadboy" target="_blank">bách khoa</a> tri thức v1.39.6.<br/>
 > máy chủ apache cân bằng.<br/>
-> <a href="https://wiki.thuongmai.blog/amp/thuong-mai-di-dong.amp.html" title="itvtbadboy: it vũng tàu badboy" target="_blank">di động</a> top news amp dev.
+> <a href="https://wiki.thuongmai.blog/amp/thuong-mai-di-dong.amp.html" title="itvtbadboy" target="_blank">di động</a> top news amp dev.
 
 <div style="padding-top: 30px; padding-bottom: 30px;"></div>
 
@@ -29,9 +29,9 @@
 ### di động bootstrap&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.png "Github")](https://github.com/itvtbadboy)
 <p>Di động bootstrap itvtbadboy dùng Github làm tâm điểm đột phá giới hạn hiệu ứng Google Bing Coccoc, quảng cáo bách khoa tri thức wiki 1111đ mỗi ngày đảo ngược vòng lặp ma trận từ khóa, tiếp thị miễn phí Pinterest Youtube podcast tin tức LinkedIn Blogger Instagram Twitter Facebook... giảm tình trạng vượt mặt rớt hạng, đây là bước đệm quan trọng trước khi thực hiện định dạng cấu trúc dữ liệu data highlighter lấy về lợi ích cho mạng lưới đối tác doanh nghiệp.</p>
 
-> chứng chỉ bảo mật Github <a href="https://github.com/itvtbadboy/itvtbadboy.github.io/blob/master/LICENSE" title="itvtbadboy: it vũng tàu badboy" target="_blank">GNU Public</a>.<br/>
-> <a href="https://pagespeed.web.dev/analysis/https-www-itvtbadboy-io-vn/pnjq3vp25x?form_factor=desktop" title="itvtbadboy: it vũng tàu badboy" target="_blank">cân bằng</a> Oracle và Github siêu nhanh.<br/>
-> tiếp thị thương hiệu audio <a href="https://podcasts.google.com/feed/aHR0cHM6Ly93aWtpLnRodW9uZ21haS5ibG9nL3NpdGVtYXAvcG9kY2FzdC54bWw" title="itvtbadboy: it vũng tàu badboy" target="_blank">mp3 podcast</a>.
+> chứng chỉ bảo mật Github <a href="https://github.com/itvtbadboy/itvtbadboy.github.io/blob/master/LICENSE" title="itvtbadboy" target="_blank">GNU Public</a>.<br/>
+> <a href="https://pagespeed.web.dev/analysis/https-www-itvtbadboy-io-vn/pnjq3vp25x?form_factor=desktop" title="itvtbadboy" target="_blank">cân bằng</a> Oracle và Github siêu nhanh.<br/>
+> tiếp thị thương hiệu audio <a href="https://podcasts.google.com/feed/aHR0cHM6Ly93aWtpLnRodW9uZ21haS5ibG9nL3NpdGVtYXAvcG9kY2FzdC54bWw" title="itvtbadboy" target="_blank">mp3 podcast</a>.
 
 <div style="padding-top: 30px; padding-bottom: 30px;"></div>
 
@@ -65,14 +65,14 @@
 ### bảng vàng quảng cáo&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.png "Quảng cáo")](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9pdHZ1bmd0YXViYWRib3k)
 <p>Bảng vàng quảng cáo là vị trí thực tế trên bảng xếp hạng seo ranking google bing coccoc itvtbadboy nói rõ chỉ có bách khoa tri thức mediawiki mới có khả năng khai thác quảng cáo Google với chi phí 1111đ mỗi ngày, tất cả tư duy đều từ doanh nghiệp lựa chọn như Google Business Youtube Facebook.</p>
 
-> <a href="https://www.pinterest.com/itvtbadboy/" title="itvtbadboy: it vũng tàu badboy" target="_blank">Pinterest</a> top rss.<br/>
-> Google <a href="https://podcasts.google.com/feed/aHR0cHM6Ly93aWtpLnRodW9uZ21haS5ibG9nL3NpdGVtYXAvcG9kY2FzdC54bWw" title="itvtbadboy: it vũng tàu badboy" target="_blank">podcast</a>.<br/>
-> Google <a href="https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw?hl=vi-VN&gl=VN&ceid=VN:vi" title="itvtbadboy: it vũng tàu badboy" target="_blank">publisher</a>.<br/>
-> <a href="https://youtu.be/suRI7-LfoKA?si=lbWhkRT17iXUUjma" title="itvtbadboy: it vũng tàu badboy" target="_blank">Youtube</a> podcast.<br/>
-> <a href="https://sg.linkedin.com/showcase/thuongmai/" title="itvtbadboy: it vũng tàu badboy" target="_blank">LinkedIn</a> articles.<br/>
-> <a href="https://www.threads.net/@khuongitvtbadboy8383" title="itvtbadboy: it vũng tàu badboy" target="_blank">Instagram</a> social.<br/>
-> <a href="https://www.slideshare.net/MrBadBoy" title="itvtbadboy: it vũng tàu badboy" target="_blank">SlideShare</a> library.<br/>
-> <a href="https://www.facebook.com/profile.php?id=100089607512698" title="itvtbadboy: it vũng tàu badboy" target="_blank">Facebook</a> market.
+> <a href="https://www.pinterest.com/itvtbadboy/" title="itvtbadboy" target="_blank">Pinterest</a> top rss.<br/>
+> Google <a href="https://podcasts.google.com/feed/aHR0cHM6Ly93aWtpLnRodW9uZ21haS5ibG9nL3NpdGVtYXAvcG9kY2FzdC54bWw" title="itvtbadboy" target="_blank">podcast</a>.<br/>
+> Google <a href="https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw?hl=vi-VN&gl=VN&ceid=VN:vi" title="itvtbadboy" target="_blank">publisher</a>.<br/>
+> <a href="https://youtu.be/suRI7-LfoKA?si=lbWhkRT17iXUUjma" title="itvtbadboy" target="_blank">Youtube</a> podcast.<br/>
+> <a href="https://sg.linkedin.com/showcase/thuongmai/" title="itvtbadboy" target="_blank">LinkedIn</a> articles.<br/>
+> <a href="https://www.threads.net/@khuongitvtbadboy8383" title="itvtbadboy" target="_blank">Instagram</a> social.<br/>
+> <a href="https://www.slideshare.net/MrBadBoy" title="itvtbadboy" target="_blank">SlideShare</a> library.<br/>
+> <a href="https://www.facebook.com/profile.php?id=100089607512698" title="itvtbadboy" target="_blank">Facebook</a> market.
 
 <div style="padding-top: 30px; padding-bottom: 30px;"></div>
 
