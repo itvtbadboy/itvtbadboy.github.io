@@ -10,7 +10,7 @@
 
 <div style="padding-top: 30px; padding-bottom: 30px;"></div>
 
-<img alt="itvtbadboy" src="https://wiki.thuongmai.blog/images/news/dam-may-oracle.jpg" width="100%" height="490px"/>
+<img alt="itvtbadboy" src="https://wiki.thuongmai.blog/images/e/ee/Dam-may-oracle.jpg" width="100%" height="490px"/>
 
 ### công nghệ đám mây&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg "Oracle Vietnam")](https://www.oracle.com/vn/)
 <p>Công nghệ đám mây Oracle thương hiệu công nghệ đặt tại Mỹ, itvtbadboy xây dựng quản lý và làm việc trực tuyến tại Việt Nam, đám mây Oracle dùng cho thương mại rất thích hợp hỗ trợ doanh nghiệp quảng bá thương hiệu Vietnam ra thế giới.</p>
