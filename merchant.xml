@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+
+<channel>
+	<title>www.itvtbadboy.io.vn</title>
+	<link>https://www.itvtbadboy.io.vn/</link>
+	<description>Itvtbadboy chuyên viên an ninh mạng parrot bảo mật công nghệ điện toán đám mây. Itvtbadboy kỹ thuật lập trình tối ưu hiệu ứng tiềm năng từ khóa thời trang dịch vụ thương hiệu</description>
+
+	<item>
+		<g:id>dau-goi-tinh-chat-buoi-500.html</g:id>
+		<g:title>Dầu gội tinh chất bưởi</g:title>
+		<g:description>Dầu gội tinh chất bưởi 500 được phân phối độc quyền bởi công ty cổ phần dược phẩm quốc tế Love World tại thành phố Hà Nội</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/mypham/dau-goi-tinh-chat-buoi-500.html</g:link>
+		<g:image_link>https://wiki.thuongmai.blog/images/b/ba/Dau-goi-tinh-chat-buoi.jpg</g:image_link>
+		<g:condition>new</g:condition>
+		<g:availability>in stock</g:availability>
+		<g:price>500000 VND</g:price>
+		<g:gtin>8938543409023</g:gtin>
+		<g:brand>Love World</g:brand>
+		<g:shipping>
+			<g:country>VN</g:country>
+			<g:service>Standard</g:service>
+			<g:price>30000 VND</g:price>
+		</g:shipping>
+	</item>
+</channel>
+</rss>
