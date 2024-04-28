@@ -5,9 +5,15 @@ layout: post
 canonical_url: https://www.itvtbadboy.io.vn/
 title: itvtbadboy
 description: Itvtbadboy chuyên viên an ninh mạng parrot bảo mật công nghệ điện toán đám mây và lập trình tối ưu hiệu ứng tiềm năng từ khóa thời trang dịch vụ thương hiệu
+logo: https://www.itvtbadboy.io.vn/image/logoamp.png
 image: https://www.itvtbadboy.io.vn/image/itvtbadboy.jpg
 locale: vi_VN
-author: itvtbadboy
+author:
+	name: itvtbadboy
+	url: https://github.com/itvtbadboy
+webmaster_verifications:
+	google: googlefebea4a6fd56bed1.html
+
 social:
 	name: itvtbadboy
 	links:
@@ -23,3 +29,11 @@ social:
 		- https://podcasts.google.com/feed/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2todW9uZy1pdHZ0YmFkYm95LTgzODMuYXBwc3BvdC5jb20vcG9kY2FzdC9ibG9nZ2VyL3Rob2ktdHJhbmcueG1s
 		- https://music.amazon.com/podcasts/60717db6-99e6-485c-a62d-45489c242a7b/thuong-mai-ltd
 		- https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw?hl=vi-VN&gl=VN&ceid=VN:vi
+
+twitter:
+	username: badboyvt83
+	card: summary
+facebook:
+	app_id: 110046038645905
+	publisher: https://www.facebook.com/profile.php?id=100089607512698&locale=vi_VN
+	admins: 100089607512698
