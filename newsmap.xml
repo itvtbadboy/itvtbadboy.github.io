@@ -7,7 +7,7 @@
 				<news:name>itvtbadboy</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2024-04-17</news:publication_date>
+			<news:publication_date>2024-04-24</news:publication_date>
 			<news:title>Itvtbadboy tối ưu từ khóa thời trang dịch vụ thương hiệu</news:title>
 			<news:keywords>itvtbadboy</news:keywords>
 		</news:news>
@@ -19,7 +19,7 @@
 				<news:name>itvtbadboy</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2024-04-23</news:publication_date>
+			<news:publication_date>2024-04-24</news:publication_date>
 			<news:title>Dầu gội tinh chất bưởi mái tóc bồng bềnh mềm mại suôn mượt</news:title>
 			<news:keywords>Dầu gội tinh chất bưởi</news:keywords>
 		</news:news>
@@ -31,9 +31,21 @@
 				<news:name>itvtbadboy</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2024-04-23</news:publication_date>
+			<news:publication_date>2024-04-24</news:publication_date>
 			<news:title>Diệt mối Bà Rịa tận gốc giá rẻ</news:title>
 			<news:keywords>Diệt mối Bà Rịa</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/dichvu/diet-moi-long-dien-amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-05-01</news:publication_date>
+			<news:title>Diệt mối Long Điền tận gốc giá rẻ</news:title>
+			<news:keywords>Diệt mối Long Điền</news:keywords>
 		</news:news>
 	</url>
 </urlset>
