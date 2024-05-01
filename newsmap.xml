@@ -48,4 +48,40 @@
 			<news:keywords>Diệt mối Long Điền</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/dichvu/diet-moi-xuyen-moc-amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-05-01</news:publication_date>
+			<news:title>Diệt mối Xuyên Mộc tận gốc giá rẻ</news:title>
+			<news:keywords>Diệt mối Xuyên Mộc</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/dichvu/diet-moi-vung-tau-amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-05-01</news:publication_date>
+			<news:title>Diệt mối Vũng Tàu tận gốc giá rẻ</news:title>
+			<news:keywords>Diệt mối Vũng Tàu</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/dichvu/diet-moi-tan-thanh-amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-05-01</news:publication_date>
+			<news:title>Diệt mối Tân Thành tận gốc giá rẻ</news:title>
+			<news:keywords>Diệt mối Tân Thành</news:keywords>
+		</news:news>
+	</url>
 </urlset>
