@@ -66,13 +66,13 @@
 <p>Bảng vàng quảng cáo là vị trí thực tế trên bảng xếp hạng seo ranking google bing coccoc itvtbadboy nói rõ chỉ có bách khoa tri thức mediawiki mới có khả năng khai thác quảng cáo Google với chi phí 1111đ mỗi ngày, tất cả tư duy đều từ doanh nghiệp lựa chọn như Google Business Youtube Facebook.</p>
 
 > <a href="https://www.pinterest.com/itvtbadboy/" title="itvtbadboy" target="_blank">Pinterest</a> top rss.<br/>
-> Google <a href="https://podcasts.google.com/feed/aHR0cHM6Ly93aWtpLnRodW9uZ21haS5ibG9nL3NpdGVtYXAvcG9kY2FzdC54bWw" title="itvtbadboy" target="_blank">podcast</a>.<br/>
+> Google <a href="https://music.amazon.com/podcasts/6c25f7c0-aa43-4362-b83c-4b976b56df65/wiki-thuongmai-blog" title="itvtbadboy" target="_blank">podcast</a>.<br/>
 > Google <a href="https://news.google.com/publications/CAAqBwgKMNvklgsw3ouuAw?hl=vi-VN&gl=VN&ceid=VN:vi" title="itvtbadboy" target="_blank">publisher</a>.<br/>
 > <a href="https://youtu.be/suRI7-LfoKA?si=lbWhkRT17iXUUjma" title="itvtbadboy" target="_blank">Youtube</a> podcast.<br/>
-> <a href="https://sg.linkedin.com/showcase/thuongmai/" title="itvtbadboy" target="_blank">LinkedIn</a> articles.<br/>
+> <a href="https://www.linkedin.com/company/khuongitvtbadboy" title="itvtbadboy" target="_blank">LinkedIn</a> articles.<br/>
 > <a href="https://www.threads.net/@khuongitvtbadboy8383" title="itvtbadboy" target="_blank">Instagram</a> social.<br/>
 > <a href="https://www.slideshare.net/MrBadBoy" title="itvtbadboy" target="_blank">SlideShare</a> library.<br/>
-> <a href="https://www.facebook.com/profile.php?id=100089607512698" title="itvtbadboy" target="_blank">Facebook</a> market.
+> <a href="https://www.facebook.com/groups/744087330470028" title="itvtbadboy" target="_blank">Facebook</a> market.
 
 <div style="padding-top: 30px; padding-bottom: 30px;"></div>
 
