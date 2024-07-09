@@ -4,11 +4,10 @@
 <channel>
 	<generator>Github</generator>
 	<copyright>itvtbadboy.github.io</copyright>
-	<category>Lập trình viên</category> <category>Dầu gội</category> <category>bưởi</category> <category>Diệt mối</category> <category>Bà Rịa</category> <category>Vũng Tàu</category> <category>Long Điền</category> <category>Tân Thành</category> <category>Xuyên Mộc</category>
 
-	<lastBuildDate>Sat, 27 Apr 2024 11:12:23 GMT+7</lastBuildDate>
-	<title>www.itvtbadboy.io.vn</title>
-	<description>Itvtbadboy chuyên viên an ninh mạng parrot bảo mật công nghệ điện toán đám mây. Itvtbadboy kỹ thuật lập trình tối ưu hiệu ứng tiềm năng từ khóa thời trang dịch vụ thương hiệu</description>
+	<lastBuildDate>Tue, 09 Jul 2024 10:16:23 GMT+7</lastBuildDate>
+	<title>itvtbadboy</title>
+	<description>Itvtbadboy lập trình tối ưu hiệu ứng tiềm năng từ khóa thời trang dịch vụ và bảo mật thương hiệu</description>
 	<language>vi-VN</language>
 	<link>https://www.itvtbadboy.io.vn/</link>
 	<googleplay:owner>itvtbadboy@gmail.com</googleplay:owner>
@@ -17,16 +16,16 @@
 	<itunes:image href="https://wiki.thuongmai.blog/images/8/82/Itvtbadboy.jpg"/>
 
 	<item>
-		<pubDate>Tue, 07 May 2024 11:14:23 GMT+7</pubDate>
+		<pubDate>Tue, 09 Jul 2024 10:16:23 GMT+7</pubDate>
 		<title>Lập trình viên</title>
 		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/500-miles.mp3" type="audio/mpeg" length="3404749"/>
-		<guid isPermaLink="true">https://www.itvtbadboy.io.vn/lap-trinh-vien.html</guid>
+		<guid isPermaLink="true">lap-trinh-vien.html</guid>
 		<description>
-			<![CDATA[<p>@itvtbadboy #laptrinhvien <a href="https://www.itvtbadboy.io.vn/lap-trinh-vien.html">Lập trình viên</a> itvtbadboy kỹ năng css json md cơ bản tối ưu giao diện tối ưu hiệu ứng trang cửa hàng doanh nghiệp, lập trình viên itvtbadboy sở hữu đám mây Oracle Cloud sở hữu tư duy linh hoạt và hơn 12 công cụ tiếp thị miễn phí đứng đầu thế giới.</p>>]]>
+			<![CDATA[<p>@itvtbadboy #laptrinhvien <a href="https://www.itvtbadboy.io.vn/itvtbadboy/lap-trinh-vien.html">Lập trình viên</a> tối ưu hiệu ứng trang cửa hàng doanh nghiệp với kỹ năng css json md cơ bản, lập trình viên itvtbadboy sở hữu đám mây Oracle Cloud sở hữu tư duy linh hoạt và hơn 12 công cụ tiếp thị miễn phí đứng đầu thế giới.</p>]]>
 		</description>
 	</item>
 	<item>
-		<pubDate>Sat, 27 Apr 2024 11:12:23 GMT+7</pubDate>
+		<pubDate>Tue, 09 Jul 2024 10:16:23 GMT+7</pubDate>
 		<title>Dầu gội bưởi</title>
 		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/barbie-girl.mp3" type="audio/mpeg" length="3248128"/>
 		<guid isPermaLink="true">https://www.itvtbadboy.io.vn/mypham/dau-goi-buoi.html</guid>
@@ -35,7 +34,7 @@
 		</description>
 	</item>
 	<item>
-		<pubDate>Sat, 27 Apr 2024 11:12:23 GMT+7</pubDate>
+		<pubDate>Tue, 09 Jul 2024 10:16:23 GMT+7</pubDate>
 		<title>Diệt mối Bà Rịa</title>
 		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/be-my-lover.mp3" type="audio/mpeg" length="4867093"/>
 		<guid isPermaLink="true">https://www.itvtbadboy.io.vn/dichvu/diet-moi-ba-ria.html</guid>
@@ -44,7 +43,7 @@
 		</description>
 	</item>
 	<item>
-		<pubDate>Sat, 27 Apr 2024 11:12:23 GMT+7</pubDate>
+		<pubDate>Tue, 09 Jul 2024 10:16:23 GMT+7</pubDate>
 		<title>Diệt mối Vũng Tàu</title>
 		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/beautiful-life.mp3" type="audio/mpeg" length="3516876"/>
 		<guid isPermaLink="true">https://www.itvtbadboy.io.vn/dichvu/diet-moi-vung-tau.html</guid>
