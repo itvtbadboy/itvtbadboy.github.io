@@ -62,7 +62,7 @@
 
 <img alt="itvtbadboy" src="https://wiki.thuongmai.blog/images/f/fc/Bang-vang-quang-cao.jpg" width="100%" height="256px"/>
 
-### bảng vàng quảng cáo&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg "Quảng cáo")](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9pdHZ1bmd0YXViYWRib3k)
+### bảng vàng quảng cáo&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/awesome.svg "Quảng cáo")](https://music.amazon.com/podcasts/6c25f7c0-aa43-4362-b83c-4b976b56df65/wiki-thuongmai-blog)
 <p>Bảng vàng quảng cáo là vị trí thực tế trên bảng xếp hạng seo ranking google bing coccoc itvtbadboy nói rõ chỉ có bách khoa tri thức mediawiki mới có khả năng khai thác quảng cáo Google với chi phí 1111đ mỗi ngày, tất cả tư duy đều từ doanh nghiệp lựa chọn như Google Business Youtube Facebook.</p>
 
 > <a href="https://www.pinterest.com/itvtbadboy/" title="itvtbadboy" target="_blank">Pinterest</a> top rss.<br/>
