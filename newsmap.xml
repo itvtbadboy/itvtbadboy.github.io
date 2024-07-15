@@ -180,4 +180,16 @@
 			<news:keywords>cổ điển sang trọng hiện đại quyến rũ</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/itvtbadboy/music/bo-y-than-tuong-2006-tvb-face-to-fate.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-07-15</news:publication_date>
+			<news:title>face to fate</news:title>
+			<news:keywords>bố y thần tướng 2006</news:keywords>
+		</news:news>
+	</url>
 </urlset>
