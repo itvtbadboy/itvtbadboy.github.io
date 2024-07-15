@@ -1,13 +1,21 @@
 plugins:
 	- jekyll-seo-tag
 
+exclude: ["README.md"]
+collections:
+  pages:
+    output: true
+    permalink: /itvtbadboy/
+
 layout: post
 canonical_url: https://www.itvtbadboy.io.vn/
 title: itvtbadboy
 description: Itvtbadboy chuyên viên an ninh mạng parrot bảo mật công nghệ điện toán đám mây và lập trình tối ưu hiệu ứng tiềm năng từ khóa thời trang dịch vụ thương hiệu
-logo: https://www.itvtbadboy.io.vn/image/logoamp.png
+logourl: https://www.itvtbadboy.io.vn/image/logoamp.png
+logoalt: itvtbadboy
 image: https://www.itvtbadboy.io.vn/image/itvtbadboy.jpg
 locale: vi_VN
+
 author:
 	name: itvtbadboy
 	url: https://github.com/itvtbadboy
