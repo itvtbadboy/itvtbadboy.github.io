@@ -1,0 +1,39 @@
+/*@font-face {*/
+    /*font-family: Lato;*/
+    /*src: url('https://shop.thuongmai.blog/music/fonts/times-new-roman-400.ttf');*/
+/*}*/
+
+/*@font-face {*/
+    /*font-family: Lato;*/
+    /*src: url('https://shop.thuongmai.blog/music/fonts/Lato-Regular.ttf');*/
+/*}*/
+
+/*@font-face {*/
+    /*font-family: Lato Italic;*/
+    /*src: url('https://shop.thuongmai.blog/music/fonts/Lato-Italic.ttf');*/
+/*}*/
+
+/*@font-face {*/
+    /*font-family: Lato Bold;*/
+    /*src: url('https://shop.thuongmai.blog/music/fonts/Lato-Bold.ttf');*/
+/*}*/
+
+html { overflow-y: scroll; }
+
+body {
+    background: #444 url(bg.jpg) repeat 0 0 scroll;
+}
+
+#download{
+    position:absolute;
+    top:132px;
+    left:30px;
+    text-decoration:none;
+    font-size:12px;
+    color:#999;
+    font-family:'Roboto';
+}
+
+#download:hover{
+    color:#fff;
+}
