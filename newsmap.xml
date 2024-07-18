@@ -192,4 +192,16 @@
 			<news:keywords>bố y thần tướng 2006</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-tre-tuyen-chon-bucket.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-07-18</news:publication_date>
+			<news:title>face to fate</news:title>
+			<news:keywords>nhạc trẻ tuyển chọn</news:keywords>
+		</news:news>
+	</url>
 </urlset>
