@@ -1,16 +1,5 @@
 var myPlaylist = [
 	{
-		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/broken-hearted-woman.mp3',
-		oga:'#',
-		title:'broken hearted woman',
-		artist:'Faye Wong',
-		rating:5,
-		buy:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/broken-hearted-woman.mp3',
-		price:'0',
-		duration:'05:18',
-		cover:'https://i.pinimg.com/originals/97/2d/7d/972d7deb41c9445db6a39974401057eb.jpg'
-	},
-	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/caravan-of-life.mp3',
 		oga:'#',
 		title:'caravan of life',
@@ -58,12 +47,12 @@ var myPlaylist = [
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/keep-on-loving-you.mp3',
 		oga:'#',
 		title:'keep on loving u',
-		artist:'Tokyo Square',
+		artist:'Faye Wong',
 		rating:5,
 		buy:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/keep-on-loving-you.mp3',
 		price:'0',
 		duration:'04:05',
-		cover:'https://i.pinimg.com/originals/6c/b4/d6/6cb4d68590171c43602382add6898e8f.jpg'
+		cover:'https://i.pinimg.com/originals/97/2d/7d/972d7deb41c9445db6a39974401057eb.jpg'
 	},
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/lonely.mp3',
@@ -251,5 +240,16 @@ var myPlaylist = [
 		price:'0',
 		duration:'02:21',
 		cover:'https://i.pinimg.com/originals/6c/b4/d6/6cb4d68590171c43602382add6898e8f.jpg'
+	},
+	{
+		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/broken-hearted-woman.mp3',
+		oga:'#',
+		title:'broken hearted woman',
+		artist:'Faye Wong',
+		rating:5,
+		buy:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/broken-hearted-woman.mp3',
+		price:'0',
+		duration:'05:18',
+		cover:'https://i.pinimg.com/originals/97/2d/7d/972d7deb41c9445db6a39974401057eb.jpg'
 	}
 ];
