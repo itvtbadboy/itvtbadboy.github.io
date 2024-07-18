@@ -190,7 +190,7 @@ var myPlaylist = [
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/tomorrow-will-come.mp3',
 		oga:'#',
 		title:'tomorrow will come',
-		artist:'Chinese Melody',
+		artist:'Trish Thùy Trang',
 		rating:5,
 		buy:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/tomorrow-will-come.mp3',
 		price:'0',
