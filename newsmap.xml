@@ -200,8 +200,20 @@
 				<news:language>vi</news:language>
 			</news:publication>
 			<news:publication_date>2024-07-18</news:publication_date>
-			<news:title>face to fate</news:title>
+			<news:title>tải nhạc</news:title>
 			<news:keywords>nhạc trẻ tuyển chọn</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-tuyen-chon-soundcloud.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-07-18</news:publication_date>
+			<news:title>soundcloud</news:title>
+			<news:keywords>nhạc hoa tuyển chọn</news:keywords>
 		</news:news>
 	</url>
 </urlset>
