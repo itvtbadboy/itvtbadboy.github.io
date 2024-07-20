@@ -228,4 +228,16 @@
 			<news:keywords>nhạc hòa tấu tuyển chọn</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-tau-tuyen-chon-youtube.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-07-20</news:publication_date>
+			<news:title>tải nhạc</news:title>
+			<news:keywords>nhạc quốc tế tuyển chọn</news:keywords>
+		</news:news>
+	</url>
 </urlset>
