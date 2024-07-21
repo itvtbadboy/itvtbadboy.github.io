@@ -252,4 +252,16 @@
 			<news:keywords>khai phong kỳ án 2012</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/itvtbadboy/dichvu/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-07-21</news:publication_date>
+			<news:title>dịch vụ</news:title>
+			<news:keywords>tiếp thị thương hiệu toàn cầu</news:keywords>
+		</news:news>
+	</url>
 </urlset>
