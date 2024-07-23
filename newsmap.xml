@@ -276,4 +276,16 @@
 			<news:keywords>làm đẹp thương hiệu toàn cầu</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/itvtbadboy/music/that-hiep-ngu-nghia-2010-bao-thanh-thien.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-07-23</news:publication_date>
+			<news:title>bao thanh thiên</news:title>
+			<news:keywords>thất hiệp ngũ nghĩa 2010</news:keywords>
+		</news:news>
+	</url>
 </urlset>
