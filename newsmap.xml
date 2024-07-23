@@ -288,4 +288,16 @@
 			<news:keywords>thất hiệp ngũ nghĩa 2010</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/itvtbadboy/music/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-07-23</news:publication_date>
+			<news:title>nhạc phim truyện</news:title>
+			<news:keywords>giải trí đa phương tiện di động</news:keywords>
+		</news:news>
+	</url>
 </urlset>
