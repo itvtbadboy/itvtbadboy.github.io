@@ -1,6 +1,3 @@
-import { favicons } from "image";
-const source = "badboy.ico";
-
 <img alt="itvtbadboy" src="https://wiki.thuongmai.blog/images/8/86/Cafe-itbadboy.jpg" width="100%" height="256px"/>
 
 ## itvtbadboy&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/pinterest.png "Pinterest")](https://www.pinterest.com/itvtbadboy/)&nbsp;&nbsp;&nbsp;[![itvtbadboy](https://www.itvtbadboy.io.vn/image/youtube.png "Youtube")](https://www.youtube.com/@thuongmaibrvt)
