@@ -5,7 +5,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa trương ngọc hữu: 1 thuở yêu người">1 thuở yêu người</a>',
 		artist:'Jacky Cheung',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:41',
 		cover:'https://i.pinimg.com/originals/8f/64/41/8f644187eeaf779543a2489abae6f681.jpg'
@@ -16,7 +16,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa lê minh: 7 viên kim cương">7 viên kim cương</a>',
 		artist:'Leon Lai',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'03:24',
 		cover:'https://i.pinimg.com/originals/6e/0f/be/6e0fbee64b0fffb69661f9ab87816aa3.jpg'
@@ -27,7 +27,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa cổ thiên lạc: cổ máy thời gian">cổ máy thời gian</a>',
 		artist:'Louis Koo',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'03:12',
 		cover:'https://i.pinimg.com/originals/65/e4/fa/65e4faf9e8624b7c4c787e0783df15d6.jpg'
@@ -38,7 +38,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: còn lại nỗi cô đơn">còn lại nỗi cô đơn</a>',
 		artist:'Andy Lau',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:35',
 		cover:'https://i.pinimg.com/originals/df/0d/fc/df0dfc2c020ac37d293b7b9d765de1ed.jpg'
@@ -49,7 +49,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa trần tuệ lâm: cuộc chơi vô nghĩa">cuộc chơi vô nghĩa</a>',
 		artist:'Kelly Chen',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:09',
 		cover:'https://i.pinimg.com/originals/c5/e6/93/c5e693bb265b90eebe8e8ba799e5e133.jpg'
@@ -60,7 +60,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: cuộc tình vạn dặm">cuộc tình vạn dặm</a>',
 		artist:'Andy Lau',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'03:48',
 		cover:'https://i.pinimg.com/originals/df/0d/fc/df0dfc2c020ac37d293b7b9d765de1ed.jpg'
@@ -71,7 +71,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa lâm chí huyền: dáng em">dáng em</a>',
 		artist:'Terry Lin',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:23',
 		cover:'https://i.pinimg.com/originals/47/ce/95/47ce95688bda81c74ff264791392f6ce.jpg'
@@ -82,7 +82,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa quách phú thành: dù có là người tình">dù có là người tình</a>',
 		artist:'Aaron Kwok',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'03:07',
 		cover:'https://i.pinimg.com/originals/c5/f5/35/c5f53501c9543d9f8e87e996d6b1889d.jpg'
@@ -93,7 +93,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa châu hoa kiện: đao kiếm như mộng">đao kiếm như mộng</a>',
 		artist:'Wakin Chau',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'03:01',
 		cover:'https://i.pinimg.com/originals/bd/96/9a/bd969a3c4238af327a131960d4b7e8da.jpg'
@@ -104,7 +104,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa vũ khải hiền: đau thương chỉ vì em">đau thương chỉ vì em</a>',
 		artist:'Eric Moo',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:14',
 		cover:'https://i.pinimg.com/originals/c6/1a/9f/c61a9f2afb7ac4d85724dfc4b4efe00b.jpg'
@@ -115,7 +115,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: em có yêu anh không">em có yêu anh không</a>',
 		artist:'Andy Lau',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'03:49',
 		cover:'https://i.pinimg.com/originals/df/0d/fc/df0dfc2c020ac37d293b7b9d765de1ed.jpg'
@@ -126,7 +126,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa chung hán lương: giang sơn tươi đẹp">giang sơn tươi đẹp</a>',
 		artist:'Wallace Chung',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'01:59',
 		cover:'https://i.pinimg.com/originals/ab/8f/f8/ab8ff8c69f77d8e05bb37311f415bef7.jpg'
@@ -137,7 +137,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa ngô khải hoa: gió mây chuyển sắc">gió mây chuyển sắc</a>',
 		artist:'Lawrence Ng',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'03:18',
 		cover:'https://i.pinimg.com/originals/61/e2/75/61e275d76bdbff8d364d3b0c404430a2.jpg'
@@ -148,7 +148,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa trương kiệt: hảo hán">hảo hán</a>',
 		artist:'Jason Zhang',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'03:52',
 		cover:'https://i.pinimg.com/originals/e5/ad/d0/e5add0e8e65a7a4cd4b3f28da18d11b8.jpg'
@@ -159,7 +159,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa trác y đình: hoa bằng lăng">hoa bằng lăng</a>',
 		artist:'Timi Zhuo',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'03:28',
 		cover:'https://i.pinimg.com/originals/8f/24/11/8f24112ea8cfb4ed63528cfe86b3af49.jpg'
@@ -170,7 +170,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: khi nào em mới biết">khi nào em mới biết</a>',
 		artist:'Andy Lau',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:39',
 		cover:'https://i.pinimg.com/originals/df/0d/fc/df0dfc2c020ac37d293b7b9d765de1ed.jpg'
@@ -181,7 +181,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa quách phú thành: khúc nhạc buồn">khúc nhạc buồn</a>',
 		artist:'Aaron Kwok',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:22',
 		cover:'https://i.pinimg.com/originals/c5/f5/35/c5f53501c9543d9f8e87e996d6b1889d.jpg'
@@ -192,7 +192,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa thái chánh tiêu: kiếp ve sầu">kiếp ve sầu</a>',
 		artist:'Samuel Tai',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'03:40',
 		cover:'https://i.pinimg.com/originals/25/36/0a/25360a7b92f4f9d20da9879ea1c9970a.jpg'
@@ -203,7 +203,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa châu hoa kiện: kinh khó niệm">kinh khó niệm</a>',
 		artist:'Wakin Chau',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:46',
 		cover:'https://i.pinimg.com/originals/bd/96/9a/bd969a3c4238af327a131960d4b7e8da.jpg'
@@ -214,7 +214,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa trương chấn nhạc: love first experiment">love first experiment</a>',
 		artist:'Chang Chen-yue',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:02',
 		cover:'https://i.pinimg.com/originals/e9/57/42/e95742d1d88da5e2c4827fa7396e109e.jpg'
@@ -225,7 +225,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa nhậm hiền tề: mềm lòng">mềm lòng</a>',
 		artist:'Richie Ren',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'05:54',
 		cover:'https://i.pinimg.com/originals/1e/fd/4b/1efd4b7d14dad2416209e20120a1360a.jpg'
@@ -236,7 +236,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa it vũng tàu badboy: minh nguyệt">minh nguyệt</a>',
 		artist:'it vũng tàu badboy',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:34',
 		cover:'https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg'
@@ -247,7 +247,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa diệp tịnh văn: mịt mù nỗi nhớ">mịt mù nỗi nhớ</a>',
 		artist:'Sally Yeh',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'03:52',
 		cover:'https://i.pinimg.com/originals/5c/fe/03/5cfe0318bde3b968720a7026e6c25959.jpg'
@@ -258,7 +258,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa diệp tịnh văn: moons heart">moons heart</a>',
 		artist:'Sally Yeh',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:28',
 		cover:'https://i.pinimg.com/originals/5c/fe/03/5cfe0318bde3b968720a7026e6c25959.jpg'
@@ -269,7 +269,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa châu hoa kiện: mộng đẹp ngày xưa">mộng đẹp ngày xưa</a>',
 		artist:'Wakin Chau',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'02:40',
 		cover:'https://i.pinimg.com/originals/bd/96/9a/bd969a3c4238af327a131960d4b7e8da.jpg'
@@ -280,7 +280,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa tôn lộ: mưa trên cuộc tình">mưa trên cuộc tình</a>',
 		artist:'Sun Lu',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:11',
 		cover:'https://i.pinimg.com/originals/24/45/0b/24450b943b11b41bfa69c1e6dc4e5c72.jpg'
@@ -291,7 +291,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa alex to: never meant to hurt you">never meant to hurt you</a>',
 		artist:'Alex To',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:55',
 		cover:'https://i.pinimg.com/originals/dd/10/95/dd109500809ca4f9e18486ab3e5135fb.jpg'
@@ -302,7 +302,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa trác y đình: ngàn năm tương phùng">ngàn năm tương phùng</a>',
 		artist:'Timi Zhuo',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:08',
 		cover:'https://i.pinimg.com/originals/8f/24/11/8f24112ea8cfb4ed63528cfe86b3af49.jpg'
@@ -313,7 +313,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: những lời dối gian">những lời dối gian</a>',
 		artist:'Andy Lau',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'02:34',
 		cover:'https://i.pinimg.com/originals/df/0d/fc/df0dfc2c020ac37d293b7b9d765de1ed.jpg'
@@ -324,7 +324,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa trương ngọc hữu: nụ hôn biệt ly">nụ hôn biệt ly</a>',
 		artist:'Jacky Cheung',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'05:03',
 		cover:'https://i.pinimg.com/originals/8f/64/41/8f644187eeaf779543a2489abae6f681.jpg'
@@ -335,7 +335,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa trác y đình: nụ hôn và nước mắt">nụ hôn và nước mắt</a>',
 		artist:'Timi Zhuo',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'05:13',
 		cover:'https://i.pinimg.com/originals/8f/24/11/8f24112ea8cfb4ed63528cfe86b3af49.jpg'
@@ -346,7 +346,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa diệp tịnh văn: nụ hồng mong manh">nụ hồng mong manh</a>',
 		artist:'Sally Yeh',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:41',
 		cover:'https://i.pinimg.com/originals/5c/fe/03/5cfe0318bde3b968720a7026e6c25959.jpg'
@@ -357,7 +357,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa quách phú thành: para para sakura">para para sakura</a>',
 		artist:'Aaron Kwok',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'03:55',
 		cover:'https://i.pinimg.com/originals/c5/f5/35/c5f53501c9543d9f8e87e996d6b1889d.jpg'
@@ -368,7 +368,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: phong ba tình đời">phong ba tình đời</a>',
 		artist:'Andy Lau',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'03:38',
 		cover:'https://i.pinimg.com/originals/df/0d/fc/df0dfc2c020ac37d293b7b9d765de1ed.jpg'
@@ -379,7 +379,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa nhậm hiền tề: remember">remember</a>',
 		artist:'Richie Ren',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'03:10',
 		cover:'https://i.pinimg.com/originals/1e/fd/4b/1efd4b7d14dad2416209e20120a1360a.jpg'
@@ -390,7 +390,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: sai lầm vẫn là anh">sai lầm vẫn là anh</a>',
 		artist:'Andy Lau',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:04',
 		cover:'https://i.pinimg.com/originals/df/0d/fc/df0dfc2c020ac37d293b7b9d765de1ed.jpg'
@@ -401,7 +401,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa nhậm hiền tề: sở lưu hương">sở lưu hương</a>',
 		artist:'Richie Ren',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:35',
 		cover:'https://i.pinimg.com/originals/1e/fd/4b/1efd4b7d14dad2416209e20120a1360a.jpg'
@@ -412,7 +412,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa it vũng tàu badboy: sunset">sunset</a>',
 		artist:'it vũng tàu badboy',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:34',
 		cover:'https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg'
@@ -423,7 +423,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: thầm gọi tên em">thầm gọi tên em</a>',
 		artist:'Andy Lau',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'08:31',
 		cover:'https://i.pinimg.com/originals/df/0d/fc/df0dfc2c020ac37d293b7b9d765de1ed.jpg'
@@ -434,7 +434,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa châu hoa kiện: thiên hạ hữu tình">thiên hạ hữu tình</a>',
 		artist:'Wakin Chau',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:14',
 		cover:'https://i.pinimg.com/originals/bd/96/9a/bd969a3c4238af327a131960d4b7e8da.jpg'
@@ -445,7 +445,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa it vũng tàu badboy: thiên nhai">thiên nhai</a>',
 		artist:'it vũng tàu badboy',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:34',
 		cover:'https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg'
@@ -456,7 +456,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa trác y đình: thinking is useless">thinking is useless</a>',
 		artist:'Timi Zhuo',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:13',
 		cover:'https://i.pinimg.com/originals/8f/24/11/8f24112ea8cfb4ed63528cfe86b3af49.jpg'
@@ -467,7 +467,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa trác y đình: tiễn bạn lên đường">tiễn bạn lên đường</a>',
 		artist:'Timi Zhuo',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:19',
 		cover:'https://i.pinimg.com/originals/8f/24/11/8f24112ea8cfb4ed63528cfe86b3af49.jpg'
@@ -478,7 +478,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa châu hoa kiện: tiếng sáo phiêu bồng">tiếng sáo phiêu bồng</a>',
 		artist:'Wakin Chau',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'03:19',
 		cover:'https://i.pinimg.com/originals/bd/96/9a/bd969a3c4238af327a131960d4b7e8da.jpg'
@@ -489,7 +489,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa nhậm hiền tề: tiếu ngạo giang hồ">tiếu ngạo giang hồ</a>',
 		artist:'Richie Ren',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:30',
 		cover:'https://i.pinimg.com/originals/1e/fd/4b/1efd4b7d14dad2416209e20120a1360a.jpg'
@@ -500,7 +500,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa trương ngọc hữu: tình đầu chưa nguôi">tình đầu chưa nguôi</a>',
 		artist:'Jacky Cheung',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:35',
 		cover:'https://i.pinimg.com/originals/8f/64/41/8f644187eeaf779543a2489abae6f681.jpg'
@@ -511,7 +511,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa trác y đình: tình đơn côi">tình đơn côi</a>',
 		artist:'Timi Zhuo',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:25',
 		cover:'https://i.pinimg.com/originals/8f/24/11/8f24112ea8cfb4ed63528cfe86b3af49.jpg'
@@ -522,7 +522,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa thái chánh tiêu: tình đơn phương">tình đơn phương</a>',
 		artist:'Samuel Tai',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:30',
 		cover:'https://i.pinimg.com/originals/25/36/0a/25360a7b92f4f9d20da9879ea1c9970a.jpg'
@@ -533,7 +533,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: tình nhạt phai">tình nhạt phai</a>',
 		artist:'Andy Lau',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'03:55',
 		cover:'https://i.pinimg.com/originals/df/0d/fc/df0dfc2c020ac37d293b7b9d765de1ed.jpg'
@@ -544,7 +544,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa trác y đình: tình như gió mưa">tình như gió mưa</a>',
 		artist:'Timi Zhuo',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:32',
 		cover:'https://i.pinimg.com/originals/8f/24/11/8f24112ea8cfb4ed63528cfe86b3af49.jpg'
@@ -555,7 +555,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa lê tư: tình sâu biển sâu">tình sâu biển sâu</a>',
 		artist:'Gigi Lai',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:53',
 		cover:'https://i.pinimg.com/originals/f1/73/80/f173806c55ec20b84fe30cb483cccb24.jpg'
@@ -566,7 +566,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa trịnh thiếu thu: tôi không tin">tôi không tin</a>',
 		artist:'Adam Cheng',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'03:23',
 		cover:'https://i.pinimg.com/originals/c5/00/ea/c500ea03b89235352a33ea295d43a6b3.jpg'
@@ -577,7 +577,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa lê minh: trở lại phố cũ">trở lại phố cũ</a>',
 		artist:'Leon Lai',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'05:00',
 		cover:'https://i.pinimg.com/originals/6e/0f/be/6e0fbee64b0fffb69661f9ab87816aa3.jpg'
@@ -588,7 +588,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa trương ngọc hữu: tương tư trong mưa">tương tư trong mưa</a>',
 		artist:'Jacky Cheung',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:03',
 		cover:'https://i.pinimg.com/originals/8f/64/41/8f644187eeaf779543a2489abae6f681.jpg'
@@ -599,7 +599,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa it vũng tàu badboy: tuyết sơn phi hồ">tuyết sơn phi hồ</a>',
 		artist:'it vũng tàu badboy',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:34',
 		cover:'https://i.pinimg.com/originals/8f/6c/39/8f6c39ddb80e3b2d911b24861382775a.jpg'
@@ -610,7 +610,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa châu hoa kiện: vầng trăng khóc">vầng trăng khóc</a>',
 		artist:'Wakin Chau',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'05:22',
 		cover:'https://i.pinimg.com/originals/bd/96/9a/bd969a3c4238af327a131960d4b7e8da.jpg'
@@ -621,7 +621,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: vết thương lòng">vết thương lòng</a>',
 		artist:'Andy Lau',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:22',
 		cover:'https://i.pinimg.com/originals/df/0d/fc/df0dfc2c020ac37d293b7b9d765de1ed.jpg'
@@ -632,7 +632,7 @@ var myPlaylist = [
 		title:'<a rel="tag" title="Top nhạc hoa trịnh thiếu thu: vì 1 người ra đi">vì 1 người ra đi</a>',
 		artist:'Adam Cheng',
 		rating:5,
-		buy:'https://www.itvtbadboy.com/nhac-chon-loc/top-1-thoi-nhac-hoa.html',
+		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
 		duration:'04:27',
 		cover:'https://i.pinimg.com/originals/c5/00/ea/c500ea03b89235352a33ea295d43a6b3.jpg'
