@@ -2,7 +2,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/1_thu%E1%BB%9F_y%C3%AAu_ng%C6%B0%E1%BB%9Di.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa trương ngọc hữu: 1 thuở yêu người">1 thuở yêu người</a>',
+		title:'1 thuở yêu người',
 		artist:'Jacky Cheung',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -13,7 +13,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/opportunity_dark_as_possible.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa lê minh: 7 viên kim cương">7 viên kim cương</a>',
+		title:'7 viên kim cương',
 		artist:'Leon Lai',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -24,7 +24,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/c%E1%BB%95_m%C3%A1y_th%E1%BB%9Di_gian.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa cổ thiên lạc: cổ máy thời gian">cổ máy thời gian</a>',
+		title:'cổ máy thời gian',
 		artist:'Louis Koo',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -35,7 +35,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/c%C3%B2n_l%E1%BA%A1i_n%E1%BB%97i_c%C3%B4_%C4%91%C6%A1n.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: còn lại nỗi cô đơn">còn lại nỗi cô đơn</a>',
+		title:'còn lại nỗi cô đơn',
 		artist:'Andy Lau',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -46,7 +46,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/cu%E1%BB%99c_ch%C6%A1i_v%C3%B4_ngh%C4%A9a.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa trần tuệ lâm: cuộc chơi vô nghĩa">cuộc chơi vô nghĩa</a>',
+		title:'cuộc chơi vô nghĩa',
 		artist:'Kelly Chen',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -57,7 +57,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/cu%E1%BB%99c_t%C3%ACnh_v%E1%BA%A1n_d%E1%BA%B7m.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: cuộc tình vạn dặm">cuộc tình vạn dặm</a>',
+		title:'cuộc tình vạn dặm',
 		artist:'Andy Lau',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -68,7 +68,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/d%C3%A1ng_em.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa lâm chí huyền: dáng em">dáng em</a>',
+		title:'dáng em',
 		artist:'Terry Lin',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -79,7 +79,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/d%C3%B9_c%C3%B3_l%C3%A0_ng%C6%B0%E1%BB%9Di_t%C3%ACnh.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa quách phú thành: dù có là người tình">dù có là người tình</a>',
+		title:'dù có là người tình',
 		artist:'Aaron Kwok',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -90,7 +90,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/%C4%91ao_ki%E1%BA%BFm_nh%C6%B0_m%E1%BB%99ng.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa châu hoa kiện: đao kiếm như mộng">đao kiếm như mộng</a>',
+		title:'đao kiếm như mộng',
 		artist:'Wakin Chau',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -101,7 +101,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/%C4%91au-th%C6%B0%C6%A1ng-v%C3%AC-em.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa vũ khải hiền: đau thương chỉ vì em">đau thương chỉ vì em</a>',
+		title:'đau thương chỉ vì em',
 		artist:'Eric Moo',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -112,7 +112,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/em_c%C3%B3_y%C3%AAu_anh_kh%C3%B4ng.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: em có yêu anh không">em có yêu anh không</a>',
+		title:'em có yêu anh không',
 		artist:'Andy Lau',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -123,7 +123,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/thi%C3%AAn_long_b%C3%A1t_b%E1%BB%99.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa chung hán lương: giang sơn tươi đẹp">giang sơn tươi đẹp</a>',
+		title:'giang sơn tươi đẹp',
 		artist:'Wallace Chung',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -134,7 +134,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/thanh_ki%E1%BA%BFm_%C4%91%E1%BB%93_long.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa ngô khải hoa: gió mây chuyển sắc">gió mây chuyển sắc</a>',
+		title:'gió mây chuyển sắc',
 		artist:'Lawrence Ng',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -145,7 +145,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/hao-han-truong-kiet.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa trương kiệt: hảo hán">hảo hán</a>',
+		title:'hảo hán',
 		artist:'Jason Zhang',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -156,7 +156,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/hoa_b%E1%BA%B1ng_l%C4%83ng.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa trác y đình: hoa bằng lăng">hoa bằng lăng</a>',
+		title:'hoa bằng lăng',
 		artist:'Timi Zhuo',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -167,7 +167,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/khi_n%C3%A0o_em_m%E1%BB%9Bi_bi%E1%BA%BFt.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: khi nào em mới biết">khi nào em mới biết</a>',
+		title:'khi nào em mới biết',
 		artist:'Andy Lau',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -178,7 +178,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/kh%C3%BAc_nh%E1%BA%A1c_bu%E1%BB%93n.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa quách phú thành: khúc nhạc buồn">khúc nhạc buồn</a>',
+		title:'khúc nhạc buồn',
 		artist:'Aaron Kwok',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -189,7 +189,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/ki%E1%BA%BFp_ve_s%E1%BA%A7u.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa thái chánh tiêu: kiếp ve sầu">kiếp ve sầu</a>',
+		title:'kiếp ve sầu',
 		artist:'Samuel Tai',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -200,7 +200,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/kinh_kh%C3%B3_ni%E1%BB%87m.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa châu hoa kiện: kinh khó niệm">kinh khó niệm</a>',
+		title:'kinh khó niệm',
 		artist:'Wakin Chau',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -211,7 +211,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/loves_first_experiment.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa trương chấn nhạc: love first experiment">love first experiment</a>',
+		title:'love first experiment',
 		artist:'Chang Chen-yue',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -222,7 +222,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/m%E1%BB%81m_l%C3%B2ng.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa nhậm hiền tề: mềm lòng">mềm lòng</a>',
+		title:'mềm lòng',
 		artist:'Richie Ren',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -266,7 +266,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/m%E1%BB%99ng_%C4%91%E1%BA%B9p_ng%C3%A0y_x%C6%B0a.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa châu hoa kiện: mộng đẹp ngày xưa">mộng đẹp ngày xưa</a>',
+		title:'mộng đẹp ngày xưa',
 		artist:'Wakin Chau',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -299,7 +299,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/ng%C3%A0n_5_t%C6%B0%C6%A1ng_ph%C3%B9ng.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa trác y đình: ngàn năm tương phùng">ngàn năm tương phùng</a>',
+		title:'ngàn năm tương phùng',
 		artist:'Timi Zhuo',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -310,7 +310,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/nh%E1%BB%AFng_l%E1%BB%9Di_d%E1%BB%91i_gian.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: những lời dối gian">những lời dối gian</a>',
+		title:'những lời dối gian',
 		artist:'Andy Lau',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -321,7 +321,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/n%E1%BB%A5_h%C3%B4n_bi%E1%BB%87t_ly.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa trương ngọc hữu: nụ hôn biệt ly">nụ hôn biệt ly</a>',
+		title:'nụ hôn biệt ly',
 		artist:'Jacky Cheung',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -332,7 +332,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/n%E1%BB%A5_h%C3%B4n_v%C3%A0_n%C6%B0%E1%BB%9Bc_m%E1%BA%AFt.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa trác y đình: nụ hôn và nước mắt">nụ hôn và nước mắt</a>',
+		title:'nụ hôn và nước mắt',
 		artist:'Timi Zhuo',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -354,7 +354,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/para_para_sakura.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa quách phú thành: para para sakura">para para sakura</a>',
+		title:'para para sakura',
 		artist:'Aaron Kwok',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -365,7 +365,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/phong_3_t%C3%ACnh_%C4%91%E1%BB%9Di.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: phong ba tình đời">phong ba tình đời</a>',
+		title:'phong ba tình đời',
 		artist:'Andy Lau',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -376,7 +376,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/remember.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa nhậm hiền tề: remember">remember</a>',
+		title:'remember',
 		artist:'Richie Ren',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -387,7 +387,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/sai_l%E1%BA%A7m_v%E1%BA%ABn_l%C3%A0_anh.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: sai lầm vẫn là anh">sai lầm vẫn là anh</a>',
+		title:'sai lầm vẫn là anh',
 		artist:'Andy Lau',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -398,7 +398,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/t%C3%A2n_s%E1%BB%9F_l%C6%B0u_h%C6%B0%C6%A1ng.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa nhậm hiền tề: sở lưu hương">sở lưu hương</a>',
+		title:'sở lưu hương',
 		artist:'Richie Ren',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -420,7 +420,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/th%E1%BA%A7m_g%E1%BB%8Di_t%C3%AAn_em.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: thầm gọi tên em">thầm gọi tên em</a>',
+		title:'thầm gọi tên em',
 		artist:'Andy Lau',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -431,7 +431,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/th%E1%BA%A7n_%C4%91i%C3%AAu_95.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa châu hoa kiện: thiên hạ hữu tình">thiên hạ hữu tình</a>',
+		title:'thiên hạ hữu tình',
 		artist:'Wakin Chau',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -453,7 +453,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/thinking_is_useless.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa trác y đình: thinking is useless">thinking is useless</a>',
+		title:'thinking is useless',
 		artist:'Timi Zhuo',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -464,7 +464,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/ti%E1%BB%85n_b%E1%BA%A1n_l%C3%AAn_%C4%91%C6%B0%E1%BB%9Dng.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa trác y đình: tiễn bạn lên đường">tiễn bạn lên đường</a>',
+		title:'tiễn bạn lên đường',
 		artist:'Timi Zhuo',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -475,7 +475,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/ti%E1%BA%BFng_s%C3%A1o_phi%C3%AAu_b%E1%BB%93ng.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa châu hoa kiện: tiếng sáo phiêu bồng">tiếng sáo phiêu bồng</a>',
+		title:'tiếng sáo phiêu bồng',
 		artist:'Wakin Chau',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -486,7 +486,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/ti%E1%BA%BFu_ng%E1%BA%A1o_giang_h%E1%BB%93.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa nhậm hiền tề: tiếu ngạo giang hồ">tiếu ngạo giang hồ</a>',
+		title:'tiếu ngạo giang hồ',
 		artist:'Richie Ren',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -497,7 +497,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/t%C3%ACnh_%C4%91%E1%BA%A7u_ch%C6%B0a_ngu%C3%B4i.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa trương ngọc hữu: tình đầu chưa nguôi">tình đầu chưa nguôi</a>',
+		title:'tình đầu chưa nguôi',
 		artist:'Jacky Cheung',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -508,7 +508,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/t%C3%ACnh_%C4%91%C6%A1n_c%C3%B4i.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa trác y đình: tình đơn côi">tình đơn côi</a>',
+		title:'tình đơn côi',
 		artist:'Timi Zhuo',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -519,7 +519,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/heart_wants_you_to_hear.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa thái chánh tiêu: tình đơn phương">tình đơn phương</a>',
+		title:'tình đơn phương',
 		artist:'Samuel Tai',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -530,7 +530,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/t%C3%ACnh_nh%E1%BA%A1t_phai.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: tình nhạt phai">tình nhạt phai</a>',
+		title:'tình nhạt phai',
 		artist:'Andy Lau',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -541,7 +541,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/t%C3%ACnh_nh%C6%B0_gi%C3%B3_nh%C6%B0_m%C6%B0a.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa trác y đình: tình như gió mưa">tình như gió mưa</a>',
+		title:'tình như gió mưa',
 		artist:'Timi Zhuo',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -552,7 +552,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/t%C3%ACnh_s%C3%A2u_bi%E1%BB%83n_c%C3%A0ng_s%C3%A2u.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa lê tư: tình sâu biển sâu">tình sâu biển sâu</a>',
+		title:'tình sâu biển sâu',
 		artist:'Gigi Lai',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -563,7 +563,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/t%C3%B4i_kh%C3%B4ng_tin.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa trịnh thiếu thu: tôi không tin">tôi không tin</a>',
+		title:'tôi không tin',
 		artist:'Adam Cheng',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -574,7 +574,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/tr%E1%BB%9F_l%E1%BA%A1i_ph%E1%BB%91_c%C5%A9.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa lê minh: trở lại phố cũ">trở lại phố cũ</a>',
+		title:'trở lại phố cũ',
 		artist:'Leon Lai',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -585,7 +585,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/t%C6%B0%C6%A1ng_t%C6%B0_trong_m%C6%B0a.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa trương ngọc hữu: tương tư trong mưa">tương tư trong mưa</a>',
+		title:'tương tư trong mưa',
 		artist:'Jacky Cheung',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -596,8 +596,8 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/tuy%E1%BA%BFt_s%C6%A1n_phi_h%E1%BB%93.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa it vũng tàu badboy: tuyết sơn phi hồ">tuyết sơn phi hồ</a>',
-		artist:'it vũng tàu badboy',
+		title:'tuyết sơn phi hồ',
+		artist:'itvtbadboy',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
 		price:'0',
@@ -607,7 +607,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/v%E1%BA%A7ng_tr%C4%83ng_kh%C3%B3c.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa châu hoa kiện: vầng trăng khóc">vầng trăng khóc</a>',
+		title:'vầng trăng khóc',
 		artist:'Wakin Chau',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -618,7 +618,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/v%E1%BA%BFt_th%C6%B0%C6%A1ng_l%C3%B2ng.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa lưu đức hoa: vết thương lòng">vết thương lòng</a>',
+		title:'vết thương lòng',
 		artist:'Andy Lau',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
@@ -629,7 +629,7 @@ var myPlaylist = [
 	{
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/v%C3%AC_1_ng%C6%B0%E1%BB%9Di_ra_%C4%91i.mp3',
 		oga:'#',
-		title:'<a rel="tag" title="Top nhạc hoa trịnh thiếu thu: vì 1 người ra đi">vì 1 người ra đi</a>',
+		title:'vì 1 người ra đi',
 		artist:'Adam Cheng',
 		rating:5,
 		buy:'https://www.itvtbadboy.io.vn/itvtbadboy/music/nhac-hoa-chon-loc-bat-hu.html',
