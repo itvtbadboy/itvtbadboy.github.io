@@ -542,7 +542,7 @@ var myPlaylist = [
 		mp3:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/vietnam/xin_1_l%E1%BA%A7n_%C4%91%C6%B0%E1%BB%A3c_y%C3%AAu.mp3',
 		oga:'https://commons.wikimedia.org/wiki/User:D%C6%B0%C6%A1ng_Th%C3%A0nh_Kh%C6%B0%C6%A1ng',
 		title:'xin 1 lần được yêu',
-		artist:'itvtbadboy',
+		artist:'Vân Quang Long',
 		rating:5,
 		buy:'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/vietnam/xin_1_l%E1%BA%A7n_%C4%91%C6%B0%E1%BB%A3c_y%C3%AAu.mp3',
 		price:'0',
