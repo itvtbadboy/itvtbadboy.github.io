@@ -312,4 +312,16 @@
 			<news:keywords>phong cách áo quần váy đầm vớ</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/itvtbadboy/phatphap/thu-an-thien-dinh.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2024-09-06</news:publication_date>
+			<news:title>phật pháp</news:title>
+			<news:keywords>thủ ấn thiền định</news:keywords>
+		</news:news>
+	</url>
 </urlset>
