@@ -20,7 +20,7 @@
 > AMD-V 32-core 1996MHz.<br/>
 > <a href="https://wiki.thuongmai.blog/" title="itvtbadboy" target="_blank">bách khoa</a> tri thức v1.39.6.<br/>
 > máy chủ apache cân bằng.<br/>
-> <a href="https://wiki.thuongmai.blog/amp/thuong-mai-di-dong.amp.html" title="itvtbadboy" target="_blank">di động</a> top news amp dev.
+> <a href="https://www.itvtbadboy.io.vn/itvtbadboy/" title="itvtbadboy" target="_blank">di động</a> top news amp dev.
 
 <div style="padding-top: 30px; padding-bottom: 30px;"></div>
 
