@@ -24,4 +24,52 @@
 			<news:keywords>Giải trí nhạc phim</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/giai-tri/nhac-hoa-chon-loc.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Nhạc hoa chọn lọc</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-05-18</news:publication_date>
+			<news:title>Khương Itvtbadboy sưu tầm</news:title>
+			<news:keywords>Nhạc hoa chọn lọc</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/giai-tri/nhac-hoa-tau-chon-loc.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Nhạc hòa tấu chọn lọc</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-05-18</news:publication_date>
+			<news:title>Khương Itvtbadboy sưu tầm</news:title>
+			<news:keywords>Nhạc hòa tấu chọn lọc</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/giai-tri/nhac-quoc-te-chon-loc.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Nhạc quốc tế chọn lọc</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-05-18</news:publication_date>
+			<news:title>Khương Itvtbadboy sưu tầm</news:title>
+			<news:keywords>Nhạc quốc tế chọn lọc</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/giai-tri/nhac-tre-chon-loc.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Nhạc trẻ chọn lọc</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-05-18</news:publication_date>
+			<news:title>Khương Itvtbadboy sưu tầm</news:title>
+			<news:keywords>Nhạc trẻ chọn lọc</news:keywords>
+		</news:news>
+	</url>
 </urlset>
