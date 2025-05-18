@@ -72,4 +72,16 @@
 			<news:keywords>Nhạc trẻ chọn lọc</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/giai-tri/bo-y-than-tuong.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Bố y thần tướng</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-05-18</news:publication_date>
+			<news:title>Lâm Văn Long Lâm Phong Dương Di và Lý Thi Vận</news:title>
+			<news:keywords>Bố y thần tướng</news:keywords>
+		</news:news>
+	</url>
 </urlset>
