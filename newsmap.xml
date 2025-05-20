@@ -84,4 +84,16 @@
 			<news:keywords>Bố y thần tướng</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/giai-tri/khai-phong-ky-an.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Khai phong kỳ án</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-05-20</news:publication_date>
+			<news:title>Kim Siêu Quần Hà Gia Kính Phạm Hồng Hiên và Vương Sa Sa</news:title>
+			<news:keywords>Khai phong kỳ án</news:keywords>
+		</news:news>
+	</url>
 </urlset>
