@@ -96,4 +96,16 @@
 			<news:keywords>Khai phong kỳ án</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/thoi-trang/do-lot-lot-khe-satin.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Đồ lót lọt khe satin</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-05-22</news:publication_date>
+			<news:title>Đồ lót lọt khe satin bóng phong cách WangYuChun</news:title>
+			<news:keywords>Đồ lót lọt khe satin</news:keywords>
+		</news:news>
+	</url>
 </urlset>
