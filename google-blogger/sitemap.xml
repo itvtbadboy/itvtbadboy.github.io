@@ -1,16 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://blog.itvtbadboy.io.vn/</loc><lastmod>2025-05-20</lastmod></url>
-  <url><loc>https://blog.itvtbadboy.io.vn/2025/05/bo-y-than-tuong-phim-bo.html</loc><lastmod>2025-05-19</lastmod></url>
-  <url><loc>https://blog.itvtbadboy.io.vn/2025/05/khai-phong-ky-an-phim-bo.html</loc><lastmod>2025-05-19</lastmod></url>
-  <url><loc>https://blog.itvtbadboy.io.vn/2025/05/nhac-tre-chon-loc.html</loc><lastmod>2025-05-20</lastmod></url>
-  <url><loc>https://blog.itvtbadboy.io.vn/2025/05/nhac-hoa-chon-loc.html</loc><lastmod>2025-05-21</lastmod></url>
-  <url><loc>https://blog.itvtbadboy.io.vn/2025/05/nhac-quoc-te-chon-loc.html</loc><lastmod>2025-05-21</lastmod></url>
-  <url><loc>https://blog.itvtbadboy.io.vn/2025/05/nhac-hoa-tau-chon-loc.html</loc><lastmod>2025-05-21</lastmod></url>
-  <url><loc>https://blog.itvtbadboy.io.vn/2025/05/do-lot-lot-khe-satin.html</loc><lastmod>2025-05-21</lastmod></url>
-  <url><loc>https://blog.itvtbadboy.io.vn/2025/05/do-lot-thun-lot-khe.html</loc><lastmod>2025-05-21</lastmod></url>
-  <url><loc>https://blog.itvtbadboy.io.vn/2025/05/do-lot-lot-khe-trong-suot.html</loc><lastmod>2025-05-22</lastmod></url>
-  <url><loc>https://blog.itvtbadboy.io.vn/2025/05/do-lot-thun-co-dien.html</loc><lastmod>2025-05-22</lastmod></url>
-  <url><loc>https://blog.itvtbadboy.io.vn/2025/05/do-lot-luoi-trong-suot.html</loc><lastmod>2025-05-22</lastmod></url>
-  <url><loc>https://blog.itvtbadboy.io.vn/2025/05/do-lot-hai-day-lot-khe.html</loc><lastmod>2025-05-22</lastmod></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+	<url>
+		<loc>https://blog.itvtbadboy.io.vn/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Khương Itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-05-20</news:publication_date>
+			<news:title>Khương Itvtbadboy</news:title>
+			<news:keywords>Thời trang áo dài bà ba áo khoác quần tây jean short vớ da váy ngắn đầm ngủ dạ hội đồ lót ngủ legging bodysuit</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://blog.itvtbadboy.io.vn/2025/05/bo-y-than-tuong-phim-bo.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Khương Itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-05-19</news:publication_date>
+			<news:title>Bố y thần tướng</news:title>
+			<news:keywords>Phim bố y thần tướng kể về 4 cuộc đời thầy coi tướng Lý Bố Y, thần y Lại Dược Nhi, nữ thiếu chủ Diệp Mộng Sắc</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://blog.itvtbadboy.io.vn/2025/05/khai-phong-ky-an-phim-bo.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Khương Itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-05-19</news:publication_date>
+			<news:title>Khai phong kỳ án</news:title>
+			<news:keywords>Phim khai phong kỳ án kể về 6 vụ án hồng châu di hận, kim ngọc minh, thất anh ký, hiệu hương lầu, tam đóa kim hoa</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://blog.itvtbadboy.io.vn/2025/05/nhac-tre-chon-loc.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Khương Itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-05-20</news:publication_date>
+			<news:title>Nhạc trẻ chọn lọc</news:title>
+			<news:keywords>Nhạc trẻ chọn lọc xin một lần được yêu, tình mãi bên anh, tiếng sáo phiêu bồng, sai lầm vẫn là anh, quên một lời thề</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://blog.itvtbadboy.io.vn/2025/05/nhac-hoa-chon-loc.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Khương Itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-05-20</news:publication_date>
+			<news:title>Nhạc hoa chọn lọc</news:title>
+			<news:keywords>Nhạc hoa chọn lọc bảy viên kim cương, sai lầm vẫn là anh, cuộc chơi vô nghĩa, đao kiếm như mộng</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://blog.itvtbadboy.io.vn/2025/05/nhac-quoc-te-chon-loc.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Khương Itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-05-21</news:publication_date>
+			<news:title>Nhạc quốc tế chọn lọc</news:title>
+			<news:keywords>Nhạc quốc tế chọn lọc circle in the sand, iam so in love with you, moon light, no face no name no number</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://blog.itvtbadboy.io.vn/2025/05/nhac-hoa-tau-chon-loc.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Khương Itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-05-21</news:publication_date>
+			<news:title>Nhạc hòa tấu chọn lọc</news:title>
+			<news:keywords>Nhạc hòa tấu chọn lọc đôi bướm bay lượn, endless love, giấc mơ một cuộc tình, không tên, lỗi lầm đã qua</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://blog.itvtbadboy.io.vn/2025/05/do-lot-lot-khe-satin.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Khương Itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-05-21</news:publication_date>
+			<news:title>Đồ lót lọt khe satin</news:title>
+			<news:keywords>Đồ lót lọt khe satin thiết kế eo mảnh nhỏ</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://blog.itvtbadboy.io.vn/2025/05/do-lot-thun-lot-khe.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Khương Itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-05-21</news:publication_date>
+			<news:title>Đồ lót thun lọt khe</news:title>
+			<news:keywords>Đồ lót thun lọt khe thiết kế eo 2 dây mảnh</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://blog.itvtbadboy.io.vn/2025/05/do-lot-lot-khe-trong-suot.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Khương Itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-05-22</news:publication_date>
+			<news:title>Đồ lót lọt khe trong suốt</news:title>
+			<news:keywords>Đồ lót lọt khe trong suốt thiết kế eo ren mảnh</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://blog.itvtbadboy.io.vn/2025/05/do-lot-thun-co-dien.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Khương Itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-05-22</news:publication_date>
+			<news:title>Đồ lót thun cổ điển</news:title>
+			<news:keywords>Đồ lót thun cổ điển thiết kế eo 2 mảnh</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://blog.itvtbadboy.io.vn/2025/05/do-lot-luoi-trong-suot.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Khương Itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-05-22</news:publication_date>
+			<news:title>Đồ lót lưới trong suốt</news:title>
+			<news:keywords>Đồ lót lưới trong suốt thiết kế eo mảnh nhỏ</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://blog.itvtbadboy.io.vn/2025/05/do-lot-hai-day-lot-khe.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Khương Itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-05-22</news:publication_date>
+			<news:title>Đồ lót hai dây lọt khe</news:title>
+			<news:keywords>Đồ lót hai dây lọt khe thiết kế eo 2 dây</news:keywords>
+		</news:news>
+	</url>
 </urlset>
