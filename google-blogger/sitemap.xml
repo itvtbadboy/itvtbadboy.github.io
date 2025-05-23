@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 	<url>
+		<loc>https://blog.itvtbadboy.io.vn/2025/05/ao-dam-satin-tre-vai.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Khương Itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-05-23</news:publication_date>
+			<news:title>Áo đầm satin trễ vai</news:title>
+			<news:keywords>Áo đầm satin trễ vai thiết kế vai trần xinh tươi</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://blog.itvtbadboy.io.vn/2025/05/quan-bo-gia-kaki.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Khương Itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-05-23</news:publication_date>
+			<news:title>Quần bó giả kaki</news:title>
+			<news:keywords>Quần bó giả kaki thiết kế eo thon mịn</news:keywords>
+		</news:news>
+	</url>
+	<url>
 		<loc>https://blog.itvtbadboy.io.vn/</loc>
 		<news:news>
 			<news:publication>
