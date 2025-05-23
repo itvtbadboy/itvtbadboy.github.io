@@ -1,5 +1,8 @@
 div.gallery {
+  margin: 5px;
   border: 1px solid #ccc;
+  float: left;
+  width: 180px;
 }
 
 div.gallery:hover {
@@ -14,10 +17,6 @@ div.gallery img {
 div.desc {
   padding: 15px;
   text-align: center;
-}
-
-* {
-  box-sizing: border-box;
 }
 
 .clearfix:after {
