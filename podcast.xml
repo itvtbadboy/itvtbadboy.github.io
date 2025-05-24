@@ -5,7 +5,7 @@
 	<generator>Github</generator>
 	<copyright>itvtbadboy</copyright>
 
-	<lastBuildDate>Sat, 24 May 2025 11:39:23 GMT+7</lastBuildDate>
+	<lastBuildDate>Sat, 24 May 2025 17:24:23 GMT+7</lastBuildDate>
 	<title>Khương Itvtbadboy</title>
 	<description>Lập trình tối ưu hiệu ứng tiềm năng từ khóa thời trang dịch vụ và bảo mật thương hiệu Khương Itvtbadboy</description>
 	<language>vi-VN</language>
@@ -15,6 +15,15 @@
 	<itunes:author>itvtbadboy</itunes:author>
 	<itunes:image href="https://www.itvtbadboy.io.vn/image/itvtbadboy.jpg"/>
 
+	<item>
+		<pubDate>Sat, 24 May 2025 17:24:23 GMT+7</pubDate>
+		<title>Thị hiếu thời trang</title>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/doctor-jones.mp3" type="audio/mpeg"/>
+		<guid isPermaLink="true">thi-hieu-thoi-trang.html</guid>
+		<description>
+			<![CDATA[<p><a href="https://www.itvtbadboy.io.vn/tiep-thi/thi-hieu-thoi-trang.html">Thị hiếu thời trang</a> trẻ là năng lực thẩm mỹ sở thích của tuổi trẻ khi đánh giá phong cách thời trang như 1 hiện tượng xã hội lịch sử kết hợp biện chứng trong bản thân về những yếu tố mang tính dân tộc giai cấp nhân loại</p>]]>
+		</description>
+	</item>
 	<item>
 		<pubDate>Sat, 24 May 2025 16:12:23 GMT+7</pubDate>
 		<title>Trị viêm khớp bằng mắc cỡ</title>
