@@ -1,0 +1,40 @@
+<div class="w3-content" style="max-width:1200px">
+	<img class="mySlides" src="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/hinh/My-pham.jpg" style="width:100%">
+	<img class="mySlides" src="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/hinh/My-pham-hoa-trang.jpg" style="width:100%;display:none">
+	<img class="mySlides" src="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/hinh/My-pham-duong-da.jpg" style="width:100%;display:none">
+
+	<div class="w3-row-padding w3-section">
+		<div class="w3-col s4">
+			<img class="demo w3-opacity w3-hover-opacity-off" src="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/hinh/My-pham.jpg" style="width:100%;cursor:pointer" onclick="currentDiv(1)">
+		</div>
+		<div class="w3-col s4">
+			<img class="demo w3-opacity w3-hover-opacity-off" src="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/hinh/My-pham-hoa-trang.jpg" style="width:100%;cursor:pointer" onclick="currentDiv(2)">
+		</div>
+		<div class="w3-col s4">
+			<img class="demo w3-opacity w3-hover-opacity-off" src="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/hinh/My-pham-duong-da.jpg" style="width:100%;cursor:pointer" onclick="currentDiv(3)">
+		</div>
+	</div>
+</div>
+
+<div style="font-size: 17px; font-family: Roboto;">
+	<div id="sanphamhoatrang">
+		<h2 style="display: block; text-align: left; font-weight: 600; font-size: 22px;">Sản phẩm hóa trang</h2>
+		<hr style="margin-top: -15px;"></hr>
+		<p>Sản phẩm hóa trang đề cập chủ yếu đến mỹ phẩm chứa sắc tố sử dụng bên ngoài nhằm thay đổi diện mạo phụ nữ bao gồm không giới hạn sản phẩm có thể thoa dành cho mặt cơ thể móng tóc như kem dưỡng da son môi phấn phủ khăn mặt kính áp tròng màu lăn khử mùi sữa dưỡng thể phấn thoa nước hoa dầu tắm bọt tắm muối tắm bơ dưỡng thể sơn móng dung dịch rửa tay khô nhuộm tóc xịt tóc gel vuốt tóc.</p>
+		<p>Sản phẩm hóa trang da là dùng kem lót mỹ phẩm làm giảm diện mạo kích thước lỗ chân lông kéo dài độ bền lớp trang điểm cho phép ứng dụng trang điểm mượt hơn, kem lót cải thiện vùng phủ giúp tạo lớp màng mỏng bảo vệ da ngăn cách da với các loại mỹ phẩm khi sử dụng như kem nền phấn phủ, kem lót được ví như một lớp mặt nạ mỏng bảo vệ da khỏi những tác động từ môi trường hay các loại mỹ phẩm bám trên da giúp chúng được lâu trôi hơn khi trang điểm.</p>
+		<p>Sản phẩm hóa trang môi là dùng son môi mỹ phẩm tăng màu sắc kết cấu cho đôi môi, son môi đổi màu chứa nước hay gel lót giúp mỹ phẩm lưu lại màu mờ thường đi kèm với cọ trang điểm bút bi, son môi bóng được thiết kế để tăng độ sáng cho đôi môi có thể thêm một chút màu sắc cũng như mùi thơm hương vị, sáp dưỡng môi được dùng để làm ẩm nhuộm màu và bảo vệ môi.</p>
+		<p>Sản phẩm hóa trang da là dùng nhiều loại mỹ phẩm khác nhau như kem che khuyết điểm kem nền phấn phủ phấn má hồng che phủ dấu vết không hoàn hảo trên da, làm phẳng khuôn mặt che phủ mụn trứng cá vết bẩn màu da không đồng đều, làm da mờ che giấu vết sần vết thâm nhỏ, tạo màu trên gò má khiến xương gò má nổi bật hơn.</p>
+		<p>Sản phẩm hóa trang mắt là dùng mascara phấn mắt bút kẻ mắt làm mi sẫm màu kéo dài tăng bề dày thu hút chú ý đến lông mi, tân trang vùng mắt thông thường ở trên và dưới mí mắt, trang điểm kéo dài kích thước diện mạo chiều sâu của mắt, tạo màu sắc điền kín định hình lông mày.</p>
+		<p>Sản phẩm hóa trang móng là dùng sơn móng tô nhuộm màu cho móng tay móng chân kiểu trong suốt không màu có thể kiên cố lớp đánh bóng hay bảo vệ móng, công thức đã được sửa đổi nhiều lần để tăng cường hiệu ứng trang trí và hạn chế nứt bong tróc, sơn móng bao gồm một hỗn hợp polyme hữu cơ cùng vài thành phần khác tạo nên màu sắc kết cấu độc đáo.</p>
+	</div>
+
+	<div id="sanphamduongda">
+		<h2 style="display: block; text-align: left; font-weight: 600; font-size: 22px;">Sản phẩm dưỡng da</h2>
+		<hr style="margin-top: -15px;"></hr>
+		<p>Sản phẩm dưỡng da yêu cầu mỹ phẩm phải có tính năng tẩy sạch là một bước tiêu chuẩn trong quy trình chăm sóc da bao gồm nước cân bằng da mặt nạ dưỡng da tẩy da chết và kem dưỡng ẩm, nước cân bằng da làm trong sạch tăng cường diện mạo loại bỏ bất kỳ dấu vết nào của sữa rửa mặt mặt nạ trang điểm khôi phục lại độ pH tự nhiên của da, mặt nạ dưỡng da là phương pháp dưỡng áp lên cho da sau đó gỡ bỏ, tẩy da chết là sản phẩm giúp tẩy tế bào chết da chết khô để cải thiện diện mạo làn da, kem dưỡng ẩm là các loại kem giúp da giữ ẩm.</p>
+		<p>Sản phẩm dưỡng da với nước cân bằng dạng lỏng có chức năng tẩy sạch bụi bẩn tại vùng da mà sữa rửa mặt không rửa sạch hết, loại bỏ bã nhờn giúp da dễ hấp thu dưỡng chất từ kem dưỡng ẩm tốt hơn đồng thời ngăn ngừa mụn se khít lỗ chân lông hạn chế nguy cơ da bị hủy hoại do môi trường cân bằng độ pH cho da.</p>
+		<p>Sản phẩm dưỡng da với đất sét cao lanh hay đất tẩy màu đưa chất dầu cùng chất hóa học thiết yếu cho da và thường lưu lại cho đến khi khô hoàn toàn, khi đất sét khô nó sẽ hấp thụ dầu chất bẩn dư thừa từ bề mặt da giúp tẩy sạch lỗ chân lông bẩn hoặc hút mụn trứng cá khỏi bề mặt, mặt nạ lột dạng gel chứa axit chất tẩy tế bào chết giúp tẩy tế bào chết trên da cùng với thành phần hydrat hóa giảm nếp nhăn dưỡng da không đều màu, mặt nạ giấy đang trở nên cực kỳ phổ biến tiện lợi hơn ít bừa bãi và không đòi hỏi kiến thức chuyên môn thiết bị để sử dụng so với các loại mặt nạ khác.</p>
+		<p>Sản phẩm dưỡng da với mỹ phẩm tẩy da chết sử dụng axit nhẹ nới lỏng tế bào da cũ ráp nối da thô cải thiện tuần hoàn da tẩy sạch lỗ chân lông ngăn ngừa mụn trứng cá cải thiện vẻ bên ngoài và chữa lành sẹo, mỹ phẩm tẩy da chết chứa chiết xuất từ cam quýt dấm trái cây muối biển đường vỏ hạt đậu cám gạo nhân mơ đất dạng lỏng hoặc gel.</p>
+		<p>Sản phẩm dưỡng da với mỹ phẩm kem dưỡng ẩm chiết xuất ​​thảo mộc hoặc hóa chất để giúp kiểm soát dầu giảm bớt độ kích ứng thường được bôi bằng đầu ngón tay hay miếng bông tẩy cho toàn bộ khuôn mặt tránh đôi môi và vùng xung quanh mắt.</p>
+	</div>
+</div>
