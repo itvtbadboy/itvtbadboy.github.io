@@ -2,17 +2,17 @@
     "use strict";
     function mainMap() {
         function locationData(locationURL, locationImg, locationTitle, locationAddress, locationCategory, locationStarRating, locationRevievsCounter, locationStatus) {
-            return ('<div class="map-popup-wrap"><div class="map-popup"><div class="infoBox-close"><i class="fal fa-times"></i></div><a class="listing-img-content fl-wrap"><div class="infobox-status '+ locationStatus +'">' + locationStatus + '</div><img src="' + locationImg + '" alt="thuong mai"><div class="card-popup-raining map-card-rainting" data-staRrating="' + locationStarRating + '"><span class="map-popup-reviews-count">( ' + locationRevievsCounter + ' reviews )</span></div></a> <div class="listing-content"><div class="listing-content-item fl-wrap"><div class="map-popup-location-category ' + locationCategory + '"></div><div class="listing-title fl-wrap"><h4><a>' + locationTitle + '</a></h4><div class="map-popup-location-info"><i class="fas fa-map-marker-alt"></i>' + locationAddress + '</div></div><div class="map-popup-footer"><a href=' + locationURL + ' class="main-link" title="thương mại" target="_blank">Thông tin <i class="fal fa-long-arrow-right"></i></a><a href="https://www.thuongmai.blog/" class="infowindow_wishlist-btn" title="Thương mại brvt" target="_blank"><i class="fal fa-tablet"></i></a></div></div></div></div> ')
+            return ('<div class="map-popup-wrap"><div class="map-popup"><div class="infoBox-close"><i class="fal fa-times"></i></div><a class="listing-img-content fl-wrap"><div class="infobox-status '+ locationStatus +'">' + locationStatus + '</div><img src="' + locationImg + '" alt="khuong itvtbadboy"><div class="card-popup-raining map-card-rainting" data-staRrating="' + locationStarRating + '"><span class="map-popup-reviews-count">( ' + locationRevievsCounter + ' reviews )</span></div></a> <div class="listing-content"><div class="listing-content-item fl-wrap"><div class="map-popup-location-category ' + locationCategory + '"></div><div class="listing-title fl-wrap"><h4><a>' + locationTitle + '</a></h4><div class="map-popup-location-info"><i class="fas fa-map-marker-alt"></i>' + locationAddress + '</div></div><div class="map-popup-footer"><a href=' + locationURL + ' class="main-link" title="thương mại" target="_blank">Thông tin <i class="fal fa-long-arrow-right"></i></a><a href="https://blog.itvtbadboy.io.vn/" class="infowindow_wishlist-btn" title="Khương Itvtbadboy" target="_blank"><i class="fal fa-tablet"></i></a></div></div></div></div> ')
         }
 	    //  Map Infoboxes ------------------
         var locations = [
-[locationData('https://github.com/thuongmaibrvt/thuongmai.github', 'https://wiki.thuongmai.blog/images/8/82/Itvtbadboy.jpg', 'Thương mại .Ltd', "Long Tâm Bà Rịa, VN", 'cafe-cat', "5", "5", "Bà Rịa"  ), 10.5052676, 107.1240385, 0 , 'https://wiki.thuongmai.blog/images/8/82/Itvtbadboy.jpg'],
+[locationData('https://github.com/itvtbadboy', 'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/hinh/Mat-kinh.jpg', 'Khương Itvtbadboy', "Long Tâm Bà Rịa, VN", 'cafe-cat', "5", "5", "Bà Rịa"  ), 10.50527, 107.19786, 0 , 'https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/hinh/Mat-kinh.jpg'],
         ];
 	    //   Map Infoboxes end ------------------
         var map = new google.maps.Map(document.getElementById('map-main'), {
-            zoom: 6,
+            zoom: 7,
             scrollwheel: false,
-            center: new google.maps.LatLng(15.7939252, 105.9102589),
+            center: new google.maps.LatLng(10.50527, 107.19786),
             mapTypeId: google.maps.MapTypeId.ROADMAP,
             zoomControl: false,
             mapTypeControl: false,
