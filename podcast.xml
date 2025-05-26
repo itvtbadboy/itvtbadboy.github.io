@@ -5,7 +5,7 @@
 	<generator>Github</generator>
 	<copyright>itvtbadboy</copyright>
 
-	<lastBuildDate>Sun, 25 May 2025 17:19:23 GMT+7</lastBuildDate>
+	<lastBuildDate>Mon, 26 May 2025 15:56:23 GMT+7</lastBuildDate>
 	<title>Khương Itvtbadboy</title>
 	<description>Lập trình tối ưu hiệu ứng tiềm năng từ khóa thời trang dịch vụ và bảo mật thương hiệu Khương Itvtbadboy</description>
 	<language>vi-VN</language>
@@ -15,6 +15,24 @@
 	<itunes:author>itvtbadboy</itunes:author>
 	<itunes:image href="https://www.itvtbadboy.io.vn/image/itvtbadboy.jpg"/>
 
+	<item>
+		<pubDate>Mon, 26 May 2025 15:56:23 GMT+7</pubDate>
+		<title>Đồ ngủ satin cổ điển</title>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/how-deep-is-your-love.mp3" type="audio/mpeg"/>
+		<guid isPermaLink="true">do-ngu-satin-co-dien.html</guid>
+		<description>
+			<![CDATA[<p><a href="https://www.itvtbadboy.io.vn/thoi-trang/do-ngu-satin-co-dien.html">Đồ ngủ satin cổ điển</a> bóng mịn phong cách WangYuChun thích hợp cho mọi sinh hoạt tại nhà, giao tiếp công sở và du lịch mua sắm</p>]]>
+		</description>
+	</item>
+	<item>
+		<pubDate>Mon, 26 May 2025 15:27:23 GMT+7</pubDate>
+		<title>Đồ ngủ thun cổ điển</title>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/how-deep-is-your-love.mp3" type="audio/mpeg"/>
+		<guid isPermaLink="true">do-ngu-thun-co-dien.html</guid>
+		<description>
+			<![CDATA[<p><a href="https://www.itvtbadboy.io.vn/thoi-trang/do-ngu-thun-co-dien.html">Đồ ngủ thun cổ điển</a> trong suốt WangYuChun trắng trong Selena thích hợp cho mọi sinh hoạt tại nhà, giao tiếp công sở và du lịch mua sắm</p>]]>
+		</description>
+	</item>
 	<item>
 		<pubDate>Sun, 25 May 2025 17:19:23 GMT+7</pubDate>
 		<title>Đồ ngủ thun hai dây</title>
