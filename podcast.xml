@@ -5,7 +5,7 @@
 	<generator>Github</generator>
 	<copyright>itvtbadboy</copyright>
 
-	<lastBuildDate>Mon, 26 May 2025 17:10:23 GMT+7</lastBuildDate>
+	<lastBuildDate>Mon, 26 May 2025 19:25:23 GMT+7</lastBuildDate>
 	<title>Khương Itvtbadboy</title>
 	<description>Khương Itvtbadboy tối ưu hiệu ứng tiềm năng từ khóa trang di động tiếp thị thời trang dịch vụ và bảo mật thương hiệu</description>
 	<language>vi-VN</language>
@@ -15,6 +15,15 @@
 	<itunes:author>itvtbadboy</itunes:author>
 	<itunes:image href="https://www.itvtbadboy.io.vn/image/itvtbadboy.jpg"/>
 
+	<item>
+		<pubDate>Mon, 26 May 2025 18:52:23 GMT+7</pubDate>
+		<title>Giải trí nhạc phim</title>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/i-am-waiting-for-your-dream.mp3" type="audio/mpeg"/>
+		<guid isPermaLink="true">index.html</guid>
+		<description>
+			<![CDATA[<p><a href="https://www.itvtbadboy.io.vn/giai-tri/">Nghe nhạc xem phim</a> miễn phí Khương Itvtbadboy có hai giải pháp là liên kết cloud storage bằng podcast hoặc dùng trực tiếp máy chủ Youtube SoundCloud</p>]]>
+		</description>
+	</item>
 	<item>
 		<pubDate>Mon, 26 May 2025 15:56:23 GMT+7</pubDate>
 		<title>Đồ ngủ satin cổ điển</title>
@@ -286,7 +295,7 @@
 		</description>
 	</item>
 	<item>
-		<pubDate>Tue, 20 May 2025 13:38:23 GMT+7</pubDate>
+		<pubDate>Mon, 26 May 2025 19:25:23 GMT+7</pubDate>
 		<title>Bố y thần tướng</title>
 		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/999-roses.mp3" type="audio/mpeg"/>
 		<guid isPermaLink="true">bo-y-than-tuong.html</guid>
