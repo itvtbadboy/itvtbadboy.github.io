@@ -420,4 +420,28 @@
 			<news:keywords>Đồ ngủ thun hai dây xọc trắng hồng WangYuChun trắng trong Selena</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/thoi-trang/do-ngu-thun-co-dien.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Khương Itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-05-26</news:publication_date>
+			<news:title>Đồ ngủ thun cổ điển</news:title>
+			<news:keywords>Đồ ngủ thun cổ điển trong suốt WangYuChun</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/thoi-trang/do-ngu-satin-co-dien.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Khương Itvtbadboy</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-05-26</news:publication_date>
+			<news:title>Đồ ngủ satin cổ điển</news:title>
+			<news:keywords>Đồ ngủ satin cổ điển bóng mịn phong cách WangYuChun</news:keywords>
+		</news:news>
+	</url>
 </urlset>
