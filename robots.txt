@@ -1,5 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://www.itvtbadboy.io.vn/newsmap.xml
-Sitemap: https://www.itvtbadboy.io.vn/channel.xml
