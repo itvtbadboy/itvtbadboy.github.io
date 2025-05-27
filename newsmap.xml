@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 	<url>
-		<loc>https://www.itvtbadboy.io.vn/</loc>
-		<news:news>
-			<news:publication>
-				<news:name>Khương Itvtbadboy</news:name>
-				<news:language>vi</news:language>
-			</news:publication>
-			<news:publication_date>2025-05-26</news:publication_date>
-			<news:title>Tiếp thị với khương itvtbadboy</news:title>
-			<news:keywords>Khương Itvtbadboy</news:keywords>
-		</news:news>
-	</url>
-	<url>
 		<loc>https://www.itvtbadboy.io.vn/giai-tri/</loc>
 		<news:news>
 			<news:publication>
@@ -22,54 +10,6 @@
 			<news:publication_date>2025-05-26</news:publication_date>
 			<news:title>Nghe nhạc xem phim miễn phí</news:title>
 			<news:keywords>Giải trí nhạc phim</news:keywords>
-		</news:news>
-	</url>
-	<url>
-		<loc>https://www.itvtbadboy.io.vn/giai-tri/nhac-hoa-chon-loc.html</loc>
-		<news:news>
-			<news:publication>
-				<news:name>Khương Itvtbadboy</news:name>
-				<news:language>vi</news:language>
-			</news:publication>
-			<news:publication_date>2025-05-18</news:publication_date>
-			<news:title>Khương Itvtbadboy sưu tầm</news:title>
-			<news:keywords>Nhạc hoa chọn lọc</news:keywords>
-		</news:news>
-	</url>
-	<url>
-		<loc>https://www.itvtbadboy.io.vn/giai-tri/nhac-hoa-tau-chon-loc.html</loc>
-		<news:news>
-			<news:publication>
-				<news:name>Khương Itvtbadboy</news:name>
-				<news:language>vi</news:language>
-			</news:publication>
-			<news:publication_date>2025-05-18</news:publication_date>
-			<news:title>Khương Itvtbadboy sưu tầm</news:title>
-			<news:keywords>Nhạc hòa tấu chọn lọc</news:keywords>
-		</news:news>
-	</url>
-	<url>
-		<loc>https://www.itvtbadboy.io.vn/giai-tri/nhac-quoc-te-chon-loc.html</loc>
-		<news:news>
-			<news:publication>
-				<news:name>Khương Itvtbadboy</news:name>
-				<news:language>vi</news:language>
-			</news:publication>
-			<news:publication_date>2025-05-18</news:publication_date>
-			<news:title>Khương Itvtbadboy sưu tầm</news:title>
-			<news:keywords>Nhạc quốc tế chọn lọc</news:keywords>
-		</news:news>
-	</url>
-	<url>
-		<loc>https://www.itvtbadboy.io.vn/giai-tri/nhac-tre-chon-loc.html</loc>
-		<news:news>
-			<news:publication>
-				<news:name>Khương Itvtbadboy</news:name>
-				<news:language>vi</news:language>
-			</news:publication>
-			<news:publication_date>2025-05-18</news:publication_date>
-			<news:title>Khương Itvtbadboy sưu tầm</news:title>
-			<news:keywords>Nhạc trẻ chọn lọc</news:keywords>
 		</news:news>
 	</url>
 	<url>
