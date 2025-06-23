@@ -4,7 +4,19 @@
 		<loc>https://www.itvtbadboy.io.vn/</loc>
 		<news:news>
 			<news:publication>
-				<news:name>Khương Itvtbadboy</news:name>
+				<news:name>Kinh sách trực tuyến</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-06-23</news:publication_date>
+			<news:title>Cha giáng trần dạy tu Đạo</news:title>
+			<news:keywords>không tu là khổ, đừng lo mê muội, cẩm nang cấp cứu, phục sức người tu</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Kinh sách trực tuyến</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
 			<news:publication_date>2025-06-23</news:publication_date>
