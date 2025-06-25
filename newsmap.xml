@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 	<url>
+		<loc>https://www.itvtbadboy.io.vn/doc-kinh/cha-giang-tran-day-tu-dao-phan-2.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Kinh sách trực tuyến</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-06-25</news:publication_date>
+			<news:title>Cha giáng trần dạy tu Đạo</news:title>
+			<news:keywords>Chắc không ai biết, Lầm lẫn quan niệm, Không thể tha thứ, Cha trả lời thắc mắc</news:keywords>
+		</news:news>
+	</url>
+	<url>
 		<loc>https://www.itvtbadboy.io.vn/doc-kinh/cha-giang-tran-day-tu-dao.html</loc>
 		<news:news>
 			<news:publication>
