@@ -5,16 +5,25 @@
 	<generator>Github</generator>
 	<copyright>itvtbadboy</copyright>
 
-	<lastBuildDate>Tue, 27 May 2025 10:40:23 GMT+7</lastBuildDate>
-	<title>Khương Itvtbadboy</title>
-	<description>Khương Itvtbadboy tối ưu hiệu ứng tiềm năng từ khóa trang di động tiếp thị thời trang dịch vụ và bảo mật thương hiệu</description>
+	<lastBuildDate>Sat, 28 May 2025 10:27:23 GMT+7</lastBuildDate>
+	<title>KINH SÁCH TRỰC TUYẾN</title>
+	<description>Kinh sách trực tuyến giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo</description>
 	<language>vi-VN</language>
 	<link>https://www.itvtbadboy.io.vn/</link>
 	<googleplay:owner>itvtbadboy@gmail.com</googleplay:owner>
 	<itunes:owner><itunes:email>itvtbadboy@gmail.com</itunes:email></itunes:owner>
 	<itunes:author>itvtbadboy</itunes:author>
-	<itunes:image href="https://www.itvtbadboy.io.vn/image/itvtbadboy.jpg"/>
+	<itunes:image href="https://thuvien.itvtbadboy.io.vn/image/kinh/cover-512.jpg"/>
 
+	<item>
+		<pubDate>Sat, 28 May 2025 10:27:23 GMT+7</pubDate>
+		<title>Chú đại bi</title>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/wiki/hanhphap/chu-dai-bi.mp3" type="audio/mpeg"/>
+		<guid isPermaLink="true">chu-dai-bi.html</guid>
+		<description>
+			<![CDATA[<p><a href="https://www.itvtbadboy.io.vn/doc-kinh/chu-dai-bi.html">Nam mô</a> hắc ra đát na đá ra dạ da. Nam mô a rị da, bà lô kiết đế thước bát ra da, bồ đề tát đỏa bà da, ma ha tát đỏa bà da, ma ha ca lô ni ca da</p>]]>
+		</description>
+	</item>
 	<item>
 		<pubDate>Sat, 28 May 2025 09:51:23 GMT+7</pubDate>
 		<title>Cha giáng trần dạy tu Đạo - Phần 3</title>
