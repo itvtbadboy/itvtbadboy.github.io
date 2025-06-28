@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 	<url>
+		<loc>https://www.itvtbadboy.io.vn/doc-kinh/bat-nha-tam-kinh.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Kinh sách trực tuyến</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-06-28</news:publication_date>
+			<news:title>Quán tự tại Bồ Tát hành thâm bát nhã ba la mật đa thời chiếu kiến ngũ uẩn giai không</news:title>
+			<news:keywords>Bát nhã tâm kinh</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/doc-kinh/chu-dai-bi.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Kinh sách trực tuyến</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-06-28</news:publication_date>
+			<news:title>Nam mô hắc ra đát na đá ra dạ da</news:title>
+			<news:keywords>Chú đại bi</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/doc-kinh/cha-giang-tran-day-tu-dao-phan-3.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Kinh sách trực tuyến</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-06-28</news:publication_date>
+			<news:title>Bạch Cha, chúng con là tiểu hồn do Cha chiếc hồn Cha ra giống y như Cha</news:title>
+			<news:keywords>Cha giáng trần dạy tu Đạo</news:keywords>
+		</news:news>
+	</url>
+	<url>
 		<loc>https://www.itvtbadboy.io.vn/doc-kinh/cha-giang-tran-day-tu-dao-phan-2.html</loc>
 		<news:news>
 			<news:publication>
@@ -8,8 +44,8 @@
 				<news:language>vi</news:language>
 			</news:publication>
 			<news:publication_date>2025-06-25</news:publication_date>
-			<news:title>Cha giáng trần dạy tu Đạo</news:title>
-			<news:keywords>Chắc không ai biết, Lầm lẫn quan niệm, Không thể tha thứ, Cha trả lời thắc mắc</news:keywords>
+			<news:title>Cảm nhận dần dần nhận thức dần dần cái nguyên lai bổn tánh</news:title>
+			<news:keywords>Cha giáng trần dạy tu Đạo</news:keywords>
 		</news:news>
 	</url>
 	<url>
@@ -20,8 +56,8 @@
 				<news:language>vi</news:language>
 			</news:publication>
 			<news:publication_date>2025-06-23</news:publication_date>
-			<news:title>Cha giáng trần dạy tu Đạo</news:title>
-			<news:keywords>không tu là khổ, đừng lo mê muội, cẩm nang cấp cứu, phục sức người tu</news:keywords>
+			<news:title>Điều Cha muốn nói với các con hôm nay là tình yêu của Cha</news:title>
+			<news:keywords>Cha giáng trần dạy tu Đạo</news:keywords>
 		</news:news>
 	</url>
 	<url>
@@ -32,8 +68,8 @@
 				<news:language>vi</news:language>
 			</news:publication>
 			<news:publication_date>2025-06-25</news:publication_date>
-			<news:title>Kinh sách trực tuyến</news:title>
-			<news:keywords>kinh sách, trực tuyến, đọc kinh, nghe pháp, chép kinh, hành đạo</news:keywords>
+			<news:title>Kinh sách trực tuyến giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ</news:title>
+			<news:keywords>Kinh sách trực tuyến</news:keywords>
 		</news:news>
 	</url>
 </urlset>
