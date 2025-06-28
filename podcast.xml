@@ -5,7 +5,7 @@
 	<generator>Github</generator>
 	<copyright>itvtbadboy</copyright>
 
-	<lastBuildDate>Sat, 28 May 2025 10:27:23 GMT+7</lastBuildDate>
+	<lastBuildDate>Sat, 28 May 2025 11:15:23 GMT+7</lastBuildDate>
 	<title>KINH SÁCH TRỰC TUYẾN</title>
 	<description>Kinh sách trực tuyến giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo</description>
 	<language>vi-VN</language>
@@ -16,9 +16,18 @@
 	<itunes:image href="https://thuvien.itvtbadboy.io.vn/image/kinh/cover-512.jpg"/>
 
 	<item>
+		<pubDate>Sat, 28 May 2025 10:59:23 GMT+7</pubDate>
+		<title>Bát nhã tâm kinh</title>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/wiki/hanhphap/dia-tang-vuong-bon-nguyen.mp3" type="audio/mpeg" length="12800000"/>
+		<guid isPermaLink="true">bat-nha-tam-kinh</guid>
+		<description>
+			<![CDATA[<p>Ma ha bát nhã ba la mật đa <a href="https://www.itvtbadboy.io.vn/doc-kinh/bat-nha-tam-kinh.html">tâm kinh</a>!!! Quán tự tại Bồ Tát hành thâm bát nhã ba la mật đa thời chiếu kiến ngũ uẩn giai không độ nhất thiết khổ ách</p>]]>
+		</description>
+	</item>
+	<item>
 		<pubDate>Sat, 28 May 2025 10:27:23 GMT+7</pubDate>
 		<title>Chú đại bi</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/wiki/hanhphap/chu-dai-bi.mp3" type="audio/mpeg"/>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/wiki/hanhphap/chu-dai-bi.mp3" type="audio/mpeg" length="3100000"/>
 		<guid isPermaLink="true">chu-dai-bi</guid>
 		<description>
 			<![CDATA[<p><a href="https://www.itvtbadboy.io.vn/doc-kinh/chu-dai-bi.html">Nam mô</a> hắc ra đát na đá ra dạ da. Nam mô a rị da, bà lô kiết đế thước bát ra da, bồ đề tát đỏa bà da, ma ha tát đỏa bà da, ma ha ca lô ni ca da</p>]]>
@@ -27,7 +36,7 @@
 	<item>
 		<pubDate>Sat, 28 May 2025 09:51:23 GMT+7</pubDate>
 		<title>Cha giáng trần dạy tu Đạo - Phần 3</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/wiki/hanhphap/cha-giang-tran.mp3" type="audio/mpeg"/>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/wiki/hanhphap/cha-giang-tran.mp3" type="audio/mpeg" length="341300000"/>
 		<guid isPermaLink="true">cha-giang-tran-day-tu-dao-phan-3</guid>
 		<description>
 			<![CDATA[<p>Sao chúng con một tiểu Thượng Đế giống như Cha <a href="https://www.itvtbadboy.io.vn/doc-kinh/cha-giang-tran-day-tu-dao-phan-3.html">chúng con lại không thể</a> làm ma quỷ, vì như vậy chúng con sẽ chìm đắm trong ngu muội ác trược xấu xa để rơi vào cõi địa ngục luôn</p>]]>
@@ -36,7 +45,7 @@
 	<item>
 		<pubDate>Wed, 25 May 2025 21:04:23 GMT+7</pubDate>
 		<title>Cha giáng trần dạy tu Đạo - Phần 2</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/wiki/hanhphap/cha-giang-tran.mp3" type="audio/mpeg"/>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/wiki/hanhphap/cha-giang-tran.mp3" type="audio/mpeg" length="341300000"/>
 		<guid isPermaLink="true">cha-giang-tran-day-tu-dao-phan-2</guid>
 		<description>
 			<![CDATA[<p>Phăng ra đường về bằng cách cảm nhận dần dần nhận thức dần dần cái <a href="https://www.itvtbadboy.io.vn/doc-kinh/cha-giang-tran-day-tu-dao-phan-2.html">nguyên lai bổn tánh</a> nơi nội tâm của chính các con</p>]]>
@@ -45,7 +54,7 @@
 	<item>
 		<pubDate>Mon, 23 May 2025 21:04:23 GMT+7</pubDate>
 		<title>Cha giáng trần dạy tu Đạo</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/wiki/hanhphap/cha-giang-tran.mp3" type="audio/mpeg"/>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/wiki/hanhphap/cha-giang-tran.mp3" type="audio/mpeg" length="341300000"/>
 		<guid isPermaLink="true">cha-giang-tran-day-tu-dao</guid>
 		<description>
 			<![CDATA[<p>Hôm nay Cha đến với các con trong tình yêu thương thấm thiết và điều Cha muốn nói với các con hôm nay là <a href="https://www.itvtbadboy.io.vn/doc-kinh/cha-giang-tran-day-tu-dao.html">tình yêu của Cha</a></p>]]>
@@ -54,7 +63,7 @@
 	<item>
 		<pubDate>Tue, 27 May 2025 06:03:23 GMT+7</pubDate>
 		<title>Khai phong kỳ án</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/as-long-as-you-love-me.mp3" type="audio/mpeg"/>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/as-long-as-you-love-me.mp3" type="audio/mpeg" length="3200000"/>
 		<guid isPermaLink="true">khai-phong-ky-an</guid>
 		<description>
 			<![CDATA[<p><a href="https://www.itvtbadboy.io.vn/giai-tri/khai-phong-ky-an.html">Khai phong kỳ án</a> kể về 6 vụ án hồng châu di hận, kim ngọc minh, thất anh ký, hiệu hương lầu, tam đóa kim hoa, huyết nghiên đoan khê chấn động thời Tống được hóa thân bởi Kim Siêu Quần Hà Gia Kính Phạm Hồng Hiên Vương Sa Sa, diễn viên phụ Vương Nghi Vĩ Trương Bằng Triệu Thạnh Khuê Bạch Hiểu Long Long</p>]]>
@@ -63,7 +72,7 @@
 	<item>
 		<pubDate>Mon, 26 May 2025 21:05:23 GMT+7</pubDate>
 		<title>Bố y thần tướng</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/999-roses.mp3" type="audio/mpeg"/>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/999-roses.mp3" type="audio/mpeg" length="8300000"/>
 		<guid isPermaLink="true">bo-y-than-tuong</guid>
 		<description>
 			<![CDATA[<p><a href="https://www.itvtbadboy.io.vn/giai-tri/bo-y-than-tuong.html">Bố y thần tướng</a> kể về 4 cuộc đời thầy coi tướng Lý Bố Y, thần y Lại Dược Nhi, nữ thiếu chủ Diệp Mộng Sắc, bà chủ quán trọ Yên Dạ Lai được hóa thân bởi Lâm Văn Long Lâm Phong Dương Di và Lý Thi Vận. Diễn viên phụ Quách Chính Hồng Khương Đại Vệ Hướng Hải Lam Hồ Định Hân</p>]]>
@@ -72,7 +81,7 @@
 	<item>
 		<pubDate>Sun, 18 May 2025 10:59:23 GMT+7</pubDate>
 		<title>Nhạc trẻ chọn lọc</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/vietnam/1_thu%E1%BB%9F_y%C3%AAu_ng%C6%B0%E1%BB%9Di.mp3" type="audio/mpeg"/>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/vietnam/1_thu%E1%BB%9F_y%C3%AAu_ng%C6%B0%E1%BB%9Di.mp3" type="audio/mpeg" length="4400000"/>
 		<guid isPermaLink="true">nhac-tre-chon-loc</guid>
 		<description>
 			<![CDATA[<p><a href="https://www.itvtbadboy.io.vn/giai-tri/nhac-tre-chon-loc.html">Nhạc trẻ</a> chọn lọc Khương Itvtbadboy sưu tầm xin một lần được yêu, tình mãi bên anh, tiếng sáo phiêu bồng, sai lầm vẫn là anh, quên một lời thề, cứ yêu nhau đi, con tim mù lòa</p>]]>
@@ -81,7 +90,7 @@
 	<item>
 		<pubDate>Sun, 18 May 2025 09:44:23 GMT+7</pubDate>
 		<title>Nhạc hoa chọn lọc</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/1_thu%E1%BB%9F_y%C3%AAu_ng%C6%B0%E1%BB%9Di.mp3" type="audio/mpeg"/>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/chinese/1_thu%E1%BB%9F_y%C3%AAu_ng%C6%B0%E1%BB%9Di.mp3" type="audio/mpeg" length="4100000"/>
 		<guid isPermaLink="true">nhac-hoa-chon-loc</guid>
 		<description>
 			<![CDATA[<p><a href="https://www.itvtbadboy.io.vn/giai-tri/nhac-hoa-chon-loc.html">Nhạc hoa</a> chọn lọc Khương Itvtbadboy sưu tầm bảy viên kim cương, sai lầm vẫn là anh, cuộc chơi vô nghĩa, đao kiếm như mộng, ngàn năm tương phùng, tiếu ngạo giang hồ, mịt mù nỗi nhớ</p>]]>
@@ -90,7 +99,7 @@
 	<item>
 		<pubDate>Sun, 18 May 2025 09:53:23 GMT+7</pubDate>
 		<title>Nhạc hòa tấu chọn lọc</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-caravan-of-life.mp3" type="audio/mpeg"/>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/concert/flu-caravan-of-life.mp3" type="audio/mpeg" length="4062221"/>
 		<guid isPermaLink="true">nhac-hoa-tau-chon-loc</guid>
 		<description>
 			<![CDATA[<p><a href="https://www.itvtbadboy.io.vn/giai-tri/nhac-hoa-tau-chon-loc.html">Nhạc hòa tấu</a> chọn lọc Khương Itvtbadboy sưu tầm đôi bướm bay lượn, endless love, giấc mơ một cuộc tình, không tên, lỗi lầm đã qua, một nhành mai, tomorrow will come</p>]]>
@@ -99,7 +108,7 @@
 	<item>
 		<pubDate>Sun, 18 May 2025 10:53:23 GMT+7</pubDate>
 		<title>Nhạc quốc tế chọn lọc</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/500-miles.mp3" type="audio/mpeg"/>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/500-miles.mp3" type="audio/mpeg" length="3404749"/>
 		<guid isPermaLink="true">nhac-quoc-te-chon-loc</guid>
 		<description>
 			<![CDATA[<p><a href="https://www.itvtbadboy.io.vn/giai-tri/nhac-quoc-te-chon-loc.html">Nhạc quốc tế</a> chọn lọc Khương Itvtbadboy sưu tầm circle in the sand, iam so in love with you, moon light, no face no name no number, tomorrow will come, walking in the sun, within you will remain, you will find your way</p>]]>
