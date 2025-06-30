@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 	<url>
+		<loc>https://www.itvtbadboy.io.vn/doc-kinh/ma-ni-an-phap.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Kinh sách trực tuyến</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-06-30</news:publication_date>
+			<news:title>Ma Ni bộ biểu thị cho bình đẳng tính trí là Pháp tu tăng ích về trí tuệ phước đức thọ mệnh</news:title>
+			<news:keywords>Ma Ni Ấn Pháp</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/doc-kinh/nhu-lai-an-phap.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Kinh sách trực tuyến</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-06-30</news:publication_date>
+			<news:title>Như Lai bộ biểu thị cho Pháp giới thể tính là Pháp tiêu trừ các loại bệnh nạn</news:title>
+			<news:keywords>Như Lai Ấn Pháp</news:keywords>
+		</news:news>
+	</url>
+	<url>
 		<loc>https://www.itvtbadboy.io.vn/doc-kinh/42-thu-nhan-an-phap.html</loc>
 		<news:news>
 			<news:publication>
