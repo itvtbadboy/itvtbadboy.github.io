@@ -5,7 +5,7 @@
 	<generator>Github</generator>
 	<copyright>itvtbadboy</copyright>
 
-	<lastBuildDate>Sat, 28 May 2025 11:15:23 GMT+7</lastBuildDate>
+	<lastBuildDate>Mon, 30 May 2025 19:42:23 GMT+7</lastBuildDate>
 	<title>KINH SÁCH TRỰC TUYẾN</title>
 	<description>Kinh sách trực tuyến giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo</description>
 	<language>vi-VN</language>
@@ -15,6 +15,24 @@
 	<itunes:author>itvtbadboy</itunes:author>
 	<itunes:image href="https://thuvien.itvtbadboy.io.vn/image/kinh/cover-512.jpg"/>
 
+	<item>
+		<pubDate>Mon, 30 May 2025 19:42:23 GMT+7</pubDate>
+		<title>Ma Ni Ấn Pháp</title>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/wiki/hanhphap/42-thu-nhan-an-phap.mp3" type="audio/mpeg" length="75864192"/>
+		<guid isPermaLink="true">ma-ni-an-phap</guid>
+		<description>
+			<![CDATA[<p><a href="https://www.itvtbadboy.io.vn/doc-kinh/ma-ni-an-phap.html">Ma Ni bộ</a> biểu thị cho bình đẳng tính trí là cái trí phô bày tâm thức từ bi bình đẳng là Pháp tu tăng ích về trí tuệ phước đức thọ mệnh</p>]]>
+		</description>
+	</item>
+	<item>
+		<pubDate>Mon, 30 May 2025 18:32:23 GMT+7</pubDate>
+		<title>Như Lai Ấn Pháp</title>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/wiki/hanhphap/42-thu-nhan-an-phap.mp3" type="audio/mpeg" length="75864192"/>
+		<guid isPermaLink="true">nhu-lai-an-phap</guid>
+		<description>
+			<![CDATA[<p><a href="https://www.itvtbadboy.io.vn/doc-kinh/nhu-lai-an-phap.html">Như Lai bộ</a> biểu thị cho Pháp giới thể tính là cái trí thâm nhập khắp nơi của Pháp giới là Pháp tiêu trừ các loại bệnh nạn</p>]]>
+		</description>
+	</item>
 	<item>
 		<pubDate>Sat, 28 May 2025 16:53:23 GMT+7</pubDate>
 		<title>42 thủ nhãn ấn Pháp</title>
