@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 	<url>
+		<loc>https://www.itvtbadboy.io.vn/doc-kinh/lien-hoa-an-phap.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Kinh sách trực tuyến</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-07-01</news:publication_date>
+			<news:title>Liên Hoa bộ biểu thị cho diệu sát quán trí là Pháp tu được chư Phật Bồ Tát gia hộ</news:title>
+			<news:keywords>Liên Hoa Ấn Pháp</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/doc-kinh/yet-ma-an-phap.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Kinh sách trực tuyến</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-07-01</news:publication_date>
+			<news:title>Yết Ma bộ biểu thị cho thành sở tác trí là Pháp triệu thỉnh bản Tôn chư Thần</news:title>
+			<news:keywords>Yết Ma Ấn Pháp</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/doc-kinh/kim-cuong-an-phap.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Kinh sách trực tuyến</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-07-01</news:publication_date>
+			<news:title>Kim Cương bộ biểu thị cho đại viên kính trí là Pháp tu chiết phục các nhóm ác hoặc các người ác</news:title>
+			<news:keywords>Kim Cương Ấn Pháp</news:keywords>
+		</news:news>
+	</url>
+	<url>
 		<loc>https://www.itvtbadboy.io.vn/doc-kinh/ma-ni-an-phap.html</loc>
 		<news:news>
 			<news:publication>
