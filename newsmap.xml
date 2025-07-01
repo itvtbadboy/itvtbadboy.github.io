@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 	<url>
+		<loc>https://www.itvtbadboy.io.vn/chep-kinh/cach-chep-kinh-bang-google-site.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Kinh sách trực tuyến</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-07-01</news:publication_date>
+			<news:title>Cách chép kinh bằng site của Google là một trong hai giải pháp trực quan miễn phí</news:title>
+			<news:keywords>Cách chép kinh bằng google site</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/chep-kinh/cach-dung-youtube-luu-kinh.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Kinh sách trực tuyến</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-07-01</news:publication_date>
+			<news:title>Cách dùng Youtube để lưu kinh và tạo ấn phẩm truyền bá kinh sách</news:title>
+			<news:keywords>Cách dùng youtube lưu kinh</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/chep-kinh/cach-dung-o-cung-luu-kinh.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Kinh sách trực tuyến</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-07-01</news:publication_date>
+			<news:title>Cách dùng ba loại ổ cứng Google Drive Mega Multicloud hoặc Google Bucket để lưu kinh</news:title>
+			<news:keywords>Cách dùng ổ cứng lưu kinh</news:keywords>
+		</news:news>
+	</url>
+	<url>
 		<loc>https://www.itvtbadboy.io.vn/doc-kinh/lien-hoa-an-phap.html</loc>
 		<news:news>
 			<news:publication>
