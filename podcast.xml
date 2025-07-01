@@ -5,7 +5,7 @@
 	<generator>Github</generator>
 	<copyright>itvtbadboy</copyright>
 
-	<lastBuildDate>Mon, 30 May 2025 19:42:23 GMT+7</lastBuildDate>
+	<lastBuildDate>Tue, 01 Jul 2025 10:07:23 GMT+7</lastBuildDate>
 	<title>KINH SÁCH TRỰC TUYẾN</title>
 	<description>Kinh sách trực tuyến giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo</description>
 	<language>vi-VN</language>
@@ -16,7 +16,34 @@
 	<itunes:image href="https://thuvien.itvtbadboy.io.vn/image/kinh/cover-512.jpg"/>
 
 	<item>
-		<pubDate>Mon, 30 May 2025 19:42:23 GMT+7</pubDate>
+		<pubDate>Tue, 01 Jul 2025 10:07:23 GMT+7</pubDate>
+		<title>Liên Hoa Ấn Pháp</title>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/wiki/hanhphap/42-thu-nhan-an-phap.mp3" type="audio/mpeg" length="75864192"/>
+		<guid isPermaLink="true">lien-hoa-an-phap</guid>
+		<description>
+			<![CDATA[<p><a href="https://www.itvtbadboy.io.vn/doc-kinh/lien-hoa-an-phap.html">Liên Hoa bộ</a> biểu thị cho diệu sát quán trí, là sự quán tưởng của trí xem xét mọi tướng là Pháp tu được chư Phật Bồ Tát gia hộ</p>]]>
+		</description>
+	</item>
+	<item>
+		<pubDate>Tue, 01 Jul 2025 09:46:23 GMT+7</pubDate>
+		<title>Yết Ma Ấn Pháp</title>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/wiki/hanhphap/42-thu-nhan-an-phap.mp3" type="audio/mpeg" length="75864192"/>
+		<guid isPermaLink="true">yet-ma-an-phap</guid>
+		<description>
+			<![CDATA[<p><a href="https://www.itvtbadboy.io.vn/doc-kinh/yet-ma-an-phap.html">Yết Ma bộ</a> biểu thị cho thành sở tác trí, là cái trí khéo léo thi hành mọi việc của thế gian là Pháp triệu thỉnh bản Tôn chư Thần</p>]]>
+		</description>
+	</item>
+	<item>
+		<pubDate>Tue, 01 Jul 2025 08:52:23 GMT+7</pubDate>
+		<title>Kim Cương Ấn Pháp</title>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/wiki/hanhphap/42-thu-nhan-an-phap.mp3" type="audio/mpeg" length="75864192"/>
+		<guid isPermaLink="true">kim-cuong-an-phap</guid>
+		<description>
+			<![CDATA[<p><a href="https://www.itvtbadboy.io.vn/doc-kinh/kim-cuong-an-phap.html">Kim Cương bộ</a> biểu thị cho đại viên kính trí, là cái trí sáng chiếu mọi sự vật mà không dính mắc là Pháp tu chiết phục các nhóm ác hoặc các người ác</p>]]>
+		</description>
+	</item>
+	<item>
+		<pubDate>Mon, 30 Jun 2025 19:42:23 GMT+7</pubDate>
 		<title>Ma Ni Ấn Pháp</title>
 		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/wiki/hanhphap/42-thu-nhan-an-phap.mp3" type="audio/mpeg" length="75864192"/>
 		<guid isPermaLink="true">ma-ni-an-phap</guid>
@@ -25,7 +52,7 @@
 		</description>
 	</item>
 	<item>
-		<pubDate>Mon, 30 May 2025 18:32:23 GMT+7</pubDate>
+		<pubDate>Mon, 30 Jun 2025 18:32:23 GMT+7</pubDate>
 		<title>Như Lai Ấn Pháp</title>
 		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/wiki/hanhphap/42-thu-nhan-an-phap.mp3" type="audio/mpeg" length="75864192"/>
 		<guid isPermaLink="true">nhu-lai-an-phap</guid>
@@ -34,7 +61,7 @@
 		</description>
 	</item>
 	<item>
-		<pubDate>Sat, 28 May 2025 16:53:23 GMT+7</pubDate>
+		<pubDate>Sat, 28 Jun 2025 16:53:23 GMT+7</pubDate>
 		<title>42 thủ nhãn ấn Pháp</title>
 		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/wiki/hanhphap/42-thu-nhan-an-phap.mp3" type="audio/mpeg" length="75864192"/>
 		<guid isPermaLink="true">42-thu-nhan-an-phap</guid>
@@ -43,7 +70,7 @@
 		</description>
 	</item>
 	<item>
-		<pubDate>Sat, 28 May 2025 10:59:23 GMT+7</pubDate>
+		<pubDate>Sat, 28 Jun 2025 10:59:23 GMT+7</pubDate>
 		<title>Bát nhã tâm kinh</title>
 		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/wiki/hanhphap/dia-tang-vuong-bon-nguyen.mp3" type="audio/mpeg" length="12800000"/>
 		<guid isPermaLink="true">bat-nha-tam-kinh</guid>
@@ -52,7 +79,7 @@
 		</description>
 	</item>
 	<item>
-		<pubDate>Sat, 28 May 2025 10:27:23 GMT+7</pubDate>
+		<pubDate>Sat, 28 Jun 2025 10:27:23 GMT+7</pubDate>
 		<title>Chú đại bi</title>
 		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/wiki/hanhphap/chu-dai-bi.mp3" type="audio/mpeg" length="3100000"/>
 		<guid isPermaLink="true">chu-dai-bi</guid>
@@ -61,7 +88,7 @@
 		</description>
 	</item>
 	<item>
-		<pubDate>Sat, 28 May 2025 09:51:23 GMT+7</pubDate>
+		<pubDate>Sat, 28 Jun 2025 09:51:23 GMT+7</pubDate>
 		<title>Cha giáng trần dạy tu Đạo - Phần 3</title>
 		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/wiki/hanhphap/cha-giang-tran.mp3" type="audio/mpeg" length="341300000"/>
 		<guid isPermaLink="true">cha-giang-tran-day-tu-dao-phan-3</guid>
@@ -70,7 +97,7 @@
 		</description>
 	</item>
 	<item>
-		<pubDate>Wed, 25 May 2025 21:04:23 GMT+7</pubDate>
+		<pubDate>Wed, 25 Jun 2025 21:04:23 GMT+7</pubDate>
 		<title>Cha giáng trần dạy tu Đạo - Phần 2</title>
 		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/wiki/hanhphap/cha-giang-tran.mp3" type="audio/mpeg" length="341300000"/>
 		<guid isPermaLink="true">cha-giang-tran-day-tu-dao-phan-2</guid>
@@ -79,7 +106,7 @@
 		</description>
 	</item>
 	<item>
-		<pubDate>Mon, 23 May 2025 21:04:23 GMT+7</pubDate>
+		<pubDate>Mon, 23 Jun 2025 21:04:23 GMT+7</pubDate>
 		<title>Cha giáng trần dạy tu Đạo</title>
 		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/wiki/hanhphap/cha-giang-tran.mp3" type="audio/mpeg" length="341300000"/>
 		<guid isPermaLink="true">cha-giang-tran-day-tu-dao</guid>
