@@ -5,7 +5,7 @@
 	<generator>Github</generator>
 	<copyright>itvtbadboy</copyright>
 
-	<lastBuildDate>Tue, 01 Jul 2025 10:07:23 GMT+7</lastBuildDate>
+	<lastBuildDate>Tue, 01 Jul 2025 11:43:23 GMT+7</lastBuildDate>
 	<title>KINH SÁCH TRỰC TUYẾN</title>
 	<description>Kinh sách trực tuyến giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo</description>
 	<language>vi-VN</language>
@@ -15,6 +15,33 @@
 	<itunes:author>itvtbadboy</itunes:author>
 	<itunes:image href="https://thuvien.itvtbadboy.io.vn/image/kinh/cover-512.jpg"/>
 
+	<item>
+		<pubDate>Tue, 01 Jul 2025 11:43:23 GMT+7</pubDate>
+		<title>Cách chép kinh bằng google site</title>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/as-long-as-you-love-me.mp3" type="audio/mpeg" length="3200000"/>
+		<guid isPermaLink="true">cach-chep-kinh-bang-google-site</guid>
+		<description>
+			<![CDATA[<p><a href="https://www.itvtbadboy.io.vn/chep-kinh/cach-chep-kinh-bang-google-site.html">Cách chép kinh bằng site</a> của Google là một trong hai giải pháp trực quan miễn phí cho đồng đạo</p>]]>
+		</description>
+	</item>
+	<item>
+		<pubDate>Tue, 01 Jul 2025 11:36:23 GMT+7</pubDate>
+		<title>Cách dùng youtube lưu kinh</title>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/999-roses.mp3" type="audio/mpeg" length="8300000"/>
+		<guid isPermaLink="true">cach-dung-youtube-luu-kinh</guid>
+		<description>
+			<![CDATA[<p><a href="https://www.itvtbadboy.io.vn/chep-kinh/cach-dung-youtube-luu-kinh.html">Cách dùng youtube</a> để lưu kinh và tạo ấn phẩm truyền bá kinh sách, lưu kinh định dạng mp4 và ấn phẩm podcast mp3</p>]]>
+		</description>
+	</item>
+	<item>
+		<pubDate>Tue, 01 Jul 2025 10:57:23 GMT+7</pubDate>
+		<title>Cách dùng ổ cứng lưu kinh</title>
+		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/500-miles.mp3" type="audio/mpeg" length="3400000"/>
+		<guid isPermaLink="true">cach-dung-o-cung-luu-kinh</guid>
+		<description>
+			<![CDATA[<p><a href="https://www.itvtbadboy.io.vn/chep-kinh/cach-dung-o-cung-luu-kinh.html">Cách dùng ba loại ổ cứng</a> Google Drive, Mega, Multicloud hoặc Google Bucket để lưu kinh</p>]]>
+		</description>
+	</item>
 	<item>
 		<pubDate>Tue, 01 Jul 2025 10:07:23 GMT+7</pubDate>
 		<title>Liên Hoa Ấn Pháp</title>
