@@ -6,7 +6,7 @@
         }
 	    //  Map Infoboxes ------------------
         var locations = [
-			[locationData('https://www.youtube.com/embed/vmgpnkjKQC8', 'https://thuvien.itvtbadboy.io.vn/image/512/mat-kinh.jpg', 'Khương Itvtbadboy', "Long Tâm Bà Rịa, VN", 'cafe-cat', "5", "5", "Bà Rịa"  ), 10.50527, 107.19786, 0 , 'https://thuvien.itvtbadboy.io.vn/image/512/mat-kinh.jpg'],
+			[locationData('https://www.youtube.com/live_chat?v=vmgpnkjKQC8&embed_domain=itvtbadboy.io.vn', 'https://thuvien.itvtbadboy.io.vn/image/512/mat-kinh.jpg', 'Khương Itvtbadboy', "Long Tâm Bà Rịa, VN", 'cafe-cat', "5", "5", "Bà Rịa"  ), 10.50527, 107.19786, 0 , 'https://thuvien.itvtbadboy.io.vn/image/512/mat-kinh.jpg'],
 		];
 	    //   Map Infoboxes end ------------------
         var map = new google.maps.Map(document.getElementById('map-main'), {
