@@ -1,162 +1,190 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
 <channel>
-	<generator>Geany 2.0</generator>
-	<copyright>itvtbadboy.io.vn</copyright>
-
-	<lastBuildDate>Mon, 30 Jun 2025 15:12:23 GMT+7</lastBuildDate>
-	<title>Tủ kinh sách</title>
-	<description>Tủ kinh sách giúp cộng đồng giữ vững lòng tin sống đời Chánh Đạo.</description>
-	<language>vi-VN</language>
+	<title>Kinh sách trực tuyến</title>
 	<link>https://blog.itvtbadboy.io.vn/</link>
-	<googleplay:owner>thuongmaibrvt@gmail.com</googleplay:owner>
-	<itunes:owner><itunes:email>thuongmaibrvt@gmail.com</itunes:email></itunes:owner>
-	<itunes:author>itvtbadboy</itunes:author>
-	<itunes:image href="https://thuvien.itvtbadboy.io.vn/image/kinh/cover-512.jpg"/>
+	<language>vi</language>
+	<lastBuildDate>Jun 30, 2025</lastBuildDate>
+	<description>Kinh sách trực tuyến giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo</description>
 
 	<item>
-		<pubDate>Mon, 30 Jun 2025 15:10:23 GMT+7</pubDate>
 		<title>google site</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/caravan-of-life.mp3" type="audio/mpeg" length="5300000"/>
-		<guid isPermaLink="true">google%20site</guid>
+		<link>https://blog.itvtbadboy.io.vn/search/label/google%20site</link>
+		<guid>itvtbadboy.io.vn</guid>
+		<pubDate>Jun 30, 2025</pubDate>
 		<description>
-			<![CDATA[<p><a href="https://blog.itvtbadboy.io.vn/search/label/google%20site">Google site</a> tạo trang web cá nhân doanh nghiệp nhóm dự án hoặc sự kiện trên mọi thiết bị</p>]]>
+			<a href="https://blog.itvtbadboy.io.vn/search/label/google%20site">
+				<img src="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/1280/diem-thiet-ke-giao-dien-trang.jpg"></img>
+				Google site tạo trang web cá nhân doanh nghiệp nhóm dự án hoặc sự kiện trên mọi thiết bị
+			</a>
 		</description>
 	</item>
 	<item>
-		<pubDate>Mon, 30 Jun 2025 13:48:23 GMT+7</pubDate>
-		<title>ổ cứng</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/cant-live-without-you.mp3" type="audio/mpeg" length="6700000"/>
-		<guid isPermaLink="true">%E1%BB%95%20c%E1%BB%A9ng</guid>
-		<description>
-			<![CDATA[<p><a href="https://blog.itvtbadboy.io.vn/search/label/%E1%BB%95%20c%E1%BB%A9ng">Ổ cứng</a> là giải pháp sử dụng google drive lưu trữ chia sẽ đến đồng đạo</p>]]>
-		</description>
-	</item>
-	<item>
-		<pubDate>Mon, 30 Jun 2025 13:48:23 GMT+7</pubDate>
 		<title>lưu kinh</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/cant-let-you-go.mp3" type="audio/mpeg" length="6400000"/>
-		<guid isPermaLink="true">l%C6%B0u%20kinh</guid>
+		<link>https://blog.itvtbadboy.io.vn/search/label/l%C6%B0u%20kinh</link>
+		<guid>itvtbadboy.io.vn</guid>
+		<pubDate>Jun 30, 2025</pubDate>
 		<description>
-			<![CDATA[<p><a href="https://blog.itvtbadboy.io.vn/search/label/l%C6%B0u%20kinh">Lưu kinh</a> là giải pháp sử dụng tất cả tài nguyên trực tuyến lưu trữ chia sẽ đến đồng đạo</p>]]>
+			<a href="https://blog.itvtbadboy.io.vn/search/label/l%C6%B0u%20kinh">
+				<img src="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/1280/chia-se-o-cung-google.jpg"></img>
+				Lưu kinh là giải pháp sử dụng tất cả tài nguyên trực tuyến lưu trữ chia sẽ đến đồng đạo
+			</a>
 		</description>
 	</item>
 	<item>
-		<pubDate>Mon, 30 Jun 2025 13:41:23 GMT+7</pubDate>
 		<title>youtube</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/bye-bye-bye.mp3" type="audio/mpeg" length="3900000"/>
-		<guid isPermaLink="true">youtube</guid>
+		<link>https://blog.itvtbadboy.io.vn/search/label/youtube</link>
+		<guid>itvtbadboy.io.vn</guid>
+		<pubDate>Jun 30, 2025</pubDate>
 		<description>
-			<![CDATA[<p><a href="https://blog.itvtbadboy.io.vn/search/label/youtube">Youtube</a> chia sẽ giải pháp sử dụng tạo ấn phẩm lưu chép kinh</p>]]>
+			<a href="https://blog.itvtbadboy.io.vn/search/label/youtube">
+				<img src="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/1280/youtube-studio.jpg"></img>
+				Youtube chia sẽ giải pháp sử dụng tạo ấn phẩm lưu chép kinh
+			</a>
 		</description>
 	</item>
 	<item>
-		<pubDate>Mon, 30 Jun 2025 13:38:23 GMT+7</pubDate>
 		<title>giải pháp</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/brother-louie.mp3" type="audio/mpeg" length="5400000"/>
-		<guid isPermaLink="true">gi%E1%BA%A3i%20ph%C3%A1p</guid>
+		<link>https://blog.itvtbadboy.io.vn/search/label/gi%E1%BA%A3i%20ph%C3%A1p</link>
+		<guid>itvtbadboy.io.vn</guid>
+		<pubDate>Jun 30, 2025</pubDate>
 		<description>
-			<![CDATA[<p><a href="https://blog.itvtbadboy.io.vn/search/label/gi%E1%BA%A3i%20ph%C3%A1p">Giải pháp</a> chép và truyền bá kinh sách như hệ thống thương mại trực tuyến</p>]]>
+			<a href="https://blog.itvtbadboy.io.vn/search/label/gi%E1%BA%A3i%20ph%C3%A1p">
+				<img src="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/quan-ly.jpg"></img>
+				Giải pháp chép và truyền bá kinh sách như hệ thống thương mại trực tuyến
+			</a>
 		</description>
 	</item>
 	<item>
-		<pubDate>Mon, 30 Jun 2025 12:40:23 GMT+7</pubDate>
 		<title>viêm khớp</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/broken-hearted-woman.mp3" type="audio/mpeg" length="5100000"/>
-		<guid isPermaLink="true">vi%C3%AAm%20kh%E1%BB%9Bp</guid>
+		<link>https://blog.itvtbadboy.io.vn/search/label/vi%C3%AAm%20kh%E1%BB%9Bp</link>
+		<guid>itvtbadboy.io.vn</guid>
+		<pubDate>Jun 30, 2025</pubDate>
 		<description>
-			<![CDATA[<p><a href="https://blog.itvtbadboy.io.vn/search/label/vi%C3%AAm%20kh%E1%BB%9Bp">Viêm khớp</a> là một thuật ngữ thường dùng để chỉ bất kì rối loạn nào ảnh hưởng đến khớp xương</p>]]>
+			<a href="https://blog.itvtbadboy.io.vn/search/label/vi%C3%AAm%20kh%E1%BB%9Bp">
+				<img src="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/1280/co-mac-co.jpg"></img>
+				Viêm khớp là một thuật ngữ thường dùng để chỉ bất kì rối loạn nào ảnh hưởng đến khớp xương
+			</a>
 		</description>
 	</item>
 	<item>
-		<pubDate>Mon, 30 Jun 2025 12:36:23 GMT+7</pubDate>
 		<title>mắc cỡ</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/boys-boys-boys.mp3" type="audio/mpeg" length="3300000"/>
-		<guid isPermaLink="true">m%E1%BA%AFc%20c%E1%BB%A1</guid>
+		<link>https://blog.itvtbadboy.io.vn/search/label/m%E1%BA%AFc%20c%E1%BB%A1</link>
+		<guid>itvtbadboy.io.vn</guid>
+		<pubDate>Jun 30, 2025</pubDate>
 		<description>
-			<![CDATA[<p><a href="https://blog.itvtbadboy.io.vn/search/label/m%E1%BA%AFc%20c%E1%BB%A1">Cỏ mắc cỡ</a> còn gọi là cỏ trinh nữ cây hổ ngươi cây xấu hổ cây e thẹn cỏ thẹn</p>]]>
+			<a href="https://blog.itvtbadboy.io.vn/search/label/m%E1%BA%AFc%20c%E1%BB%A1">
+				<img src="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/1280/nau-tra-tri-viem.jpg"></img>
+				Cỏ mắc cỡ còn gọi là cỏ trinh nữ cây hổ ngươi cây xấu hổ cây e thẹn cỏ thẹn
+			</a>
 		</description>
 	</item>
 	<item>
-		<pubDate>Mon, 30 Jun 2025 12:32:23 GMT+7</pubDate>
 		<title>Hành Pháp</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/boom-boom-boom.mp3" type="audio/mpeg" length="3300000"/>
-		<guid isPermaLink="true">H%C3%A0nh%20Ph%C3%A1p</guid>
+		<link>https://blog.itvtbadboy.io.vn/search/label/H%C3%A0nh%20Ph%C3%A1p</link>
+		<guid>itvtbadboy.io.vn</guid>
+		<pubDate>Jun 30, 2025</pubDate>
 		<description>
-			<![CDATA[<p>Kênh tin tức chuyên về <a href="https://blog.itvtbadboy.io.vn/search/label/H%C3%A0nh%20Ph%C3%A1p">thực hành Chánh Pháp</a> trong đời sống hàng ngày</p>]]>
+			<a href="https://blog.itvtbadboy.io.vn/search/label/H%C3%A0nh%20Ph%C3%A1p">
+				<img src="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/khuong.jpg"></img>
+				Kênh tin tức chuyên về thực hành Chánh Pháp trong đời sống hàng ngày
+			</a>
 		</description>
 	</item>
 	<item>
-		<pubDate>Mon, 30 Jun 2025 10:19:23 GMT+7</pubDate>
 		<title>Ma Ni</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/best-friend.mp3" type="audio/mpeg" length="3600000"/>
-		<guid isPermaLink="true">Ma%20Ni</guid>
+		<link>https://blog.itvtbadboy.io.vn/search/label/Ma%20Ni</link>
+		<guid>itvtbadboy.io.vn</guid>
+		<pubDate>Jun 30, 2025</pubDate>
 		<description>
-			<![CDATA[<p><a href="https://blog.itvtbadboy.io.vn/search/label/Ma%20Ni">Ma Ni bộ</a> biểu thị cho bình đẳng tính trí là cái trí phô bày tâm thức từ bi bình đẳng</p>]]>
+			<a href="https://blog.itvtbadboy.io.vn/search/label/Ma%20Ni">
+				<img src="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/tuong-quan-am-bo-tat.jpg"></img>
+				Ma Ni bộ biểu thị cho bình đẳng tính trí là cái trí phô bày tâm thức từ bi bình đẳng
+			</a>
 		</description>
 	</item>
 	<item>
-		<pubDate>Mon, 30 Jun 2025 10:15:23 GMT+7</pubDate>
 		<title>Như Lai</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/beautiful-sunday.mp3" type="audio/mpeg" length="2900000"/>
-		<guid isPermaLink="true">Nh%C6%B0%20Lai</guid>
+		<link>https://blog.itvtbadboy.io.vn/search/label/Nh%C6%B0%20Lai</link>
+		<guid>itvtbadboy.io.vn</guid>
+		<pubDate>Jun 30, 2025</pubDate>
 		<description>
-			<![CDATA[<p><a href="https://blog.itvtbadboy.io.vn/search/label/Nh%C6%B0%20Lai">Như Lai bộ</a> biểu thị cho Pháp giới thể tính là cái trí thâm nhập khắp nơi của Pháp giới</p>]]>
+			<a href="https://blog.itvtbadboy.io.vn/search/label/Nh%C6%B0%20Lai">
+				<img src="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/tuong-quan-am-bo-tat.jpg"></img>
+				Như Lai bộ biểu thị cho Pháp giới thể tính là cái trí thâm nhập khắp nơi của Pháp giới
+			</a>
 		</description>
 	</item>
 	<item>
-		<pubDate>Mon, 30 Jun 2025 10:13:23 GMT+7</pubDate>
 		<title>Liên Hoa</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/beautiful-life.mp3" type="audio/mpeg" length="3500000"/>
-		<guid isPermaLink="true">Li%C3%AAn%20Hoa</guid>
+		<link>https://blog.itvtbadboy.io.vn/search/label/Li%C3%AAn%20Hoa</link>
+		<guid>itvtbadboy.io.vn</guid>
+		<pubDate>Jun 30, 2025</pubDate>
 		<description>
-			<![CDATA[<p><a href="https://blog.itvtbadboy.io.vn/search/label/Li%C3%AAn%20Hoa">Liên Hoa bộ</a> biểu thị cho diệu sát quán trí, là sự quán tưởng của trí xem xét mọi tướng chung tướng riêng của các Pháp</p>]]>
+			<a href="https://blog.itvtbadboy.io.vn/search/label/Li%C3%AAn%20Hoa">
+				<img src="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/tuong-quan-am-bo-tat.jpg"></img>
+				Liên Hoa bộ biểu thị cho diệu sát quán trí, là sự quán tưởng của trí xem xét mọi tướng chung tướng riêng của các Pháp
+			</a>
 		</description>
 	</item>
 	<item>
-		<pubDate>Mon, 30 Jun 2025 10:10:23 GMT+7</pubDate>
 		<title>Yết Ma</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/be-my-lover.mp3" type="audio/mpeg" length="4900000"/>
-		<guid isPermaLink="true">Y%E1%BA%BFt%20Ma</guid>
+		<link>https://blog.itvtbadboy.io.vn/search/label/Y%E1%BA%BFt%20Ma</link>
+		<guid>itvtbadboy.io.vn</guid>
+		<pubDate>Jun 30, 2025</pubDate>
 		<description>
-			<![CDATA[<p><a href="https://blog.itvtbadboy.io.vn/search/label/Y%E1%BA%BFt%20Ma">Yết Ma bộ</a> biểu thị cho thành sở tác trí, là cái trí khéo léo thi hành mọi việc của thế gian</p>]]>
+			<a href="https://blog.itvtbadboy.io.vn/search/label/Y%E1%BA%BFt%20Ma">
+				<img src="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/tuong-quan-am-bo-tat.jpg"></img>
+				Yết Ma bộ biểu thị cho thành sở tác trí, là cái trí khéo léo thi hành mọi việc của thế gian
+			</a>
 		</description>
 	</item>
 	<item>
-		<pubDate>Sat, 28 Jun 2025 19:51:23 GMT+7</pubDate>
 		<title>tâm kinh</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/barbie-girl.mp3" type="audio/mpeg" length="3200000"/>
-		<guid isPermaLink="true">t%C3%A2m%20kinh</guid>
+		<link>https://blog.itvtbadboy.io.vn/search/label/t%C3%A2m%20kinh</link>
+		<guid>itvtbadboy.io.vn</guid>
+		<pubDate>Jun 28, 2025</pubDate>
 		<description>
-			<![CDATA[<p><a href="https://blog.itvtbadboy.io.vn/search/label/t%C3%A2m%20kinh">Tu đạo</a>: bát nhã tâm kinh</p>]]>
+			<a href="https://blog.itvtbadboy.io.vn/search/label/t%C3%A2m%20kinh">
+				<img src="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/dia-tang-vuong-bo-tat.jpg"></img>
+				Tâm kinh: bát nhã tâm kinh
+			</a>
 		</description>
 	</item>
 	<item>
-		<pubDate>Sat, 28 Jun 2025 19:48:23 GMT+7</pubDate>
 		<title>tu đạo</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/as-long-as-you-love-me.mp3" type="audio/mpeg" length="3200000"/>
-		<guid isPermaLink="true">tu%20%C4%91%E1%BA%A1o</guid>
+		<link>https://blog.itvtbadboy.io.vn/search/label/tu%20%C4%91%E1%BA%A1o</link>
+		<guid>itvtbadboy.io.vn</guid>
+		<pubDate>Jun 28, 2025</pubDate>
 		<description>
-			<![CDATA[<p><a href="https://blog.itvtbadboy.io.vn/search/label/tu%20%C4%91%E1%BA%A1o">Tu đạo</a>: Cha giáng trần dạy tu Đạo</p>]]>
+			<a href="https://blog.itvtbadboy.io.vn/search/label/tu%20%C4%91%E1%BA%A1o">
+				<img src="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/cha-giang-tran-day-tu-dao.jpg"></img>
+				Tu Đạo: Cha giáng trần dạy tu Đạo, Cha giáng trần dạy tu Đạo phần 2, Cha giáng trần dạy tu Đạo phần 3
+			</a>
 		</description>
 	</item>
 	<item>
-		<pubDate>Sat, 28 Jun 2025 19:45:23 GMT+7</pubDate>
 		<title>thủ nhãn</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/999-roses.mp3" type="audio/mpeg" length="8300000"/>
-		<guid isPermaLink="true">th%E1%BB%A7%20nh%C3%A3n</guid>
+		<link>https://blog.itvtbadboy.io.vn/search/label/th%E1%BB%A7%20nh%C3%A3n</link>
+		<guid>itvtbadboy.io.vn</guid>
+		<pubDate>Jun 28, 2025</pubDate>
 		<description>
-			<![CDATA[<p><a href="https://blog.itvtbadboy.io.vn/search/label/th%E1%BB%A7%20nh%C3%A3n">Thủ nhãn</a>: 42 thủ nhãn ấn Pháp</p>]]>
+			<a href="https://blog.itvtbadboy.io.vn/search/label/th%E1%BB%A7%20nh%C3%A3n">
+				<img src="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/tuong-quan-am-bo-tat.jpg"></img>
+				Thủ nhãn: 42 thủ nhãn ấn Pháp
+			</a>
 		</description>
 	</item>
 	<item>
-		<pubDate>Sat, 28 Jun 2025 19:40:23 GMT+7</pubDate>
 		<title>kinh sách</title>
-		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/english/500-miles.mp3" type="audio/mpeg" length="3400000"/>
-		<guid isPermaLink="true">kinh%20s%C3%A1ch</guid>
+		<link>https://blog.itvtbadboy.io.vn/search/label/kinh%20s%C3%A1ch</link>
+		<guid>itvtbadboy.io.vn</guid>
+		<pubDate>Jun 28, 2025</pubDate>
 		<description>
-			<![CDATA[<p><a href="https://blog.itvtbadboy.io.vn/search/label/kinh%20s%C3%A1ch">Kinh sách</a>: Cha giáng trần dạy tu Đạo, bát nhã tâm kinh, chú đại bi, 42 thủ nhãn ấn Pháp</p>]]>
+			<a href="https://blog.itvtbadboy.io.vn/search/label/kinh%20s%C3%A1ch">
+				<img src="https://storage.cloud.google.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/cover.jpg"></img>
+				Kinh sách: Cha giáng trần dạy tu Đạo, Cha giáng trần dạy tu Đạo phần 2, Cha giáng trần dạy tu Đạo phần 3, bát nhã tâm kinh, chú đại bi, 42 thủ nhãn ấn Pháp, Như Lai Ấn Pháp, Ma Ni Ấn Pháp, Yết Ma Ấn Pháp, Liên Hoa Ấn Pháp, Kim Cương Ấn Pháp
+			</a>
 		</description>
 	</item>
 </channel>
