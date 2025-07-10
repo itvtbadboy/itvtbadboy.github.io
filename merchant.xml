@@ -7,6 +7,123 @@
 	<description>Kinh sách trực tuyến giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo</description>
 
 	<item>
+		<g:id>nguyettinhmanithunhan</g:id>
+		<g:title>Nguyệt Tinh Ma Ni Thủ Nhãn</g:title>
+		<g:description>Tay thứ bảy trong tám tay thuộc Kim Cương bộ của mật Pháp là Pháp điều phục</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/kim-cuong-an-phap.html#nguyettinhmanithunhan</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/nguyet-tinh-ma-ni.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>nhattinhmanithunhan</g:id>
+		<g:title>Nhật Tinh Ma Ni Thủ Nhãn</g:title>
+		<g:description>Tay thứ bảy trong tám tay thuộc Kim Cương bộ của mật Pháp là Pháp điều phục</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/kim-cuong-an-phap.html#nhattinhmanithunhan</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/nhat-tinh-ma-ni-thu-nhan.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>batthoaikimluanthunhan</g:id>
+		<g:title>Bất Thoái Kim Luân Thủ Nhãn</g:title>
+		<g:description>Tay thứ năm trong tám tay thuộc Kim Cương bộ của mật Pháp là Pháp điều phục</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/kim-cuong-an-phap.html#batthoaikimluanthunhan</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/bat-thoai-kim-luan-thu-nhan.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>hoacungdienthunhan</g:id>
+		<g:title>Hóa Cung Điện Thủ Nhãn</g:title>
+		<g:description>Tay thứ tư trong tám tay thuộc Kim Cương bộ của mật Pháp là Pháp điều phục</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/kim-cuong-an-phap.html#hoacungdienthunhan</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/hoa-cung-dien-thu-nhan.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>quyytambao</g:id>
+		<g:title>Thần chú đại bi</g:title>
+		<g:description>Nam mô hắc ra đát na đá ra dạ da. Nam mô a rị da, bà lô kiết đế thước bát ra da, bồ đề tát đỏa bà da, ma ha tát đỏa bà da, ma ha ca lô ni ca da</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/chu-dai-bi.html#thanchudaibi</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/quan-am-bo-tat-720.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>quyytambao</g:id>
+		<g:title>Quy y Tam Bảo</g:title>
+		<g:description>Tự quy y Phật, đương nguyện chúng sanh thể giải đại đạo phát vô thượng tâm. Tự quy y Pháp, đương nguyện chúng sanh thâm nhập</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/bat-nha-tam-kinh.html#quyytambao</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/dia-tang-bo-tat-720.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>nguyenthanhphatdao</g:id>
+		<g:title>Nguyện thành Phật đạo</g:title>
+		<g:description>Nguyện dĩ thử công đức phổ cập nhất thiết ngã đẳng dữ chúng sanh giai cộng thành Phật đạo</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/bat-nha-tam-kinh.html#nguyenthanhphatdao</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/dia-tang-bo-tat-720.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>hongtrannhumong</g:id>
+		<g:title>Hồng trần như mộng</g:title>
+		<g:description>Cuộc hồng trần xoay dần quá ngắn, kiếp phù sanh tựu tán mấy lăm hồi. Người đời có biết chăng ôi, thân người tuy có có rồi hoàn không</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/bat-nha-tam-kinh.html#hongtrannhumong</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/dia-tang-bo-tat-720.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>batnhathanchu</g:id>
+		<g:title>Bát nhã tâm kinh</g:title>
+		<g:description>Ma ha bát nhã ba la mật đa tâm kinh !!! Quán tự tại Bồ Tát hành thâm bát nhã ba la mật đa thời chiếu kiến ngũ uẩn giai không độ nhất thiết khổ ách</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/bat-nha-tam-kinh.html#batnhathanchu</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/dia-tang-bo-tat-720.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
 		<g:id>vanduccuucanh</g:id>
 		<g:title>Vạn đức cứu cánh</g:title>
 		<g:description>Như Lai bộ biểu thị cho Pháp giới thể tính là cái trí thâm nhập khắp nơi của Pháp giới, tám tay thuộc bộ này là hóa Phật dây lụa thí vô úy phất trần trắng</g:description>
