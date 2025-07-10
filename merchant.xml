@@ -7,6 +7,214 @@
 	<description>Kinh sách trực tuyến giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo</description>
 
 	<item>
+		<g:id>camlothunhan</g:id>
+		<g:title>Cam Lộ Thủ Nhãn</g:title>
+		<g:description>Tay thứ bảy trong tám tay thuộc Yết Ma bộ của mật Pháp là Pháp câu triệu</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/yet-ma-an-phap.html#camlothunhan</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/cam-lo-thu-nhan.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>baokhiepthunhan</g:id>
+		<g:title>Bảo Khiếp Thủ Nhãn</g:title>
+		<g:description>Tay thứ sáu trong tám tay thuộc Yết Ma bộ của mật Pháp là Pháp câu triệu</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/yet-ma-an-phap.html#baokhiepthunhan</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/bao-kip-thu-nhan.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>baotienthunhan</g:id>
+		<g:title>Bảo Tiễn Thủ Nhãn</g:title>
+		<g:description>Tay thứ năm trong tám tay thuộc Yết Ma bộ của mật Pháp là Pháp câu triệu</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/yet-ma-an-phap.html#baotienthunhan</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/bao-tien-thu-nhan.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>sochauthunhan</g:id>
+		<g:title>Sổ Châu Thủ Nhãn</g:title>
+		<g:description>Tay thứ ba trong tám tay thuộc Yết Ma bộ của mật Pháp là Pháp câu triệu</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/yet-ma-an-phap.html#sochauthunhan</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/so-chau-thu-nhan.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>quyetsachthunhan</g:id>
+		<g:title>Quyết Sách Thủ Nhãn</g:title>
+		<g:description>Tay thứ hai trong tám tay thuộc Như Lai bộ của mật Pháp là Pháp tích tay</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/nhu-lai-an-phap.html#quyetsachthunhan</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/quyet-sach-thu-nhan.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>thivouythunhan</g:id>
+		<g:title>Thí Vô Úy Thủ Nhãn</g:title>
+		<g:description>Tay thứ ba trong tám tay thuộc Như Lai bộ của mật Pháp là Pháp tích tay</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/nhu-lai-an-phap.html#thivouythunhan</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/thi-vo-uy-thu-nhan.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>bachphatthunhan</g:id>
+		<g:title>Bạch Phất Thủ Nhãn</g:title>
+		<g:description>Tay thứ tư trong tám tay thuộc Như Lai bộ của mật Pháp là Pháp tích tay</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/nhu-lai-an-phap.html#bachphatthunhan</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/bach-phat-thu-nhan.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>duongchithunhan</g:id>
+		<g:title>Dương Chi Thủ Nhãn</g:title>
+		<g:description>Tay thứ tám trong tám tay thuộc Như Lai bộ của mật Pháp là Pháp tích tay</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/nhu-lai-an-phap.html#duongchithunhan</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/duong-chi-thu-nhan.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>bodaothunhan</g:id>
+		<g:title>Bồ Đào Thủ Nhãn</g:title>
+		<g:description>Tay thứ tám trong tám tay thuộc Ma Ni bộ của mật Pháp là Pháp tăng ích</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/ma-ni-an-phap.html#bodaothunhan</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/bo-dao-thu-nhan.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>baodacthunhan</g:id>
+		<g:title>Bảo Đạc Thủ Nhãn</g:title>
+		<g:description>Tay thứ sáu trong tám tay thuộc Ma Ni bộ của mật Pháp là Pháp tăng ích</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/ma-ni-an-phap.html#baodacthunhan</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/bao-dac-thu-nhan.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>bachlienhoathunhan</g:id>
+		<g:title>Bạch Liên Hoa Thủ Nhãn</g:title>
+		<g:description>Tay thứ tư trong tám tay thuộc Ma Ni bộ của mật Pháp là Pháp tăng ích</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/ma-ni-an-phap.html#bachlienhoathunhan</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/bach-lien-hoa-thu-nhan.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>baokinhthunhan</g:id>
+		<g:title>Bảo Kinh Thủ Nhãn</g:title>
+		<g:description>Tay thứ ba trong tám tay thuộc Ma Ni bộ của mật Pháp là Pháp tăng ích</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/ma-ni-an-phap.html#baokinhthunhan</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/bao-kinh-thu-nhan-an-phap.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>tichtruongthunhan</g:id>
+		<g:title>Tích Trượng Thủ Nhãn</g:title>
+		<g:description>Tay thứ tám trong tám tay thuộc Liên Hoa bộ của mật Pháp là Pháp kính ái</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/lien-hoa-an-phap.html#tichtruongthunhan</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/tich-truong-thu-nhan.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>baobinhthunhan</g:id>
+		<g:title>Bảo Bình Thủ Nhãn</g:title>
+		<g:description>Tay thứ năm trong tám tay thuộc Liên Hoa bộ của mật Pháp là Pháp kính ái</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/lien-hoa-an-phap.html#baobinhthunhan</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/bao-binh-thu-nhan.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>hiepchuongthunhan</g:id>
+		<g:title>Hiệp Chưởng Thủ Nhãn</g:title>
+		<g:description>Tay thứ nhất trong tám tay thuộc Liên Hoa bộ của mật Pháp là Pháp kính ái</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/lien-hoa-an-phap.html#hiepchuongthunhan</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/hiep-chuong-thu-nhan.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>baokinhthunhan</g:id>
+		<g:title>Bảo Kính Thủ Nhãn</g:title>
+		<g:description>Tay thứ hai trong tám tay thuộc Liên Hoa bộ của mật Pháp là Pháp kính ái</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/lien-hoa-an-phap.html#baokinhthunhan</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/bao-kinh-thu-nhan.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
 		<g:id>nguyettinhmanithunhan</g:id>
 		<g:title>Nguyệt Tinh Ma Ni Thủ Nhãn</g:title>
 		<g:description>Tay thứ bảy trong tám tay thuộc Kim Cương bộ của mật Pháp là Pháp điều phục</g:description>
