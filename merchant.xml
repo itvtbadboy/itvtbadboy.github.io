@@ -7,75 +7,10 @@
 	<description>Kinh sách trực tuyến giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo</description>
 
 	<item>
-		<g:id>yetmaanphap</g:id>
-		<g:title>Yết Ma Ấn Pháp</g:title>
-		<g:description>Yết Ma bộ biểu thị cho thành sở tác trí, là cái trí khéo léo thi hành mọi việc của thế gian là Pháp triệu thỉnh bản Tôn chư Thần</g:description>
-		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/yet-ma-an-phap.html</g:link>
-		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/cau-thi-thiet-cau-thu-nhan.jpg</g:image_link>
-		<g:condition>New</g:condition>
-		<g:availability>InStock</g:availability>
-		<g:price>1 VND</g:price>
-		<g:gtin></g:gtin>
-		<g:brand>Kinh sách trực tuyến</g:brand>
-		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
-	</item>
-	<item>
-		<g:id>nhulaianphap</g:id>
-		<g:title>Như Lai Ấn Pháp</g:title>
-		<g:description>Như Lai bộ biểu thị cho Pháp giới thể tính là cái trí thâm nhập khắp nơi của Pháp giới là Pháp tiêu trừ các loại bệnh nạn</g:description>
-		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/nhu-lai-an-phap.html</g:link>
-		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/duong-chi-thu-nhan.jpg</g:image_link>
-		<g:condition>New</g:condition>
-		<g:availability>InStock</g:availability>
-		<g:price>1 VND</g:price>
-		<g:gtin></g:gtin>
-		<g:brand>Kinh sách trực tuyến</g:brand>
-		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
-	</item>
-	<item>
-		<g:id>manianphap</g:id>
-		<g:title>Ma Ni Ấn Pháp</g:title>
-		<g:description>Ma Ni bộ biểu thị cho bình đẳng tính trí là cái trí phô bày tâm thức từ bi bình đẳng là Pháp tu tăng ích về trí tuệ phước đức thọ mệnh</g:description>
-		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/ma-ni-an-phap.html</g:link>
-		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/nhu-y-chau-thu-nhan.jpg</g:image_link>
-		<g:condition>New</g:condition>
-		<g:availability>InStock</g:availability>
-		<g:price>1 VND</g:price>
-		<g:gtin></g:gtin>
-		<g:brand>Kinh sách trực tuyến</g:brand>
-		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
-	</item>
-	<item>
-		<g:id>lienhoaanphap</g:id>
-		<g:title>Liên Hoa Ấn Pháp</g:title>
-		<g:description>Liên Hoa bộ biểu thị cho diệu sát quán trí, là sự quán tưởng của trí xem xét mọi tướng của các Pháp mà không hề bị ngăn ngại là Pháp tu được chư Phật Bồ Tát gia hộ</g:description>
-		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/lien-hoa-an-phap.html</g:link>
-		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/bao-kinh-thu-nhan.jpg</g:image_link>
-		<g:condition>New</g:condition>
-		<g:availability>InStock</g:availability>
-		<g:price>1 VND</g:price>
-		<g:gtin></g:gtin>
-		<g:brand>Kinh sách trực tuyến</g:brand>
-		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
-	</item>
-	<item>
-		<g:id>kimcuonganphap</g:id>
-		<g:title>Kim Cương Ấn Pháp</g:title>
-		<g:description>Kim Cương bộ biểu thị cho đại viên kính trí, là cái trí sáng chiếu mọi sự vật mà không dính mắc vào sự vật nào là Pháp tu chiết phục các nhóm ác hoặc các người ác</g:description>
-		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/kim-cuong-an-phap.html</g:link>
-		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/nhat-tinh-ma-ni-thu-nhan.jpg</g:image_link>
-		<g:condition>New</g:condition>
-		<g:availability>InStock</g:availability>
-		<g:price>1 VND</g:price>
-		<g:gtin></g:gtin>
-		<g:brand>Kinh sách trực tuyến</g:brand>
-		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
-	</item>
-	<item>
-		<g:id>chudaibi</g:id>
-		<g:title>Chú đại bi</g:title>
-		<g:description>Chú đại bi là thần chú giúp chúng sinh an lạc, nói cách khác cũng là hạnh nguyện của ngài Quán Thế Âm Bồ Tát</g:description>
-		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/chu-dai-bi.html</g:link>
+		<g:id>vanduccuucanh</g:id>
+		<g:title>Vạn đức cứu cánh</g:title>
+		<g:description>Như Lai bộ biểu thị cho Pháp giới thể tính là cái trí thâm nhập khắp nơi của Pháp giới, tám tay thuộc bộ này là hóa Phật dây lụa thí vô úy phất trần trắng</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/42-thu-nhan-an-phap.html#vanduccuucanh</g:link>
 		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/quan-am-bo-tat-720.jpg</g:image_link>
 		<g:condition>New</g:condition>
 		<g:availability>InStock</g:availability>
@@ -85,11 +20,11 @@
 		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
 	</item>
 	<item>
-		<g:id>batnhatamkinh</g:id>
-		<g:title>Bát nhã tâm kinh</g:title>
-		<g:description>Bát nhã tâm kinh tên đầy đủ là ma ha bát nhã ba la mật đa tâm kinh, là hạnh nguyện của ngài Địa Tạng Bồ Tát</g:description>
-		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/bat-nha-tam-kinh.html</g:link>
-		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/dia-tang-bo-tat-720.jpg</g:image_link>
+		<g:id>tuongmaodalani</g:id>
+		<g:title>Tướng mạo đà la ni</g:title>
+		<g:description>Người muốn tu trì chú đại bi trước tiên phải phát khởi tâm cảm ơn sự trong sạch của nguồn Pháp, quy mệnh bản Tôn đại bi thanh cảnh Quán Âm cùng với thần chú này</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/42-thu-nhan-an-phap.html#tuongmaodalani</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/quan-am-bo-tat-720.jpg</g:image_link>
 		<g:condition>New</g:condition>
 		<g:availability>InStock</g:availability>
 		<g:price>1 VND</g:price>
@@ -98,10 +33,23 @@
 		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
 	</item>
 	<item>
-		<g:id>42thunhananphap</g:id>
-		<g:title>42 thủ nhãn ấn Pháp</g:title>
-		<g:description>Tu tập chú đại bi và 42 thủ nhãn ấn Pháp cần phải giữ giới cho nghiêm túc, tuyệt đối không được khởi tâm niệm tham cầu thần thông</g:description>
-		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/42-thu-nhan-an-phap.html</g:link>
+		<g:id>hochieuanphap</g:id>
+		<g:title>Học hiểu ấn Pháp</g:title>
+		<g:description>Chú đại bi và 42 thủ nhãn công năng và diệu dụng không thể nghĩ bàn, Pháp năm ngàn muôn kiếp khó tìm gặp được, chúng ta học hiểu một ấn Pháp thì nên theo đó mà thực hành chắc thực</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/42-thu-nhan-an-phap.html#hochieuanphap</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/quan-am-bo-tat-720.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>xungtanbotat</g:id>
+		<g:title>Xưng tán Bồ Tát</g:title>
+		<g:description>Thủ nhãn thông thiên đại tổng trì. Chấn động tam thiên thế giới thì. Hữu duyên vô duyên hàm nhiếp quá. Từ bi phổ độ diêm phù đề</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/42-thu-nhan-an-phap.html#xungtanbotat</g:link>
 		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/quan-am-bo-tat-720.jpg</g:image_link>
 		<g:condition>New</g:condition>
 		<g:availability>InStock</g:availability>
@@ -113,7 +61,7 @@
 	<item>
 		<g:id>chadaydaop3</g:id>
 		<g:title>Cha giáng trần dạy tu Đạo - Phần 3</g:title>
-		<g:description>Cha giáng trần dạy rõ phương pháp tu Đạo hiệu quả trong giai đoạn tận diệt thời mạt Pháp trước ngày hội Long Hoa khai mở</g:description>
+		<g:description>Cha giáng trần dạy tu Đạo giáng trần dạy rõ phương pháp tu Đạo hiệu quả trong giai đoạn tận diệt thời mạt Pháp trước ngày hội Long Hoa khai mở</g:description>
 		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/cha-giang-tran-day-tu-dao-phan-3.html</g:link>
 		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/cha-giang-tran-day-tu-dao.jpg</g:image_link>
 		<g:condition>New</g:condition>
@@ -124,10 +72,10 @@
 		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
 	</item>
 	<item>
-		<g:id>chadaydaop2</g:id>
-		<g:title>Cha giáng trần dạy tu Đạo - Phần 2</g:title>
-		<g:description>Cha giáng trần dạy rõ phương pháp tu Đạo hiệu quả trong giai đoạn tận diệt thời mạt Pháp trước ngày hội Long Hoa khai mở</g:description>
-		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/cha-giang-tran-day-tu-dao-phan-2.html</g:link>
+		<g:id>khongthethathu</g:id>
+		<g:title>Không thể tha thứ</g:title>
+		<g:description>Các con phải nhớ và chớ phạm phải lỗi lầm tối quan trọng và không thể tha thứ được này nghe các con</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/cha-giang-tran-day-tu-dao-phan-2.html#khongthethathu</g:link>
 		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/cha-giang-tran-day-tu-dao.jpg</g:image_link>
 		<g:condition>New</g:condition>
 		<g:availability>InStock</g:availability>
@@ -137,10 +85,75 @@
 		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
 	</item>
 	<item>
-		<g:id>chagiangtrandaytudao</g:id>
-		<g:title>Cha giáng trần dạy tu Đạo</g:title>
-		<g:description>Cha giáng trần dạy rõ phương pháp tu Đạo hiệu quả trong giai đoạn tận diệt thời mạt Pháp trước ngày hội Long Hoa khai mở</g:description>
-		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/cha-giang-tran-day-tu-dao.html</g:link>
+		<g:id>lamlanquanniem</g:id>
+		<g:title>Lầm lẫn quan niệm</g:title>
+		<g:description>Nếu các con lầm lẫn quan niệm rằng niệm câu này để được Thượng Đế hộ trì là các con chưa thông suốt được ý nghĩa của việc tiến tu đâu con</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/cha-giang-tran-day-tu-dao-phan-2.html#lamlanquanniem</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/cha-giang-tran-day-tu-dao.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>chackhongaibiet</g:id>
+		<g:title>Chắc không ai biết</g:title>
+		<g:description>Cho nên nếu đứa con ngu muội nào cho rằng khi mình tưởng đến một ý nghĩ tối tăm hắc ám chắc không ai biết được đó là một sự nhầm lẫn đáng tiếc đấy các con</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/cha-giang-tran-day-tu-dao-phan-2.html#chackhongaibiet</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/cha-giang-tran-day-tu-dao.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>phucsucnguoitu</g:id>
+		<g:title>Phục sức người tu</g:title>
+		<g:description>Người tu có gì mặc nấy không nhất thiết phải cạo đầu, chẳng phải mặc áo già hoặc trang phục theo kiểu tu sĩ hay ăn mặc xấu xí khổ hạnh mới là tu đâu các con</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/cha-giang-tran-day-tu-dao.html#phucsucnguoitu</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/cha-giang-tran-day-tu-dao.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>camnangcapcuu</g:id>
+		<g:title>Cẩm nang cấp cứu</g:title>
+		<g:description>Cẩm nang cấp cứu Cha ân cần ban cho các con và tha thiết yêu cầu các con phải thực thi bằng mọi giá để vượt qua cho kỳ được cơn khảo đảo thử thách khốc liệt sắp đến</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/cha-giang-tran-day-tu-dao.html#camnangcapcuu</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/cha-giang-tran-day-tu-dao.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>dunglomemuoi</g:id>
+		<g:title>Đừng lo mê muội</g:title>
+		<g:description>Lo mà phải biết lo !!! Lo mà sáng suốt đừng có lo mê muội, lo mê muội là sao? Là cứ lo rầu buồn sợ cái này còn sợ cái kia mất là lo mê muội đó các con</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/cha-giang-tran-day-tu-dao.html#dunglomemuoi</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/cha-giang-tran-day-tu-dao.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>khongtulakho</g:id>
+		<g:title>Không tu là khổ</g:title>
+		<g:description>Màn này không tu là đại khổ đại nạn đó các con, đứa nào biết lo tu thì đỡ khổ mà đứa nào mê đời chắc chắn sẽ bị khảo đảo ghê gớm</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/doc-kinh/cha-giang-tran-day-tu-dao.html#khongtulakho</g:link>
 		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/cha-giang-tran-day-tu-dao.jpg</g:image_link>
 		<g:condition>New</g:condition>
 		<g:availability>InStock</g:availability>
