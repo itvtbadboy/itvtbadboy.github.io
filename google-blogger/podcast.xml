@@ -2,30 +2,23 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
 <channel>
-	<generator>Github</generator>
-	<copyright>io.vn</copyright>
-
-	<lastBuildDate>Tue, 28 Nov 2023 10:23:23 GMT+7</lastBuildDate>
 	<title>KINH SÁCH TRỰC TUYẾN</title>
+
+	<itunes:owner><itunes:email>itvtbadboy@gmail.com</itunes:email></itunes:owner>
+	<itunes:author>itvtbadboy</itunes:author>
+	<itunes:image href="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/cover-512.jpg"/>
+
 	<description>Kinh sách trực tuyến giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo</description>
 	<language>vi-VN</language>
 	<link>https://www.itvtbadboy.io.vn/</link>
-	<googleplay:image>
-		<url>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/cover-512.jpg</url>
-		<title>KINH SÁCH TRỰC TUYẾN</title>
-		<link>https://www.itvtbadboy.io.vn/</link>
-	</googleplay:image>
-	<googleplay:owner>itvtbadboy@gmail.com</googleplay:owner>
-	<itunes:owner><itunes:email>itvtbadboy@gmail.com</itunes:email></itunes:owner>
-	<itunes:author>itvtbadboy</itunes:author>
-	<itunes:explicit>false</itunes:explicit>
-	<itunes:image href="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/kinh/cover-512.jpg"/>
 
 	<item>
 		<pubDate>Thu, 10 Jul 2025 16:45:23 GMT+7</pubDate>
 		<title>Cha giáng trần dạy tu Đạo</title>
 		<enclosure url="https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/wiki/hanhphap/cha-giang-tran.mp3" type="audio/mpeg" length="341300000"/>
 		<description>Cha giáng trần dạy rõ phương pháp tu Đạo hiệu quả trong giai đoạn tận diệt thời mạt Pháp trước ngày hội Long Hoa khai mở</description>
+		<itunes:duration>05:55:33</itunes:duration><guid isPermaLink="false"></guid>
 	</item>
 </channel>
+
 </rss>
