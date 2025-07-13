@@ -7,6 +7,45 @@
 	<description>Kinh sách trực tuyến giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ giữ vững lòng tin sống đời Chánh Đạo</description>
 
 	<item>
+		<g:id>cachdungyoutube</g:id>
+		<g:title>Cách dùng youtube lưu kinh</g:title>
+		<g:description>Cách dùng Youtube để lưu kinh và tạo ấn phẩm truyền bá kinh sách, lưu kinh định dạng mp4 và ấn phẩm podcast mp3</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/chep-kinh/cach-dung-youtube-luu-kinh.html#cachdungyoutube</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/1280/youtube-studio.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>cachdungocung</g:id>
+		<g:title>Cách dùng ổ cứng lưu kinh</g:title>
+		<g:description>Cách dùng ba loại ổ cứng Google Drive, Mega, Multicloud hoặc Google Bucket để lưu kinh, giải pháp nào phù hợp nhất thì phải đọc và làm thử mới biết</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/chep-kinh/cach-dung-o-cung-luu-kinh.html#cachdungocung</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/1280/chia-se-o-cung-google.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
+		<g:id>cachdunggooglesite</g:id>
+		<g:title>Cách chép kinh bằng google site</g:title>
+		<g:description>Cách chép kinh bằng site của Google là một trong hai giải pháp trực quan miễn phí cho đồng đạo ngoài Blogger</g:description>
+		<g:link>https://www.itvtbadboy.io.vn/chep-kinh/cach-chep-kinh-bang-google-site.html#cachdunggooglesite</g:link>
+		<g:image_link>https://storage.googleapis.com/khuong-itvtbadboy-8383.appspot.com/oracle/1280/tuy-chinh-trang-google-site.jpg</g:image_link>
+		<g:condition>New</g:condition>
+		<g:availability>InStock</g:availability>
+		<g:price>1 VND</g:price>
+		<g:gtin></g:gtin>
+		<g:brand>Kinh sách trực tuyến</g:brand>
+		<g:shipping><g:country>VN</g:country><g:service>Standard</g:service><g:price>1 VND</g:price></g:shipping>
+	</item>
+	<item>
 		<g:id>camlothunhan</g:id>
 		<g:title>Cam Lộ Thủ Nhãn</g:title>
 		<g:description>Tay thứ bảy trong tám tay thuộc Yết Ma bộ của mật Pháp là Pháp câu triệu</g:description>
