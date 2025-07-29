@@ -1,15 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 	<url>
-		<loc>https://www.itvtbadboy.io.vn/</loc>
+		<loc>https://www.itvtbadboy.io.vn/doc-kinh/yet-ma-an-phap.html</loc>
 		<news:news>
 			<news:publication>
 				<news:name>Kinh sách trực tuyến</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2025-07-28</news:publication_date>
-			<news:title>Kinh sách trực tuyến giúp cộng đồng đọc kinh nghe pháp tiếp thu trí tuệ</news:title>
-			<news:keywords>Kinh sách trực tuyến</news:keywords>
+			<news:publication_date>2025-07-29</news:publication_date>
+			<news:title>Yết Ma bộ là Pháp triệu thỉnh bản Tôn chư Thần</news:title>
+			<news:keywords>Yết Ma Ấn Pháp</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/doc-kinh/nhu-lai-an-phap.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Kinh sách trực tuyến</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-07-29</news:publication_date>
+			<news:title>Như Lai bộ là Pháp tiêu trừ các loại bệnh nạn</news:title>
+			<news:keywords>Như Lai Ấn Pháp</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/doc-kinh/ma-ni-an-phap.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Kinh sách trực tuyến</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-07-29</news:publication_date>
+			<news:title>Ma Ni bộ là Pháp tu tăng ích về trí tuệ phước đức thọ mệnh</news:title>
+			<news:keywords>Ma Ni Ấn Pháp</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/doc-kinh/lien-hoa-an-phap.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Kinh sách trực tuyến</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-07-29</news:publication_date>
+			<news:title>Liên Hoa bộ là Pháp tu được chư Phật Bồ Tát gia hộ</news:title>
+			<news:keywords>Liên Hoa Ấn Pháp</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/doc-kinh/kim-cuong-an-phap.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Kinh sách trực tuyến</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-07-29</news:publication_date>
+			<news:title>Kim Cương bộ là Pháp tu chiết phục các nhóm ác hoặc các người ác</news:title>
+			<news:keywords>Kim Cương Ấn Pháp</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/doc-kinh/42-thu-nhan-an-phap.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Kinh sách trực tuyến</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-07-29</news:publication_date>
+			<news:title>Tu tập chú đại bi và 42 thủ nhãn ấn Pháp cần phải giữ giới cho nghiêm túc</news:title>
+			<news:keywords>42 thủ nhãn ấn Pháp</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/doc-kinh/chu-dai-bi.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Kinh sách trực tuyến</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-07-29</news:publication_date>
+			<news:title>Chú đại bi là hạnh nguyện của ngài Quán Thế Âm Bồ Tát</news:title>
+			<news:keywords>Chú đại bi</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/doc-kinh/bat-nha-tam-kinh.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Kinh sách trực tuyến</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-07-29</news:publication_date>
+			<news:title>Bát nhã tâm kinh là hạnh nguyện của ngài Địa Tạng Bồ Tát</news:title>
+			<news:keywords>Bát nhã tâm kinh</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/doc-kinh/cha-giang-tran-day-tu-dao-phan-3.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Kinh sách trực tuyến</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-07-29</news:publication_date>
+			<news:title>Cha giáng trần dạy rõ phương pháp tu Đạo hiệu quả trong giai đoạn tận diệt thời mạt Pháp</news:title>
+			<news:keywords>Cha giáng trần dạy tu Đạo</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/doc-kinh/cha-giang-tran-day-tu-dao-phan-2.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Kinh sách trực tuyến</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-07-29</news:publication_date>
+			<news:title>Cha giáng trần dạy rõ phương pháp tu Đạo hiệu quả trong giai đoạn tận diệt thời mạt Pháp</news:title>
+			<news:keywords>Cha giáng trần dạy tu Đạo</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.itvtbadboy.io.vn/doc-kinh/cha-giang-tran-day-tu-dao.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>Kinh sách trực tuyến</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2025-07-29</news:publication_date>
+			<news:title>Cha giáng trần dạy rõ phương pháp tu Đạo hiệu quả trong giai đoạn tận diệt thời mạt Pháp</news:title>
+			<news:keywords>Cha giáng trần dạy tu Đạo</news:keywords>
 		</news:news>
 	</url>
 </urlset>
